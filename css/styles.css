@@ -461,12 +461,13 @@ main { display: flex; flex-direction: column; gap: 18px; }
 .letra {
   margin: 0;
   font-family: ui-monospace, "Cascadia Mono", Consolas, "Courier New", monospace;
-  font-size: 0.83rem;
+  font-size: 1rem;
+  font-weight: 500;
   line-height: 1.62;
   white-space: pre-wrap;
   overflow-wrap: anywhere;
   tab-size: 4;
-  color: color-mix(in srgb, var(--texto) 92%, #000);
+  color: color-mix(in srgb, var(--texto) 96%, #000);
 }
 
 /* ---------- Escritorio ---------- */
@@ -485,7 +486,7 @@ main { display: flex; flex-direction: column; gap: 18px; }
   }
   .hoja.visible { transform: translate(-50%, -50%); opacity: 1; }
   .hoja-asa { display: none; }
-  .letra { font-size: 0.88rem; }
+  .letra { font-size: 1rem; }
 }
 
 /* ---------- Impresión ---------- */
