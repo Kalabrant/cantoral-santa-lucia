@@ -1,0 +1,908 @@
+{
+  "paquete": "10_salmos_liturgicos",
+  "canciones": [
+    {
+      "id": "10-modo-1",
+      "titulo": "I Modo",
+      "seccion": "Salmos",
+      "paginas": "254",
+      "letra": "         F\nInicio modo uno\n                        C\ny esta es su flexa,\nF                        Bb   F\ny esta es la mediante\n   F                        Am  Dm C\ny esta es la cadencia\n\nEjemplo: Salmo 15\nF                              Bb    F                  Am      Dm  C\nProtégeme Dios mío, porque me refugio en ti.\nF\nEl Señor es la parte que me ha tocado en herencia\nF                  Bb              F\nMi vida está en sus manos\nF\nTengo siempre presenta al Señor\nF                                      Am Dm    C\nY con él a mi lado, jamás tropezare"
+    },
+    {
+      "id": "10-modo-2",
+      "titulo": "II Modo",
+      "seccion": "Salmos",
+      "paginas": "254",
+      "letra": "         F\nEste es el modo Dos\n                        Dm\ny esta es su flexa,\nF                        C   F\ny esta es la mediante\n   F                  C7      Dm\ny esta es la cadencia.\n\nEjemplo: Salmo 26\n F                              Bb F   F  C7      Dm\nR/. El Señor es mi luz y mi salvación.\n         F\nEl Señor es mi luz y mi salvación,\nF                        C   F\n¿a quién temeré?\nF\nEl Señor es la defensa de mi vida,\n   F                    C7       Dm\n¿quién me hará temblar? R/."
+    },
+    {
+      "id": "10-modo-3",
+      "titulo": "III Modo",
+      "seccion": "Salmos",
+      "paginas": "254",
+      "letra": "          F\nEste es el modo tres\n                          Dm\ny esta es su flexa,\nF                             Gm   F\ny esta es la mediante\n  Dm          Gm     C   Dm\ny esta es la cadencia\n\nEjemplo: Salmo 21\n          F              Gm   F                     Dm        Gm     C   Dm\nDios Mío, Dios Mío    ¿Por qué Me has Abandonado?\nF\nTodos los que me ven, de mi se burlan;\nF           Gm             F\nHacen gestos y dicen:\nF\n“Confiaba en el Señor pues que él lo salve;\nF                     Dm                 C  Dm\nSi de veras lo ama, que lo libre”"
+    },
+    {
+      "id": "10-modo-4",
+      "titulo": "IV Modo",
+      "seccion": "Salmos",
+      "paginas": "254",
+      "letra": "Am\nEste es el modo cuatro\n                          G\ny esta es su flexa,\nAm            G           F\ny esta es la mediante\nAm                G              Em\ny esta es la cadencia\n\nEjemplo: Salmo 50.\nAm               G       F   Am        G     Em\nCrea en Mí, Señor, un corazón puro.\nAm\nCrea en mí, Señor, un corazón puro,\nAm                                                            G          Am\nUn espíritu nuevo para cumplir tus mandamientos\nAm\nNo me arrojes, Señor, lejos de ti,\nAm                                          G   Em\nNi retires de mí tu santo espíritu."
+    },
+    {
+      "id": "10-modo-5",
+      "titulo": "V Modo",
+      "seccion": "Salmos",
+      "paginas": "254-255",
+      "letra": "C\nEste es el modo cinco\n                           Em\ny esta es su flexa,\nC                             F     C\ny esta es la mediante\nC                 D        Em\ny esta es la cadencia\n\nEjemplo: Salmo 30\nC F  C,     C                                                  D        Em\nR. Padre, en tus manos encomiendo mi espíritu.\nC\n1. A ti, Señor, me acojo:\nC                                                F  C\nno quede yo nunca defraudado;\nC\nen tus manos encomiendo mi espíritu:\nC                                     D             Em\ny tú, mi Dios leal, me librarás. R."
+    },
+    {
+      "id": "10-modo-6",
+      "titulo": "VI Modo",
+      "seccion": "Salmos",
+      "paginas": "255",
+      "letra": "F\nEste es el modo Seis\n                          Gm\ny esta es su flexa,\nF                            C       F\ny esta es la mediante\nF                Bb       C     F\ny esta es la cadencia\n\nEjemplo: Salmo 18\nF                           C F,   F               Bb            C    F\nR. Tú tienes, Señor, palabras de vida eterna.\nF\nLa ley del Señor es perfecta\nF                               C     F\ny es descanso del alma;\nF\nel precepto del Señor es fiel\nF                Bb          C     F\ne instruye al ignorante. R."
+    },
+    {
+      "id": "10-modo-7",
+      "titulo": "VII Modo",
+      "seccion": "Salmos",
+      "paginas": "255",
+      "letra": "Dm               Gm\nEste es el modo siete\n                        Dm\ny esta es su flexa,\nGm                             Dm\ny esta es la mediante\nGm           Dm     C    Dm\ny esta es la cadencia\n\nEjemplo: Salmo 115\nDm           Gm   Dm             Gm      Dm    C     Dm\nR. Gracias, Señor, Por tu sangre que nos lava\nDm          Gm\n¿Cómo le  pagaré al Señor\nGm                                      Dm\ntodo el bien que me ha hecho?\nGm\nAlzaré el cáliz de la salvación,\n               Gm       Dm                    C  Dm\nHe invocare el nombre del Señor. R."
+    },
+    {
+      "id": "10-modo-8",
+      "titulo": "VIII Modo",
+      "seccion": "Salmos",
+      "paginas": "255",
+      "letra": "C\nEste es el modo ocho\n                         Am\ny esta es su flexa,\nC                            G  C\ny esta es la mediante\nC                 G       F      C\ny esta es la cadencia\n\nEjemplo: Salmo 117\nC                                                      G C G   F  C\nEste es el día del triunfo del Señor, Aleluya.\nC\nDen Gracias al Señor porque es bueno\n                                                  G   C\nPorque su misericordia es eterna\nC\nDiga la casa de Israel\n C                         G      F    C\nSu misericordia es eterna."
+    },
+    {
+      "id": "10-melodia-1-salmo-21",
+      "titulo": "Melodía I, Salmo 21",
+      "seccion": "Salmos",
+      "paginas": "255",
+      "letra": "          Em             D\nDios Mío, Dios Mío,\n              C   Am                      B7\n¿Por qué Me has Abandonado?\nAm                                                         B7\nTodos los que me ven, de mi se burlan;\nAm                          B7\nHacen gestos y dicen:\nC                                                                B7\n“Confiaba en el Señor pues que él lo salve;\nAm                                          B7\nSi de veras lo ama, que lo libre”"
+    },
+    {
+      "id": "10-melodia-2-salmo-15",
+      "titulo": "Melodía II, Salmo 15",
+      "seccion": "Salmos",
+      "paginas": "255",
+      "letra": "C                          F        G                              C\nProtégeme Dios mío, porque me refugio en ti.\nC                                                                                  F\nEl Señor es la parte que me ha tocado en herencia\nG7                                  C\nMi vida está en sus manos\nAm                                                Dm\nTengo siempre presenta al Señor\nG7                                                    C\nY con él a mi lado, jamás tropezare"
+    },
+    {
+      "id": "10-melodia-3-exodo-15",
+      "titulo": "Melodía III, Éxodo 15",
+      "seccion": "Salmos",
+      "paginas": "255",
+      "letra": "Em                        D7   G   Am Em B7   Em\nCantaré al Señor Sublime, por su victoria\nEm                                                         Am\nCantemos al Señor, sublime su victoria.\nB7                                                   Em\nCaballos y jinetes arrojo en el mar\nG                                                   D\nMi fortaleza y mi canto es el Señor\nB7                                                                          Em\nÉl es mi salvación, él es mi Dios y yo lo alabaré"
+    },
+    {
+      "id": "10-melodia-4-salmo-29",
+      "titulo": "Melodía IV, Salmo 29",
+      "seccion": "Salmos",
+      "paginas": "255-256",
+      "letra": "E                                 A               E\nTe alabaré, Señor, eternamente.\nE\nTe alabaré, Señor, pues no dejaste\nA                                                      E\nQue se rieran de mí mis enemigos.\nC#m                                                   G#m\nTú, Señor, me salvaste de la muerte\n  A                                              E\nY a punto de morir, me reviviste"
+    },
+    {
+      "id": "10-melodia-5-salmo-33",
+      "titulo": "Melodía V, Salmo 33",
+      "seccion": "Salmos",
+      "paginas": "256",
+      "letra": "                  Em        A               C               D       Em\nHas la prueba y veras, que bueno es el Señor.\nAm                                                Em\nBendeciré al Señor a todas horas,\nB7                                              Em         D\nNo cesará mi boca de alabarlo.\n                G                                    D\nYo me siento orgulloso del Señor,\n                 C               D                     Em\nQue se alegre su pueblo al escucharlo."
+    },
+    {
+      "id": "10-melodia-6-salmo-15",
+      "titulo": "Melodía VI, Salmo 15 (Bob Hurd)",
+      "seccion": "Salmos",
+      "paginas": "256",
+      "letra": "Bm                          Em         A                     D\nProtégeme Dios mío, Protégeme Dios mío,\n               F#                      Bm               G        Em       F#7\nPorque me refugio en ti, porque me refugio en ti.\nBm                                                                                 Em\nEl Señor es la parte que me ha tocado en herencia\n         A                                D\nMi vida está en sus manos\n                  F#7                           Bm\nTengo siempre presenta al Señor\n           G                                    Em   F#7    G F#7\nY con él a mi lado, jamás tropezare"
+    },
+    {
+      "id": "10-melodia-7-salmo-125",
+      "titulo": "Melodía VII, Salmo 125",
+      "seccion": "Salmos",
+      "paginas": "256",
+      "letra": "                   E                        A             B 7          E\nGrandes Cosas has Hecho por nosotros Señor.\n                          A                                                 E\nCuando el Señor nos hizo volver del cautiverio,\nA                     E\nCreíamos soñar;\nA                                          B7                   E\nEntonces no cesaba de reír nuestra boca\n             A                          B7                       E\nNi se cansaba entonces la lengua de cantar."
+    },
+    {
+      "id": "10-melodia-8-salmo-50",
+      "titulo": "Melodía VIII, Salmo 50 (Jean Lárez)",
+      "seccion": "Salmos",
+      "paginas": "256",
+      "letra": "G                     Bm C         D7         G\nCrea en Mí, Señor, un corazón puro.\nEm                    D  Am        C7        B7\nCrea en mí, Señor, un corazón puro,\nEm                                      D       Am C7        B7\nUn espíritu nuevo para cumplir tus mandamientos\n                 Am           D7              G\nNo me arrojes, Señor, lejos de ti,\n         Am         C7                     B7\nNi retires de mí tu santo espíritu."
+    },
+    {
+      "id": "10-melodia-9-salmo-95",
+      "titulo": "Melodía IX, Salmo 95",
+      "seccion": "Salmos",
+      "paginas": "256",
+      "letra": " D                            G                    A7 D\nToda la tierra ha visto al salvador\n D\nCantemos al Señor un canto nuevo,\n                 G                   D\nPues  ha hecho maravillas.\nEm                                  Bm\nSu diestra y su santo brazo\n               G              D\nLe han dado la victoria."
+    },
+    {
+      "id": "10-melodia-10-salmo-23",
+      "titulo": "Melodía X, Salmo 23 (Joscar Salazar)",
+      "seccion": "Salmos",
+      "paginas": "256",
+      "letra": "Em               C                 G             D              Em\nDios es el Rey del universo Aleluya, Aleluya.\nAm                                             Em\n¡Puertas, ábranse de par en par;\nB7                                              Em  D\nAgrándense, portones eternos,\n                        G                           D\nPues va a entrar el rey de la gloria\n                C         D7             Em\nVa a entrar el rey de la gloria."
+    },
+    {
+      "id": "10-melodia-11-salmo-117",
+      "titulo": "Melodía XI, Salmo 117 (Gregoriano)",
+      "seccion": "Salmos",
+      "paginas": "256",
+      "letra": "G            C        G    C   D G\nAleluya, Aleluya, Aleluya\nG\nDen Gracias al Señor porque es bueno\n                                C                     G\nPorque su misericordia es eterna\nG\nDiga la casa de Israel\n                    C                    G\nSu misericordia es eterna."
+    },
+    {
+      "id": "10-melodia-12-salmo-88",
+      "titulo": "Melodía XII, Salmo 88 (Guillermo Brazón)",
+      "seccion": "Salmos",
+      "paginas": "256-257",
+      "letra": "              Am           C                   Dm    E7          Am\nProclamaré sin cesar la misericordia del Señor.\n                       Am               G                  Am\n1. “He encontrado a David, mi servidor,\n                       Am   G                      Am\ny con mi aceite santo lo he ungido.\n   Am                           G\nLo sostendrá mi mano\n                Dm    F               E7\ny le dará mi brazo fortaleza.\n\n                Am               G                  Am\n2. Contará con mi amor y mi lealtad\n                  Am               G             Am\ny su poder aumentará en mi nombre.\n   Am                       G                          C\nél me pondrá decir: ‘Tú eres mi Padre,\n       Dm                     F                           E7\nel Dios que me protege y que me salva’ ”."
+    },
+    {
+      "id": "10-salmo-26-lunes-santo",
+      "titulo": "Salmo 26, Lunes Santo (Yo te amo Señor)",
+      "seccion": "Salmos de Semana Santa",
+      "paginas": "257",
+      "letra": "Tomás Aragüés\nSal 26, 1. 2. 3. 13-14 (R/.: 1a)\n                  C             Am     F   G         C\nR/. El Señor es mi luz y mi salvación.\nC                         F                       C\nEl Señor es mi luz y mi salvación,\nF                        G\n¿a quién temeré?\nC                            F                   C\nEl Señor es la defensa de mi vida,\n  G7                               C\n¿quién me hará temblar? R/.\n\nCuando me asaltan los malvados\n para devorar mi carne,\nellos, enemigos y adversarios,\n tropiezan y caen. R/.\n\nSi un ejército acampa contra mí,\nmi corazón no tiembla;\nsi me declaran la guerra,\nme siento tranquilo. R/.\n\nEspero gozar de la dicha del Señor\nen el país de la vida.\n Espera en el Señor, sé valiente,\n ten ánimo, espera en el Señor. R/."
+    },
+    {
+      "id": "10-salmo-68-miercoles-santo",
+      "titulo": "Salmo 68, Miércoles Santo",
+      "seccion": "Salmos de Semana Santa",
+      "paginas": "257",
+      "letra": "Sal 68, 8-10. 21-22. 31 y 33-34 (R/.: 14c y b)\nAntífona: Joscar Salazar\nSalmodia: Guillermo Brazón\nD7        Gm                   C               F               Bb\nR/. Señor, que me escuche tu gran bondad\n     A7                 Dm\nel día de tu favor.\nD7\n1. Por ti he aguantado afrentas,\n                                          Gm\nla vergüenza cubrió mi rostro.\nC                                                  F\nSoy un extraño para mis hermanos,\nGm                                                         Dm\nun extranjero para los hijos de mi madre;\nGm                                                         Dm\nporque me devora el celo de tu templo,\n           Bb                                Gm                           A7\ny las afrentas con que te afrentan caen sobre mí. R/.\n\nD7                                                                       Gm\n2. La afrenta me destroza el corazón, y desfallezco.\nC                                                  F\nEspero compasión, y no la hay;\nGm                                       Dm\nconsoladores, y no los encuentro.\nGm                                         Dm\nEn mi comida me echaron hiel,\n                Bb         Gm          A7\n para mi sed me dieron vinagre. R/.\n\nD7\n3. Alabaré el nombre de Dios con cantos,\n                                                                        Gm\nproclamaré su grandeza con acción de gracias.\nC                                                  F\nMiradlo, los humildes, y alegraos,\nGm                                                                 Dm\n buscad al Señor, y revivirá vuestro corazón.\nGm                                              Dm\n Que el Señor escucha a sus pobres,\n              Bb    Gm             A7\n no desprecia a sus cautivos. R/."
+    },
+    {
+      "id": "10-salmo-115-jueves-santo-palazon",
+      "titulo": "Salmo 115, Jueves Santo (Francisco Palazón)",
+      "seccion": "Salmos de Semana Santa",
+      "paginas": "257",
+      "letra": "Sal 115, 12-13. 15-16bc. 17-18 (R.: cf. 1 Co 10, 16)\n          Em               D       Em  Bm/D\nR. El cáliz que bendecimos\n    C                     B7           Am Am/C D Em\nes la comunión con la sangre      de Cristo.\n     Em             D/E           Em\n1. ¿Cómo pagaré al Señor\n        C                                     B\ntodo el bien que me ha hecho?\n        Am/C                               Am\nAlzaré la copa de la salvación,\n        D                   Em\ninvocando su nombre. R.\n\n     Em             D/E           Em\n2. Mucho le cuesta al Señor\n        C                         B\nla muerte de sus fieles.\n     Am/C                       Am\nSeñor, yo soy tu siervo,\n\n hijo de tu esclava;\n           D                   Em\nrompiste mis cadenas. R.\n\n     Em                        D/E           Em\n3. Te ofreceré un sacrificio de alabanza,\n        C                                        B\n invocando tu nombre, Señor.\n     Am/C                           Am\nCumpliré al Señor mis votos\n           D                                    Em\nen presencia de todo el pueblo. R."
+    },
+    {
+      "id": "10-salmo-115-jueves-santo-salazar",
+      "titulo": "Salmo 115, Jueves Santo (Joscar Salazar)",
+      "seccion": "Salmos de Semana Santa",
+      "paginas": "258",
+      "letra": "C                     G                 F                             C\nGracias, Señor, por tu sangre que nos lava\nAm                                   Em\n¿Cómo le pagaré al Señor\nF                                          C\nTodo el bien que me ha hecho?\n              Dm                           Am\nLevantaré el cáliz de salvación\nF                                                 E\nE invocaré el nombre del Señor. R."
+    },
+    {
+      "id": "10-salmo-30-viernes-santo",
+      "titulo": "Salmo 30, Viernes Santo",
+      "seccion": "Salmos de Semana Santa",
+      "paginas": "258",
+      "letra": "Antífona: Lourdes Montgomery\nSalmodia: A. Taulé\nSal 30, 2 y 6. 12-13. 15-16. 17 y 25 (R.: Lc 23, 46)\n      Em      Am                    Em                C      B7         Em\nR. Padre, padre,  a tus manos encomiendo mi espíritu.\nEm        B7           Em\n1. A ti, Señor, me acojo:\nAm                  G                    B7\nno quede yo nunca defraudado;\nEm                             B7            Em\ntú, que eres justo, ponme a salvo.\nEm                             B7\nA tus manos encomiendo mi espíritu:\n Am                 C                    Em\ntú, el Dios leal, me librarás. R.\n\nEm                       B7                     Em\n2. Soy la burla de todos mis enemigos,\nAm       G                   B7\nla irrisión de mis vecinos,\nEm\nel espanto de mis conocidos;\nEm                                       B7            Em\nme ven por la calle, y escapan de mí.\nEm                  B7\nMe han olvidado como a un muerto,\nAm                                          C                        Em\nme han desechado como a un cacharro inútil. R.\n\n          Em              B7          Em\n3. Pero yo confío en ti, Señor,\n     Am             B7\nte digo: «Tú eres mi Dios.»\nEm                   B7             Em\nEn tu mano están mis azares;\nAm                                C                           Em\nlíbrame de los enemigos que me persiguen. R.\n\nEm                     B7                      Em\n4. Haz brillar tu rostro sobre tu siervo,\nAm                  G                    B7\nsálvame por tu misericordia.\n                           Em         B7            Em\nSed fuertes y valientes de corazón,\nAm                 C                    Em\nlos que esperáis en el Señor. R."
+    },
+    {
+      "id": "10-salmo-103-vigilia-pascual",
+      "titulo": "Salmo 103, Vigilia pascual, después de la primera lectura (Lucien Deiss)",
+      "seccion": "Salmos de Semana Santa",
+      "paginas": "258",
+      "letra": "Salmo 103, 1-2a. 5-6. 10 y 12. 13-14. 24 y 35c (R.: cf.30)\nF#m              Bm                 F#m E7\n¡Oh Señor! Envía tu Espíritu\n            A          Bm/D        F#m C#7 F#m\nque renueve la faz de la tierra.\nF#m                            E                 A\n1. ¡Oh Señor! que mi alma te bendiga\nBm    C#7                     F#m\n¡Oh Dios! Tú eres Grande,\n      E              D           F#m D E F#m\nvestido de esplendor y belleza. ****\n\n       F#m           E                    A\n4. Asentaste la tierra para siempre,\nBm    C#7                                  F#m\nY la cubriste con vestido de mares;\n             E                    D                           F#m D E F#m\nY las aguas en los montes las concentraste.\n\nF#m                               E                 A\n5. En los valles haces brotar las fuentes,\nBm            C#7                          F#m\nQue van corriendo entre montañas\n                 E            D                           F#m D E F#m\nY donde viven las aves, que cantan entre las montañas.\n\nF#m                             E                    A\n7 Con los frutos que vienen de la tierra\nBm    C#7                     F#m\n¡Oh Dios! nos alimentas\n       E                   D                 F#m D E F#m\nTú haces germinar el pan nuestro. ****\n\nF#m                        E                           A\n8. De tu amor esperando están los hombres,\nBm    C#7                F#m\n¡Oh Dios!, el alimento;\n      E              D                 F#m D E F#m\nTú abres la mano y los sacias. ****\n\nF#m                              E                  A\n12. Numerosas son tus obras, Señor\nBm          C#7                    F#m\nTodo lo hiciste con maestría\n          E              D                                 F#m            D E F#m\nQue llenan la tierra, Bendice al Señor, Alma Mia."
+    },
+    {
+      "id": "10-exodo-15-canto-de-moises",
+      "titulo": "Éxodo 15, Canto de Moisés (Vigilia pascual)",
+      "seccion": "Salmos de Semana Santa",
+      "paginas": "258-259",
+      "letra": "Éxodo 15,1-18\nCANTO DE MOISÉS melodía Neocatecumenal\nA7                                D                                  F#7\n1. S. Cantemos al Señor, cantemos al Señor\n                                 B7\nque se cubrió de gloria, de gloria, de gloria,\nE7                                                       A7\nprecipitó en el mar caballo y caballero.\n                                       D                      F#7\nA. Mi fuerza y mi canción Es el Señor.\n                      B7                                                     E7\nÉl es mi salvación, Es mi Dios, y yo lo ensalzaré.\n                            A7\nPrecipitó en el mar Caballo y caballero, Caballo y caballero.\n\nA7                                   D                                  F#7\n2. ¡El Señor es un guerrero, su nombre es Yahveh!\n                              B7\nLos carros de Faraón y a todos sus valientes\n                             E7\nprecipitó en el mar.\n\nA7                         D                                  F#7\n3. Tu diestra poderosa, gloriosa por su fuerza\n                            B7\ntu diestra, oh Señor, aplasta al enemigo,\n                             E7\naplasta al enemigo.\n\nA7                             D                                                     F#7\n4. El enemigo había dicho: «Les perseguiré y alcanzaré,\n                               B7\ndesnudaré la espada, se saciará mi alma,\n                   E7\nlos aniquilaré.»\n\nA7                           D                                       F#7\n5. Soplaste con tu aliento y el mar los sepultó.\n                                    B7\nSe hundieron como plomo en las aguas de la muerte,\n                                 E7\nen las aguas formidables.\n\nA7                                D                                  F#7\n6. ¿Quién como tú, Señor, glorioso en santidad,\n                                  B7\nterrible en las empresas, autor de maravillas,\n                          E7\nautor de maravillas?\n\nA7                        D                                  F#7\n7. Rescatas a tu pueblo, lo llevas a tu casa.\n                              B7\nLos príncipes de Edom, se estremecen\n                         E7\nal paso de Jacob.\n\nA7                     D                                  F#7\n8. Lo llevas y lo plantas en el lugar sagrado\n                            B7\nsobre tu monte santo, el santuario\n                                      E7\nque tus manos prepararon."
+    },
+    {
+      "id": "10-salmo-29-vigilia-salazar",
+      "titulo": "Salmo 29, Vigilia pascual, después de la cuarta lectura (Joscar Salazar)",
+      "seccion": "Salmos de Semana Santa",
+      "paginas": "259",
+      "letra": "Salmo 29, 2 y 4. 5-6. 11 y 12a y 13b (R.: 2a)\nEm                      G       B7           Em\nTe alabaré, Señor, eternamente.\nEm                      D7   C               B7\n1. Te alabaré, Señor, pues no dejaste\n               Em                                D\nQue se rieran de mí mis enemigos.\n        C#7                                       F#\nTú, Señor, me salvaste de la muerte\n         G                                          E\nY a punto de morir, me reviviste\n\nEm                 D7   C               B7\n2. Alaben al Señor, quienes lo aman,\n            Em             D\nDen gracias a su nombre,\n                  C#7                                   F#\nPorque su ira dura un solo instante\n                G                    E\nY su bondad, toda la vida\n      Am                                  Em\nEl llanto nos visita por la tarde;\n F                             F#7\nPor la mañana, el jubilo"
+    },
+    {
+      "id": "10-salmo-29-vigilia-brazon",
+      "titulo": "Salmo 29, Vigilia pascual, después de la cuarta lectura (Guillermo Brazón)",
+      "seccion": "Salmos de Semana Santa",
+      "paginas": "259-260",
+      "letra": "Salmo 29, 2 y 4. 5-6. 11 y 12a y 13b (R.: 2a)\n     A     D     E7    D    A                   D            E7\nR. Te Alabaré, Señor, porque me has librado.\n    A            D       E7    A                             C#m\n1. Te Alabaré, Señor, porque me has librado\n                   E7                             F#m        D           E7\nY no has dejado que mis enemigos se rían de mí.\n                 A              E7              A\nSeñor, sacaste mi vida del abismo,\n            D             E7                       D               A\ny me hiciste revivir cuando bajaba a la fosa. R.\n\n     A            D             E7    A          C#m\n2. Toquen para el Señor, fieles suyos,\n               E7            F#m                  D           E7\ndad gracias a su nombre a su nombre santo;\n        A          E7                A\n su cólera dura un instante;\n    D           E7   D          A\n su bondad, de por vida;\n              A                   E7           A\npor la tarde nos visita el llanto;\n       D         E7     D     A\npor la mañana, el júbilo. R.\n\n     A      D       E7    A         C#m  E7  F#m\n3. Escucha, Señor, y ten piedad de mí;\n     D            E7\nSeñor, socórreme.\n        A               E7          A\nCambiaste mi luto en danzas.\n      D                E7             D                         A\nSeñor, Dios mío, te daré gracias por siempre. R."
+    },
+    {
+      "id": "10-isaias-12-gritad-jubilosos",
+      "titulo": "Isaías 12, Gritad Jubilosos (Kiko Argüello)",
+      "seccion": "Salmos de Semana Santa",
+      "paginas": "260",
+      "letra": "Vigilia pascual, después de la quinta lectura\n Am                                                                           G\nGritad jubilosos, que grande es en medio de ti,\n     F                    E\n el santo de Israel\n                          Am\n1. El Señor es mi Dios, y mi Salvador, confiaré y no temeré\n                                                                  G   F                        E\nporque mi fuerza y mi canto es el Señor, Él es mi salvación.\n                                Am                      E7                           Am\n2. Sacaréis aguas con gozo de las fuentes de la salvación.\n                               G                          F\nDad gracias al Señor, invocad su nombre,\n                                                                 E\nProclamad entre los pueblos sus hazañas.\n                          E7                      Am\n3. Cantad al Señor, que hizo proezas,\nE7                                         Am\nAnunciadlas por toda la tierra,\n                  G                 F                               E\ngritad jubilosos, exultad, habitantes de Sión."
+    },
+    {
+      "id": "10-salmo-18-vigilia-a",
+      "titulo": "Salmo 18, Vigilia pascual, después de la Sexta Lectura",
+      "seccion": "Salmos de Semana Santa",
+      "paginas": "260",
+      "letra": "Salmo 18, 8. 9. 10. 11 (R.: Jn 6, 68)\nE                                             A             E\nTú tienes, Señor, palabras de vida eterna\nE                                                          A\nLa ley del Señor es perfecta del todo\nA                          E\nY reconforta el alma;\n     F#m                                                  C#m\nInmutables son las palabras del Señor\n                     B7          E\nY hacen sabio al sencillo."
+    },
+    {
+      "id": "10-salmo-18-vigilia-brazon",
+      "titulo": "Salmo 18, Vigilia pascual, después de la Sexta Lectura (Guillermo Brazón)",
+      "seccion": "Salmos de Semana Santa",
+      "paginas": "260",
+      "letra": "Salmo 18, 8. 9. 10. 11 (R.: Jn 6, 68)\n           C                         F                           C            G\nTú tienes, Señor, palabras de vida eterna\n          C              Dm              F\n1. La ley del Señor es perfecta\n                                  C\ny es descanso del alma;\n                              Am      F\nel precepto del Señor es fiel\n        Bm                   G\ne instruye al ignorante. R.\n\n                      C                  Dm        F\n2. Los mandatos del Señor son rectos\n                                   C\ny alegran el corazón;\n                               Am      F\nla norma del Señor es límpida\n      Dm               G\ny da luz a los ojos. R.\n\n          C                         Dm        F\n3. La voluntad del Señor es pura\n                                    C\ny eternamente estable;\n                                               Am                 F\nlos mandamientos del Señor son verdaderos\n        Dm                 G\ny enteramente justos. R.\n\n        C\n4. Más preciosos que el oro,\n     F                        C  Dm\nmás que el oro fino;\n                                 Am                    F\nmás dulces, más dulces, que la miel\n    Dm                               G\n de un panal que destila. R."
+    },
+    {
+      "id": "10-salmo-41-como-la-cierva",
+      "titulo": "Salmo 41, Como la cierva busca corrientes de agua (Guillermo Brazón)",
+      "seccion": "Salmos de Semana Santa",
+      "paginas": "260-261",
+      "letra": "Vigilia pascual, después de la Séptima lectura (Si no hay bautizos)\nSalmo 41, 3. 5bcd; 42, 3. 4 (R.: 41, 2)\n     D           Em     F#m   G                        A    D    A7\nComo la cierva busca corrientes de agua\n       D    Em          F#m G                   A   D D7\nasí mi alma te busca a ti Dios mío.\n  G          Em         Bm\n1. Tiene sed de Dios,\n  C      Em    Am\ndel Dios vivo:\n   D7                             G\n¿cuándo entraré a ver\n   C     Am            A7  A+7\n el rostro de Dios? R.\n\n                          G                    Em           Bm\n2. Cómo marchaba a la cabeza del grupo,\n   C            Em      Am\nhacia la casa de Dios,\n               D7                                G\nentre cantos de júbilo y alabanza,\n    C           Am             A7  A+7\n en el bullicio de la fiesta. R.\n\n          G       Em               Bm\n3. Envía tu luz y tu verdad;\n  C      Em          Am\nque ellas me guíen\n                     D7                                    G\ny me conduzcan hasta tu monte santo,\n   C        Am         A7  A+7\n hasta tu morada. R.\n\n                            G             Em         Bm\n4. Que yo me acerque al altar de Dios,\n   C    Em                   Am\nal Dios de mi alegría;\n     D7                                              G\n que te dé gracias al son de la cítara,\n    C      Am       A7  A+7\nDios, Dios mío. R."
+    },
+    {
+      "id": "10-salmo-117-este-es-el-dia",
+      "titulo": "Salmo 117, Éste es el Día (Miguel Manzano)",
+      "seccion": "Salmos de Semana Santa",
+      "paginas": "261",
+      "letra": "Vigilia pascual, después de la Epístola. Domingo de pascua\nD Bm Em A7\nD Bm          F#m                 G  Bm     F#m Bm\nÉste es el día en que actuó el Señor:\nEm7     A7           D         A7       Bm7 E7 A\nsea nuestra alegría y nuestro gozo.\nA7     D               G       Bm              F#m     D7\nDad gracias al Señor porque es bueno,\n                      G    D Em  A7     D\nPorque es eterna su misericordia.\nBm F#m E7 A   Em7 A7  D\n¡Aaaleluuuya,  aaaleluya!\n                                       A7     D\n1. Que lo diga la casa de Israel:\n F#m  Bm7 E7   A     A7\nes eterna su misericordia.\n              D        D7                 G\nQue lo diga la casa de Aarón:\n      D Bm7 Em7 A7 D Bm Em7\nEs eterna su misericordia.\nA7       D              F#m    E7      A  A7\nQue lo digan los fieles del Señor:\n     D Bm7 Em7 A7 D\nEs eterna su misericordia.\n\n2. Escucha: hay cantos de victoria\nen las tiendas de los justos:\n“la diestra del Señor es poderosa.\n Es excelsa la diestra del Señor”.\n “La Diestra del Señor es poderosa.\nEs Excelsa la diestra del Señor”.\n\n3. Abridme las puertas del triunfo\ny entraré para dar gracias al Señor.\n Ésta es la puerta del Señor:\n los vencedores entrarán por ella.\n Yo no he de morir, yo viviré\npara contar las hazañas del Señor.\n\n4. La piedra que el canero desecho\nes ahora la piedra angular.\nEs el Señor quien lo ha hecho,\nesto ha sido un milagro patente.\n Te doy gracias porque me escuchaste,\nPorque fuiste mi salvación"
+    },
+    {
+      "id": "10-salmo-62-mi-alma-sedienta",
+      "titulo": "Salmo 62, Mi alma está sedienta de ti, Señor (Donna Peña)",
+      "seccion": "Salmos de Semana Santa",
+      "paginas": "261",
+      "letra": "                   Am                G                F        E7              Am\nAnt. 1 Mi Alma esta sedienta de ti, Señor, Dios mío.\n                       Am                     G                                F\nAnt. Pascual: Cristo ha resucitado y con su claridad\n         E                            Am                                        Dm E7    Am\nIlumina al pueblo rescatado con su sangre. Aleluya.\nAleluya\n           C                F              G                 F\n1. ¡Oh Dios!, tú eres mi Dios, por ti madrugo,\n       Bb                       F\nMi alma esta sedienta de ti\n             C                   F           G\n Mi carne tiene ansias de ti\n             Bb                                       G      E7\nComo tierra reseca añora el agua.\n\n           C                F              Bb             G\n2. ¡Cómo te contemplaba en el santuario\n    C                  F                  Bb\nViendo tu fuerza y tu gloria\n           C                  F       Bb               G\nTu gracia vale más, más que la vida,\n             C                  Bb               F\nTe alabarán mis labios, te alabarán.\n\n      C             F                        G\n3. Toda mi vida te bendeciré\n                F               Bb           F\ny alzaré las manos invocándote.\n                     C               F       Bb     G\nMe saciaré de manjares exquisito\n               C                        F           Bb\ny mis labios te alabarán jubilosos.\n\n               Am               G             F          Am           G          F\n4. En el lecho me acuerdo de ti y velando medito en ti,\n   Am                              G       F                       E\nPorque fuiste mi auxilio y a la sombra de tus alas\n     Am             G    F    E\ncanto con júbilo;\n       Am        G     F         E           Am    G            F    E\nMi alma está unida a ti, y tu diestra me sostiene."
+    },
+    {
+      "id": "10-salmo-32-pentecostes",
+      "titulo": "Salmo 32, Vigilia de Pentecostés, después de la primera lectura",
+      "seccion": "Salmos de Semana Santa",
+      "paginas": "261-262",
+      "letra": "Salmo 32, 10-11. 12-13. 14-15 (R.: 12b)\n                         F#m                           A\nR/. Dichoso el pueblo que el Señor\n              E7 C#7                F#m     E        C#7    (A)\nse escogió como heredad.        Aleluya.\n            A                          D                        A\n El Señor deshace los planes de las naciones,\n             A                       D          A\nfrustra los proyectos de los pueblos;\n               A                              D             A\npero el plan del Señor subsiste por siempre,\n            Bm                           E                              A\nlos proyectos de su corazón, de edad en edad.    R.\n\nDichosa la nación cuyo Dios es el Señor,\nel pueblo que él se escogió como heredad.\nEl Señor mira desde el cielo,\nse fija en todos los hombres;    R.\n\ndesde su morada observa\na todos los habitantes de la tierra:\nél modeló cada corazón,\ny comprende todas sus acciones.    R.\n\nNo vence el rey por su gran ejército,\nno escapa el soldado por su mucha fuerza,\nnada valen sus caballos para la victoria,\nni por su gran ejército se salva.    R."
+    },
+    {
+      "id": "10-cantico-dn-3-pentecostes",
+      "titulo": "Cántico Dn 3, Vigilia de Pentecostés, después de la segunda lectura",
+      "seccion": "Salmos de Semana Santa",
+      "paginas": "262",
+      "letra": "Cántico Dn 3, 52. 53. 54. 55. 56  (52b)\nEm D                                                               Em      D         G\n              R/. A ti gloria y alabanza por los siglos.     Aleluya,\nD         Em\n     Aleluya.\nEm                                                                 D\nBendito eres, Señor, Dios de nuestros padres.    R.\nEm                                                                 D\nbendito tu nombre santo y glorioso.    R.\nEm                                                                 D\nBendito eres en el templo de tu santa gloria.    R.\n\nBendito eres sobre el trono de tu reino.    R.\nEm                                                                 D\nBendito eres tú, que sentado sobre querubines sondeas los\nD\nabismos.    R.\nEm                                                   D\nBendito eres en la bóveda del cielo.    R."
+    },
+    {
+      "id": "10-salmo-106-pentecostes",
+      "titulo": "Salmo 106, Vigilia de Pentecostés, después de la tercera lectura",
+      "seccion": "Salmos de Semana Santa",
+      "paginas": "262",
+      "letra": "Salmo 106, 2-3. 4-5. 6-7. 8-9 (1)\n         G           D               C           D7\nR/. Dad gracias al Señor, Aleluya,\n                       G     D7               C                  G\nporque es eterna su misericordia. Aleluya.\nG                                            C         Am         D7\nQue lo confiesen los redimidos por el Señor,\nG                                            C         Am         D7\nlos que él rescató de la mano del enemigo,\n                       Am    Em            C    D7\nlos que reunió de todos los países:\n G            C       Am                D7\nnorte y sur, oriente y occidente.      R.\n\nErraban por un desierto solitario,\nno encontraban el camino de ciudad habitada;\npasaban hambre y sed,\nse les iba agotando la vida.     R.\n\nPero gritaron al Señor en su angustia,\ny los arrancó de la tribulación.\nLos guio por un camino derecho,\npara que llegaran a ciudad habitada.      R.\n\nDen gracias al Señor por su misericordia,\npor las maravillas que hace con los hombres.\nCalmó el ansia de los sedientos,\ny a los hambrientos los colmó de bienes.     R."
+    },
+    {
+      "id": "10-salmo-103-pentecostes",
+      "titulo": "Salmo 103, Vigilia de Pentecostés, después de la cuarta lectura",
+      "seccion": "Salmos de Semana Santa",
+      "paginas": "262",
+      "letra": "Sal 103, l-2a. 24 y 35c. 27-28. 29bc-30 (cf. 30)\nF#m              Bm                 F#m E7\nR/. Envía tu Espíritu, Señor,\n            A          Bm/D      F#m C#7 F#m                  D E F#m\ny renueva la faz de la tierra.                            Aleluya\nF#m                            E                 A\n¡Oh Señor! que mi alma te bendiga\nBm    C#7                     F#m\n¡Oh Dios! Tú eres Grande,\n      E                        D           F#m D E F#m\nvestido de esplendor       y belleza.     R.\n\nNumerosas son tus obras, Señor\nTodo lo hiciste con maestría\nQue llenan la tierra, Bendice al Señor, Alma Mia.     R.\n\nDe tu amor esperando están los hombres,\n¡Oh Dios!, el alimento;\nTú abres la mano y los sacias.     R.\n\nLes envías el soplo de tu boca\n¡Oh Dios! Y son creados;\nrenuevas la faz de la tierra.     R."
+    },
+    {
+      "id": "10-canto-de-la-noche-hebrea",
+      "titulo": "Canto de la noche Hebrea",
+      "seccion": "Salmos de Semana Santa",
+      "paginas": "262-263",
+      "letra": "             Bm\n¿Por qué esta noche es diferente\n           Em                      Bm\n//de todas otras las noches//\nBm\nde todas las otras noches, nos vamos a la cama pronto,\n       Em                                           Bm\n//y no nos quedamos levantados.//\n              Em                   Bm                F#                   B7 (Bm)\n//más esta noche, esta noche  estamos levantados//"
+    },
+    {
+      "id": "10-victimae-paschali-gregoriano",
+      "titulo": "Secuencia de Pascua, Victimae Paschali (Gregoriano)",
+      "seccion": "Secuencias",
+      "paginas": "263",
+      "letra": "Gregoriano, Siglo XI\n\n1. Victimae paschali laudes/ inmolent Christiani.\n\n2. Agnus redemit oves: / Christus innocens Patri reconciliavit pecatores.\n\n3. Mors et vita duello / conflixere mirando:\ndux vitae mortuus, / regnat vivus.\n\n4. Dic nobis Maria, quid vidisti in via?\n\n5. Sepulcrum Christi viventis, / et gloriam vidi resurgentis.\n\n6. Angelicos testes, sudarium et vestes.\n\n7. Surrexit Christus spes mea:/ precedet suos in Galileam.\n\n8. Scimus Christum surrexisse / a mortuis vere.\nTu nobis victor Rex, miserere. Amen. Alleluia."
+    },
+    {
+      "id": "10-victimae-paschali-salazar",
+      "titulo": "Secuencia de Pascua, Victimae Paschali (Joscar Salazar)",
+      "seccion": "Secuencias",
+      "paginas": "263",
+      "letra": "Traducción mexicana\n  Dm                                                            Gm   Dm\nOfrezcan los cristianos ofrendas de alabanza\n                         A7                                        Dm\nA gloria de la víctima propicia de la pascua.\nDm                                                                Bb\nCordero sin pecado, que a las ovejas salva.\n                               A7                                        Dm\nA Dios y a los culpables unió con nueva alianza.\n                               A7                                Dm\nLucharon vida y muerte n singular batalla,\n                                       A7                                    Dm\nY, muerto el que es la vida, triunfante se levanta.\n           Bb                 F             A7         Dm\n/Resucitó, Resucitó, Resucitó. Aleluya/\n\n Dm                                A7                                   Dm\n“¿Qué has visto de camino, María en la mañana?”\n      Gm               Dm           A7                          Dm\n“A mi Señor glorioso, la tumba abandonada,\nDm                                A7                                   Dm\nLos ángeles testigos, sudarios y mortajas.\n      Gm               Dm           A7                          Dm\n¡Resucitó de Veras mi amor y mi Esperanza!\n\n/Resucitó, Resucitó, Resucitó. Aleluya/\n\nVenid a Galilea, allí el Señor Aguarda;\nAllí veréis los suyos la gloria de la pascua”\n Primicia de los muertos, sabemos por tu gracia\nQue estás resucitado; la muerte en ti no manda.\n\n/Resucitó, Resucitó, Resucitó. Aleluya/\n\nBb               Dm     A7              Gm                   A7\nRey vencedor, apiádate de la miseria humana\nBb               D7           Gm              A7           Dm\nY da a tus fieles partes en tu victoria Santa.\n/Resucitó, Resucitó, Resucitó. Aleluya/"
+    },
+    {
+      "id": "10-veni-sancte-spiritus-espanola",
+      "titulo": "Secuencia de Pentecostés, Veni Sancte Spiritus (traducción española)",
+      "seccion": "Secuencias",
+      "paginas": "263",
+      "letra": "Traducción aprobada por la conferencia española\n\n1. Ven, Espíritu divino,\nmanda tu luz desde el cielo.\nPadre amoroso del pobre;\ndon, en tus dones espléndido;\nluz que penetra las almas;\nfuente del mayor consuelo.\n\n2. Ven, dulce huésped del alma,\ndescanso de nuestro esfuerzo\ntregua en el duro trabajo,\nbrisa en las horas de fuego,\ngozo que enjuga las lágrimas\ny reconforta en los duelos.\n\n3. Entra hasta el fondo del alma,\ndivina luz, y enriquécenos.\nMira el vacío del hombre\nsi tú le faltas por dentro;\nmira el poder del pecado\ncuando no envías tu aliento.\n\n4. Riega la tierra en sequía,\nsana el corazón enfermo,\nlava las manchas, infunde\ncalor de vida en el hielo,\ndoma el espíritu indómito,\nguía al que tuerce el sendero.\n\n5. Reparte tus siete dones\nsegún la fe de tus siervos.\nPor tu bondad y tu gracia\ndale al esfuerzo su mérito;\nsalva al que busca salvarse\ny danos tu gozo eterno.\nAmén. Aleluya."
+    },
+    {
+      "id": "10-veni-sancte-spiritus-mexicana",
+      "titulo": "Secuencia de Pentecostés, Veni Sancte Spiritus (traducción mexicana)",
+      "seccion": "Secuencias",
+      "paginas": "263-264",
+      "letra": "Traducción aprobada por la conferencia Mexicana\n\n1. Ven, Dios Espíritu Santo,\ny envíanos desde el cielo\ntu luz, para iluminarnos.\n\n2. Ven ya, padre de los pobres,\nluz que penetras en las almas,\ndador de todos los dones.\n\n3. Fuente de todo consuelo,\namable huésped del alma.\npaz en las horas de duelo.\n\n4. pausa en el trabajo,\nbrisa, en un clima de fuego;\nconsuelo en medio del llanto.\n\n5. Ven, luz santificadora,\ny entra hasta el fondeo del alma\nde todos lo que te adoran.\n\n6. Sin Tu inspiración divina\nlos hombres nada podemos\ny el pecado nos domina.\n\n7. Lava nuestras inmundicias,\nfecunda nuestros desiertos\ny cura nuestras heridas.\n\n8. Doblega nuestra soberbia,\ncalienta nuestra frialdad,\nendereza nuestras sedas.\n\n9. Concede a aquellos que ponen\nen ti su fe y su confianza\ntus siete sagrados dones.\n\n10. Danos virtudes y méritos,\ndanos una buena muerte\ny contigo el gozo eterno."
+    },
+    {
+      "id": "10-veni-sancte-spiritus-gregoriano",
+      "titulo": "Secuencia de Pentecostés, Veni Sancte Spiritus (Gregoriano)",
+      "seccion": "Secuencias",
+      "paginas": "264",
+      "letra": "Gregoriano, siglo XII\n\n1. Veni Sancte Spiritus/ et emite caelitus\nlucis tuae radium\n\n2. Veni pater pauperum, / veni dator munerum,\nveni lumen cordium.\n\n3. Consolator optime, / dulcis hospes animae,\ndulce refrigerium.\n\n4. In labore requies, / in aestu temperies,\nin fletu solatium.\n\n5. O lux beatissima, / reple cordis intima\ntuorum fidelium.\n\n6. Sine tuo numine / nihil est in homine,\nnihil est inoxium.\n\n7. Lava quod est sordidum, /riga quod est aridum,\nsana quod est saucium.\n\n8. Flecte quod est rigidum, / fove quod est frigidum,\nrege quod est devium.\n\n9. Da tuis fidelibus / in te confidentibus,\nsacrum septenarium.\n\n10. Da virtutis meritum, / da salutis exitum,\nda perenne gaudium. / Amen, Alleluia."
+    },
+    {
+      "id": "10-lauda-sion-gregoriana",
+      "titulo": "Secuencia de Corpus Christi, Lauda Sión (Gregoriana)",
+      "seccion": "Secuencias",
+      "paginas": "264-265",
+      "letra": "Santo Tomás de Aquino, Siglo XIII\n\n1. Láuda, Sión, Salvatórem; /  láuda duúcem et pastórem\nin hýmnis et cánticis.\n\n2. Quantum pótes, tantum áude: / quia májor ómni láude,\nnec laudáre súfficis.\n\n3. Laudis thema speciális, / Pánis vívus et vitális\nHódie propónitur;\n\n4. Quem in sácrae ménsa coenae, / Túrbae frátrum duodénae\nDatum non ambígitur.\n\n5. Sit laus pléna, sit sonóra, / sit jucúnda, sit decóra\nMéntis jubilátio.\n\n6. Díes enim solémnis ágitur, / In qua ménsae príma recólitur\nHújus institútio.\n\n7. In hac ménsa nóvi Régis, / nóvum Páscha nóvae légis\npháse vétus términat.\n\n8. Vetustátem nóvitas, / Umbram fúgat véritas,\nNóctem lux elíminat.\n\n9. Quod in coéna Chrístus géssit, / Faciéndum hoc expréssit\nIn súi memóriam.\n\n10. Dócti sácris intitútis, / pánem, vínum in salútis\nconsecrámus hóstiam.\n\n11. Dógma dátur Christiánis, / quod in cárnem tránsit pánis,\net vínum in sánguiem.\n\n12. Quod no cápis, quod non vídes, / Animósa fírmat fídes,\nPraeter rérum órdine.\n\n11. Sub divérsis speciébus, / sígnis tantum, et non rébus,\n látent res exímiae.\n\n14. Cáro cíbus, sánguis pótus: / Mánet tamen Chrístus tótus\nSub utráque spécie.\n\n15. A suménte no concísus, / Non confráctus, non divísus:\nInteger accípitur.\n\n16. Súmit únus, súmunt mille: / Quantum ísti tantum ílle:\nNec súmptus consúmitur.\n\n17. Súmunt bóni, súmunt máli: / sórter tamen inaequáli,\nvítae vel intéritus.\n\n18. Mors est mális, víta bónis: / víde páris sumptiónis\nQuam sit díspar éxitus.\n\n19. Frácto demun scraménto, / Ne vcílles, sed memento\nTantum ésse sub fragménto,\nQuantum tótu tégitur.\n\n20. Núlla réi fit scissúra:/ Sígni tantum fit fractúra,\nQua nec státus, nec statúra / Signáti minúitur.\n\n21. ***Écce Pánis Angelórum, / Fáctus cíbus viatórum\nVere pánis filiórum, / Non mitténdus cándibus.\n\n22. In figúris praesinátur, / cum Isaac imolátur,\nAgnus Páschae deputátur, / Dátru manna pátribus.\n\n23. Bóne pástor, pánis vére, / Jésu, nóstri miserére:\ntu nos pásce nos tuére, / tu nos bóna fac vidére\nIn térra vivéntium.\n\n24. Tu qui cúncta scis et váles, / Qui nos páscis hic mortáles:\nTúos ibi commensáles, / Coherédes et sodáles\nfac sanctórum cívium. Amen. Allelúia."
+    },
+    {
+      "id": "10-corpus-christi-salazar",
+      "titulo": "Secuencia de Corpus Christi (Joscar Salazar)",
+      "seccion": "Secuencias",
+      "paginas": "265",
+      "letra": "     Dm                                            A7                        Dm\n1. Al Salvador alabemos, que es nuestro pastor y guía.\n        F                                            Gm                  Dm   D7\nAlabémoslo con himnos y canciones de alegría.\n        Gm               C                       F                          Bb\n2. Alabémoslo sin límites y con nuestras fuerzas todas;\n                    Gm                A7                Gm            A7              Dm\npues tan grande es el Señor, que nuestra alabanza es poca.\n\n3. Gustosos hoy aclamamos  a cristo, que es nuestro pan.\npues él es el pan de vida, que nos da vida inmortal.\n4. Doce eran los que cenaban y les dio pan a los doce.\nDoce entonces lo comieron, y, después, todos los hombres.\n\n5. Sea plena la alabanza y llena de alegres cantos;\nque nuestra alma se desborde en todo un concierto santo.\n6. Hoy celebramos con gozo la gloriosa institución\nde este banquete divino, el banquete del Señor.\n\n7. Esta es la nueva pascua, Pascua del único rey,\nque termina con la alianza tan pesada de la ley.\n8. Esto nuevo siempre nuevo, es la luz de la verdad,\nque sustituye a lo viejo con reciente claridad.\n\n9. En aquella última cena Cristo hizo la maravilla\nde dejar a sus amigos el memorial de su vida.\n10. Enseñados por la Iglesia, consagramos pan  y vino,\nque a los hombres nos redimen, y dan fuerza en el camino.\n\n11. Es un dogma del cristiano que el pan se convertía en carne,\ny lo que antes era vino queda convertido en sangre.\n12. Hay cosas que no entendemos, pues no alcanza la razón;\nmás si las vemos con fe, entrarán al corazón.\n\n13. Bajo símbolos diversos y en diferentes figuras,\nse esconden ciertas verdades maravillosas, profundas.\n14. Su sangre es nuestra bebida; su carne, es nuestro alimento;\npero en el pan o en el vino Cristo esta todo completo.\n\n15. Quien lo come, no lo rompe, no lo parte ni divide;\nél es el todo y la parte;  vivo está en quien lo recibe.\n16. Puede ser tan sólo uno  el que se acera al altar,\no pueden ser multitudes:  Cristo no se acabará.\n\n17. Lo comen buenos y malos  con provecho diferente;\nno es lo mismo tener vida que ser condenado a muerte.\n18. A los malos les da muerte y a los buenos les da vida.\n¡Qué efecto tan diferente  tienen la misma comida!\n\n19. Si lo parten, no te apures;  sólo parten lo exterior;\nen el mínimo fragmento  entero late el Señor.\n20. Cuando parten lo exterior,  sólo parten lo que has visto;\nno es una disminución  de la persona de Cristo.\n\n21. El pan que del cielo baja  es comida de viajeros.\nEs un pan para los hijos.  ¡No hay que tirarlo a los perros!\n22. Isaac, el inocente,  es figura de este pan,\ncon el cordero de Pascua y el misterioso maná.\n\n23. Ten compasión de nosotros,  buen pastor, pan verdadero.\nApaciéntanos y cuídanos y condúcenos al cielo.\n24. Todo lo puedes y sabes,  pastor de ovejas divino.\nConcédenos en el cielo  gozar la herencia contigo. Amen."
+    },
+    {
+      "id": "10-corpus-christi-frisina",
+      "titulo": "Secuencia de Corpus Christi (Marco Frisina)",
+      "seccion": "Secuencias",
+      "paginas": "265",
+      "letra": "1. Sión, alaba a tu salvador,\ny canta con gozo a tu pastor;\nCon fuerza y jubilo cantamos,\na Cristo redentor de los hombres.\nEntrega al mundo su cuerpo\ny salva a los hombres con su sangre\n\n2. ¡Oh pan vivo que das vida!,\n¡oh don de amor a tu Iglesia!\nReunidos en la última cena,\nles diste a los apóstoles tu cuerpo\nEn tu memoria celebramos\nen cada misa el sacrificio incruento\n\n3. Obedeciendo a tu mandato\nel pan y el vino consagramos\nNosotros por la fe creemos\nque el pan se transforma en tu cuerpo\nQue El vino se transforma en sangre,\nla fe confiesa aquello que no vemos.\n\n4. El pan sagrado de los ángeles\nse hace pan de caminantes\nEste es el pan de los hijos,\nque no debe entregarse al que es indigno\nAquel Maná en el desierto\nprefiguraba este pan verdadero\n\n5. Oh buen pastor pan verdadero,\nJesús ten piedad de tu iglesia\nDefiende y nutre a tus hermanos,\n llévalos a la mesa de tu reino\nY con tus ángeles y santos\ngocemos el banquete sempiterno. Amen."
+    },
+    {
+      "id": "10-stabat-mater-gregoriano",
+      "titulo": "Secuencia de Ntra. Sra. de Los Dolores, Stábat Mater (Gregoriano)",
+      "seccion": "Secuencias",
+      "paginas": "266",
+      "letra": "Jacopone de Todi, siglos XIII-XIV\n\n1. Stabat Mater Dolorósa / iuxta crucem lacrimosa, / Dumpendebat fílius\n2. Cuius ánimam geméntem, / contristátam et doléntem / pertransívit gládius.\n\n3. quam tristis et afflícta / fuit illa benedícta, / mater Unigéniti!\n4. Quae maerébat et dolébat, / pia Mater, dum vidébat / nati poenas ínclyti.\n\n5. Quis est homo qui non fleret, / matrem Christi si vidéret / in tanto supplício?\n6. Quis non posset contristári / Christi Matrem contemplári / doléntem cum Fílio?\n\n7. Pro peccátis suae gentis / vidit Iesum in torméntis, / et flagéllis súbditum.\n8. Vidit suum dulcem Natum / moriéndo desolátum, / dum emísit spíritum.\n\n9. Eia, Mater, fons amóris / me sentíre vim dolóris / fac, ut tecum lúgeam.\n10. Fac, ut árdeat cor meum / in amándo Christum Deum / ut sibi compláceam.\n\n11. Sancta Mater, istud agas, / crucifíxi fige plagas / cordi meo válide.\n12. Tui Nati vulneráti, / tam dignati pro me pati, / poenas mecum dívide.\n\n13. Fac me tecum pie flere, / crucifíxo condolére, / donec ego víxero.\n14. Iuxta Crucem tecum stáre, /et me tibi sociáre / in planctu desídero.\n\n15. Virgo vírginum praeclára, / mihi iam non sis amára, / fac me tecum plángere.\n16. Fac, ut portem Christi mortem, / passiónis fac consórtem, / et plagas recólere.\n\n17. Fac me plagis vulnerári, / fac me Cruce inebriári, / et cruóre Filii.\n18. Flammis ne urar succénsus, / per te, Virgo, sim defénsus / in die iudícii.\n\n19. Christe, cum sit hinc exíre, / da per Matrem me veníre / ad palmam victóriae.\n20. Quando corpus moriétur, / fac, ut ánimae donétur / paradísi gloria. Amen."
+    },
+    {
+      "id": "10-stabat-mater-espanol",
+      "titulo": "Secuencia de Ntra. Sra. de Los Dolores, Stábat Mater en español",
+      "seccion": "Secuencias",
+      "paginas": "266",
+      "letra": "1. La madre piadosa estaba / Junto a la cruz, y lloraba  /\nMientras el Hijo pendía;\n2. Cuya alma triste y llorosa, / Traspasada y dolorosa, /\nFiero cuchillo tenía.\n\n3. ¡Oh cuán Triste y afligida / Estaba la madre herida, /\nDe tantos tormentos llena,\n4. Cuando triste contemplaba / Y dolorosa miraba  /\nDel hijo amado la pena\n\n5. ¿Y  cuál hombre no llorara  / Si a la Madre contemplara  /\nDe Cristo en tanto dolor?\n6. ¿Y quién no se entristeciera, /Madre piadosa, si os viera /\nSujeta a tanto rigor?\n\n7. Por los pecados del mundo, / Vio a Jesús en tan profundo /\nTormento la dulce Madre.\n8. Vio morir al Hijo amado / Que rindió desamparado /\nEl espíritu a su Padre,\n\n9. ¡Oh dulce fuente de amor!, /Hazme sentir tu dolor /\nPara que llore contigo.\n10. Y que, por mi Cristo amado, /Mi corazón abrasado  /\nMás viva en él que conmigo.\n\n11. Y, porque a amarlo me anime, /En mi corazón imprime /\nLas llagas que tuvo en sí.\n12. Y de tú Hijo, Señor, /Divide conmigo ahora /\nLas que padeció por mí.\n\n13. Hazme contigo llorar / Y de veras lastimar /\nDe sus penas mientras vivo;\n14. Porque acompañar deseo / En la cruz, donde lo veo, /\nTu corazón compasivo.\n\n15. ¡Virgen de vírgenes santas!, / Llore ya con ansias tantas /\nQue el llanto dulce me sea;\n16. Porque su pasión y muerte / Tenga en mi alma de suerte /\nQue siempre sus penas vea.\n\n17. Haz que su cruz me enamore / Y que en ella viva y more /\nDe mi fe y amor indicio;\n18. Porque me inflame y encienda / Y contigo me defienda /\nEn el día de juicio.\n\n19. Haz que me ampare la muerte / De Cristo, Cuando en tan fuerte /\ntrance, Vida y alma estén;\n20. Porque cuando queden en calma /El cuerpo, vaya mi alma /\nA su eterna gloria. Amen."
+    },
+    {
+      "id": "10-salmo-109-montgomery",
+      "titulo": "Salmo 109, Tú eres Sacerdote para Siempre (Lourdes Montgomery)",
+      "seccion": "Salmos",
+      "paginas": "266-267",
+      "letra": "Salmo 109, Solemne\n     D                                     D/F#\nTú eres Sacerdote para siempre,\n                  G   Em       A7       D\nsegún el rito de Melquisedec\n    G                                      F#m7 Bm7\n1. Oráculo del Señor, a mi Señor:\nEm7     A7       Am6 D7\n“Siéntate a mi derecha,\nGm7  C9                  F      Bbmaj7\ny  haré de tus enemigos\n    Eb                      A7sus4 A7\nestrado de tus pies”.\n\n2. El Señor Extenderá el poder de tu cetro desde Sión:\nSomete en la batalla a tus enemigos.\n\n3. “Eres príncipe desde el día en que naciste,\nEntre esplendores sagrados;\nYo mismo te engendre, como roció, antes de la aurora.\n\n4. El Señor lo ha jurado, y no se arrepiente:\n“Tú eres sacerdote eterno, según el rito de Melquisedec”."
+    },
+    {
+      "id": "10-salmo-109-aleluya",
+      "titulo": "Salmo 109, Tú eres Sacerdote para Siempre, Aleluya",
+      "seccion": "Salmos",
+      "paginas": "267",
+      "letra": "     Dm                                                      Gm A Dm\nTú eres Sacerdote para siempre, Aleluya\n   Dm                        Gm        Dm       Gm\n1. Oráculo del Señor, a mi Señor: “Siéntate a mi derecha,\n        Dm                   A7                                 Dm\ny  haré de tus enemigos estrado de tus pies”.\n\n2. Extenderá el Señor desde Sión, tu cetro poderoso\ny  tú dominarás a tus enemigos.\n\n3. “Es tuyo el Señorío; el día en que naciste,\nEntre esplendores sagrados\nyo mismo te engendre como roció antes de la aurora”.\n\n4. El Señor lo ha jurado, y no se arrepiente:\n“Tú eres sacerdote eterno, según el rito de Melquisedec”"
+    },
+    {
+      "id": "10-magnificat-salazar",
+      "titulo": "Magníficat (Joscar Salazar)",
+      "seccion": "Cánticos",
+      "paginas": "267",
+      "letra": "Lc 1, 46-55. Joscar Salazar\n(El cantoral incluye solo el título; no aparecen letra ni acordes en esta página.)"
+    },
+    {
+      "id": "10-benedictus-salazar",
+      "titulo": "Benedictus (Joscar Salazar)",
+      "seccion": "Cánticos",
+      "paginas": "267",
+      "letra": "Lc 1, 68-79\nD                      Bm                          A\nBenedictus, Benedictus, Benedictus\nG                  A7        D\nDominus, Deus Israel.\n         D                                          A7\n1. Bendito sea el Señor, Dios de Israel,\n              Em        G                D              A7\nporque ha visitado y redimido a su pueblo,\n         G                                                  A7\nsuscitándonos una fuerza de salvación\n          G                 Bm             A7\nen la casa de David, su siervo,\n     G                         A7                       D\nsegún lo había predicho desde antiguo,\n        G                    A7             D\npor boca de sus santos profetas.\n\n D                                      Bm7            G                   A\n2. Es la salvación que nos libra de nuestros enemigos\nEm                        D                                  A\ny de la mano de todos los que nos odian;\n         G                                                  D                               A\nrealizando así la misericordia que tuvo con nuestros padres,\n           G              A         D\nrecordando su santa alianza\n                 G                                          Em   A7       Dm\ny el juramento que juró a nuestro padre Abraham.\n\n D                                        A7\n3. Para concedernos que, libres de temor,\n         Em                  G            D            A7\narrancados de la mano de los enemigos,\n        G                            A             D\nle sirvamos con santidad y justicia,\n                 Em         A7                     D\nen su presencia, todos nuestros días.\n\n       D                          Bm                            A7\n4. Y a ti, niño, te llamarán profeta del Altísimo,\n                G                             D\nporque irás delante del Señor\n             Em              A\na preparar sus caminos,\n          G                              Em         A7\nanunciando a su pueblo la salvación,\n            G         A7        D\nel perdón de sus pecados.\n\n                  D                       Bm               G          A7\n5. Por la entrañable misericordia de nuestro Dios,\n                 G       D           G               A\nnos visitará el sol que nace de lo alto,\n                  G                      D                 A\npara iluminar a los que viven en tinieblas\n         Em                 A\ny en sombra de muerte,\n            G                      D\npara guiar nuestros pasos\n                G       A      D\npor el camino de la paz.\n\n  D             G                 A                 G         D\n6. Gloria al Padre, y al Hijo, y al Espíritu Santo.\n            G                                             A\nComo era en el principio, ahora y siempre,\n               G                                   D    A   D\npor los siglos de los siglos. Amén. Amen."
+    },
+    {
+      "id": "10-nunc-dimittis",
+      "titulo": "Nunc Dimittis (Lc 2, 29-32)",
+      "seccion": "Cánticos",
+      "paginas": "267-268",
+      "letra": "Cristo, luz de las naciones y gloria de Israel\n                    C                             F   C\n1. Ahora, Señor, según tu promesa,\n                  Em           Dm   G           C\npuedes dejar a tu siervo irse en paz.\n                      Am          C                          G\n2. Porque mis ojos han visto a tu Salvador.\n                F                                  C                 G\na quien has presentado ante todos los pueblos:\n F                        G                   Am\n3. /Luz para alumbrar a las naciones\n     F                                     GC\ny gloria de tu pueblo Israel./\n                 C                   F C            Em  F        G\n4. Gloria al Padre, y al Hijo, y al Espíritu Santo.\n            F                      G                       C\n/Como era en el principio, ahora y siempre,\n               F                                               GC\npor los siglos de los siglos. Amén. Amen./"
+    },
+    {
+      "id": "10-cantico-kenosis",
+      "titulo": "Cántico Kenosis (Flp 2,6-11)",
+      "seccion": "Cánticos",
+      "paginas": "268",
+      "letra": "Cristo, siervo de Dios, en su misterio pascual\nI Vísperas del Domingo\n C#m                                                  E\n1. Cristo, a pesar de su condición divina,\n                 G#7                                     C#m\nno hizo alarde de su categoría de Dios,\n  C#m                                            E\n al contrario, se anonadó así mismo,\n         F#m                              G#7\ny tomó la condición de esclavo,\n                                         C#m\n pasando por uno de tantos.\n\n  C#m                                                             E\n2. Y así, actuando como un hombre cualquiera,\n         F#m                                                       G#7\nse rebajó hasta someterse incluso a la muerte\n                               C#m\ny una muerte de cruz.\n\n  C#m                                             E\n3. Por eso Dios lo levantó, sobre todo\n          F#m                                                   G#7\ny le concedió el «Nombre-sobre-todo-nombre»;\n                                                                                      C#m\nde modo que al nombre de Jesús toda rodilla se doble\n  C#m                                             E\nen el cielo, en la tierra, en el abismo\n    F#m                       G#7\ny toda lengua proclame:\n                                                                      C#m\nJesucristo es Señor, para gloria de Dios Padre.\n\n  C#m                                                          E\n4. Gloria al Padre, y al Hijo, y al Espíritu Santo.\n          F#m                                          G#7\nComo era en el principio, ahora y siempre,\n                                                   C#m\npor los siglos de los siglos. Amén."
+    },
+    {
+      "id": "10-bodas-del-cordero",
+      "titulo": "Cántico, Las bodas del Cordero (Cf. Ap 19,1-2.5-7)",
+      "seccion": "Cánticos",
+      "paginas": "268",
+      "letra": "II Vísperas del Domingo\nEm\n1. Aleluya.\nEm                         D                     Em             D              Em\nLa salvación y la gloria y el poder son de nuestro Dios,\nEm\nAleluya.\nEm                            D                             Em\nporque sus juicios son verdaderos y justos.\n      Em\nR/. Aleluya, Aleluya.\n\nEm\n2. Aleluya.\nEm                  D                          Em\nAlabad al Señor, sus siervos todos.\nEm\nAleluya.\nEm                    D                            Em\nLos que le teméis, pequeños y grandes.\n      Em\nR/. Aleluya, Aleluya.\n\nEm\n3. Aleluya.\nEm                             D                                                Em\nPorque reina el Señor, nuestro Dios, dueño de todo.\nEm\nAleluya.\n        Em                   D                              Em\nAlegrémonos y gocemos y démosle gracias.\n      Em\nR/. Aleluya, Aleluya.\n\nEm\nAleluya.\n     Em                D          Em\n4. Llegó la boda del Cordero.\nEm\nAleluya.\nEm                   D               Em\nSu esposa se ha embellecido.\n      Em\nR/. Aleluya, Aleluya.\n\nEm\nAleluya.\nEm                                D                           Em\n5. Gloria al Padre, y al Hijo, y al Espíritu Santo.\nEm\nAleluya.\n          Em                                            D\nComo era en el principio, ahora y siempre,\n                                   Em      D   Em\npor los siglos de los siglos. Amén.\n      Em\nR/. Aleluya, Aleluya."
+    },
+    {
+      "id": "10-plan-de-dios",
+      "titulo": "Cántico, El Plan de Dios (Ef 1,3-10)",
+      "seccion": "Cánticos",
+      "paginas": "269",
+      "letra": "El Dios salvador. Vísperas del Lunes\n            D\n1. Bendito sea Dios,\n                  G                               D\nPadre de nuestro Señor Jesucristo,\n               G                                Em                 D\nque nos ha bendecido en la persona de Cristo\n                  G                                 Em          A       D\ncon toda clase de bienes espirituales y celestiales.\n\nD                                                      F#m\n2. Él nos eligió en la persona de Cristo,\nG                 A            D\nantes de crear el mundo,\n                    G                     D\npara que fuésemos Consagrados\n                 G                        Em           A\ne irreprochables ante él por el amor.\n\nBm                                          F#m\n3. Él nos ha destinado en la persona de Cristo,\n         G              A      D\npor pura iniciativa suya,\n                 G\na ser sus hijos,\n                       Em                A\npara que la gloria de su gracia,\n                       Bm                     F#m\nque tan generosamente nos ha concedido\n G              A      D\nen su querido Hijo,\n     E                                A7\nredunde en alabanza suya.\n\n                   D                 F#m\n4. Por este Hijo, por su sangre,\nG                                          D\nhemos recibido la redención,\n            G                     A\nel perdón de los pecados.\n        Bm              F#m                 G A7       D\nEl tesoro de su gracia, sabiduría y prudencia\n      E7                                                A\nha sido un derroche para con nosotros,\n         G                                   Em                A7     D\ndándonos a conocer el misterio de su voluntad.\n\n D\n5. Éste es el plan\n            G                                   D            G\nque había proyectado realizar por Cristo\n                  Em                                     A\ncuando llegase el momento culminante:\n                   Bm                               F#m         G                   D\nhacer que todas las cosas en tuviesen a Cristo por cabeza,\n        E                   A\ndel cielo y de la tierra.\n\n    D                                       G          Em    D\n6. Gloria al Padre, y al Hijo, y al Espíritu Santo.\n           G                      Em                   D\nComo era en el principio, ahora y siempre,\n              G                   A               D   A7 D\npor los siglos de los siglos. Amén. Amen."
+    },
+    {
+      "id": "10-himno-a-dios-creador",
+      "titulo": "Himno a Dios Creador (Ap 4,11; 5,9-10.12)",
+      "seccion": "Himnos",
+      "paginas": "269",
+      "letra": "           Am          Dm\n1. Eres digno, Señor, Dios nuestro,\nG                     C                  Em7              Am\nde recibir la gloria, el honor y el poder,\n             G                                Am\nporque tú has creado el universo;\n               G,                                      G                       Am\nporque por tu voluntad lo que no existía fue creado.\n\n           Am               Dm            G     Em7        Am\n2. Eres digno de tomar el libro y abrir sus sellos,\n               G                 Am\nporque fuiste degollado\nAm         G             F              Em E7     Am\ny con tu sangre compraste para Dios\nAm                         Dm                   G                  Am\nhombres de toda raza, lengua, pueblo y nación;\n                                       G\ny has hecho de ellos para nuestro Dios\n       F             G       Am\nun reino de sacerdotes,\n       F             G       Am\ny reinan sobre la tierra.\n\n Dm     Am           E               Am\n3. Digno es el Cordero degollado\nDm       Am         G                            E         Am\nde recibir el poder, la riqueza, la sabiduría,\n      G                 Am      G                     Am\nla fuerza, el honor, la gloria, y la alabanza.\n\n    Dm      Am               E                             Am\n6. Gloria al Padre, y al Hijo, y al Espíritu Santo.\n           G                                              Am\nComo era en el principio, ahora y siempre,\n              G                                  Am         F       Am\npor los siglos de los siglos. Amén. Amén. Amén"
+    },
+    {
+      "id": "10-himno-a-cristo-primogenito",
+      "titulo": "Himno a Cristo, Primogénito (Col 1,12-20)",
+      "seccion": "Himnos",
+      "paginas": "269-270",
+      "letra": "de toda criatura y primer resucitado de entre los muertos\nVísperas del Martes\n                 D        G         D\n1. Damos gracias a Dios Padre,\n               G                                                A\nque nos ha hecho capaces de compartir\n      Em                             G        D  A7 D\nla herencia del pueblo santo en la luz.\n\n Bm                                                              D\n2. Él nos ha sacado del dominio de las tinieblas,\n        Em                                                             G\ny nos ha trasladado al reino de su Hijo querido,\n                D           G                                         A7\npor cuya sangre hemos recibido la redención,\n            G         A7      D\nel perdón de los pecados.\n\n              D              G           D\n3. Él es imagen de Dios invisible,\n            G                             A\nprimogénito de toda creatura;\n                  Em                              G          D   A7        D\npues por medio de él fueron creadas todas las cosas:\nBm                  D             Em                D\ncelestes y terrestres, visibles e invisibles,\nA                          C                     E                    A\nTronos, Dominaciones, Principados, Potestades;\nG                                   A D  A    D\n todo fue creado por él y para él.\n\n      D            G       D          G                                 A\n4. Él es anterior a todo, y todo se mantiene en él.\n                 Em                             G         D  A    D\nÉl es también la cabeza del cuerpo de la Iglesia.\nBm               D                       Em                               G\nÉl es el principio, el primogénito de entre los muertos,\n      D G                          A  D\ny así es el primero en todo.\n\n                     E   G        D                 G                                A\n5. Porque en él quiso Dios que residiera toda la plenitud.\n          Em                        G        D      A              D\nY por él quiso reconciliar consigo todas las cosas:\n    Bm            D                Em                  D\nhaciendo la paz por la sangre de su cruz\n         A              C                      E                           A\ncon todos los seres, así del cielo como de la tierra.\n\n                 D        G        D    G                      A\n6. Gloria al Padre, y al Hijo, y al Espíritu Santo.\n           Em                                             G\nComo era en el principio, ahora y siempre,\n             D                    A7            D\npor los siglos de los siglos. Amén."
+    },
+    {
+      "id": "10-cantico-de-los-vencedores",
+      "titulo": "Cántico de los vencedores (Ap 15,3-4)",
+      "seccion": "Cánticos",
+      "paginas": "270",
+      "letra": "Vísperas del Viernes\n  Dm               C         Bb                   Dm\n1. Grandes y maravillosas son tus obras,\n   Dm  C                      Dm\nSeñor, Dios omnipotente,\nDm           C       Bb      A7       Dm\n justos y verdaderos tus caminos,\n        Dm\n¡oh Rey de los siglos!\n\n       Dm                Bb       Dm\n2. ¿Quién no temerá, Señor,\nDm     C             Dm\ny glorificará tu nombre?\n              C                    Dm\nPorque tú solo eres santo,\n                        C    A7                Dm\nporque vendrán todas las naciones\n         Dm           A7                Dm\ny se postrarán en tu acatamiento,\n                     Dm             A7                Dm\n/porque tus juicios se hicieron manifiestos./\n\nDm           C                 Dm, Dm       C         Dm\n3. Gloria al Padre, y al Hijo, y al Espíritu Santo.\nDm                             Bb                   Dm\nComo era en el principio, ahora y siempre,\nDm                              C           Dm    C   Dm\npor los siglos de los siglos. Amén. Amen."
+    },
+    {
+      "id": "10-cantico-el-juicio-de-dios",
+      "titulo": "Cántico, El Juicio de Dios (Ap 11,17-18; 12,10b-12a)",
+      "seccion": "Cánticos",
+      "paginas": "270-271",
+      "letra": "Vísperas del Jueves\n  Dm             C                Dm  Bb        C     A   Dm C\n1. Gracias te damos, Señor Dios omnipotente,\n            F                     C\nel que eres y el que eras,\n              Bb                                      Dm\nporque has asumido el gran poder\nBb           A7             Dm\ny comenzaste a reinar.\n\n A7                                     Dm\n2. Se encolerizaron las naciones,\n      C        Dm\n llegó tu cólera,\n        Dm                      C           Bb  Dm       C    Dm\ny el tiempo de que sean juzgados los muertos,\n         F                   C               Bb        Dm          F\ny de dar el galardón a tus siervos los profetas,\n              F                             C\ny a los santos y a los que temen tu nombre,\nDm                       Bb            F\ny a los pequeños y a los grandes,\nDm                     C                   Am         Bb    Dm\ny de arruinar a los que arruinaron la tierra.\n\n A7                          Dm        A7                  Dm\n3. Ahora se estableció la salud y el poderío,\n         F                                 Dm\ny el reinado de nuestro Dios,\n       Bb       A7            Dm\ny la potestad de su Cristo;\n               Dm     Am   Dm\nporque fue precipitado\n       Dm             Am                 Dm\nel acusador de nuestros hermanos,\n            Dm               Bb    Gm         A7   Bb     C    Dm\nel que los acusaba ante nuestro Dios día y noche.\n\n A7               Dm            C                   Dm                    F\n4. Ellos le vencieron en virtud de la sangre del Cordero\n   Dm                     Bb               C            F\ny por la palabra del testimonio que dieron,\n              Gm                  Bb                   C               Dm\ny no amaron tanto su vida que temieran la muerte.\n         Dm               C           Dm\nPor esto, estad alegres, cielos,\n   Dm              C                 Dm\ny los que moráis en sus tiendas.\n\n Dm          C                Dm    Bb        C        Dm\n5. Gloria al Padre, y al Hijo, y al Espíritu Santo.\n            F                     C                       Bb\nComo era en el principio, ahora y siempre,\n             Dm                 A             Dm A   Dm\npor los siglos de los siglos. Amén. Amen."
+    },
+    {
+      "id": "10-te-deum",
+      "titulo": "Te Deum (Señor, Dios eterno)",
+      "seccion": "Himnos",
+      "paginas": "271-272",
+      "letra": "Himno de acción de gracias\n         Am    Dm  Am,         Am                 G\n1. Señor, Dios eterno, alegres te cantamos,\n                             Am\na ti nuestra alabanza,\n  Dm                     C       Dm                          E\na ti, Padre del cielo, te aclama la creación.\n\n            Am    Dm   Am     G                      Am\n2. Postrados ante ti, los ángeles te adoran\n  Dm                      E\ny cantan sin cesar:\n\n   Am        F         Am     Dm         Am\n3. Santo, santo, santo es el Señor,\n      G                 Am\nDios del universo:\n     Dm                  G    C Dm                         E\nllenos están el cielo y la tierra de tu gloria.\n\n     Am       Dm        Am,      Am                     G          Am\n4. A ti, Señor, te alaba el coro celestial de los apóstoles,\n    Dm                                                         C\n la multitud de los profetas te enaltece,\nDm                                                                        E\ny el ejército glorioso de los mártires te aclama.\n\n      Am       Dm     Am\n5. A ti la Iglesia santa,\n           G                                         Am\npor todos los confines extendida,\n            Dm             C        Dm                    E\ncon júbilo te adora y canta tu grandeza:\n\n      Am                    Dm     Am\n6. Padre, infinitamente santo,\n  Am             G                                   Am\n Hijo eterno, unigénito de Dios,\nDm                                  C   Dm           E\nSanto Espíritu de amor y de consuelo.\n\n    Am                               Dm              Am\n7. Oh Cristo, tú eres el Rey de la gloria,\n   Am   G                               Am\ntú el Hijo y Palabra del Padre,\nDm                                         E\ntú el Rey de toda la creación.\n\nAm                   Dm      Am\n8. Tú, para salvar al hombre,\nAm    G                                      Am\ntomaste la condición de esclavo\nDm                                E\nen el seno de una virgen.\n\n      Am         Dm          Am\n9. Tú destruiste la muerte\n   Am  G                    Am              Dm                    E\ny abriste a los creyentes las puertas de la gloria.\n\n      Am       Dm   Am\n10. Tú vives ahora,\nAm        G           Am     Dm                      E\ninmortal y glorioso, en el reino del Padre.\n\n    Am                Dm      Am\n11. Tú vendrás algún día,\nDm                             E\n como juez universal.\n\n    Am                               Dm           Am\n12. Muéstrate, pues, amigo y defensor\n   Dm                                    E\nde los hombres que salvaste.\n\n    Am                                          Dm        Am\n13. Y recíbelos por siempre allá en tu reino,\nDm                               E\ncon tus santos elegidos.\n\n      Am                    Dm       Am\n14. Salva a tu pueblo, Señor,\nDm                                 E\ny bendice a tu heredad.\n\n     Am       Dm  Am\n15. Sé su pastor,\nDm                       E\ny guíalos por siempre.\n\nAm                  Dm               Am\n16. Día tras día te bendeciremos\n Am          G               Am        Dm                      E\ny alabaremos tu nombre por siempre jamás.\n\n       Am   Dm      Am\n17. Dígnate, Señor,\nDm                                                        E\nguardarnos del pecado en este día(noche).\n\n        Am                             Dm        Am\n18. Ten piedad de nosotros, Señor.\nDm                                      E\nten piedad de nosotros.\n\n     Am                             Dm Am                     G        Am\n20. Que tu misericordia, Señor, venga sobre nosotros,\nDm                                        E\ncomo lo esperamos de ti.\n\n       Am          Dm         Am\n21. A ti, Señor, me acojo,\nDm                                               E\nno quede yo nunca defraudado."
+    },
+    {
+      "id": "10-cantico-tres-jovenes",
+      "titulo": "Cántico de los 3 Jóvenes (Lucien Deiss)",
+      "seccion": "Cánticos",
+      "paginas": "272",
+      "letra": "Dn 3, 57-88. Cántico de las Criaturas.\n                Em                  D              G    C\n1. Bendecid al Señor, todas sus obras,\n          D                                Em\nalabadle por todos los siglos.\n             Em           D\nBendecid al Señor.\n\n                Em                D              Am  Em\n2. Bendecid al Señor, ángeles santos,\n                G             D                  C     Bm\nBendecid al Señor cielo inmenso.\n             Em         D\nBendecid al Señor.\n\n             G             C     G                 C\n3. Bendecid al Señor, Aguas del cielo,\n             G           D              G Am Em\nBendecidle potencias celestes.\n             Em           C                  G               D              G D Em\nBendecid al Señor, Proclamad por lo siglos su gloria.\n\n4. Bendecid al Señor, Oh sol y luna,\nque la luz de los astros le exalte.\nBendecid al Señor.\n5. Bendeci al Señor, Grandes tormentas,\nHuracanes y brisas, cantadle.\nBendecid al Señor.\n6. Bendecid al Señor, llamas de fuego,\naclamadle en unión con el frio.\nBendecid al Señor, Proclamad por lo siglos su gloria.\n\n7. A cantar al Señor, venga la aurora\nLos glaciales, brillantes y escarchas.\n8. Bendecid al Señor, luces radiantes\nbendecidle profetas tinieblas.\n9. Bendecid al Señor, brumas y nieves,\nQue la noche y el día le aclamen.\n\n10. bendecid al señor, toda la tierra,\nAlabadlo, cantadle en los siglos.\n11. Bendecid al Señor, grandes montañas\nY los grandes que en tierra germinan.\n12. Que levanten su voz todas las fuentes\nY te aclaman con mares y ríos.\n\n13. Que los peces del mar también le canten\nY en el aire las aves del cielo.\n14. Bendecid al Señor, desde la selva,\nAnimales y fieras del campo.\n15. Bendecid al Señor, todos los hombres,\nIsrael, su elegido, su pueblo.\n\n16. Bendecid al Señor sus sacerdotes,\nAlabadle, cantadle en los siglos.\n17. Le alaben así entre las llamas\nLos tres jóvenes dentro el fuego\n18. Bendigamos a Dios, Padre del cielo,\nCon el Hijo y Espíritu Santo."
+    },
+    {
+      "id": "10-con-presuncion-de-belico-soldado",
+      "titulo": "Con Presunción de Bélico Soldado",
+      "seccion": "Himnos",
+      "paginas": "272",
+      "letra": "Himno de Laudes de la Conversión de San Pablo\nMúsica: Smta Joscar Salazar\n                          A          D    E         A\n1. Con presunción de bélico soldado,\n     D                B7                    E\ngalán sale feroz pablo atrevido,\n                A                D          E            A   F#m\nque si  ahora en la cuenta no ha caído\n       D                        E                      A\ncaerá muy presto del primer estado.\n\n2. ¿A dónde, Pablo, de soberbia armado,\npara queda con una voz vencido?\nSeguid las letras ¿dónde vais perdido?,\nQue habéis de ser doctor del mayor grado.\n\n3. Aunque valor vuestra persona encierra,\nNo es bien que nadie contra Dios presuma:\nque dará con los ojos por la tierra\nque dará con los ojos por la tierra\n\n4. La Iglesia espera vuestra docta suma:\nmirad que no sois vos para la guerra,\ndejad las armas y tomad la pluma\ndejad las armas y tomad la pluma."
+    },
+    {
+      "id": "10-tan-cerca-saulo",
+      "titulo": "Tan Cerca, Saulo, de Nosotros",
+      "seccion": "Himnos",
+      "paginas": "272",
+      "letra": "Himno de Vísperas de la conversión de San Pablo\nMúsica: Joscar Salazar\n      G                D                   Em G\n1. Tan cerca, Saulo, de nosotros,\n           C              D7       G\nde nuestras mordeduras,\n          G            D7      Em   G\nde nuestros viejos odios\n        C           A7           D7\ny de nuestras ternuras.\n\n2. Cerca de nuestras ansias,\nlejos de nuestros pasos,\nde nuestras veleidades\ny de nuestros fracasos.\n\n3. Dinos que Cristo en cruz\nes todo: pena y gozo,\ntu enseñanza y tu gloria,\ntu lucha y tu reposo.\n\n4. Que al corazón que a toda\ndecisión está listo,\ntodo es estiércol, todo,\npara ganar a Cristo. Amén."
+    },
+    {
+      "id": "10-cuando-la-luz-del-sol",
+      "titulo": "Cuando la Luz del Sol es ya Poniente",
+      "seccion": "Himnos",
+      "paginas": "273",
+      "letra": "Himno De Completas\n I\n Dm                                              Bb    C\n1. Cuando la luz del sol es ya poniente,\nF                                                       C\ngracias, Señor, es nuestra melodía;\n   Bb                   Dm                       A7\nrecibe, como ofrenda, amablemente,\n Dm            Bb       Gm      A7  Dm\nnuestro dolor, trabajo y alegría.\n\n F                           Dm                           A7\n2. Si poco fue el amor en nuestro empeño\nDm                      C                F\nde darle vida al día que fenece,\nDm                                                          Bb C\nconvierta en realidad lo que fue un sueño\nDm            Bb        Gm   A7              Dm      C F  C Bb C Dm\ntu gran amor que todo lo engrandece.\n\n Dm                                                  Bb    C\n3. Tu cruz, Señor, redime nuestra suerte\nF                                               C\nde pecadora en justa, e ilumina\n   Bb                 Dm                   A7\nla senda de la vida y de la muerte\n      Dm          Bb          Gm       A7      Dm\ndel hombre que en la fe lucha y camina.\n\n F                         Dm                      A7\n4. Jesús, Hijo del Padre, cuando avanza\nDm                                 C              F\nla noche oscura sobre nuestro día,\nDm                                           Bb C\nconcédenos la paz y la esperanza\nDm    Bb    Gm    A7                   Dm   C    F    C Bb    C Dm\nde esperar cada noche tu gran día. Amén. Amén. Amén."
+    },
+    {
+      "id": "10-al-fin-sera-la-paz",
+      "titulo": "Al Fin Será la Paz y la Corona (Joscar Salazar)",
+      "seccion": "Himnos",
+      "paginas": "273",
+      "letra": "Himno de II Vísperas de los Domingos de pascua.\n    Em                 D               G\n1. Al fin será la paz y la corona,\n      C                      D                     G\nlos vítores, las palmas sacudidas,\n       C                      D              Em\ny un aleluya inmenso como el cielo\n  C                   F#7                B7\npara cantar la gloria del Mesías.\n\n      Em                       D                         G\n2. Será el estrecho abrazo de los hombres,\n       C                  D                    G\nsin muerte, sin pecado, sin envidia;\n   C                       D                       Em\nserá el amor perfecto del encuentro,\n   C                      F#7            B7\nserá como quien llora de alegría.\n\n             Em                     B7                 Em\n3. Porque hoy remonta el vuelo el sepultado\n    C                  F#7           B7\ny va por el sendero de la vida\n        Em            B7              Em\na saciarse de gozo junto al Padre\n              C          B7             Em\ny a preparar la mesa de familia.\n\n      Em                  D                    G\n4. Se fue, pero volvía, se mostraba,\n          C             B7                    Em\nlo abrazaban, hablaba, compartía;\n          Em           D                 G\ny escondido la Iglesia lo contempla,\n         C                B7           Em\nlo adora más presente todavía.\n\n      Em                  D              G\n5. Hundimos en sus ojos la mirada,\n              C                  B7                    Em\ny ya es nuestra su historia que principia,\n              C               D7                    G\nnuestros son los laureles de su frente,\n                  C          B7               Em          D\naunque un día le dimos las espinas.\n\n                 G                D7           G\n6. Que el tiempo y el espacio limitados\n     C               D7           Em\nsumisos al Espíritu se rindan,\n    G                   D                  G\ny dejen paso a Cristo omnipotente,\n                 C           B7             Em  D      G         C B7     Em\na quien gozoso el mundo  glorifica. Amén, Amén. Amén."
+    },
+    {
+      "id": "10-aguinaldo-17-diciembre",
+      "titulo": "17 de diciembre, Salmo 71",
+      "seccion": "Salmos",
+      "paginas": "273-274",
+      "letra": "Salmos para las misas de Aguinaldo\n       D                    G                A              D\nR.   Ven, Señor, Rey de justicia y de paz.\nD\nComunica, Señor, al Rey tu juicio\nG                                                    D\ny tu justicia, al que es hijo de reyes;\nEm                                                              Bm\nasí tu siervo saldrá en defensa de tus pobres\nG                                           D\ny reirá a tu pueblo justamente.   R.\n\nJusticia y paz ofrecerán al pueblo\nlas colinas y los montes.\nEl rey hará justicia al oprimido\ny salvara a los hijos de los pobres.   R.\n\nFlorecerá en sus días la justicia\ny reinará la paz, era tras era.\nDe mar a mar se extenderá su reino\ny de un extremo al otro de la tierra.   R.\n\nQue bendigan al Señor eternamente\ny tanto como el sol, viva su nombre.\nQue sea la bendición del mundo entero\ny lo aclamen dichoso las naciones.   R."
+    },
+    {
+      "id": "10-aguinaldo-18-diciembre",
+      "titulo": "18 de diciembre, Salmo 71",
+      "seccion": "Salmos",
+      "paginas": "274",
+      "letra": "       D                    G                A              D\nR.   Ven, Señor, Rey de justicia y de paz.\nD\nComunica, Señor, al Rey tu juicio\nG                                                    D\ny tu justicia, al que es hijo de reyes;\nEm                                                              Bm\nasí tu siervo saldrá en defensa de tus pobres\nG                                           D\ny reirá a tu pueblo justamente.   R.\n\nAl débil librará del poderoso\ny ayudará al que se encuentra sin amparo,\nse apiadará del desvalido y pobre\ny salvará la vida al desdichado.   R.\n\nBendito sea el Señor, Dios de Israel,\nel único que hace grandes cosas.\nQue su nombre glorioso sea bendito\ny la tierra se llene de su gloria.   R."
+    },
+    {
+      "id": "10-aguinaldo-19-diciembre",
+      "titulo": "19 de diciembre, Salmo 70",
+      "seccion": "Salmos",
+      "paginas": "274",
+      "letra": "                       C             G           F     G          C\nR.   Que mi boca, Señor, no deje de alabarte.\nAm                                       Em\nSeñor, Sé para mí un refugio,\nF                                                    C\nciudad fortificada en que me salves.\nDm                                                Am\nY pues eres mi auxilio y mi defensa,\nF                                               E\nlíbrame, Señor, de los malvados.   R.\n\nSeñor, tú eres mi esperanza,\ndesde mi juventud en ti confió.\nDesde que estaba en el seno de mi madre,\nyo me apoyaba en ti y tú me sostenías.   R.\n\nTus hazañas, Señor, alabaré,\ndiré a todos que sólo tu eres justo.\nMe enseñaste a alabarte desde niño\ny seguir alabándote es mi orgullo.   R."
+    },
+    {
+      "id": "10-aguinaldo-20-diciembre",
+      "titulo": "20 de diciembre, Salmo 23",
+      "seccion": "Salmos",
+      "paginas": "274",
+      "letra": "E                             E7              A         B7           E\nR.   Ya llega, Ya llega el Señor, el rey de la gloria.\nE                                                           F#m\nDel Señor es la tierra y lo que ella tiene.\nB7                                                  E        E7\nel orbe y todo lo que en él habitan,\nA                                                E\npues él lo edificó sobre los mares\nB7                                                     E\nél fue quien lo asentó sobre los ríos.   R.\n\n¿Quién subirá hasta el monte del Señor?\n¿Quién podrá entrar en su reciento santo?\nEl de corazón limpio y manos puras\ny que no jura en falso.   R.\n\nEse obtendrá la bendición de Dios,\ny Dios, su salvador, le hará justicia.\nEsta es la clase de hombre que te buscan\ny vienen ante ti, Dios de Jacob.   R."
+    },
+    {
+      "id": "10-aguinaldo-21-diciembre",
+      "titulo": "21 de diciembre, Salmo 32",
+      "seccion": "Salmos",
+      "paginas": "274",
+      "letra": "       F                            Bb          C             F\nR.   Demos gracias a Dios, al son del arpa.\nF                                                         Bb\nDemos gracias a Dios, al son del arpa\nC                                                      F\nque la lira acompañe nuestros santos;\n      Dm                                                  Gm\ncantemos en su honor nuevos cantares,\n               C                                       F\nal compás de instrumentos alabémoslo.   R.\n\nLos proyectos de Dios duran por siempre;\nlos planes de su amor, todos los siglos.\nFeliz la nación cuyo Dios es el Señor;\ndicho el pueblo que escogió por suyo.   R.\n\nEn el señor está nuestra esperanza,\npues él es nuestra ayuda y nuestro amparo.\nEn el Señor se alegra el corazón\ny en él hemos confiado.   R."
+    },
+    {
+      "id": "10-aguinaldo-22-diciembre",
+      "titulo": "22 de diciembre, 1 Samuel 2",
+      "seccion": "Salmos",
+      "paginas": "274-275",
+      "letra": "                      A                            D       E              A\nR.   Mi corazón se alegra en Dios, mi Salvador.\nA                                                         D\nMi corazón se alegre en el Salvador,\n        E                                                 A\nen Dios me siento yo fuerte y seguro.\nF#m                                               Bm\nYa puedo responder a mis contrarios,\nE                                                          A\npues eres tú, Señor, el que me ayuda.   R.\n\nEl arco de los fuertes se ha quebrado,\nlos débiles se ven de fuerza llenos.\nSe ponen a servir por un mendrugo\nlos antes satisfechos;\ny sin tener que trabajar,\npueden saciar su hambre los hambrientos\nSiete veces da a luz la que era estéril\ny la fecunda ya dejó de serlo.   R.\n\nDa el Señor muerte y vida,\ndeja morir y salva de la tumba;\nél es quien empobrece y enriquece,\nquien abate y encumbra.   R.\n\nEl levanta del polvo al humillado,\nal oprimido saca de su oprobio,\npara hacerle sentar entre los príncipes\nen un trono glorioso.   R."
+    },
+    {
+      "id": "10-aguinaldo-23-diciembre",
+      "titulo": "23 de diciembre, Salmo 24",
+      "seccion": "Salmos",
+      "paginas": "275",
+      "letra": "               Dm                  Bb       C       Dm\nR.   Descúbrenos, Señor, al Salvador.\nDm                                           Gm\nDescúbrenos, Señor, tus caminos,\n     C                                                  Dm\nguíanos con la verdad de tu doctrina.\nBb                                              F\nTú eres nuestro Dios y salvador\nC                                                    F\ny tenemos en ti nuestra esperanza.   R.\n\nPorque el Señor es recto y bondadoso\nindica a los pecadores el sendero,\nguía por la senda recta a los humildes\ny descubre a los pobres sus caminos.\n\nCon quien guarda su alianza y sus mandatos\nel Señor es leal y bondadoso.\nEl señor se descubre a quien lo teme\ny le enseña el sentido de su alianza   R."
+    },
+    {
+      "id": "10-aguinaldo-24-diciembre",
+      "titulo": "24 de diciembre, misa matutina, Salmo 88",
+      "seccion": "Salmos",
+      "paginas": "275",
+      "letra": "Am                 G             F          Dm            E7\nR.   Proclamaré sin cesar la misericordia del Señor.\nC                                                                            G\nProclamaré sin cesar la misericordia del Señor,\n         F                                                         C\ny daré a conocer que su fidelidad es eterna,\n  Dm                                                                    Am\npues el Señor ha dicho: “MI amor es para siempre,\n               Dm                                   Am\ny mi lealtad, más firme que los cielos”.   R.\n\nUn juramento hice a David, mi Servidor,\nuna alianza pacté con mi elegido:\n“Consolaré tu dinastía para siempre\ny afianzaré tu trono eternamente”.   R.\n\nEl me podrá decir: “Tú eres mi padre,\nel Dios que me protege y que me salva”.\nYo jamás le retiraré mi amor\nni violaré el juramento que le hice”.   R."
+    },
+    {
+      "id": "10-natividad-salmo-95",
+      "titulo": "Natividad del Señor, Misa de Medianoche, Salmo 95",
+      "seccion": "Salmos",
+      "paginas": "275",
+      "letra": "       C                        G                 Am             F\nR.   Hoy nos ha nacido, el Mesías, el Señor:\n         C             G             F  G  C\n¡Aleluya, Aleluya, Aleluya!\n        C                                            G\nCantemos al Señor un canto nuevo,\n         Am                                  F\nque cante al Señor toda la tierra;\nC                                              G\ncantemos al señor y bendigámoslo.   R.\n\n        C                                            G\nProclamemos su amor día tras días,\n         Am                                  F\nsu grandeza anunciemos a los pueblos;\nC                                              G\nde nación en nación, sus maravillas.   R.\n\n        C                                            G\nAlégrense los cielos y la tierra,\n                      Am                                  F\nretumbe el mar y el mundo submarino.\n                    C                                              G\nSalten de gozo el campo y cuanto encierra,\n         F                G                    C\nmanifiesten el bosque regocijo.   R.\n\n        C                                            G\nRegocíjense todos ante el Señor,\n         Am                                  F\nporque ya viene a gobernar el orbe.\nC                                              G\nJusticia y rectitud serán las normas\n         F                G                    C\ncon las que rija a todas las naciones.   R."
+    },
+    {
+      "id": "10-salmo-116-vayan-por-todo-el-mundo",
+      "titulo": "Salmo 116, Vayan por todo el Mundo",
+      "seccion": "Salmos",
+      "paginas": "275-276",
+      "letra": "         G                     D              Em    C              G            D               G\nR. Vayan por todo el mundo y prediquen el evangelio.\n                  G                   Am      D                   G\n1. //Que alaben al Señor todas las naciones,\n                 D               G                   Am   D7\nque lo aclamen todos los pueblos.// R.\n                  G                            C                     G\n2. Porque grande es su amor hacia nosotros\n    C                         A7              D7\ny su fidelidad dura por siempre. R."
+    },
+    {
+      "id": "10-texto-domingo-de-ramos",
+      "titulo": "Texto: Domingo de Ramos, Salmo 21",
+      "seccion": "Salmos de Semana Santa",
+      "paginas": "276",
+      "letra": "Textos de los salmos de Semana Santa en la traducción española\nSal 21, 8-9. 17-18a. 19-20. 23-24 (R.: 2a)\n\nR. Dios mío, Dios mío, ¿por qué me has abandonado?\n\nAl verme, se burlan de mí,\n hacen visajes, menean la cabeza:\n«Acudió al Señor, que lo ponga a salvo;\nque lo libre, si tanto lo quiere.» R.\n\nMe acorrala una jauría de mastines,\nme cerca una banda de malhechores;\n me taladran las manos y los pies,\npuedo contar mis huesos. R.\n\nSe reparten mi ropa,\nechan a suertes mi túnica.\nPero tú, Señor, no te quedes lejos;\nfuerza mía, ven corriendo a ayudarme. R.\n\nContaré tu fama a mis hermanos,\n en medio de la asamblea te alabaré.\nFieles del Señor, alábenlo;\nglorifícalo, linaje de Jacob; témelo, linaje de Israel. R."
+    },
+    {
+      "id": "10-texto-lunes-santo",
+      "titulo": "Texto: Lunes Santo, Salmo 26",
+      "seccion": "Salmos de Semana Santa",
+      "paginas": "276",
+      "letra": "Sal 26, 1. 2. 3. 13-14 (R/.: 1a)\n\nR/. El Señor es mi luz y mi salvación.\n\nEl Señor es mi luz y mi salvación,\n¿a quién temeré?\nEl Señor es la defensa de mi vida,\n¿quién me hará temblar? R/.\n\nCuando me asaltan los malvados\n para devorar mi carne,\nellos, enemigos y adversarios,\n tropiezan y caen. R/.\n\nSi un ejército acampa contra mí,\nmi corazón no tiembla;\nsí me declaran la guerra,\nme siento tranquilo. R/.\n\nEspero gozar de la dicha del Señor\nen el país de la vida.\n Espera en el Señor, sé valiente,\n ten ánimo, espera en el Señor. R/."
+    },
+    {
+      "id": "10-texto-martes-santo",
+      "titulo": "Texto: Martes Santo, Salmo 70",
+      "seccion": "Salmos de Semana Santa",
+      "paginas": "276",
+      "letra": "Sal 70, 1-2. 3-4a. 5-6ab. 15 y 17 (R/.: cf. 15)\n\nR/. Mi boca contará tu salvación, Señor.\n\nA ti, Señor, me acojo:\n no quede yo derrotado para siempre;\n tú que eres justo, líbrame y ponme a salvo,\n inclina a mí tu oído, y sálvame. R/.\n\nSé tú mi roca de refugio,\nel alcázar donde me salve,\nporque mi peña y mi alcázar eres tú.\nDios mío, líbrame de la mano perversa. R/.\n\nPorque tú, Dios mío, fuiste mi esperanza\ny mi confianza, Señor, desde mi juventud.\nEn el vientre materno ya me apoyaba en ti,\nen el seno tú me sostenías. R/.\n\nMi boca contará tu auxilio,\ny todo el día tu salvación.\nDios mío, me instruiste desde mi juventud,\ny hasta hoy relato tus maravillas. R/."
+    },
+    {
+      "id": "10-texto-miercoles-santo",
+      "titulo": "Texto: Miércoles Santo, Salmo 68",
+      "seccion": "Salmos de Semana Santa",
+      "paginas": "276",
+      "letra": "Sal 68, 8-10. 21-22. 31 y 33-34 (R/.: 14c y b)\n\nR/. Señor, que me escuche tu gran bondad el día de tu favor.\n\nPor ti he aguantado afrentas,\nla vergüenza cubrió mi rostro.\nSoy un extraño para mis hermanos,\nun extranjero para los hijos de mi madre;\nporque me devora el celo de tu templo,\ny las afrentas con que te afrentan caen sobre mí. R/.\n\nLa afrenta me destroza el corazón, y desfallezco.\nEspero compasión, y no la hay;\nconsoladores, y no los encuentro.\nEn mi comida me echaron hiel,\n para mi sed me dieron vinagre. R/.\n\nAlabaré el nombre de Dios con cantos,\nproclamaré su grandeza con acción de gracias.\nMiradlo, los humildes, y alegraos,\n buscad al Señor, y revivirá vuestro corazón.\n Que el Señor escucha a sus pobres,\n no desprecia a sus cautivos. R/."
+    },
+    {
+      "id": "10-texto-jueves-santo",
+      "titulo": "Texto: Jueves Santo, Salmo 115",
+      "seccion": "Salmos de Semana Santa",
+      "paginas": "276-277",
+      "letra": "Sal 115, 12-13. 15-16bc. 17-18 (R.: cf. 1 Co 10, 16)\n\nR. El cáliz de la bendición\nes comunión con la sangre de Cristo.\n\n¿Cómo pagaré al Señor\ntodo el bien que me ha hecho?\nAlzaré la copa de la salvación,\ninvocando su nombre. R.\n\nMucho le cuesta al Señor\nla muerte de sus fieles.\nSeñor, yo soy tu siervo,\n hijo de tu esclava;\nrompiste mis cadenas. R.\n\nTe ofreceré un sacrificio de alabanza,\n invocando tu nombre, Señor.\nCumpliré al Señor mis votos\nen presencia de todo el pueblo. R."
+    },
+    {
+      "id": "10-texto-viernes-santo",
+      "titulo": "Texto: Viernes Santo, Salmo 30",
+      "seccion": "Salmos de Semana Santa",
+      "paginas": "277",
+      "letra": "Sal 30, 2 y 6. 12-13. 15-16. 17 y 25 (R.: Lc 23, 46)\n\nR. Padre, a tus manos encomiendo mi espíritu.\n\nA ti, Señor, me acojo:\nno quede yo nunca defraudado;\ntú, que eres justo, ponme a salvo.\nA tus manos encomiendo mi espíritu:\ntú, el Dios leal, me librarás. R.\n\nSoy la burla de todos mis enemigos,\nla irrisión de mis vecinos,\nel espanto de mis conocidos;\nme ven por la calle, y escapan de mí.\nMe han olvidado como a un muerto,\nme han desechado como a un cacharro inútil. R.\n\nPero yo confío en ti, Señor,\nte digo: «Tú eres mi Dios.»\nEn tu mano están mis azares;\nlíbrame de los enemigos que me persiguen. R.\n\nHaz brillar tu rostro sobre tu siervo,\nsálvame por tu misericordia.\nSed fuertes y valientes de corazón,\nlos que esperáis en el Señor. R."
+    },
+    {
+      "id": "10-texto-vigilia-2a-lectura",
+      "titulo": "Texto: Vigilia pascual, después de la segunda lectura, Salmo 15",
+      "seccion": "Salmos de Semana Santa",
+      "paginas": "277",
+      "letra": "Sal 15, 5 y 8. 9-10. 11 (R.: 1)\n\nR. Protégeme, Dios mío, que me refugio en ti.\n\nEl Señor es el lote de mi heredad y mi copa;\nmi suerte está en tu mano.\nTengo siempre presente al Señor,\ncon él a mi derecha no vacilaré. R.\n\nPor eso se me alegra el corazón,\nse gozan mis entrañas, y mi carne descansa serena.\nPorque no me entregarás a la muerte,\n ni dejarás a tu fiel conocer la corrupción. R.\n\nMe enseñarás el sendero de la vida,\nme saciarás de gozo en tu presencia,\nde alegría perpetua\na tu derecha. R."
+    },
+    {
+      "id": "10-texto-vigilia-3a-lectura",
+      "titulo": "Texto: Vigilia pascual, después de la tercera lectura, Éxodo 15",
+      "seccion": "Salmos de Semana Santa",
+      "paginas": "277",
+      "letra": "Ex 15, 1-2. 34. 5-6. 17-18 (R.: la)\n\nR. Cantaré al Señor, sublime es su victoria.\n\nCantaré al Señor, sublime es su victoria,\ncaballos y carros ha arrojado en el mar.\nMi fuerza y mi poder es el Señor,\nél fue mi salvación.\nÉl es mi Dios: yo lo alabaré;\nel Dios de mis padres: yo lo ensalzaré. R.\n\nEl Señor es un guerrero,\nsu nombre es «Yahvé».\n Los carros del Faraón los lanzó al mar,\nahogó en el mar Rojo a sus mejores capitanes. R.\n\nLas olas los cubrieron,\n bajaron hasta el fondo como piedras.\nTu diestra, Señor, es fuerte y terrible,\ntu diestra, Señor, tritura al enemigo. R.\n\nLos introduces y los plantas en el monte de tu heredad,\nlugar del que hiciste tu trono, Señor;\nsantuario, Señor, que fundaron tus manos.\nEl Señor reina por siempre jamás. R."
+    },
+    {
+      "id": "10-texto-vigilia-4a-lectura",
+      "titulo": "Texto: Vigilia pascual, después de la cuarta lectura, Salmo 29",
+      "seccion": "Salmos de Semana Santa",
+      "paginas": "277",
+      "letra": "Sal 29, 2 y 4. 5-6. 11 y 12a y 13b (R.: 2a)\n\nR. Te ensalzaré, Señor, porque me has librado.\n\nTe ensalzaré, Señor, porque me has librado\nY no has dejado que mis enemigos se rían de mí.\nSeñor, sacaste mi vida del abismo,\ny me hiciste revivir cuando bajaba a la fosa. R.\n\nTañed para el Señor, fieles suyos,\ndad gracias a su nombre santo;\n su cólera dura un instante;\n su bondad, de por vida;\nal atardecer nos visita el llanto;\npor la mañana, el júbilo. R.\n\nEscucha, Señor, y ten piedad de mí;\nSeñor, socórreme.\nCambiaste mi luto en danzas.\nSeñor, Dios mío, te daré gracias por siempre. R."
+    },
+    {
+      "id": "10-texto-vigilia-5a-lectura",
+      "titulo": "Texto: Vigilia pascual, después de la quinta lectura, Isaías 12",
+      "seccion": "Salmos de Semana Santa",
+      "paginas": "277",
+      "letra": "Is 12, 2-3. 4bcd. 5-6 (R.: 3)\n\nR. Sacaréis aguas con gozo de las fuentes de la salvación.\n\nEl Señor es mi Dios y Salvador:\n confiaré y no temeré,\nporque mi fuerza y mi poder es el Señor,\nél fue mi salvación.\nY sacaréis aguas con gozo\nde las fuentes de la salvación. R.\n\nDad gracias al Señor,\ninvocad su nombre,\n contad a los pueblos sus hazañas,\nproclamad que su nombre es excelso. R.\n\nTañed para el Señor, que hizo proezas,\n anunciadlas a toda la tierra;\ngritad jubilosos, habitantes de Sión:\n«Qué grande es en medio de ti el Santo de Israel.» R."
+    },
+    {
+      "id": "10-texto-vigilia-6a-lectura",
+      "titulo": "Texto: Vigilia pascual, después de la sexta lectura, Salmo 18",
+      "seccion": "Salmos de Semana Santa",
+      "paginas": "277-278",
+      "letra": "Sal 18, 8. 9. 10. 11 (R.: Jn 6, 68)\n\nR. Señor, tú tienes palabras de vida eterna.\n\nLa ley del Señor es perfecta\ny es descanso del alma;\nel precepto del Señor es fiel\ne instruye al ignorante. R.\n\nLos mandatos del Señor son rectos\ny alegran el corazón;\nla norma del Señor es límpida\ny da luz a los ojos. R.\n\nLa voluntad del Señor es pura\ny eternamente estable;\nlos mandamientos del Señor son verdaderos\ny enteramente justos. R.\n\nMás preciosos que el oro,\nmás que el oro fino;\nmás dulces que la miel\n de un panal que destila. R."
+    },
+    {
+      "id": "10-texto-vigilia-7a-lectura",
+      "titulo": "Texto: Vigilia pascual, después de la séptima lectura, Salmo 41 (o Salmo 50)",
+      "seccion": "Salmos de Semana Santa",
+      "paginas": "278",
+      "letra": "(si no hay Bautismo) Sal 41, 3. 5bcd; 42, 3. 4 (R.: 41, 2)\n\nR. Como busca, la cierva, corrientes de agua,\nasí mi alma te busca a ti, Dios mío.\n\nTiene sed de Dios,\ndel Dios vivo:\n¿cuándo entraré a ver\n el rostro de Dios? R.\n\nCómo marchaba a la cabeza del grupo,\nhacia la casa de Dios,\nentre cantos de júbilo y alabanza,\n en el bullicio de la fiesta. R.\n\nEnvía tu luz y tu verdad;\nque ellas me guíen\ny me conduzcan hasta tu monte santo,\n hasta tu morada. R.\n\nQue yo me acerque al altar de Dios,\nal Dios de mi alegría;\n que te dé gracias al son de la cítara,\nDios, Dios mío. R.\n\nO bien, cuando se celebra el bautismo:\nIs 12, 2-3. 4bcd. 5-6, como después de la quinta lectura\nO bien:\nSal 50, 12-13. 14-15. 18-19 (R.: 12a)\n\nR. Oh Dios, crea en mí un corazón puro.\n\nOh Dios, crea en mí un corazón puro,\nrenuévame por dentro con espíritu firme;\n no me arrojes lejos de tu rostro,\nno me quites tu santo espíritu. R.\n\nDevuélveme la alegría de tu salvación,\nafiánzame con espíritu generoso;\nenseñaré a los malvados tus caminos,\n los pecadores volverán a ti. R.\n\nLos sacrificios no te satisfacen;\n si te ofreciera un holocausto, no lo querrías.\nMi sacrificio es un espíritu quebrantado;\nun corazón quebrantado y humillado,\ntú no lo desprecias. R."
+    },
+    {
+      "id": "10-texto-vigilia-epistola",
+      "titulo": "Texto: Vigilia pascual, después de la epístola, Salmo 117",
+      "seccion": "Salmos de Semana Santa",
+      "paginas": "278",
+      "letra": "Sal 117, 1-2. 16ab-17. 22-23\n\nR. Aleluya, aleluya, aleluya.\n\nDad gracias al Señor porque es bueno,\nporque es eterna su misericordia.\n Diga la casa de Israel:\neterna es su misericordia. R.\n\nLa diestra del Señor es poderosa,\nla diestra del Señor es excelsa.\nNo he de morir, viviré\npara contar las hazañas del Señor. R.\n\nLa piedra que desecharon los arquitectos\nes ahora la piedra angular.\n Es el Señor quien lo ha hecho,\nha sido un milagro patente. R."
+    },
+    {
+      "id": "10-texto-domingo-resurreccion",
+      "titulo": "Texto: Domingo de Resurrección, Salmo 117",
+      "seccion": "Salmos de Semana Santa",
+      "paginas": "278",
+      "letra": "Sal 117, 1-2. 16ab-17. 22-23 (R.: 24)\n\nR. Éste es el día en que actuó el Señor:\nsea nuestra alegría y nuestro gozo.\nO bien:\nAleluya.\n\nDad gracias al Señor porque es bueno,\nporque es eterna su misericordia.\n Diga la casa de Israel:\neterna es su misericordia. R.\n\nLa diestra del Señor es poderosa,\nla diestra del Señor es excelsa.\n No he de morir, viviré\n para contar las hazañas del Señor. R.\n\nLa piedra que desecharon los arquitectos\nes ahora la piedra angular.\nEs el Señor quien lo ha hecho,\nha sido un milagro patente. R."
+    },
+    {
+      "id": "10-abrid-las-puertas",
+      "titulo": "Abrid las Puertas",
+      "seccion": "Cantos de animación",
+      "paginas": "279",
+      "letra": "E                                B7               A B7            E\n/Abrid las puertas abrid, y la cabeza levantad/\n                      E             A        B7            E\n///Y que el rey de gloria pueda entrar///"
+    },
+    {
+      "id": "10-adios-amigos",
+      "titulo": "Adiós Amigos",
+      "seccion": "Cantos de animación",
+      "paginas": "279",
+      "letra": "(D)\nE                                          A\n/Adiós amigos, adiós Señor.\nB7                                       E\nAdiós amigos, adiós, adiós./\nE                       A                     E\nOtro día volveremos a cantar,\n     A       B7                            E\na escuchar la Palabra de Dios.\nE                      A                 Am\nOtro día volveremos a vivir\nE                       B7                   E\nla muerte y el triunfo del Señor."
+    },
+    {
+      "id": "10-agachate-parate",
+      "titulo": "Agáchate, Párate, Baila y Brinca",
+      "seccion": "Cantos de animación",
+      "paginas": "279",
+      "letra": "D                  A            G           D\nAgáchate, párate, Baila y Brinca\nD                  A                         G           D\nAlaba al Señor con las manos, con los pies\nD                  A                         G       A    D         A7\nY que tu corazón Grite: ¡Gloria otra vez!"
+    },
+    {
+      "id": "10-agua-lavame",
+      "titulo": "Agua Lávame",
+      "seccion": "Cantos de animación",
+      "paginas": "279",
+      "letra": "Brotes de olivo. Is 1, 16. Vicente Morales\nA                        D             A\nAgua lávame, purifícame\nD                             A      E7                A\nDame agua tu espíritu agua lávame"
+    },
+    {
+      "id": "10-aleluya-gracias-senor",
+      "titulo": "Aleluya, Gracias Señor",
+      "seccion": "Cantos de animación",
+      "paginas": "279",
+      "letra": "      C                                         G7                C\nAlelu, alelu, alelu, aleluya, Gracias Señor.\n    C (G7)                G7 (C)            G7            C\n//Gracias Señor, Aleluya// Gracias Señor"
+    },
+    {
+      "id": "10-alegre-quiero-cantar",
+      "titulo": "Alegre Quiero Cantar",
+      "seccion": "Cantos de animación",
+      "paginas": "279",
+      "letra": "    D\n1. Alegre quiero cantar, que nunca voy a morir\n                                                    A              A7\ncantando paso la vida sin llorar, sin llorar.\n                                 D D7             G\nYo quiero cantar, yo quiero vivir,\n  D                     A                              D\nCantarle a la vida, yo quiero cantar\n\n2. Un día yo moriré, la tierra me cubrirá y un día yo saltaré\npara gritar, para gritar.\n\n3. La muerte se marchitó, la vida resucitó. ya nunca más\ndejaremos de vivir, de vivir."
+    },
+    {
+      "id": "10-algo-esta-descendiendo",
+      "titulo": "Algo está Descendiendo",
+      "seccion": "Cantos de animación",
+      "paginas": "279",
+      "letra": "    E                               B7      (E)                                       E\n/Algo está descendiendo/  desde arriba de los cielos\n    E      B7                        E\n/Eso es el Espíritu Santo /\n                 E           B7                                    E\n/Oh Gloria, Aleluya, Aleluya Gloria a Dios/"
+    },
+    {
+      "id": "10-como-corren-rios",
+      "titulo": "Como Corren Ríos",
+      "seccion": "Cantos de animación",
+      "paginas": "279",
+      "letra": "(D)\n     E                     B7                           E\n/Como corren ríos dentro de mi ser/\n                             A            B7            E\n/es que yo confió  en Cristo mi rey/\n                                 B7\n/Como rio de agua viva\n                                                      E\nQue salta pa’arriba que llevo dentro\n                                                        B7\nConfirmo y afirmo en este momento\n                                                         E\nAl Espíritu Santo y su derramamiento/ (otra vez)"
+    },
+    {
+      "id": "10-cuando-el-pueblo-alaba",
+      "titulo": "Cuando el Pueblo del Señor Alaba a Dios",
+      "seccion": "Cantos de animación",
+      "paginas": "279",
+      "letra": " Dm\nCuando el pueblo del Señor alaba a Dios\n                         A7                         Dm\n/Suceden cosas/ maravillosas.\nD7,              Gm                       F\n/Hay sanación,             liberación,\n               A7                           Dm\ny se siente la presencia del Señor/\n                         A7                               Dm\n/aquí se siente la presencia de Dios/\n         D7            Gm                          Dm\n/Yo siento el fuego del espíritu Santo/\n             Dm                          A7\n/Yo Siento gozo, yo Siento paz,\n                                          Dm\nyo siento el amor que Dios me da/"
+    },
+    {
+      "id": "10-dame-del-agua-que-brota",
+      "titulo": "Dame del Agua que Brota",
+      "seccion": "Cantos de animación",
+      "paginas": "279-280",
+      "letra": "         E                                    B7                           E\n1. /Dame del agua que brota para la vida eterna/\n          A                     E               B7                  E\n/Del agua que le diste a la mujer samaritana/\n       B7                                    E\nOooh hay que nacer del agua,\n        B7                                       E                  E7\nOooh hay que nacer del Espíritu de Dios,\n             A                    B7           E                      C#m           B7\n/Oooh hay que nacer: del agua y del Espíritu de Dios,\n                                         E7\nHay que nacer del Señor /\n\n2. /Batiendo las palmas con gozo, así se alaba al Señor/\n/Que el gozo que me diste nadie lo podrá quitar/"
+    },
+    {
+      "id": "10-dios-es-amor",
+      "titulo": "Dios es Amor (Cesáreo Gabaráin)",
+      "seccion": "Cantos de animación",
+      "paginas": "280",
+      "letra": "     A                                           E7\n1. Dios es amor la Biblia lo dice\n                                                      A\nDios es amor San Pablo lo repite\n                            A7                D\nDios es amor, Búscalo y veras,\n    D                       A                   E7                        A-A7\n/En el capítulo 4 Versículo 8 Primera de Juan/\n\n2. Quiero Señor cantar de alegría\nQuiero Señor amarte noche y día\nQuiero Señor apoyarme en ti\n/Porque me amas primero, Tu amor me ha creado Y vigilas por mí/.\n\n3. Canto al saber que eres mi amigo.\nCanto al Saber que siempre estás conmigo.\nCanto al saber que me ayudarás,\n/Que, aunque de Ti yo me olvide,  Jamás a tus hijos Nos olvidarás/"
+    },
+    {
+      "id": "10-dios-esta-aqui",
+      "titulo": "Dios está Aquí ¡Qué Hermoso Es!",
+      "seccion": "Cantos de animación",
+      "paginas": "280",
+      "letra": "   A                       D\nDios está aquí ¡qué hermoso es!\n E                                     A\nÉl lo prometió donde hay dos o tres.\nQuédate Señor, quédate Señor,\nQuédate Señor en cada corazón.\nQuédate Señor, quédate Señor,\nQuédate Señor Aquí, Aquí, Aquí.\n\n            D                              A           E                        A\n1. El espíritu de Dios se mueve, Se mueve, se mueve.\n            D                              A           E                        A\nEl espíritu de Dios se mueve, Dentro de mi corazón.\n\n2. Oh hermano deja que se mueva, Se mueva, se mueva.\nOh hermano deja que se mueva, Dentro de tu corazón"
+    },
+    {
+      "id": "10-donde-hay-mas-de-dos",
+      "titulo": "Donde hay Más de Dos",
+      "seccion": "Cantos de animación",
+      "paginas": "280",
+      "letra": "   D                                   A7                                     D\n/Donde hay más de dos, reunidos es su nombre,\n D7                      G     A7                                 D            D7\nÉl nos da su Espíritu para que allí se desborde/\n                                 G                              D\n/Por eso mi hermano con mucho poder\n                      A7                          D\nal Señor Jesús este día alábale/\n                                   A7                           D       D7\ndándole a las palmas, dándole a los pies,\n                   G                A7                  D\ndeja su Espíritu se apodere de tu ser,\ncon una sonrisa JA,JA,JA,\nsaluda a tu hermano ¿CÓMO ESTAS?\nY con mucho amor Estrecha también su mano."
+    },
+    {
+      "id": "10-el-amor-del-senor-es-maravilloso",
+      "titulo": "El Amor del Señor es Maravilloso",
+      "seccion": "Cantos de animación",
+      "paginas": "280",
+      "letra": "E                                                                          B7\nEl amor del Señor es Maravilloso, Maravilloso,\n                  E         A            B7                      E\nMaravilloso ¡Grande es el amor de Dios!\n           E                                             B7\nTan alto que no puedo estar mal alto de Él.\n           B7                                        E\nTan bajo que no puedo estar abajo de Él.\n         E                                                   B7\nTan ancho que no puedo estar afuera de Él.\n      A              B7                 E\n¡Grande es el amor de Dios!"
+    },
+    {
+      "id": "10-el-diablo-esta-enojado",
+      "titulo": "El Diablo está Enojado",
+      "seccion": "Cantos de animación",
+      "paginas": "280",
+      "letra": "     E                                 B7                        E\n/El Diablo está enojado, Hay una razón/\n                                  A\nEl Diablo está enojado hay una razón\n             E\nCristo vive en mi corazón\n                    B7                          E\n/Y mis pecados, ha perdonado/\n\nYo Amo a María….\nYo Amo a la Iglesia…\nYo Soy Hijo de Dios…\nYo soy un Misionero…"
+    },
+    {
+      "id": "10-esta-es-la-luz-de-cristo",
+      "titulo": "Esta es la Luz de Cristo",
+      "seccion": "Cantos de animación",
+      "paginas": "280",
+      "letra": "  C                                           F                        C\n1. ¡Esta es la luz de Cristo! ¿Quién la Hará Brillar?\n  C                                           D7                        G\n¡Esta es la luz de Cristo! ¿Quién la Hará Brillar?\n  C                                           F                        C\n¡Esta es la luz de Cristo! ¿Quién la Hará Brillar?\n    F            C             G7          C\n¡Brillara, Brillara! Sin cesar.\n\n2. ¡Esta es la luz de Cristo! ¡Yo la haré Brillar!\n3. ¡Con todos mis Hermanos ¡La haremos Brillar!\n4. No Dejes que se apague, ¡Hazla tú brillar!"
+    },
+    {
+      "id": "10-estamos-de-fiesta-con-jesus",
+      "titulo": "Estamos de Fiesta con Jesús (Verde Barajas)",
+      "seccion": "Cantos de animación",
+      "paginas": "280-281",
+      "letra": "(C)\nD                       A                   D\n1. Estamos de fiesta con Jesús;\nD              Bm7        A\nAl cielo queremos ir.\nA                  G                       A\nEstamos reunidos en la mesa\nA                        G                 D\nY es Cristo quien va a servir.\n\n D                                       A                                          D\nPoderoso es nuestro Dios. Poderoso es nuestro Dios.\nD7               G                 A                             D\nEl sana, él salva: Poderoso es nuestro Dios.\nD7                   G                 A                            D\nBautiza y Bendice: Poderoso es nuestro Dios.\n\n2. Su amor nos demuestra por doquier,\nNos llena con su amistad,\nSu pan y su vino nos regala,\nEl mismo se nos dará.\n\nCoro\nEl padre, el hijo: Poderoso es nuestro Dios;\nEspíritu Santo: Poderoso es nuestro Dios.\n\n3. Su amor nos demuestra por doquier\nOtorga a todos su amistad.\nSu pan y su vino nos regala\nPor madre a la suya da"
+    },
+    {
+      "id": "10-este-es-el-dia-que-hizo-el-senor",
+      "titulo": "Éste es el Día que Hizo el Señor",
+      "seccion": "Cantos de animación",
+      "paginas": "281",
+      "letra": "     E                                                B7\n/Éste es el Día/      /que hizo el Señor/\n                                                      E\n /Día de Alegría/     /y de Gozo/\n      A                                             E\n/Éste es el día que hizo el Señor,\n    A                              E    B7\nDía de alegría y de gozo/\n    E                                          A   B7    E\n/Éste es el día/ Que hizo el Señor."
+    },
+    {
+      "id": "10-hay-una-promesa-en-la-biblia",
+      "titulo": "Hay una Promesa en la Biblia",
+      "seccion": "Cantos de animación",
+      "paginas": "281",
+      "letra": "     C                                             G7                                           C\n/Hay una promesa en la Biblia Que es para ti y es para mí/\n/Cielo nuevo y tierra nueva, Donde vamos a vivir/\n//Saltando hermanos saltando//\nComo Cordero de la manada\n/Así, así, así, así se alaba a Dios/\n\nPero qué ______ se ve, el pueblo que alaba a Dios\nPero qué ______ se ve, el pueblo que alaba a Dios"
+    },
+    {
+      "id": "10-la-alfareria-de-dios",
+      "titulo": "La Alfarería de Dios",
+      "seccion": "Cantos de animación",
+      "paginas": "281",
+      "letra": "E                                                   B7                       E\n/Todos queremos entrar a la alfarería de Dios/\n           A                                  E\n/Bajamos como un vaso viejo y quebrado\n            B7                                E\nSubimos como un vaso nuevo/"
+    },
+    {
+      "id": "10-la-gente-anda-diciendo",
+      "titulo": "La Gente anda Diciendo",
+      "seccion": "Cantos de animación",
+      "paginas": "281",
+      "letra": "La gente anda diciendo que el católico es aburrido (2)\nPero eso es mentira, pero eso es mentira\nPero eso es mentira eso no es verdad\nEso es mentira\n/ porque un católico canta, alaba, disfruta,\nSe goza, se ríe y dice ¡gloria a Dios! /"
+    },
+    {
+      "id": "10-mira-lo-que-hizo-mi-jesus",
+      "titulo": "Mira lo que Hizo mi Jesús",
+      "seccion": "Cantos de animación",
+      "paginas": "281",
+      "letra": "D                                                        A7      D7\n/Mira lo que hizo mi Jesús/\n       G           A7      D  Bm\nme levantó y me liberó,\n Em               A7              D\nmira lo que hizo mi Jesús.\n\n/El enemigo ya vencido está,/\nJesús lo venció, muriendo en la cruz,\nel enemigo ya vencido está."
+    },
+    {
+      "id": "10-mis-manos-estan-llenas",
+      "titulo": "Mis Manos están Llenas",
+      "seccion": "Cantos de animación",
+      "paginas": "281",
+      "letra": "(E)\nE                                                                B7      E7\n/Mis manos están llenas de su bendición/\n                               A\nAl hermano que toque, bendito será,\n                                E\nAl hermano que toque bendito será\n                                B7                             E\nMis manos están llenas de su bendición\n\nMis brazos están llenos….\nAl hermano que abrace…"
+    },
+    {
+      "id": "10-lo-que-pongas-en-mi-boca",
+      "titulo": "Lo que Pongas en mi Boca",
+      "seccion": "Cantos de animación",
+      "paginas": "281",
+      "letra": "(E)\nA nosotros no Señor, aquí está el que toca,\nyo cantaré lo que pongas en mi boca,\nlo que pongas, lo que pongas,\nlo que pongas en mi boca,\nyo cantaré lo que pongas en mi boca,\ncantaré con alegría lo que pongas en mi boca,\nyo cantaré lo que pongas en mi boca."
+    },
+    {
+      "id": "10-pon-aceite-en-mi-lampara",
+      "titulo": "Pon Aceite en mi Lámpara Señor",
+      "seccion": "Cantos de animación",
+      "paginas": "281",
+      "letra": "   Dm                                               A                     Dm\n/Pon aceite en mi lámpara Señor/\n                 D7                                 Gm\nQue yo quiero servirte con amor.\n             A7                                    Dm\nPon aceite en mi lámpara Señor\n                 A7                        Dm\nSeñor Jesús, Tú eres mi vida,\n                 A7                        Dm\nSeñor Jesús, Tú eres mi amor,\nD7     Gm                          Dm                       A7                      Dm\n/Salvaste, mi alma perdida, por eso te alabo con el corazón/"
+    },
+    {
+      "id": "10-poro-popo",
+      "titulo": "Poro Popó",
+      "seccion": "Cantos de animación",
+      "paginas": "281-282",
+      "letra": "                 E                                                A\nPoro popó, po, poro…Poro popó, po, poro\nPoro popó, po, poro\n B7                                                                E\nPoro, poro, poro, poro, poro, poro popó\n       E                                    A            E\n1. /Dios es mi padre/     /mi Creador/\n                  B7                            E\n/Y yo le Adoro Con el Corazón/\n\n2. /Jesús es mi hermano/ /mi Salvador/\n/Y yo le adoro con el corazón/\n\n3. Espíritu Santo/ /Consolador/\nYo lo adoro con el corazón\n\n4. /María es mi madre/ /madre de Dios/\n/Y yo la Amo con el corazón/\n\n5. /La Iglesia es mi casa / /la Casa de Dios/\n/Y yo la cuido con el corazón /"
+    },
+    {
+      "id": "10-que-bueno-es-alabarte",
+      "titulo": "Qué Bueno es Alabarte",
+      "seccion": "Cantos de animación",
+      "paginas": "282",
+      "letra": "D                                              A                                               D\nQué bueno es alabarte Señor y cantar Salmos a tu nombre\nG                                                            D\nAnunciar por la mañana tu misericordia\nA                                    D\ny tu fidelidad de Noche\nD                               A                               D\n¿Quién es el que vive? Jesús es el que vive\nD                            A                                D\n¿Y quién es el que salva? Jesús es el que salva"
+    },
+    {
+      "id": "10-se-mueve-la-mano-de-dios",
+      "titulo": "Se Mueve la Mano de Dios",
+      "seccion": "Cantos de animación",
+      "paginas": "282",
+      "letra": "    D                                        A7                                D\n/Se mueve la mano de Dios y su palabra es vida/\n/Todo es posible, si puedes creer/\n/Se mueve, se mueve, mueve con poder/\n//Con, con, con poder // Se mueve con poder."
+    },
+    {
+      "id": "10-si-tuvieras-fe",
+      "titulo": "Si Tuvieras Fe",
+      "seccion": "Cantos de animación",
+      "paginas": "282",
+      "letra": "                        Bm                                              F#7\n/Si Tuvieras Fe como un Granito de mostaza,\n                        Bm        B7\nEso dice el Señor/\n            Em                        Bm        F#7                 Bm\n1. Tú le dirías a las montañas: //Muévanse//\n                                                    F#7           Bm\nY las montañas: //se moverán //\n\n2. Tú le dirías a los enfermos: //Sánense//\n/Y los enfermos: Se Sanará, Caminaran, Saludaran /\n\n3. Tú le dirías a tus hermanos: //Alégrense//\nY tus hermanos: //se Alegrarán//"
+    },
+    {
+      "id": "10-un-gran-avivamiento",
+      "titulo": "Un Gran Avivamiento",
+      "seccion": "Cantos de animación",
+      "paginas": "282",
+      "letra": "     C                                                                      G7\n/En este lugar ha llegado Un gran avivamiento\n                                                                                         C\nPara que reciba al Salvador las puertas están abiertas/\nY esta Iglesia: Que se levanta\nEsta Iglesia: Es para Cristo\nNo, no , no , que no se apague este avivamiento,\n/Alabemos al Señor, Alabemos/\n/Porque mi nombre es el Señor\ny mi Apellido Soy de Cristo/"
+    },
+    {
+      "id": "10-va-a-haber-un-avivamiento",
+      "titulo": "Va a Haber un Avivamiento en Todo Lugar",
+      "seccion": "Cantos de animación",
+      "paginas": "282",
+      "letra": "              E                                                          B7\n/Va a haber un avivamiento en todo lugar/\n           A         B7   E\nEn el norte, sur, este y oeste\n           E                        B7                       E\nVa a haber un avivamiento en todo lugar\n/Ya hay un avivamiento en este lugar/\nEn el norte, sur, este y oeste\nYa hay un avivamiento en este lugar"
+    },
+    {
+      "id": "10-vamos-a-bendecir-al-senor",
+      "titulo": "Vamos a Bendecir al Señor",
+      "seccion": "Cantos de animación",
+      "paginas": "282",
+      "letra": "             E                                         B7                                    E\n/Vamos a Bendecir al Señor Nosotros los hijos de Dios/\n        A                                                      E\n1. /Alzad vuestras manos, Batidlas a él\n         B7                               E\ny decidle que solo él es fiel/\n2. /Abrid Vuestras bocas, Cantad Solo a él…/\n3. /Cerrad vuestros ojos pensad solo en el…/\n4. /Doblad las Rodillas Delante de él…/"
+    },
+    {
+      "id": "10-vine-a-alabar-a-dios",
+      "titulo": "Vine a Alabar a Dios",
+      "seccion": "Cantos de animación",
+      "paginas": "282",
+      "letra": "            C                                  G                                      C\n/Yo no sé a lo que tú has venido, Pero yo vine a alabar a Dios/\nF                   C            G                          C\n/Yo vine, yo vine, yo vine a alabar a Dios/\n               C                             G                                            C\nQue lo digan todos juntos          (Yo vine a alabar a Dios)\nMas fuerte que o se oye             (Yo vine a alabar a Dios)\nQue se escuche allá en cielo      (Yo vine a alabar a Dios)\nQue Despierten a San Pedro      (Yo vine a alabar a Dios)\n   F                   C            G                          C\n/Si vino, Si vino, Si vino a alabar a Dios/"
+    },
+    {
+      "id": "10-viva-la-fe",
+      "titulo": "Viva la Fe",
+      "seccion": "Cantos de animación",
+      "paginas": "282",
+      "letra": "             D                                                   A\nViva la fe, viva la esperanza, viva el amor.\n             G                                                     D\nViva la fe, viva la esperanza, viva el amor.\n            D                          D7                       G\nViva la fe, viva la esperanza, viva el amor.\n                  D                          A                            D\nQue viva Cristo, que viva Cristo, que viva El Rey.\n\n    D                                  A                                 D\n/¡Que viva, que viva Cristo, que viva, que viva Cristo;\n                                                    D\n¡Que viva, que viva Cristo, que viva el Rey!/"
+    },
+    {
+      "id": "10-yo-edifique-una-casa",
+      "titulo": "Yo Edifiqué una Casa",
+      "seccion": "Cantos de animación",
+      "paginas": "282-283",
+      "letra": " C                                                                                    G\n/Yo edifique una casa/  Sobre la roca la edifique\n    G7                                                              C\n/Era Jesús la Base/ donde yo la edifique\n   C                              G                                            C\n/Y esa casa no se cae, porque está sobre la roca/\nY Viene el viento y no se cae, porque está sobre la roca\n/Paséate nazareno, nazareno paséate/"
+    },
+    {
+      "id": "10-yo-tengo-un-amigo-que-me-ama",
+      "titulo": "Yo Tengo un Amigo que me Ama",
+      "seccion": "Cantos de animación",
+      "paginas": "283",
+      "letra": "        E                                                        B7            E\n1. Yo tengo un amigo que me ama, me ama, me ama\n        E                                                       F#m       B7    E\nYo tengo un amigo que me ama: su nombre es Jesús\n                    A                       E\n/Que me Ama, que me ama,\n                     B7                                      E E7\n 1) que me ama Con su inmenso amor /\n             F#m        B7    E\n 2) Su nombre es Jesús\n\n2. Tienes un amigo…\n3. Tenemos un Amigo…\n4. Yo tengo una Madre que me ama… La madre de Jesús."
+    },
+    {
+      "id": "10-yo-tengo-un-gozo-en-el-alma",
+      "titulo": "Yo Tengo un Gozo en el Alma",
+      "seccion": "Cantos de animación",
+      "paginas": "283",
+      "letra": "                              E                                            B7\nYo tengo un //gozo en el alma// y en mi ser,\n ¡Aleluya, gloria a Dios!\n                          E                    (B7)                 E\nEs como un //río de agua viva// en mi ser.\n\n                      E                                       B7\n1. No te avergüences y alaba a tu Señor…\n                      B7                                     E\nNo te avergüences y alaba a tu Señor…\n                       E7                         A\nDa Gloria a Dios, Da Gloria a el\n                      E              B7                    E\nNo te avergüences y alaba a tu Señor…\n\n2. Con alegría alaba a tu Señor…\n3. Ama a María y alaba a tu Señor…\n4. Ama a tu hermano y alaba a tu Señor…"
+    }
+  ]
+}

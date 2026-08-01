@@ -1,0 +1,817 @@
+{
+  "paquete": "02_palabra_dones_santo_cordero",
+  "canciones": [
+    {
+      "id": "02-aclamacion-evangelio-indicaciones",
+      "titulo": "Aclamación Antes del Evangelio (Indicaciones)",
+      "seccion": "Aclamación antes del Evangelio",
+      "paginas": "40",
+      "letra": "La fórmula correcta dentro de la liturgia eucarística es:\nAclamación: Aleluya, Aleluya.\nVersículo: (estrofa del leccionario), cantada por un solista\nAleluya"
+    },
+    {
+      "id": "02-aleluya-1-gregoriano",
+      "titulo": "Aleluya I, Gregoriano",
+      "seccion": "Aclamación antes del Evangelio",
+      "paginas": "40",
+      "letra": "G                 C        G   C    D7 G\n/Aleluya, Aleluya, Aleluya/\nG            C       G        C\nRecitado o Cantilado"
+    },
+    {
+      "id": "02-aleluya-2-pop-daniel-ochoa",
+      "titulo": "Aleluya II, Pop, Daniel Ochoa (G)",
+      "seccion": "Aclamación antes del Evangelio",
+      "paginas": "40",
+      "letra": "          G            D        C                G\n/Aleluya, Aleluya, Aleluuuuuya./\n\nAclamación\n/G        D        C          G/"
+    },
+    {
+      "id": "02-aleluya-3",
+      "titulo": "Aleluya III (G)",
+      "seccion": "Aclamación antes del Evangelio",
+      "paginas": "40",
+      "letra": " G           C       D          G          C       D          G\nAleluyaaa, Aleluyaaa, Aleluyaaa, Aleluyaa\n\nG                       C               D                           G\n/Danos, oh Señor, tu palabra que es verdad.\nG                      C              D                           G\nDanos, oh Señor, tu palabra que es amor./"
+    },
+    {
+      "id": "02-aleluya-4-gospel",
+      "titulo": "Aleluya IV, Góspel (G)",
+      "seccion": "Aclamación antes del Evangelio",
+      "paginas": "40",
+      "letra": "Adapt. Tu palabra me da vida\n\n    F            Bb             F             C7\n/Aleluya, Aleluya, Aleluya, Aleluya,\nF             Bb            F      Bb C7 F\nAleluya, Aleluya, Aleluuya/\n\nF                    Bb       F                       C7\nDios, nos Amó, y nos envió a su hijo,\n             F                          Bb        F                Bb  C7  F\nComo víctima de expiación, por nuestros pecados"
+    },
+    {
+      "id": "02-aleluya-5-ranchero",
+      "titulo": "Aleluya V, Ranchero, Mary Francés Reza (Salmo 117)",
+      "seccion": "Aclamación antes del Evangelio",
+      "paginas": "40",
+      "letra": "   Em      D             C     B7   Em        D            C B7  Em\nAleluya, Aleluya, Aleluya, Aleluya, Aleluya, Aleluya\n\n             Em                                         B7\nDen gracias, Señor, porque eres bueno,\n                                                  Em   D\nporque es eterna su misericordia.\nG                               D       C                                   B7\nDiga la casa de Israel: “Eterna es su misericordia”."
+    },
+    {
+      "id": "02-aleluya-7-tu-palabra-creo-la-tierra",
+      "titulo": "Aleluya VII, Tu Palabra Creó la Tierra (D)",
+      "seccion": "Aclamación antes del Evangelio",
+      "paginas": "40",
+      "letra": "G D        Em        C   G      D   G D          Em       C  D7 G\nD A        Bm        G   D     A    D A          Bm      G  A   D\nA Aleluya,           A Aleluya A Aleluya,           Aleluya\n\nD                       A        Bm        G                 D                      A\nTu palabra creo la tierra, El mar, el cielo y la hierba\nD                    A        Bm             G                 A         D\nTu palabra creo el amor, Y lo diste a cada corazón"
+    },
+    {
+      "id": "02-aleluya-8-junto-a-ti-jesus",
+      "titulo": "Aleluya VIII, Junto a Ti Jesús (D), Kairoi",
+      "seccion": "Aclamación antes del Evangelio",
+      "paginas": "40",
+      "letra": "   D       A7 G        A  D       A7   G- A-D A7\n/Aleluya, Aleluya, Aleluya, Aleluya/\n\nD                     A           Bm F#m\nJunto a ti Jesús Rezare,\nG                Em           A7      G-A7\ntu palabra quiero vivir\nD                     A           Bm F#m\nTú me haces sencillo Señor,\nG                Em           A7\nEn tus manos me dejare\n\n   D       A7 G        A  D       A7   G- A-D A7\n/Aleluya, Aleluya, Aleluya, Aleluya/"
+    },
+    {
+      "id": "02-aleluya-9-joscar-salazar",
+      "titulo": "Aleluya IX, Joscar Salazar",
+      "seccion": "Aclamación antes del Evangelio",
+      "paginas": "40",
+      "letra": "       A             E             D      E         A\nAleluya, aleluya, aleluya, Aleluya\n\nAclamación\n/A               D                 E                   A/"
+    },
+    {
+      "id": "02-aleluya-10-joscar-salazar",
+      "titulo": "Aleluya X, Joscar Salazar",
+      "seccion": "Aclamación antes del Evangelio",
+      "paginas": "40",
+      "letra": "A                 E      F#m              C#m  D                 E              A   E\nAleluya, aleluya, Aleluya, aleluya, Aleluya, aleeeelu   ya\n\nAclamación (mismos acordes)"
+    },
+    {
+      "id": "02-aleluya-11-juan-p-gamboa",
+      "titulo": "Aleluya XI, Juan P. Gamboa",
+      "seccion": "Aclamación antes del Evangelio",
+      "paginas": "40",
+      "letra": "E              B7          A    B7        A B7  (E)\n/Aleluya, aleluya, aleluuuya. /\n\n        E                         B7                C#m             G#m\nDichosos los perseguidos por causa de la justicia,\n                    A                  F#7                 B7\nPorque de ellos es el Reino de los cielos."
+    },
+    {
+      "id": "02-aleluya-12-pop-ii",
+      "titulo": "Aleluya XII, Pop II",
+      "seccion": "Aclamación antes del Evangelio",
+      "paginas": "40",
+      "letra": "D                G     D         G                A7\nAleluya, aleluya, aleluya, Aleluya\nD                G     D         G       A7     D\nAleluya, aleluya, aleluya, Aleluya\n\nD                  G              D              G                A7\nEscucha, pueblo de Dios, la palabra del Señor.\nD             G          D                G       A7     D\nLámpara a mis pies, gozo en mi corazón."
+    },
+    {
+      "id": "02-aleluya-los-hare-pescadores",
+      "titulo": "Aleluya - Los Haré Pescadores (Gaita Margariteña)",
+      "seccion": "Aclamación antes del Evangelio",
+      "paginas": "41",
+      "letra": "Bm B7     Em         Bm        F#7      Bm\n           Aleluya, Aleluya, aleluya, Aleluya.\nB7 Em- A7-Dmaj7           F#9             Bm\n       Aleluya, Aleluya, aleluya, Aleluya.\n\nBm                                          B7                Em\nVirgen del Valle Bendita danos hoy tu bendición,\n                                 F#7                                               Bm\nPor ser la madre de Dios, El Mundo Entero te Admira\nBm                                B7                      Em\nVirgen María Santísima, Dichosa Eres Tú.\n                                F#7\nDigna de toda alabanza,\n                                    Bm              Em            Bm\nPorque de ti nació el Sol de la Justicia Jesucristo,\n                F#7           Bm   B7\nNuestro Dios, Aleluya\n\nEl Señor ha dicho a todos que lo sigan sin temor:\nYo, los hare pescadores. Pescadores de tu Reino.\nDejando, dejando todo lo siguieron sin Temor,\ny el Mundo Celebra el Triunfo.\nDe Dios sobre las tinieblas, el Señor ha dicho a Todos\nQue lo Sigan sin temor.\n\nVirgen del Valle Bendita danos hoy tu bendición,\nPor ser la madre de Dios: El Mundo Entero te Admira.\nDespués de Aquella Visita que le hiciste a Isabel:\nEl niño salto en tu vientre.\nPorque el Dios omnipotente vino al mundo a redimirnos\nAleluya, aleluya."
+    },
+    {
+      "id": "02-aleluya-14-alabad-al-senor",
+      "titulo": "Aleluya XIV, Alabad al Señor (Alberto Taulé)",
+      "seccion": "Aclamación antes del Evangelio",
+      "paginas": "41",
+      "letra": "G     Em        A7 D      G Em    A7 D7 G\nAleluya, Aleluya, aleluya, aleluuuuya.\n\n         G            Em               D7     Am\n1. Alabad al Señor en su templo,\n       Em                  A7                D7\nAlabadlo en su fuerte firmamento.\n       G                     G7             Am   B7\nAlabadlo por sus obras magnificas,\n         G     E7              A D7            G\nAlabadlo por su inmensa grandeza.\n\n2. Alabadlo tocando trompetas,\nAlabadlo con arpas y cítaras.\nAlabad con tambores y danzas,\nAlabadlo con trompas y flautas.\n\n3. Alabadlo con platillos sonoros,\nAlabadlo con platillos vibrantes.\nTodo ser que alienta\nAlabe al Señor, Aleluya."
+    },
+    {
+      "id": "02-aleluya-16-misa-ii-joscar-salazar",
+      "titulo": "Aleluya XVI, Misa II, Joscar Salazar",
+      "seccion": "Aclamación antes del Evangelio",
+      "paginas": "41",
+      "letra": "Circulo D              Bm           G                   Asus4 A7\n/Aleluya, Aleluya, Alabemos al Señor./\n\nAclamación\nAleluya…"
+    },
+    {
+      "id": "02-aleluya-17-jose-antonio-joscar-salazar",
+      "titulo": "Aleluya XVII, José Antonio y Joscar Salazar",
+      "seccion": "Aclamación antes del Evangelio",
+      "paginas": "41",
+      "letra": "Circulo, vals: / F C7 Dm7 Am7 Bb G9 C7 / F\n/ Aleluya, aleluya, aleluya, aleluya /\n\nGracias, Señor por llamarme,\npor invitarme a servir en tu mesa,\nGracias, por llamarme, he aquí,\nque tu siervo escucha.\n\n/ Aleluya, aleluya, aleluya /"
+    },
+    {
+      "id": "02-aleluya-18-lento",
+      "titulo": "Aleluya XVIII, Lento",
+      "seccion": "Aclamación antes del Evangelio",
+      "paginas": "41",
+      "letra": "      G            C     Am    D    C   D   G\nAleluya, aleluya, aleluya, aleluya."
+    },
+    {
+      "id": "02-aleluya-19-tu-palabra-es-como-el-fuego",
+      "titulo": "Aleluya XIX, Tu Palabra es Como el Fuego",
+      "seccion": "Aclamación antes del Evangelio",
+      "paginas": "41",
+      "letra": "          Em\nTu palabra es como el fuego\n                                       B7  Em  E7\nque quema mi boca. Aleluya.\nAm\nTu palabra es como el martillo\n                          Em    B7    Em\nque rompe la roca. Aleluya"
+    },
+    {
+      "id": "02-aleluya-20-porque-nuestro-dios-reina",
+      "titulo": "Aleluya XX, Porque Nuestro Dios Reina",
+      "seccion": "Aclamación antes del Evangelio",
+      "paginas": "41",
+      "letra": "E                           A             E                F#        B7\nAleluya porque nuestro Dios reina con poder.\nE                           A             E                B7       E\nAleluya porque nuestro Dios reina con poder"
+    },
+    {
+      "id": "02-aleluya-16b-ccnb-brasilero",
+      "titulo": "Aleluya XVI, CCNB (Brasilero)",
+      "seccion": "Aclamación antes del Evangelio",
+      "paginas": "41",
+      "letra": "Dm                      F     A7                            Dm\n/Aleluya, aleluya, aleluya, aleluya/\n\nDm                                     Bb       C                            Dm\n/los he elegido del mundo, esto dice el Señor,\n                                                F     A7                                  Dm\npara que vayan y den fruto y su fruto permanezca. /\n\nAleluya, aleluya, aleluya /"
+    },
+    {
+      "id": "02-aleluya-17b-marco-lopez-ii",
+      "titulo": "Aleluya XVII, Marco López II",
+      "seccion": "Aclamación antes del Evangelio",
+      "paginas": "41",
+      "letra": "  C          G       F   G        C\n/A - Aleluya, A - Aleluya\nC          G              F         G    C\nA - Aleluya, Aleluya, Aleluya./"
+    },
+    {
+      "id": "02-versiculos-adviento",
+      "titulo": "Versículos para los Domingos - Adviento",
+      "seccion": "Versículos antes del Evangelio",
+      "paginas": "42",
+      "letra": "I Domingo de Adviento C\nMuéstranos, Señor, tu misericordia\ny danos tu salvación.\n\nII Domingo de Adviento C\nPreparen el camino del Señor, hagan rectos sus senderos\ny todos los hombres verán al salvador.\n\nIII Domingo de Adviento C\nEl Espíritu del Señor está sobre mí.\nMe ha enviado para anunciar la buena nueva a los pobres.\n\nIV Domingo de Adviento C\nYo soy la esclava del Señor;\nQue se cumpla en mí lo que me has dicho."
+    },
+    {
+      "id": "02-versiculos-navidad",
+      "titulo": "Versículos para los Domingos - Navidad",
+      "seccion": "Versículos antes del Evangelio",
+      "paginas": "42",
+      "letra": "La Natividad del Señor\nMisa vespertina de la vigilia\nMañana será destruida la maldad en la tierra\nY reinará sobre nosotros el Salvador del mundo.\n\nMisa de Media Noche\nLes anuncio una gran alegría\nHoy nos ha nacido una gran alegría\nHoy nos ha nacido el Salvador,\nQue es Cristo, el Señor.\n\nMisa del Día.\nUn día sagrado ha brillado para nosotros\nVengan naciones, y adoren al Señor,\nPorque hoy ha descendido una gran luz sobre la tierra.\n\nLa Sagrada Familia\nQue en sus corazones reine la paz de Cristo;\nQue la palabra de Cristo habite en ustedes con toda su riqueza.\n\n31 de Diciembre\nAquel que es la palabra se hizo hombre\nY habitó entre nosotros,\nA todos los que lo recibieron\nLes concedió poder llegar a ser hijos de Dios.\n\n1 de Enero, María Santísima Madre de Dios\nEn distintas ocasiones y de muchas maneras\nHabló Dios en el pasado a nuestros padres, por la boca de los profetas.\nAhora, en estos tiempos, nos ha hablado por medio de su hijo.\n\nLa Epifanía del Señor C\nHemos visto su estrella en el oriente\nY hemos venido a adorar al Señor."
+    },
+    {
+      "id": "02-versiculos-pascua",
+      "titulo": "Versículos para los Domingos - Pascua",
+      "seccion": "Versículos antes del Evangelio",
+      "paginas": "42",
+      "letra": "Domingo de Pascua, La Resurrección Del Señor. Cfr. 1 Cor, 7-8\nCristo, nuestro cordero pascual, ha sido inmolado;\nCelebramos, pues, la pascua.\n\nII Domingo de Pascua C - Jn 20, 29\nTomás tú crees porque has visto.\nDichosos los que creen sin haberme visto, Dice el Señor.\n\nIII Domingo de Pascua C\nHa resucitado Cristo, que creó todas las cosas\nY se compadeció de todos los hombres.\n\nIV Domingo de Pascua C - Jn 10, 14\nYo soy el buen pastor, dice el Señor;\nYo conozco a mis ovejas y ellas me conocen a mí.\n\nV Domingo de Pascua C - Jn 13, 34\nLes doy un mandamiento nuevo, dice el Señor.\nQue se amen los unos a los otros, como yo los he amado.\n\nVI Domingo de Pascua C - Jn 14, 23\nEl que me ama, cumplirá mi palabra, dice el Señor;\nY mi padre lo amará y vendremos a él.\n\nDomingo de la Ascensión del Señor C - Mt 28, 19. 20\nVayan y enseñen a todas las naciones, dice el Señor,\nY sepan que yo estaré con ustedes todos los días\nHasta el fin del mundo.\n\nDomingo de Pentecostés.\nMisa vespertina de la vigilia y Misa del Día.\nVen, Espíritu Santo, llena los corazones de tus fieles\nY enciende en ellos el fuego de tu amor."
+    },
+    {
+      "id": "02-versiculos-tiempo-ordinario",
+      "titulo": "Versículos para los Domingos - Tiempo Ordinario",
+      "seccion": "Versículos antes del Evangelio",
+      "paginas": "42-44",
+      "letra": "El Bautismo del Señor C. - Cfr. Mc 9, 7\nSe abrió el cielo y resonó la voz del padre, que decía:\n“Este es mi Hijo amado; escúchenlo”\n\nII Domingo Ordinario C. - Cfr. 2 Tes 2, 14\nDios nos ha llamado, por medio del Evangelio,\nA participar de la gloria de nuestro Señor Jesucristo.\n\nIII Domingo Ordinario C. - Lc 4, 18\nEl Señor me ha enviado\nPara anunciar a los pobres la buena nueva\nY proclamar la liberación a los cautivos.\n\nIV Domingo Ordinario C. - Lc 4, 18\nEl Señor me ha enviado\nPara anunciar a los pobres la buena nueva\nY proclamar la liberación a los cautivos.\n\nV Domingo Ordinario C. - Mt 4, 19\nSíganme, dice el Señor,\nY yo los haré pescadores de hombres.\n\nVI Domingo Ordinario C. - Lc 6, 23\nAlégrense ese día y salten de gozo,\nPorque su recompensa será grande en el cielo, Dice el Señor.\n\nVII Domingo Ordinario C. - Jn 13, 34\nLes doy un mandamiento nuevo, dice el Señor.\nQue se amen los unos a los otros, como yo los he amado.\n\nVIII Domingo Ordinario C. - Flp 2, 15. 16\nIluminen al mundo con la luz del evangelio\nReflejada en su vida.\n\nIX Domingo Ordinario C. - Jn 3, 16\nTanto amó Dios al mundo, que le entregó a su Hijo único,\nPara que todo el que crea en él tenga vida eterna.\n\nNuestro Señor Jesucristo, Sumo y Eterno Sacerdote. - Is 42, 1\nMiren a mi siervo, A quien sostengo;\nA mi elegido, en quien tengo mis complacencias.\nEn él he puesto mi espíritu,\nPara que haga brillar la justicia sobre las naciones.\n\nLa Santísima Trinidad.\nGloria al Padre y al Hijo y al Espíritu Santo.\nAl Dios que es, que era y que vendrá.\n\nEl Cuerpo y la Sangre de Cristo. - Jn 6, 51\nYo soy el pan vivo que ha bajado del cielo, dice el Señor;\nEl que coma de este pan vivirá para siempre.\n\nEl Sagrado Corazón de Jesús. - Mt 11, 29\nTomen mi yugo sobre ustedes, dice el Señor,\nY aprendan de mí, que soy manso y humilde de corazón.\n\nEl Corazón Inmaculado de María.\nDichosa la virgen María,\nQue guardaba la palabra de Dios\nY la meditaba en su corazón.\n\nX Domingo Ordinario C. - Lc 7, 16\nUn gran profeta ha surgido entre nosotros.\nDios ha visitado a su pueblo.\n\nXI Domingo Ordinario C. - Cfr. 1 Jn 4. 10\nDios nos amó y nos envió a su Hijo,\nComo víctima de expiación por nuestros pecados.\n\nXII Domingo Ordinario C. - Jn 10, 27\nMis ovejas escuchan mi voz, dice el Señor,\nYo las conozco y ellas me siguen.\n\nXIII Domingo ordinario C. - 1 Sam 3, 9; Jn 6, 68\nHabla, Señor, que tu siervo escucha.\nTú tienes palabras de vida eterna.\n\nXIV Domingo ordinario C. - Col 3, 15. 16\nQue en sus corazones reine la paz de Cristo;\nQue la palabra de Cristo habite en ustedes con toda su riqueza.\n\nXV Domingo ordinario C. - Cfr. Jn 6, 63. 68\nTus palabras, Señor, son espíritu y vida.\nTú tienes palabras de vida eterna.\n\nXVI Domingo ordinario C. - Cfr. Lc 8, 15\nDichosos los que cumplen la palabra del Señor\nCon un corazón bueno y sincero,\nY perseveran hasta dar fruto.\n\nXVII Domingo Ordinario C. - Rom 8, 15\nHemos recibido un espíritu de hijos,\nQue nos hace exclamar: ¡Padre!\n\nXVIII Domingo ordinario C. - Mt 5, 3\nDichosos los pobres de espíritu,\nPorque de ellos es el Reino de los cielos.\n\nXIX Domingo Ordinario C. - Mt 24, 42. 44\nEstén preparados, porque no saben\nA qué hora va a venir el Hijo del hombre.\n\nXX Domingo Ordinario C. - Jn 10, 27\nMis ovejas escuchan mi voz, dice el Señor;\nYo las conozco y ellas me siguen.\n\nXXI Domingo Ordinario C. - Jn 14, 6\nYo soy el Camino, la Verdad y la vida;\nNadie va al Padre, sino es por mí, dice el Señor.\n\nXXII Domingo Ordinario C. - Mt 11, 29\nTomen mi yugo sobre ustedes, dice el Señor,\nY aprendan de mí, que soy manso y humilde de corazón.\n\nXXIII Domingo Ordinario C. - Sal 118, 135\nSeñor, mira benignamente a tus siervos\nY enséñanos a cumplir tus mandamientos.\n\nXXIV Domingo Ordinario C. - 2 Cor 5, 19\nDios ha reconciliado consigo al mundo, por medio de Cristo,\nY nos ha encomendado a nosotros el mensaje de la reconciliación.\n\nXXV Domingo Ordinario C. - 2 Cor 8, 9\nJesucristo, siendo rico, se hizo pobre,\nPara enriquecernos con su pobreza.\n\nXXVI Domingo Ordinario C. - 2 Cor 8, 9\nJesucristo, siendo rico, se hizo pobre,\nPara enriquecernos con su pobreza.\n\nXXVII Domingo Ordinario C. - 1 Pedro 1, 25\nLa palabra de Dios permanece para siempre.\nY ésa es la palabra que se les ha anunciado.\n\nXXVIII Domingo Ordinario C. - 1 Tes 5, 18\nDen gracias siempre, unidos a Cristo Jesús,\nPues esto es lo que Dios quiere que ustedes hagan.\n\nXXIX Domingo Ordinario C. - Heb 4, 12\nLa palabra de Dios es viva y eficaz\nY descubre los pensamientos\nE intenciones del corazón.\n\nXXX Domingo Ordinario C. - 2 Cor 5, 19\nDios ha reconciliado consigo al mundo, por medio de Cristo,\nY nos ha encomendado a nosotros el mensaje de la reconciliación.\n\nXXXI Domingo Ordinario C. - Jn 3, 16\nTanto amó Dios al mundo, que le entregó a su Hijo único,\nPara que todo el que crea en él tenga vida eterna.\n\nXXXII Domingo Ordinario C. - Apoc 1, 5. 6\nJesucristo es el primogénito de los muertos;\nA él sea dada la gloria y el poder por siempre.\n\nXXXIII Domingo Ordinario C. - Lc 21, 28\nEstén atentos y levanten la cabeza,\nPorque se acerca la hora de su liberación, dice el Señor.\n\nNuestro Señor Jesucristo Rey del Universo C. - Mc 11, 9. 10\n¡Bendito el que viene en el nombre del Señor!\n¡Bendito el reino que llega, el reino de nuestro padre David!"
+    },
+    {
+      "id": "02-honor-y-gloria-rufino-zaragoza",
+      "titulo": "Honor y Gloria a Ti (G), Rufino Zaragoza",
+      "seccion": "Cuaresma",
+      "paginas": "46",
+      "letra": "         D      G        A | D     G   A  | F#m G A  |  G    Asus4   A\n/Honor y Gloria a Ti Señor Jesús/\n         D      G     Em | F#m  G  A  | Bm  A  G | Em  Asus4  A7\n/Honor y Gloria a Ti Señor Jesús/\n\nMiércoles de ceniza\n Bm                                A\nUstedes pueden hoy Oír,\n   G                    F#7\nOír la voz de Dios,\n        Bm        A               C         A7  G A7\nNo se resistan en sus corazones."
+    },
+    {
+      "id": "02-honor-y-gloria-a-ti-senor-jesus-e",
+      "titulo": "Honor y Gloria a Ti, Señor Jesús (E)",
+      "seccion": "Cuaresma",
+      "paginas": "46",
+      "letra": "     E         G#m     C#m   A       E           B7      E\n/Honor y Gloria a ti, Señor Jesús, Señor Jesús/\n\n       E                               A\nHagámosle caso al Señor,\n                  E\nQue nos dice:\n                   B7                    E\n“No endurezcan su corazón”.\n\n       E          G#     C#m   A       E           B7      E\n/ Honor y Gloria a ti, Señor Jesús, Señor Jesús/"
+    },
+    {
+      "id": "02-honor-y-gloria-joscar-salazar",
+      "titulo": "Honor y Gloria a Ti, Señor Jesús, Joscar Salazar",
+      "seccion": "Cuaresma",
+      "paginas": "46",
+      "letra": "       Am       C          Em                Am        C              Am\n/Honor y Gloria a Ti Señor, Honor y Gloria a Ti Señor\n       Am       C         Em                 Am        C      Am      G          C\nHonor y Gloria a Ti Señor Honor y Gloria a Ti Señor Jesús/\n\n         Am                    C          Em       Am   C       Am\nLes doy un mandamiento nuevo, dice el Señor.\n                Am           C                Em              Am            G       C\nQue se amen los unos a los otros, como yo los he amado."
+    },
+    {
+      "id": "02-honor-y-gloria-edixon-fernandez",
+      "titulo": "Honor y Gloria, Edixon Fernández y Joscar Salazar",
+      "seccion": "Cuaresma",
+      "paginas": "46",
+      "letra": "    Em                        D        C  B7 Em\nHonor y Gloria a ti, Señor Jesús.\n    Em                        C        G D7 G    B7\nHonor y Gloria a ti, Señor Jesús.\n    Em                        D        C  B7 Em\nHonor y Gloria a ti, Señor Jesús.\n\nEm                           D\nNo solo de pan vive el hombre,\n                C                        B7\nSino también de toda palabra\n         C                 D            C  B7\nQue sale de la boca de Dios.\n\n    Em                        D        C  B7 Em\nHonor y Gloria a ti, Señor Jesús."
+    },
+    {
+      "id": "02-honor-y-gloria-aldo-blanco",
+      "titulo": "Honor y Gloria, Aldo Blanco (Caicara)",
+      "seccion": "Cuaresma",
+      "paginas": "46",
+      "letra": "          Em     D                   Em        D\n/Honor y Gloria a ti, Honor y Gloria a ti,\n         G        D         C     B7           Em\n Honor y Gloria a ti, Señor Jesús. /"
+    },
+    {
+      "id": "02-honor-y-gloria-solemne-dyland-doccio",
+      "titulo": "Honor y Gloria, Solemne, Dyland Doccio",
+      "seccion": "Cuaresma",
+      "paginas": "46",
+      "letra": "          F#m     E          F#m       E        D           E                F#m\n/Honor y Gloria a ti, Señor Jesús, Honor y Gloria a ti.\n\n       F#m                                                   D\nHagámosle caso al Señor que nos dice:\n                 C#7                       F#m\n“No endurezcan su corazón.”\n\n          D          E     F#m     C#7      Bm7      E                    F#m\n/Honor y Gloria a ti, Señor Jesús, Honor y Gloria a ti."
+    },
+    {
+      "id": "02-gloria-y-honor-marco-frisina",
+      "titulo": "Gloria y Honor a Ti, Marco Frisina",
+      "seccion": "Cuaresma",
+      "paginas": "46",
+      "letra": "   D                           Am        F         D\n/Gloria y Honor a ti, Señor Jesús./\n\nD                                                       Am\nEn el esplendor de la nube se oyó la voz del padre que decía:\nF                                                    D\nEste es mi hijo amado Escúchenlo\n\n   D                           Am        F         D\n/Gloria y Honor a ti, Señor Jesús./\n\n              C              Am      Eb\nGloria a ti, Gloria ti, Señor Jesús.\n              Bb                       Dm     A\nGloria a ti, Gloria ti, Señor, Jesús"
+    },
+    {
+      "id": "02-honor-y-gloria-malagon-em",
+      "titulo": "Honor y Gloria a Ti, Señor Jesús (Em), Juan Carlos Malagón Hurtado",
+      "seccion": "Cuaresma",
+      "paginas": "46",
+      "letra": "      Em                   D           C                  B7\n/Honor y gloria a ti, honor y gloria a ti,\n      C                       G        Am                 B7\nhonor y gloria a ti, Señor, Señor Jesús/\n\nEm                                                        D\nHagámosle caso al Señor que nos dice:\nC                                                    B7        Em\n“No endurezcan su corazón.” Su corazón"
+    },
+    {
+      "id": "02-honor-y-gloria-malagon-gm",
+      "titulo": "Honor y Gloria a Ti, Señor Jesús (Gm), Juan Carlos Malagón Hurtado",
+      "seccion": "Cuaresma",
+      "paginas": "46",
+      "letra": "      Gm                                  Dm       Eb                  Bb   D7\n/Honor y gloria, honor y gloria a ti, Señor, Jesús/\n\n                    Gm\nNo solo de pan vive el hombre,\n                                         F\nSino también de toda palabra\n         Eb                             D7\nQue sale de la boca de Dios."
+    },
+    {
+      "id": "02-textos-comunes-aclamaciones-cuaresma",
+      "titulo": "Textos Comunes para Aclamaciones (Cuaresma)",
+      "seccion": "Cuaresma",
+      "paginas": "47",
+      "letra": "Aclamaciones substitutivas del aleluya para el tiempo de cuaresma.\n\n1. Gloria y alabanza a ti, Cristo.\n2. Gloria a ti, Cristo, Sabiduría de Dios Padre.\n3. Gloria a ti, Cristo, Palabra de Dios.\n4. Gloria a ti, Señor, Hijo de Dios vivo.\n5. Alabanza y honor a ti, Señor Jesús.\n6. Alabanza a ti, Cristo, rey de la gloria eterna.\n7. Grandes y maravillosas son tus obras, Señor.\n8. La salvación y la gloria y el poder son del Señor Jesucristo."
+    },
+    {
+      "id": "02-versiculos-cuaresma",
+      "titulo": "Versículos para los Domingos y Liturgias Especiales de Cuaresma",
+      "seccion": "Cuaresma",
+      "paginas": "47",
+      "letra": "Miércoles de Ceniza - Cfr. Sal 94, 8\nHagámosle caso al Señor, que nos dice:\n“No endurezcan su corazón”.\n\nI Domingo de cuaresma C.\nNo solo de pan vive el hombre,\nSino también de toda palabra\nQue sale de la boca de Dios.\n\nII Domingo de cuaresma C.\nEn el esplendor de la nube se oyó la voz del padre,\nque decía: “Este es mi Hijo amado: Escúchenlo”\n\nIII Domingo de cuaresma C.\nConviértanse, dice el Señor,\nPorque ya está cerca el Reino de los cielos.\n\nIV Domingo de cuaresma C.\nMe levantaré, volveré a mi padre y le diré:\n“¡Padre, he pecado contra el cielo y contra ti!”.\n\nV Domingo de cuaresma C.\nTodavía es tiempo, dice el Señor.\nArrepiéntanse de todo corazón y vuélvanse a mí,\nQue soy compasivo y misericordioso.\n\nViernes de la V semana de Cuaresma.\nTus palabras, Señor, son espíritu y vida.\nTú tienes palabras de vida eterna.\n\nDomingo de Ramos y Viernes santo.\nCristo se humilló por nosotros\nY por obediencia aceptó incluso la muerte\nY una muerte de cruz.\nPor eso Dios lo exaltó sobre todas las cosas\nY le otorgó el nombre que está sobre todo nombre.\n\nLunes a miércoles Santo.\nSeñor Jesús, rey nuestro,\nSolo tú has tenido compasión de nuestras faltas.\n\nLunes a miércoles Santo.\nSeñor Jesús, rey nuestro,\nPara obedecer al padre, quisiste ser llevado a la cruz\nComo manso cordero al sacrificio.\n\nMisa Crismal.\nEl Espíritu del Señor está sobre mí.\nMe ha enviado para anunciar la buena nueva a los pobres.\n\nCena del Señor.\nLes doy un mandamiento nuevo, dice el Señor.\nQue se amen los unos a los otros, como yo los he amado."
+    },
+    {
+      "id": "02-ferias-de-cuaresma",
+      "titulo": "Ferias de Cuaresma (Textos antes del Evangelio)",
+      "seccion": "Cuaresma",
+      "paginas": "47-48",
+      "letra": "Estos textos pueden usarse en lugar de los que se hallan cada día antes del evangelio.\n\n1. Sal 50, 12a. 14a\nOh Dios, crea en mí un corazón puro, devuélveme la alegría de tu salvación.\n\n2. Sal 94, 8ab\nNo endurezcáis hoy vuestro corazón; escuchad la voz del Señor.\n\n3. Sal 129, 5. 7\nEspero en el Señor, espero en su palabra, porque de él viene la misericordia, la redención copiosa.\n\n4. Ez 18, 31\nQuitaos de encima vuestros delitos —dice el Señor—, y estrenad un corazón nuevo y un espíritu nuevo.\n\n5. Ez 33, 11\nNo quiero la muerte del malvado —dice el Señor—, sino que cambie de conducta y viva.\n\n6. Jl 2, 12-13\nAhora —oráculo del Señor— convertíos a mí de todo corazón, porque soy compasivo y misericordioso.\n\n7. Am 5, 14\nBuscad el bien y no el mal, y viviréis, y así estará con vosotros el Señor.\n\n8. Mt 4, 4b\nNo sólo de pan vive el hombre, sino de toda palabra que sale de la boca de Dios.\n\n9. Mt 4, 17\nConvertíos —dice el Señor—, porque está cerca el reino de los cielos.\n\n10. Cf. Lc 8, 15\nDichosos los que con un corazón noble y generoso guardan la palabra de Dios y dan fruto perseverando.\n\n11. Lc 15, 18\nMe pondré en camino adonde está mi padre, y le diré: «Padre, he pecado contra el cielo y contra ti.»\n\n12. Jn 3, 16\nTanto amó Dios al mundo que entregó a su Hijo único; todos los que creen en él tienen vida eterna.\n\n13. Jn 6, 63b. 68b\nTus palabras, Señor, son espíritu y vida; tú tienes palabras de vida eterna.\n\n14. Jn 8, 12b\nYo soy la luz del mundo —dice el Señor—; el que me sigue tendrá la luz de la vida.\n\n15. Jn 11, 25a. 26\nYo soy la resurrección y la vida —dice el Señor—; el que cree en mí no morirá para siempre.\n\n16. 2 Co 6, 2b\nAhora es tiempo favorable, ahora es día de salvación.\n\n17.\nLa semilla es la palabra de Dios, el sembrador es Cristo; quien lo encuentra vive para siempre."
+    },
+    {
+      "id": "02-gloria-a-ti-por-siempre",
+      "titulo": "Gloria a Ti por Siempre",
+      "seccion": "Cantos sobre la Palabra",
+      "paginas": "49",
+      "letra": "L: J. A. Olivar; M: José L. Núñez\n\nD                                                 G                    A7\nGloria a ti por siempre, Por siempre, por siempre\nD                                                 A7           D A7 D\nGloria a ti por siempre, por siempre, Amen.\n\nD          Bm            D                Bm7        D\n1. Cielo y tierra cantad himnos al creador,\n    G            A7                D               E7           A\nDecidle al viento y al mar: la gloria del Señor\n\n2. Pueblos en libertad, campos en esplendor\nDecidle a la humanidad: la gloria del Señor\n\n3. Siempre cantaré, siempre alabaré,\nLas maravillas de Dios: la gloria del Señor"
+    },
+    {
+      "id": "02-los-que-dan-una-mano",
+      "titulo": "Los que Dan una Mano (G)",
+      "seccion": "Cantos sobre la Palabra",
+      "paginas": "49",
+      "letra": "           G                                      C                             Em\n1. Los que tienen y nunca se olvidan Que a otros les falta\n   G     C      D\nLos que nunca usaron la fuerza sino la razón\n  G                                           G7  C\nLos que dan una mano y ayudan a los que han caído\n  G        D  G\nEsa gente es feliz porque vive muy cerca de Dios\n\n   D         G\nAleluya, Aleluya\n                  C                                       D  G\nPor esa gente que vive y que siente en su vida el amor."
+    },
+    {
+      "id": "02-queremos-escuchar-tu-voz",
+      "titulo": "Queremos Escuchar tu Voz (C)",
+      "seccion": "Cantos sobre la Palabra",
+      "paginas": "49",
+      "letra": "C                                                     F\nQueremos escuchar tu voz o Jesús\nC                                                        G\nVivir tu amor en plenitud y cambiar\n                  F                         G\n/Nuestras vidas nuestro ser\n C                                    Am\nDando fruto de este amor\n                   F                       G                 C C7\nSiendo testimonio en nuestro caminar/\n                   F                        G                Fm  C\n/Siendo testimonio en nuestro caminar/"
+    },
+    {
+      "id": "02-tu-palabra-e",
+      "titulo": "Tu Palabra (E)",
+      "seccion": "Cantos sobre la Palabra",
+      "paginas": "49",
+      "letra": "E        B7         C#m\nTu palabra me da vida,\n   G#m          A\nTu palabra es amor,\n     E          B7          E\nTu palabra es eterna, confió en ti Señor."
+    },
+    {
+      "id": "02-tu-palabra-me-da-vida-espinosa",
+      "titulo": "Tu Palabra me da Vida (Salmo 118), J. A. Espinosa",
+      "seccion": "Cantos sobre la Palabra",
+      "paginas": "49",
+      "letra": "          D      F#m     G   D                  Bm     G   A7\nTu Palabra me da Vida, Confió en ti, Señor\n            D     F#m    G    D    Bm    G-A7-D A7\nTu Palabra es eterna, En ella esperare\n\n        D                         G             D           F#m\n1. Dichoso el que con vida intachable\n       Bm            A             D\nCamina en la ley del Señor\nDichoso el que guardando sus preceptos\nLo Busca de todo corazón.\n\n2. Postrada en el polvo está mi alma,\ndevuélvame la vida tu palabra.\nMi alma está llena de tristeza,\nconsuélame Señor con tus promesas.\n\n3. Escogí el camino verdadero,\nY he tenido presente tus decretos,\nCorreré por el camino del Señor\nCuando me hayas ensanchado el corazón\n\n4. Este es mi consuelo en la tristeza:\nSentir que tu palabra me da vida.\nPor las noches me acuerdo de tu nombre,\nRecorriendo tu camino, dame vida.\n\n5. Repleta está la tierra de tu gracia,\nEnséñame Señor tus decretos,\nMi herencia son tus mandatos:\nAlegría de nuestro corazón."
+    },
+    {
+      "id": "02-tu-palabra-senor-da-la-vida",
+      "titulo": "Tu Palabra, Señor, da la Vida, Joaquín Madruga",
+      "seccion": "Cantos sobre la Palabra",
+      "paginas": "49",
+      "letra": "           E              A               E\nTu palabra, Señor, da la vida\n           F#m                E        B7\nTu palabra, Señor, da la Paz\n             E             E7         A    Am\nTu palabra, Señor, es Eterna\n          E           B7                     E\nTu palabra, Señor, es la Verdad"
+    },
+    {
+      "id": "02-aceptalo",
+      "titulo": "Acéptalo (C)",
+      "seccion": "Presentación de Dones",
+      "paginas": "50",
+      "letra": "E                               A                         E    B7\n1. Yo que no tengo más, que tu alegría\nE                                A                          E\nYo que no tengo más, que tu esperanza\nF#7                                                 B7\nVengo con mi canción y mi guitarra\nF#7                                                A       E\nA ofrecerte mi vida ante tu altar\nE                               A                         E\nPerdona la pobreza de mi ofrenda\nE                        C#m                 F#M\nPerdona si no supe amar mejor\nB7                                                  E\nTú conoces mis pasos y mis obras\nF#7                        B7                    E\nTú sabes que no tengo nada más\n\n        E                              B7\n//Acéptalo es lo que tengo\n     A                 B7          E\nAcéptalo Señor del cielo\n      E            E7            A\nAcéptalo ante tu altar.\n                A                  Am   E\n/Acepta este pan y este vino\n             C#7                    F#m\nEnvía tu espíritu del cielo\n                            B7                        E\nY en cuerpo y sangre transformarás//\nB7                 E   B7                 E B7                 A Am E\nTransformarás, Transformarás, transformarás\n\n2. Que entre las piedras cantando va//\nLa oscura flor que cultive en mi alma\nLa traigo padre mío a tu presencia\nNació de tu semilla y mi pobreza\nPerdóname si no es bella\nSeñor Yo quiero unirla en un solo ramo\nCon las de mis hermanos Que aquí están\nY su tenue color hará más bella Las flores\nque te traigan los demás Yo que no tengo mi"
+    },
+    {
+      "id": "02-ante-tu-altar",
+      "titulo": "Ante tu Altar (D)",
+      "seccion": "Presentación de Dones",
+      "paginas": "50",
+      "letra": "F                Bb      C                    F\n/Ante tu altar hoy como hermanos\n                   Bb  C                           F        (F7)\nEl pan y el vino te presentamos. /\n\n   Bb                   C                                   Am      Dm\n1. /Fruto del sudor y del esfuerzo del hombre,\nBb                                      C\nSon transformados en cuerpo y sangre de\n Bb       C       F           F7\nNuestro Señor/\n\n2. Todos unidos en tu mano estamos\nY como trigo puro nos quieres sembrar\nPorque trigo que no muere solo se queda\nY el que muere y el que muere fruto eterno dará"
+    },
+    {
+      "id": "02-aqui-estamos-senor",
+      "titulo": "Aquí Estamos Señor",
+      "seccion": "Presentación de Dones",
+      "paginas": "50",
+      "letra": "D                                                                 A7\nAquí estamos Señor, al frente de tu altar.\n                                                                           D\nHoy queremos que tú, nos digas cómo amar.\n                                                                          D7\nQue nos des de tu pan, tu cuerpo Salvador.\nDe ese vino que es la sangre que en la cruz tú derramaste.\n\n             G                           A                             D               Bm\nCon el vino y con el pan,    nuestras vidas te ofrecemos\n              G          A7                     D  D7\nEn ti creemos,      te vamos a dar\n                        G    A                          D      Bm\nTodo lo que somos,      sin tener reservas\n                             G       A7                              D           (G A D)\nPues con esta ofrenda,           queremos cambiar."
+    },
+    {
+      "id": "02-bendito-seas-senor-palazon",
+      "titulo": "Bendito Seas Señor, Francisco Palazón",
+      "seccion": "Presentación de Dones",
+      "paginas": "50",
+      "letra": "     Dm      Gm  Dm                      Am          Dm\nBendito seas, Señor, por este pan y este vino\n                   C               F                 G                   A7\nQue generoso nos diste, para caminar contigo,\n         Dm              G              Dm                    Am Dm\nY serán para nosotros alimento en el camino.\n\nD                                     F#m        Bm        A7      D\n1. Te ofrecemos el trabajo, las penas y alegrías,\n     Em                       Bm  Em             E7       A\nEl pan que nos alimenta y el afán de cada día.\n\nD                                        F#m                    D              G D\n2. Te ofrecemos nuestro barro que oscurece nuestras vidas\nEm                       Bm  Em             E7       A\nY el vino que no empleamos para curar las heridas."
+    },
+    {
+      "id": "02-canta-conmigo-ines-garate",
+      "titulo": "Canta Conmigo, Inés Garate",
+      "seccion": "Presentación de Dones",
+      "paginas": "51",
+      "letra": "   E                                         B7\n1. Hemos venido a darte Señor\nC#m                                  G#m\nUna promesa de paz y verdad\nA                                      E                         B7\nPues nos ha dado por siempre la felicidad\nHoy te presentamos con el corazón,\nEl pan y el vino que es la bendición\nQue tú pusiste en la mesa de aquel pecador\n\nE                                                   B7      C#m               G#m\nCanta conmigo que, en las alturas, oye nuestro Señor\nA                                               E       A                            B7\nVoz en el cielo, luz en la tierra, Padre Cordero de amor\nPadre de toda la humanidad\nQue vive y sufre nuestra mezquindad\nHemos quedado entre las manos de esta dura sociedad\n\n2. Eres el agua que vida nos da,\nY así te olvidas de nuestra maldad,\nEs el regalo más firme que nos puedes dar,\nEs el momento debemos cambiar\nY no mirar jamás hacia atrás\nPara seguir el camino estrecho de andar."
+    },
+    {
+      "id": "02-espiritu-santo-derramate",
+      "titulo": "Espíritu Santo, Derrámate",
+      "seccion": "Presentación de Dones",
+      "paginas": "51",
+      "letra": "      E                          A      E\n1. Espíritu Santo, derrámate;\n            E                                   A                      E   B7\nsobre estas ofrendas, que hoy te presentamos.\n   A\nPara que se transformen\n           F#m                                                B7\nen el Cuerpo y Sangre de nuestro Señor.\n            A                              E\nY podamos comer, su Cuerpo.\n           A                            E\nY podamos beber, su Sangre.\n            A                             E\nY podamos comer, su Cuerpo.\n               B7      E\nVen, Espíritu Santo.\n\n2. Espíritu Santo, derrama hoy\nEn nuestras vidas tus siete dones\nPara que te alabemos\nY con gozo celebremos tu poder."
+    },
+    {
+      "id": "02-este-pan-y-vino-erdozain",
+      "titulo": "Este Pan y Vino, Carmelo Erdozáin",
+      "seccion": "Presentación de Dones",
+      "paginas": "51",
+      "letra": "E                                        C#m     B7        E\nEste pan y vino, Señor, se transformarán:\nC#m                                              A          B7           E\nEn tu cuerpo y sangre, Señor, en nuestro manjar.\n\n    E                      B               E                  B7                   E\n1. Gracias al sol y al labrador en el altar florecen hoy\nA         B7      F#m  C#m    E                                    B7\nLas espigas, los racimos que presentamos a Dios.\n\n2. Lo que sembré con mi dolor, lo que pedí en mi oración\nHoy son frutos, son ofrendas que presentamos a Dios."
+    },
+    {
+      "id": "02-esto-que-te-doy",
+      "titulo": "Esto Que te Doy, E. Ortiz Tirado",
+      "seccion": "Presentación de Dones",
+      "paginas": "51",
+      "letra": "   D                F#m     G                        A7\n1. Esto que te doy, es vino y pan Señor,\nEm                  F#m                   G - A7\nEsto que te doy es mi trabajo.\nG                  A7                      F#m                        Bm\nEs mi corazón, mi alma, es mi cuerpo y mi razón,\nG                        A7         D - A7\nEl esfuerzo de mi caminar.\n\nEsto que te doy, mi vida es Señor,\nEs mi amor, también es mi dolor.\nEs mi ilusión, mis sueños, Es mi gozo y mi llorar,\nEs mi canto y mi oración.\n\nD              F#m     G                        A7\nToma mi vida, ponla en tu corazón,\nD               F#m     G          A7\nDame tu mano y llévame.\nG                  A7                          F#m                        Bm\nCambia mi pan en tu carne Y mi vino en tu sangre\n        G          A7               D D7  G             A7         D\nY a mí Señor, renuévame, Límpiame y sálvame.\n\n3. Esto que te doy, no sólo yo Señor,\nEsta voz también es de mi hermano.\nEs la unión, la paz y el orden, La armonía y la felicidad,\nEs un canto en comunidad."
+    },
+    {
+      "id": "02-haz-que-ocurra-el-milagro",
+      "titulo": "Haz que Ocurra el Milagro",
+      "seccion": "Presentación de Dones",
+      "paginas": "52",
+      "letra": "D            A            Bm              F#m\n1. Junto a María venimos a ofrecer\n       G                   E       A   A7\nEl pan y el vino de amor\nJunto a los hombres venimos a ofrecer\nLa alegría y el dolor\n\n                       G               A                D\n/Haz que ocurra el milagro, Señor,\n                   G             A                    D D7        A7\nHaz que ocurra el milagro otra vez/\n\n2. Con amor venimos a ofrecer\nLo que somos y queremos ser\nD            A                                     Bm         F#m\nTú estás presente en nuestro altar,\n       G                                  E       G   A7  Bm   D7\nPor eso queremos Celebrar, con María.\n\n/que harás el milagro, Señor,\nQue harás el milagro otra vez/"
+    },
+    {
+      "id": "02-hemos-entregado-nuestras-vidas",
+      "titulo": "Hemos Entregado Nuestras Vidas, Jesed",
+      "seccion": "Presentación de Dones",
+      "paginas": "52",
+      "letra": "    C                   G                        Am             Em\n1. Hemos entregado nuestras vidas al Señor\nF                               Dm                         G\nNo hay mayor bendición que ser de él\n    C                   G                        Am             Em\nHemos entregado nuestras vidas al Señor\nF                               Dm                         G    E7\nY él ahora nos da su vida eterna\n\n       Am                                       F\nBendito seas Señor por este pan\nG                                               C                     E7\nFruto de la tierra y del trabajo del hombre\n        Am                                       F\nBendito seas Señor por este vino\nG                                               C                     E7  final (A)\nQue hemos recibido de tu amor y bondad\n\n2. Y ahora Señor, te presentamos este pan\nY el vino que convertirás\nEn el cuerpo y sangre de tu hijo Jesús\nPan de vida y bebida de salvación."
+    },
+    {
+      "id": "02-hombres-de-verdad",
+      "titulo": "Hombres de Verdad (E)",
+      "seccion": "Presentación de Dones",
+      "paginas": "52",
+      "letra": "G                            D7                        Em  D\n1. Como fruto del hombre y su trabajo\nC                       D7                                G  D7\nTe ofrecemos el pan de nuestras manos\nHazlo cuerpo de ti Señor podamos\nConvertirnos en hombres de verdad De verdad,\n             C           D7          G\n¡En hombres de verdad!\n\nG                              D7                             Em\nY como el campo florece tu cuerpo se da\n          Em  D   C                                 D7                    G\nEn el altar,      va llenando de amor y de bondad\n       B7             Em                   C                  D7\nAl hombre nuevo, que vendrá, que vendrá.\n\nY como el campo florece tu sangre se da\nEn el altar, va llenando de amor y de bondad\nAl hombre nuevo, que vendrá, que vendrá.\nInterludio: G Em C D\n\n2. Como fruto del hombre y su trabajo\nTe ofrecemos el vino de nuestras manos\nHazlo sangre de ti Señor podamos\nConvertirnos en hombres de verdad De verdad\nEn hombres de verdad."
+    },
+    {
+      "id": "02-hoy-en-el-altar",
+      "titulo": "Hoy en el Altar (Dm)",
+      "seccion": "Presentación de Dones",
+      "paginas": "52",
+      "letra": "Dm                    A                                              Dm\n1. Este es mi cuerpo entregado en la cruz por ti\nEsta es mi sangre derramada en la cruz por ti\n\nD7                                    Gm                            C\n               Y Hoy  en el altar   (Y Hoy  en el altar)\n                                 F\nSe vuelve a entregar (Se vuelve a entregar)\n                         A                                     Dm      (D7)\nSe vuelve a derramar para liberarte a ti (para liberarte a ti)\n               Y Hoy  en el altar   (Y Hoy  en el altar)\nSe vuelve a entregar (Se vuelve a entregar)\nSe vuelve a derramar para salvarte a ti\n\nDm                                                                       A\n2. El que come de mi cuerpo Y bebe de mi sangre\n                                                                   Dm  D7\nTendrá la vida eterna la vida que yo doy"
+    },
+    {
+      "id": "02-no-solo-el-vino-y-el-pan",
+      "titulo": "No Solo el Vino y el Pan (Como lo Hizo María) (E)",
+      "seccion": "Presentación de Dones",
+      "paginas": "52-53",
+      "letra": "F                                Gm C7                                F\n1. No solo el vino y el pan Te venimos a ofrecer\nF                                     Gm C7                                             F\nQueremos darte algo más  Te entregamos nuestro ser\n\n     A7                    Dm              A7                                  Dm\n/Como lo hizo María            Que Tu mensaje escucho\nBb          C7               F Dm          Gm          C7               F\nY dijo un si generoso              Para aceptar su misión/\n\n2. Hoy quedan sobre este altar Nuestras vidas o Señor\nHaz que sepamos luchar Para conservar tu amor"
+    },
+    {
+      "id": "02-pan-y-vino",
+      "titulo": "Pan y Vino",
+      "seccion": "Presentación de Dones",
+      "paginas": "53",
+      "letra": "Am                                            Dm\n1. Te presentamos el vino y el pan\n                 G                                  C\nComo señal de que nos entregamos\n                    Am                                    Dm\nTu cuerpo y sangre quieres que comamos\n                F                                   E           Am\nY así llenar nuestras vidas ansiosas de ti/\nTe presentamos el vino y el pan\nHecho de frutos y trigo maduros\nEsta es la ofrenda que te presentamos\nQue serán cuerpo y sangre de ti, ¡Oh Señor!\n\nA                               D\n/Pan y vino, pan y vino\n                        E                                  A\nTu cuerpo y sangre que hoy ofrecemos\nA                               D\nPan y vino, pan y vino\n                       E7                           A, Am\nQue compartimos a cada momento. /\n\n2. Te presentamos el vino y el pan\npara que tú lo bendigas y partas,\ny con amor comulguemos con ellos\nque serán Cuerpo y Sangre de ti, oh Señor.\nTe presentamos el vino y el pan,\nhecho de fruto y trigo maduro,\ny esta es la ofrenda que te presentamos\nque serán Cuerpo y Sangre de ti, oh Señor."
+    },
+    {
+      "id": "02-pan-y-vino-de-amor-brotes-de-olivo",
+      "titulo": "Pan y Vino de Amor, Brotes de Olivo",
+      "seccion": "Presentación de Dones",
+      "paginas": "53",
+      "letra": "             D                     A7                    D\n1. En la tierra la sembró el sembrador,\nG       D                  A7         D\nla semilla de tu pan, Señor.\n            G                                Bm                  F#m\nY después el viñador trabajó en buena lid,\n          Bm                   D              A7              D\ny las tierras ven crecer las espigas y la vid.\n\n       D                G                  A7 D\n2. El trigo se molió en el molino\n                             G                     A\nrompiendo su cuerpo como tú.\nG                    D     G                          D\nLa uva la pisó el hombre en el lagar,\n                               G            A\nigual que tú te dejaste pisar.\n\n         D                   G                     A7  D\nY ahora, convertido en pan y vino,\n                         G                        A\ntu pueblo lo ofrece en tu altar.\n          G                        D             G                          D\nConviértelos, oh, Dios, son frutos de tu amor,\n               G              A7              D\nen tu Cuerpo y Sangre, Señor."
+    },
+    {
+      "id": "02-pan-y-vino-sobre-el-altar",
+      "titulo": "Pan y Vino Sobre el Altar (Ofrendas de Amor), Gregorio Fernández",
+      "seccion": "Presentación de Dones",
+      "paginas": "53",
+      "letra": "        C                            F                G7\n1. Por los niños que empiezan la vida\n              C                       F              G7\nPor los hombres sin techo ni hogar\n                  C                   A7                Dm\nPor los pueblos que sufren la guerra\n               Am               G7              C       C7\nTe ofrecemos, el vino y el pan\n\n     F                                    G\n/Pan y vino sobre el altar\n   F         G                  C     C/B\nSon ofrendas de amor\nAm                                   Dm\nPan y vino serán después\n         G          G7              C\nTu cuerpo y sangre Señor/\n\n2. Por los hombres que viven unidos\nPor los hombres que buscan la paz\nPor los pueblos que no te conocen\nTe ofrecemos el vino y el pan.\n\n3. Por aquellos a quienes queremos\nPor nosotros y nuestra amistad\nPor los vivos y por los difuntos\nTe ofrecemos el vino y el pan."
+    },
+    {
+      "id": "02-recibe-senor-joscar-salazar",
+      "titulo": "Recibe Señor, Joscar Salazar",
+      "seccion": "Presentación de Dones",
+      "paginas": "54",
+      "letra": "C                                 Em                     Am\n1. Hoy queremos presentarte, Padre amado:\n          F                 Dm                        C\nEste pan y este vino de nuestra mano.\n                G                   F           Dm\nHoy queremos presentarte, Señor\n                      C                            G                      C\nNuestro trabajo, nuestras vidas y la oración\n\n                    F                           C\nRecibe Señor, el vino y el pan\n               G                                        C                    C7\nRecibe Señor, la ofrenda que esta ante tu altar\n                    F                           C\nRecibe Señor, el vino y el pan\n               G                                        C\nMi vida también te vengo a entregar.\n\n2. Oh, Señor, a tu altar nos acercamos\nCon nuestros sueños, nuestras faltas y pecados,\nNuestros proyectos, nuestras metas y nuestro amor\nTodo en tus manos lo ponemos, oh, Señor."
+    },
+    {
+      "id": "02-reunidos-senor-marco-lopez",
+      "titulo": "Reunidos Señor, Marco López",
+      "seccion": "Presentación de Dones",
+      "paginas": "54",
+      "letra": "    D      B7         Em                     A\n// Reunidos Señor ante tu altar\n          F#m                           Bm\nTe ofrecemos el vino y el pan\nB7         Em                          A\nAcéptalos pues luego serán\n        G             A                D\nTu cuerpo y sangre Señor //\n\nBm            F#m\n/Y suba ante Ti,\n                     D7                             G\nNuestra humilde ofrenda de amor\n                   Em          A                 D Bm\nY junto al fruto de nuestro trabajo\n                     A                             D\nTambién recibe nuestro corazón/"
+    },
+    {
+      "id": "02-recibe-oh-dios-guenyveau",
+      "titulo": "Recibe, oh Dios, Guenyveau (Francia)",
+      "seccion": "Presentación de Dones",
+      "paginas": "54",
+      "letra": "C                                F                          G   C\n1. Recibe oh Dios, El pan que presentamos:\n                 Am    F                    G\nLuego será el cuerpo de Jesús.\n           C                    A                 A7 Dm\nTambién acepta nuestros sacrificios,\n           G        C            Am        G7   C\nNuestra oración y nuestro corazón\n\n2. Recibe oh, Dios, el vino presentado,\nLuego será la sangre de Jesús.\nTambién acepta nuestros sacrificios,\nNuestra oblación y nuestro corazón.\n\n3. Recíbelo, Señor, por nuestras faltas,\nPor los que están aquí junto al altar,\nPor los cristianos vivos y difuntos,\nPor todo el mundo, por su salvación."
+    },
+    {
+      "id": "02-son-para-ti-gerardo-carrasco",
+      "titulo": "Son para Ti, Gerardo Carrasco (Coro Cantaré)",
+      "seccion": "Presentación de Dones",
+      "paginas": "54",
+      "letra": "                D            A/C#        Bm   Bm/A\nHoy queremos presentarte Señor\n                      G           Em7          Asus4   A\nNuestras manos y nuestra juventud\n                         D                              C#7\nNuestra esperanza, nuestros anhelos,\n                Bm     G#m7\nNuestra vida para ti\n      G                       A             D       A\nAcéptalos oh Padre celestial.\n\n                D   A (F#7)        Bm  Am7\nSon para ti,      solo para ti\n                   D                   (Em7)         A  A7\nLo presentamos con el vino y el pan\n           D                C#m7        F#7       Bm      G9\nY queremos que bendigas con tu amor\n     Em7                     G9                        D    B\nLo del    altar         y lo    del      corazón\n\n                 E-B                 C#m7   Bm/A\nSon para ti,      solo para ti\n                   E7                 A (F#m7)      Bm7  B7\nLo presentamos con el vino y el pan\n           E                       G#7      C#m7      A9\nY queremos que bendigas con tu amor\n    F#m7                      A/B                   C#m7   E/B\nLo del         altar         y lo    del      corazón\n     A                   B              C#m7   E/B\nLo del altar y   lo   del corazón\n     A                   B         F#m7  G#m7    E\nLo del altar y   lo   del corazón"
+    },
+    {
+      "id": "02-te-esperamos-para-comulgar",
+      "titulo": "Te Esperamos para Comulgar (G), Joscar Salazar",
+      "seccion": "Presentación de Dones",
+      "paginas": "55",
+      "letra": "G                                        D                        Em\nAquí Estamos, Señor, reunidos ante tu altar,\nG                         D                        Am7                  D7\nEsperando el momento para poder comulgar.\n                 G                 D                     C                          Bm\nSomos Iglesia peregrina que nos reunimos para  Compartir\n            C                           G                          D\nTu cuerpo y tu sangre que nos van a redimir\n\n                               G                                 D\n/Por Eso presentamos el vino y el pan\n                                Em                               Bm\nQue serán transformados en cuerpo y sangre\n                        C              G                   D\nEntregados por ti para nuestra redención./\n\n         Em                                  Bm      C                   D\n1. Por la Desobediencia el hombre se hizo pecador,\n                                   Em                Bm        C                     D\nPor eso hoy pide perdón y te ofrece su trabajo y su sudor\n\n2. Esperamos por ti porque sabemos que, vamos a recibir\nTu cuerpo y tu sangre verdaderos. Tu presencia real"
+    },
+    {
+      "id": "02-te-presentamos-el-vino-y-el-pan-espinoza",
+      "titulo": "Te Presentamos el Vino y el Pan (D), Juan A. Espinoza",
+      "seccion": "Presentación de Dones",
+      "paginas": "55",
+      "letra": "G                Em           C              G\nTe presentamos el vino y el pan\n      C, Em   C,G             D                  G\nBendito seas por siempre Señor.\n\nG              C         G                 C                     G\n1. Bendito seas Señor: Por este pan que nos diste\n      C                                    G                        D7\nFruto de la tierra y el trabajo de los hombres\n\n2. Bendito seas Señor: El vino tú nos lo diste\nFruto de la tierra y el trabajo de los hombres"
+    },
+    {
+      "id": "02-transformalos-amilkar-venales",
+      "titulo": "Transfórmalos, Amílkar Venales",
+      "seccion": "Presentación de Dones",
+      "paginas": "55",
+      "letra": "  Em         B7      Em                  Am          Em\n1. De los dones de la tierra, que, en tu generosidad,\n                   Am          Em                       C                B7\nHas querido regalarnos te ofrecemos vino y pan.\n                 Em  B7          Em                      Am          Em\nJunto a ellos te entregamos nuestras vidas en tu altar,\n                  Am                       Em                   C             B7\nMuy gustosos hoy nos damos, te queremos contemplar.\n\n  B7                Em              C                   B7     Em\nTransfórmalos, en tu Cuerpo y Sangre Señor\n               C              B7    Em                  C             B7\nAlimento que da vida, para nuestra salvación.\n              C         B7 Em  D               G          B7      Em\nTransfórmalos, en tu Cuerpo y Sangre Señor\n               C                  B7  Em           C                   B7\nEn tu Santa Eucaristía, sacramento del amor,\n C      B7     Em\nTransfórmalos.\n\n2. Oh amigo, oh maestro, Pan de vida, oh manjar,\nOh comida saludable que la vida eterna das.\nCon tu sangre redimiste a toda la humanidad,\nVida nueva nos trajiste, nos has dado libertad.\n\n3. Renueva nuestras vidas con la gracia de tu amor,\nY que seas tú quien viva y que ya no viva yo.\nQue solo baste tu gracia para nuestro caminar,\nQue seas tú nuestra ganancia para la eternidad."
+    },
+    {
+      "id": "02-tu-pones-lo-demas-gabarain",
+      "titulo": "Tú Pones lo Demás, Cesáreo Gabaráin",
+      "seccion": "Presentación de Dones",
+      "paginas": "55",
+      "letra": "         C                        Em     Am\n1. Un día de bodas el vino faltó,\n    Dm              G7               C\nImposible poderlo comprar.\n                                       F              Fm\n¡Qué bello milagro hiciste, Señor!\n               C Am         D      G       C\nCon el agua de aquel manantial\nColmaste hasta el borde de vino mejor\nLas tinajas que pude llenar.\nYo puse mi esfuerzo, yo puse mi afán,\nTú pusiste, Jesús, lo demás.\n\n               G                                  C\nEs muy poco, Señor, lo que vengo a traer,\n               G7                                C    C7\nEs muy poco lo que puedo dar:\n      F                     G7                      C E7   Am\nMi trabajo es el agua que quiero ofrecer,\n        Dm                 G7                C\nY mi esfuerzo un pedazo de pan.\nEs muy poco, Señor, lo que vengo a traer,\nEs muy poco lo que puedo dar:\nEn tus manos divinas lo vengo a poner,\nTú ya pones, Jesús, lo demás.\n\n2. La gente con hambre sentada esperó\nEn el prado que baja hasta el mar;\nCon cuanto tenía, a Ti se acercó\nUn muchacho que quiso ayudar.\nTu mano en su frente feliz descansó,\nEn sus ojos tú dulce mirar...\nÉl puso sus peces, él puso su pan,\nTú pusiste, Jesús, lo demás.\n\n3. Los hombres volvían al amanecer\nMuy cansados de tanto bregar.\n¡Las barcas vacías! Qué triste es volver\nY de nuevo tener que esperar...\nSalieron al lago a pescar otra vez,\nTu palabra les iba a guiar.\nLos hombres pusieron la barca y la red,\nTú pusiste, Jesús, lo demás."
+    },
+    {
+      "id": "02-tuya-es-mi-vida-martin-valverde",
+      "titulo": "Tuya es mi Vida, Martín Valverde",
+      "seccion": "Presentación de Dones",
+      "paginas": "56",
+      "letra": "G            Bm7             Em7 G7     Cmaj7              D7\n1. Quiero vivir una vez más   El momento prodigioso\n                Bm7                 Em7 Am7      D7           Em7\nEn el que tu cristo amoroso Como alimento vendrás\nCmaj7                B7       Em6                       G\nDulce como el vino Mitigante como el pan\n C                               G                    C                        Em7\nEl mismo pan y el mismo vino Que en espigas y racimos\n  Am7           D7         G\nPoblaron la viña y el trigal\n\nG                    Bm7                 Em7 G7     Cmaj7              D7\nTuyo es mi cuerpo y mi corazón Tuyas son mis fantasías\n                Bm7        Em7  Am7      D7           Em7\nMis fracasos y alegrías Tuya es mi vida Señor\nAm7                       B7              Em7         G\nPero, aunque soy tuyo Y siempre lo seré\n         C                    G\nHoy he venido a ofrendarme\n C                          Em7\n A tu inmenso amor confiarme\n      Am7     D7                     G\nEn esta sublime acción de fe\n        C                    G                  C                          Em7\nToma Dios mi ser entero Es muy pobre es pequeño\nAm7           D7                           G     Cmaj7 G\nPero es lo mejor que  puedo ofrecer"
+    },
+    {
+      "id": "02-un-nino-se-te-acerco-gabarain",
+      "titulo": "Un Niño se te Acercó, Cesáreo Gabaráin",
+      "seccion": "Presentación de Dones",
+      "paginas": "56",
+      "letra": "                   C              G                   Am    C7\n1. Un niño se te acerco aquella tarde\n                   F                   G               C     Am\nSus cinco panes te dio para ayudarte,\n                        F               G                      C Am\nLos dos hicieron que ya no hubiera hambre\n                 Dm        G                               C        G\nLos dos hicieron que ya no hubiera hambre.\n\n2. La tierra el aire y el sol son tu regalo,\nY mil estrellas de luz sembró tu mano,\nEl hombre pone su amor y su trabajo,\nEl hombre pone su amor y su trabajo.\n\n3. También yo quiero poner sobre tu mesa\nMis cinco panes que son una promesa,\nDe darte todo mi amor y mi pobreza,\nDe darte todo mi amor y mi pobreza."
+    },
+    {
+      "id": "02-sanctus-gregoriano-missa-pro-difunctis",
+      "titulo": "Sanctus, Gregoriano (Missa pro Defunctis)",
+      "seccion": "Santo",
+      "paginas": "57",
+      "letra": "Em        Am G    Am   Em\n/Sanctus, Sanctus, Sanctus Dominus Deus Sabaoth.\n Em                           Am   F          Em\nPleni sunt caeli et terra gloria tua\nEm\nHosanna in excelsis./\n\nG                                        F          Em\nBenedictus qui venit in nomine Domini.\nAm                        G    Am\nHosanna in excelsis."
+    },
+    {
+      "id": "02-santo-1-alfonzo-luna",
+      "titulo": "Santo I, Alfonzo Luna (Am)",
+      "seccion": "Santo",
+      "paginas": "57",
+      "letra": "(Bm  Em  A7  D  G7  C  F#7  Bm)\nSanto, Santo, Santo es El Señor Dios del universo.\nLlenos están el cielo y la tierra De tu gloria Hosanna\n/Hosanna, Hosanna, Hosanna en el cielo/\nBendito es el que viene en nombre del Señor\nHosanna en el cielo Hosanna"
+    },
+    {
+      "id": "02-santo-2-gen-verde",
+      "titulo": "Santo II (G), Movimiento Focolar, Gen Verde",
+      "seccion": "Santo",
+      "paginas": "57",
+      "letra": "G                           C D G\n/Santo, Santo, Santo/\n\n           C                         G\n1. /El Señor Dios del universo./\nC                          G        D7                           G\nEl cielo y la tierra están llenos de tu gloria\n      C                   G            D7                         G\n/Hosanna, Hosanna, Hosanna en el cielo/ va Santo\n\n2. //Bendito es el que viene// En nombre del Señor   Hosanna"
+    },
+    {
+      "id": "02-santo-3-roquero",
+      "titulo": "Santo III, Roquero (Em)",
+      "seccion": "Santo",
+      "paginas": "57",
+      "letra": "Em       D          Em                D       A             C D Em\n1. Santo, Santo, Santo es el Señor  Dios del universo.\nLlenos están el cielo y la tierra  De tu gloria\nEm            D               C                          B7\n/Hosanna, Hosanna, Hosanna en el cielo/\n\n2. Bendito el que viene en nombre del Señor\nEn el nombre del Señor"
+    },
+    {
+      "id": "02-santo-4-popular",
+      "titulo": "Santo IV, Popular",
+      "seccion": "Santo",
+      "paginas": "57",
+      "letra": "Bm      F#7       Bm       A      G         F#7\nSanto, Santo, Santo, Santo es el Señor\n   Em               Bm     F#7                Bm\nDios del universo, Santo es el Señor\n      B7           Em                 A7                   D7\nHosanna en el cielo, Hosanna en el cielo\n         G7                 C                F#7                Bm\nBendito el que viene En nombre del Señor\n      B7           Em                 A7                   D7\nEl cielo y la tierra están Llenos De tu gloria\n         G7                 C                F#7                B\nBendito el que viene En nombre del Señor"
+    },
+    {
+      "id": "02-santo-5-solemne-palazon",
+      "titulo": "Santo V, Solemne, Francisco Palazón",
+      "seccion": "Santo",
+      "paginas": "57",
+      "letra": "D         A7       D         A7  D            G         A7\nSanto, Santo, Santo,      Santo es el Señor\nD              G       D                     F#m A  D A7\n/Santo es el Señor Dios  del universo./\n\nD               G          D    A    Bm     G          A    A7\n1. Llenos están el cielo y la tierra de tu gloria\n         D F#m    G      D        G                  D,A A7 D\n/Hosanna, Hosanna, Hosanna en el cielo/\n\nD          A7           D    Bm   F#m      Bm7     A A7\n2. Bendito el que viene en nombre del Señor"
+    },
+    {
+      "id": "02-santo-6-alejandro-mejia",
+      "titulo": "Santo VI, Alejandro Mejía",
+      "seccion": "Santo",
+      "paginas": "57",
+      "letra": "G            D7      G                       C                       A7   G/D, D\n1. Santo, Santo, Santo es  El Señor Dios del universo.\nG                D7       G             C            D7    G\nLlenos están el cielo y la Tierra De tu gloria.\n            G  Em    Am   D7    G       A7    G/D, D\n/Hosanna, Hosanna, Hosanna en el cielo\n            G    Em   Am   D7    G          C  D7  G\n    Hosanna, Hosanna, Hosanna en el cielo/\n\n          B7                    Em  E7    Am    A7          G/D,  D\n2. Bendito es el que viene en nombre del Señor"
+    },
+    {
+      "id": "02-santo-7-misa-juan-diego-rufino-zaragoza",
+      "titulo": "Santo VII, Misa Juan Diego, Rufino Zaragoza",
+      "seccion": "Santo",
+      "paginas": "57",
+      "letra": "C       F   G7   C   F     G7\n/Santo, Santo, Santo/\nAm           G                F G7      C\n/Es el Señor Dios del universo./\nDm            Am               Dm  G                 Dm  G7\n/Llenos están el cielo y la tierra  De tu gloria/\nAm             G       F   G\n/Hosanna en el cielo/\n         G7                C G C\n/Bendito el que viene/\n        E7                       Am  E7 Am  G\n/en nombre del Señor/\n G    F         Em Dm7 Em\n/Hosanna en el cielo/\nE                  Am    E                   Am  Dm E Am Dm E7 Am\n           En El Cielo           En El Cielo"
+    },
+    {
+      "id": "02-santo-8-tomas-aragues",
+      "titulo": "Santo VIII, Tomás Aragüés",
+      "seccion": "Santo",
+      "paginas": "57",
+      "letra": " G          D          Cmaj7     D7  Em/G   C                    G\n1. Santo, Santo, Santo es  El Señor, Dios del universo.\nG    D7    Em7   Am          G         C              G\nLlenos están el cielo y la tierra De tu gloria\n      D                    G D7 G\nHosanna en el cieeeelo\n\n         D                  G            Am         Em      D7\n2. Bendito el que viene en nombre del Señor"
+    },
+    {
+      "id": "02-santo-9-joscar-salazar-i",
+      "titulo": "Santo IX, Joscar Salazar I",
+      "seccion": "Santo",
+      "paginas": "58",
+      "letra": "Em   Am    Em             B7         Em  D7   G                 D\n1. Santo, Santo, Santo es el Señor      /Dios del universo.\nAm                  Em           D                       B7\nLlenos están el cielo y la tierra de tu gloria/\n       G                D              C       Am      B7\nHosanna, hosanna, hosanna en el cielo\n     G               D               C         B7   Em\nHosanna, hosanna, hosanna en el cielo\n\n        Em                                                          B7\n2. Bendito el que viene en el nombre del Señor\n        Em                                                 B    B7\nHosanna en el cielo, hosanna en el cielo."
+    },
+    {
+      "id": "02-santo-10-misa-ii-joscar-salazar",
+      "titulo": "Santo X, Misa II, Joscar Salazar",
+      "seccion": "Santo",
+      "paginas": "58",
+      "letra": "Circulo D Bm G A\n/Santo, Santo, Santo es el Señor/\n\n1. Santo es el Señor Dios del universo.\nLlenos están el cielo y la tierra de tu gloria\n/Hosanna, hosanna, hosanna en el cielo/\n\n2. Bendito el que viene en el nombre del Señor\nHosanna en el cielo, hosanna en el cielo."
+    },
+    {
+      "id": "02-santo-11-roma-1977",
+      "titulo": "Santo XI, Roma 1977",
+      "seccion": "Santo",
+      "paginas": "58",
+      "letra": "    Bm                                 A          F#7      Bm\n/Santo, Santo, Santo, Santo, Santo, Santo /\n\nBm    A   F#7     Bm              A        F#7     Bm\n1. El Cielo y la tierra, están llenos, están llenos de ti\n      G              F#               G              F#\nHosanna, hosanna, Hosanna, hosanna,\n      G              A               G              F#\nhosanna, hosanna, En lo alto del cielo.\n      G              F#               G              F#\nHosanna, hosanna, Hosanna, hosanna,\n      G              A                                       Bm\nhosanna, hosanna, En lo alto del cielo.\nVa a Santo…\n\n2. Bendito el que viene, en el nombre, en el nombre del Señor\nVa a Hosanna luego a Santo…"
+    },
+    {
+      "id": "02-santo-12-discipulos-de-jesus",
+      "titulo": "Santo XII, Discípulos de Jesús de San Juan Bautista",
+      "seccion": "Santo",
+      "paginas": "58",
+      "letra": "    Dm                                         F\n/Santo, Santo, Santo es el Señor Dios del Universo.\nGm                                       Dm                       (A7) Dsus4\nLlenos están el cielo y la tierra de tu gloria/\n    Bb                       F         Gm                     Dm\n/Hosanna en el cielo, Hosanna en el cielo/\n/Bendito el que viene en nombre del Señor/"
+    },
+    {
+      "id": "02-santo-13-brasilero",
+      "titulo": "Santo XIII, Brasilero",
+      "seccion": "Santo",
+      "paginas": "58",
+      "letra": "  Circulo:  C Am F G\n\n1. Santo, Santo, Santo, Santo es el Señor\nDios Del Universo. Santo es el Señor.\nLlenos están el cielo y la tierra De tu gloria.\nSanto, Santo, Santo, Santo es el Señor\n/Hosanna en el cielo, hosanna./\n\n2. Bendito es el que viene en nombre del Señor."
+    },
+    {
+      "id": "02-santo-14-margariteno-brazon",
+      "titulo": "Santo XIV, Margariteño (Punto del Navegante), G. Brazón",
+      "seccion": "Santo",
+      "paginas": "58",
+      "letra": "            Am        G      C               Dm            C\nSanto, Santo es el Señor Dios de Todo el Universo,\nC                              G7                F                E7\nSanto, Santo es el Señor Dios de Todo el Universo\n      Am G        F    E7       Dm  Am   E7    Am\n/Hosanna, Hosanna, Hosanna, Hosanna/\n\nLlenos están los cielos Y la tierra de su gloria.\nBendito es el que viene En el nombre del Señor"
+    },
+    {
+      "id": "02-santo-15-jose-vallejo-caripito",
+      "titulo": "Santo XV, José Vallejo (Caripito)",
+      "seccion": "Santo",
+      "paginas": "58",
+      "letra": "   D         Bm        G                       A7\n/Santo, Santo, Santo es el Señor/\n   D            Bm          G                       A7\nDios del universo. Santo es el Señor\n\n   Bm         G         Em            A7\n1. Llenos están el cielo y la tierra\nBm      G         Em     A7\nde tu gloria, hosanna\n   Bm                    G      Em  A7 D\nHosanna en el cielo, Hosanna\n\n2. Bendito el que viene en nombre del Señor\nHosanna en el cielo, Hosanna\nHosanna en el cielo, Hosanna"
+    },
+    {
+      "id": "02-santo-15b-neocatecumeno-1988",
+      "titulo": "Santo XV, Neocatecúmeno 1988",
+      "seccion": "Santo",
+      "paginas": "58",
+      "letra": "Gm          F           Gm\n/Santo, Santo, Santo/\n\nGm           F                      Gm\n1. Es el Señor Dios del universo\nEl Cielo y la tierra, están llenos de tu gloria\n      Gm                 F               Gm\nHosanna, En lo alto del cielo.  Santo…\n\n           Gm                F                                           Gm\n2. Bendito el que viene, en el nombre del Señor.\nHosanna… Santo…"
+    },
+    {
+      "id": "02-santo-16-espanol",
+      "titulo": "Santo XVI, Español",
+      "seccion": "Santo",
+      "paginas": "59",
+      "letra": "  Em       D         C            B7\n1. Santo, Santo, Santo, Santo.\n  Em                    D     C                   B7\n Santo es el Señor Dios Del Universo.\n  Em         D         C               B7                 Em\nLlenos están el cielo y la tierra De tu gloria.\n             D                    C    Am         B7\nDe tu gloria, de tu gloria, De tu gloria.\n  Em    D   C   B7,   Em    D   C   B7…\nAaaaaaaaaaaaaaaaaaaaaaaaaaaaaaah\n\n2. Bendito es el que viene en nombre del Señor.\n/Hosanna en el cielo, Hosanna en el cielo,\nHosanna en el cielo, Hosanna en el cielo./"
+    },
+    {
+      "id": "02-santo-17-bendito-el-que-trae-nuestra-liberacion",
+      "titulo": "Santo XVII (Bendito el que Trae Nuestra Liberación, corregido)",
+      "seccion": "Santo",
+      "paginas": "59",
+      "letra": "  Em                B7                       Em      D            G\n1. /Santo, Santo, Santo es el Señor Dios Del Universo.\n   Am           B7             Em     B7      Em         E7\nLlenos están cielo y tierra de tu gloria./\n     Am             Em             B7                  Em     A  E\nHosanna, hosanna, hosanna al Señor.\n\n  Em                                      D                    G\n2. Bendito el que viene en nombre del Señor.\n         Am                    B7             Em     B7      Em         E7\nBendito el que viene en nombre del Señor."
+    },
+    {
+      "id": "02-santo-18-marco-lopez-ii",
+      "titulo": "Santo XVIII, Marco López II",
+      "seccion": "Santo",
+      "paginas": "59",
+      "letra": "  G         D          Em                    Bm\n/Santo, Santo, Santo es el Señor\nC               D Bm Em\nDios del Universo\n      Am              C                 F                     D\nEl cielo y la tierra están llenos de tu gloria./\n\nG   D        Em     Bm\n/Hosanna, Hosanna,\nC           D        Bm Em          F                       D\nBendito el que viene En nombre del Señor./"
+    },
+    {
+      "id": "02-santo-11b",
+      "titulo": "Santo XI (G)",
+      "seccion": "Santo",
+      "paginas": "59",
+      "letra": "  G           D7        G                   Em      C                D\n1. /Santo, Santo, Santo es el Señor Dios Del Universo.\n  G             Em                            C                D\nLlenos están el cielo y la tierra de tu gloria./\n                           G                                 Em\nHosanna en el Cielo, Hosanna en el Cielo,\n                             C    D\n Hosanna en el Cielo.\n\n         G                  Em          C                       D\n2. Bendito el que viene en nombre del Señor."
+    },
+    {
+      "id": "02-santo-12b-joscar-salazar-iv",
+      "titulo": "Santo XII, Joscar Salazar IV",
+      "seccion": "Santo",
+      "paginas": "59",
+      "letra": "F#m        E         D                       C#7\n1. Santo, Santo, Santo es el Señor\nF#m                E         D                       C#7\nDios Del Universo. Santo es el Señor\nF#m                      E                         D            C#7\n/Llenos están el cielo y la tierra de tu gloria./\nF#m           E                F#m            E          F#m   D   E    F#m  F#\n/Hosanna,  Hosanna,  Hosanna en el Cielo/ /Oh oh oh/\n\n          F#m              E              D                       C#7\n2. /Bendito el que viene en nombre del Señor./"
+    },
+    {
+      "id": "02-santo-13b-joscar-salazar-v",
+      "titulo": "Santo XIII, Joscar Salazar V",
+      "seccion": "Santo",
+      "paginas": "59",
+      "letra": "Em        D    Em          B7             Em\n1. Santo, Santo, Santo es el Señor\nEm        D    Em   C     Am7       B7\nSanto, Santo, Santo es el Señor\nEm         D       Em    Em           B7 Em\nDios Del Universo. Dios Del Universo.\n     Em    D          Em         C            Am       B7\n/Llenos están el cielo y la tierra de tu gloria./\nAm                    Em           B7   Em                 E7\n/Hosanna,  Hosanna,  Hosanna en el Cielo/\n\n         Em    D          Em          C            Am       B7\n2. /Bendito el que viene en nombre del Señor./"
+    },
+    {
+      "id": "02-pater-noster-latin",
+      "titulo": "Padre Nuestro en Latín (Pater Noster)",
+      "seccion": "Padre Nuestro",
+      "paginas": "60",
+      "letra": "  F                      Bb             C Dm\nPater Noster, qui es in caelis,\n     Gm      Dm   Gm            C\nsanctificétur nomen Tuum,\n   F   Bb C                        Dm\nadveniat Regnum Tuum,\n  F       Gm          F     Gm               Bb       C\nfiat volúntas tua, sicut in caelo et in terra.\n  F                                  Gm                               F\nPanem nostrum cotidiánum da nobis hódie,\n  Gm                          C                Dm\net dimitte nobis débita nostra,\n   Gm          Dm               C        Dm            C\nsicut et nos dimittímus debitóribus nostris;\n   Dm           C    F            C      Gm   F\net ne nos indúcas in tentationem,\n   Gm                C           F               C  F\nsed libera nos a malo. A-a-amé-en."
+    },
+    {
+      "id": "02-padre-nuestro-espinosa",
+      "titulo": "Padre Nuestro (C), Juan A. Espinosa",
+      "seccion": "Padre Nuestro",
+      "paginas": "60",
+      "letra": "C              G                    F                G\n1. Padre nuestro, que estás en el cielo\nAm          G      F               G\nSantificado, sea tu nombre\n        C                 Am\nVenga a nosotros,\n     F              G\nVenga tu reino,\n\n2. Hágase, tu voluntad\nAsí en la tierra, como en el cielo\nEl pan, danos hoy,\nNuestro pan, de cada día\n\n3. Perdona nuestras ofensas,  Así como nosotros\n              F         C                   G\nPerdonamos al que nos ofende\nY no nos dejes, caer en la tentación\ny líbranos de mal, Amen, Amen.\n\nNota: Dentro de la Misa se repite “líbranos del mal” y se omite el “Amen”."
+    },
+    {
+      "id": "02-padre-nuestro-g",
+      "titulo": "Padre Nuestro (G)",
+      "seccion": "Padre Nuestro",
+      "paginas": "60",
+      "letra": "G                  Bm                                 C        B7\n1. Padre nuestro, que estás en el cielo\n             Em    C            Am     D7\nSantificado, sea tu nombre\n                       G   Bm            C             B7\nVenga tu reino,  hágase tu voluntad\n                         Em  C                         D7\ncomo en el cielo, así será en la tierra,\n                                      G                         B7\ndanos hoy nuestro pan, de cada día\n                            Em           C\nPerdona las ofensas,\n                    Em     C              Em    C                          D7\nComo nosotros     Perdonamos    al que nos ofende\n                            G                           B7                           Em   C\nno nos dejes caer en tentación      y líbranos de mal,\n             C     G            C     G             D7         G\nlíbranos,       líbranos,       líbranos de mal"
+    },
+    {
+      "id": "02-agnus-dei-gregoriano-misa-brevis",
+      "titulo": "Agnus Dei, Gregoriano (Missa Brevis)",
+      "seccion": "Cordero",
+      "paginas": "61",
+      "letra": "    G            Am                                              G             F   G\n/Agnus Dei qui tollis peccata mundi, miserere nobis./\n    G            Am                                           G                    F   G\nAgnus Dei qui tollis peccata mundi, dona nobis pacem.\n\n(En el original: “Agnus Dei quitolis peccatta mundi”)"
+    },
+    {
+      "id": "02-cordero-1-dm",
+      "titulo": "Cordero de Dios I (Dm)",
+      "seccion": "Cordero",
+      "paginas": "61",
+      "letra": "     Dm               Gm            C                     F\n//Cordero de Dios, que quitas el pecado,//\n                  Gm                     A                Dm\n1 y 2: Del mundo ten piedad, ten piedad./\n    Gm7            A                     Dm – A7- Dm\n3: Danos la paz, danos la paz."
+    },
+    {
+      "id": "02-cordero-2-rufino-zaragoza",
+      "titulo": "Cordero de Dios II, Rufino Zaragoza (adaptación)",
+      "seccion": "Cordero",
+      "paginas": "61",
+      "letra": "             E7                          Am Dm E7 Am\n/S: Cordero de Dios, Cordero,\nDm                E7  F   G    G#° Am\n que quitas el pecado del mundo\nAm                           F   G    G#° Am\nA: que quitas el pecado del mundo,\n    G                     E7                      Am\nS: ten piedad, ten piedad de nosotros\n   G                     E7                      Am\nA: ten piedad, ten piedad de nosotros/\n    G                     E7/G#            Am\nS: Cordero de Dios, Danos la paz\n    G                     E7/G#            Am Dm E7 Am Dm E7 Am\nA: Cordero de Dios, Danos la paz"
+    },
+    {
+      "id": "02-cordero-3-popular-i",
+      "titulo": "Cordero de Dios III, Popular I (D)",
+      "seccion": "Cordero",
+      "paginas": "61",
+      "letra": "D                    F#m G                A                D              F#m  G\n//Cordero de Dios, Tu que quitas el pecado del mundo\n                 A       G D   A                         G     A      D\nTen piedad de nosotros //                Danos la paz"
+    },
+    {
+      "id": "02-cordero-4-popular-ii",
+      "titulo": "Cordero de Dios IV, Popular II (D)",
+      "seccion": "Cordero",
+      "paginas": "61",
+      "letra": "      D                 F#m               G               A                      D      D7\n//Cordero de Dios, que quitas el pecado del mundo\n        G               A                    D  G-A        G       A      D\n1 y 2: ten piedad de nosotros.//        3: /Danos la paz./"
+    },
+    {
+      "id": "02-cordero-5-rafael-chavez",
+      "titulo": "Cordero de Dios V, P. Rafael L. Chávez, Pop II (G)",
+      "seccion": "Cordero",
+      "paginas": "61",
+      "letra": "G                                          Bm7           Bbm7          Am7\n//Cordero de Dios Que Quitas el pecado del Mundo\n                     D7 D+7   G Bm7  Bbm7 Am7 D7 G C D7 Gmaj7\n1 y 2: ten piedad//         3: //Danos la paz//"
+    },
+    {
+      "id": "02-cordero-6-am",
+      "titulo": "Cordero de Dios VI (Am)",
+      "seccion": "Cordero",
+      "paginas": "61",
+      "letra": "Am                                                     Em                Am\n/Cordero de Dios que quitas el pecado del mundo\nF              G                C    Dm       E7                 Am\nTen piedad de nosotros, Ten piedad de nosotros./\n\nAm                                                  F\nCordero de Dios que quitas el pecado del mundo\nG               C           E7             Am\nDanos la paz,      Danos la paz."
+    },
+    {
+      "id": "02-cordero-7-tomas-aragues",
+      "titulo": "Cordero de Dios VII, Tomás Aragüés (D)",
+      "seccion": "Cordero",
+      "paginas": "61",
+      "letra": "   D                                                        G9                    D\n//Cordero de Dios que quitas el pecado del mundo\n               G                   A                                   G    A7  D\n1 y 2: Ten piedad de nosotros//               3: Danos la paz"
+    },
+    {
+      "id": "02-cordero-9-guillermo-brazon-jota",
+      "titulo": "Cordero de Dios IX, Guillermo Brazón (Jota)",
+      "seccion": "Cordero",
+      "paginas": "61",
+      "letra": "B7          E7    D7           G\n                        G              D7           G\n                        D              A7           D\n//De Dios cordero que quitas el pecado,\n                                        G7            C\n                                        D7            G\n De Dios cordero que quitas el pecado,\n         Am7            D7                   G\n         Em7            A7                    D\nEse pecado el pecado de este mundo.\n                            A7              D7\n                            E7               A7\nAy ten piedad, piedad de nosotros,\n                   %                             G     G7\n                   %                             D     D7\nDe Dios cordero que quitas el pecado.\n        Am7           F#7                    B7\n        Em7           C#7                    F#7\n Ese pecado el pecado de este mundo.//\nF#7        B7    A7         D13\nDanos la Paz, Danos la Paz"
+    },
+    {
+      "id": "02-cordero-8-joscar-salazar",
+      "titulo": "Cordero de Dios VIII, Joscar Salazar (Em)",
+      "seccion": "Cordero",
+      "paginas": "61",
+      "letra": "          Em                           G\n/Cordero de Dios, Cordero de Dios\n          D7                                   C\nQue Quitas el pecado del mundo\n                                  B7               Em\n1 y 2 vez: Ten piedad, de Nosotros/\n                 D               C         D7           G\n3ra vez: Danos, Danos, Danos la Paz."
+    },
+    {
+      "id": "02-cordero-10-d",
+      "titulo": "Cordero de Dios X (D)",
+      "seccion": "Cordero",
+      "paginas": "62",
+      "letra": "             D                          A7                             Bm\nCordero de Dios, Que Quitas el pecado del Mundo,\n            F#m            G                                    D\nTen piedad, Cordero de Dios, Que Quitas el pecado del\n   E7                      A7           D                               A7\nMundo, Ten piedad, Cordero de Dios, Que Quitas el pecado\n            Bm                 F#m          G                                     D\ndel Mundo, Danos paz Cordero de Dios, Que Quitas el\n                        E7                    A7\npecado del Mundo, Danos paz\n\n     D   A7    Bm  F#m      G    D     E7     A7   (D)\n/Paz, paz, paz y amor. Paz, paz, paz, Señor./"
+    },
+    {
+      "id": "02-cordero-11-alejandro-mejia",
+      "titulo": "Cordero de Dios XI, Alejandro Mejía (Em)",
+      "seccion": "Cordero",
+      "paginas": "62",
+      "letra": "          Em                            A7      C         D              Em\n/Cordero de Dios, Que Quitas el pecado del mundo\n           Am        D7              G   C      Am  B7                Em\n1 y 2: Ten piedad, de Nosotros, Ten piedad, de Nosotros,\n     C            Am     D7         G   E7\n3: Danos la paz, Danos la paz,\nAm  D7  G  C    Am6 B7    Em (E)\nDanos, danos, Danos la Paz."
+    },
+    {
+      "id": "02-cordero-12-misa-ii-joscar-salazar",
+      "titulo": "Cordero de Dios XII, Misa II, Joscar Salazar",
+      "seccion": "Cordero",
+      "paginas": "62",
+      "letra": "Em\nCordero de Dios, Que Quitas el pecado del mundo\nGmaj7                                D\nTen piedad de Nosotros\nGmaj7\nCordero de Dios, Que Quitas el pecado del mundo\nGmaj7                              D\nTen piedad de Nosotros\nEm\nCordero de Dios, Que Quitas el pecado del mundo\nGmaj7           D C   D7       G\nDanos la paz,   Danos la Paz."
+    },
+    {
+      "id": "02-cordero-13-francisco-palazon",
+      "titulo": "Cordero de Dios XIII, Francisco Palazón (Misa “Alrededor de tu Mesa”)",
+      "seccion": "Cordero",
+      "paginas": "62",
+      "letra": "Dm | Am| F Gm | A7 | Dm | Gm | A7 |\n\nDm                                     Gm             Dm            A7\nCordero de Dios, que quitas el pecado del mundo\n             Gm             A7\nTen piedad de nosotros\nDm                                   Gm             A7               Dm\nCordero de Dios, que quitas el pecado del mundo\nAm                     | Dsus4 Dm\nTen piedad de nosotros\nDm                                  Gm           Dm               A7\nCordero de Dios, que quitas el pecado del mundo\nGm          Dm C   Am     Dsus4 Dm\nDanos la paz, Danos la paz."
+    },
+    {
+      "id": "02-cordero-14-brasilero",
+      "titulo": "Cordero de Dios XIV, Brasilero (Em)",
+      "seccion": "Cordero",
+      "paginas": "62",
+      "letra": "        Em            D                 G               Em             Am     B7\n/Cordero de Dios, Que Quitas el pecado del mundo\n         Em E7     Am   D  D7    G    Em E7 Am         Em B7 Em\n1 y 2: Ten piedad, Ten piedad, Ten piedad de Nosotros.\n     Em E7     Am   D  D7    G    Em E7 Am         Em B7 Em\n3: Danos la paz, Danos la paz,  Danos, danos, Danos la Paz."
+    },
+    {
+      "id": "02-cordero-15-dinamis",
+      "titulo": "Cordero XV, Dinamis",
+      "seccion": "Cordero",
+      "paginas": "62",
+      "letra": "          Em        D                C              B7                 C\n/Cordero de Dios, Que Quitas el pecado del mundo\n                        D              G   B7\n1 y 2: Ten piedad, de Nosotros/\n    D            G         Am           Em   B7           Em\n3: Danos la paz, Danos la paz, Danos la paz."
+    },
+    {
+      "id": "02-cordero-16",
+      "titulo": "Cordero de Dios XVI",
+      "seccion": "Cordero",
+      "paginas": "62",
+      "letra": "             F                 Am                               Dm\n//Cordero de Dios, Tu que quitas el pecado del mundo\n  Dm  C7 Bb                 C7            F\nTen piedad, Ten piedad de nosotros //\n            Bb              C                                 F         A7               Dm\n//Cordero de Dios, Tu que quitas el pecado del mundo\n              Bb                       C                        F\nDanos la paz, Danos la paz. Danos la paz/"
+    },
+    {
+      "id": "02-cordero-17-oh-cordero",
+      "titulo": "Cordero de Dios XVII, Oh Cordero",
+      "seccion": "Cordero",
+      "paginas": "62",
+      "letra": "            G                    Em           C                                D\n//Oh Cordero, Cordero, Cordero de Dios, que quitas\n          G               Em                 C                                   D\nel pecado del mundo 1 y 2: Ten piedad de nosotros//\n    C             D                       G\n3: Danos la paz, Danos la paz."
+    },
+    {
+      "id": "02-cordero-18-hh-dominicas-merida",
+      "titulo": "Cordero XVIII, HH. Dominicas de Mérida",
+      "seccion": "Cordero",
+      "paginas": "62",
+      "letra": "          E            B7                   C#m                       G#\n/Cordero de Dios que quitas el pecado del mundo\n      A              B7             E    B7\n1 y 2: ten piedad de Nosotros/\n  A       B7      E E7    A    B7      E C#m  A    B7       E\n3: Danos la paz,       Danos la paz,      Danos la paz."
+    },
+    {
+      "id": "02-cordero-18b-cristobal-fones",
+      "titulo": "Cordero XVIII, Cristóbal Fones S.J.",
+      "seccion": "Cordero",
+      "paginas": "62",
+      "letra": "        Am         Em    D                               C               G\nCordero de Dios   tú que quitas el pecado del mundo\nAm                          B7\nten piedad de Nosotros\nG                    D     Am                          Em                D\nCordero de Dios   tú que quitas el pecado del mundo\nC                              D7\nten piedad de Nosotros/\nG                    B7     Am                          Em                D\nCordero de Dios   tú que quitas el pecado del mundo\nG              D        C                G\nDanos la paz,    Danos la paz."
+    },
+    {
+      "id": "02-cordero-3-marco-lopez",
+      "titulo": "Cordero de Dios III, Marco López",
+      "seccion": "Cordero",
+      "paginas": "63",
+      "letra": "Am               F               G                                     C\nCordero de Dios que quitas el pecado del mundo\nDm          E               A\nTen piedad de nosotros (bis)\n        C            G            Dm                                 Am\nCordero de Dios que quitas el pecado del mundo\nF    G    Em Am Dm G7     Gm C7\nDanos, danos, danos la paz\nF    G    Em Am Dm     E   A\nDanos, danos, danos la paz"
+    }
+  ]
+}

@@ -1,0 +1,754 @@
+{
+  "paquete": "06_navidad_aguinaldos",
+  "canciones": [
+    {
+      "id": "06-burrito-burrito",
+      "titulo": "Burrito, Burrito (Vamos A Belén, Burrito)",
+      "seccion": "Entrada",
+      "paginas": "129",
+      "letra": "Letra y Música: Mons. Antonio José Ramírez Salaverría\n    Bm                                          F#7\n/Burrito, burrito, aquí está José,\n                                                               Bm\nVengo a despertarte, vamos a Belén./\n   Em                          F#m              D\n/Prepara tu lomo lleno de contento,\n        G           F#7                            Bm\nServirá de trono al rey de los cielos./\n  Em                          F#m                D\n/Prepara tu lomo lleno de contento,\n       Em     E#°7-G#ø7 F#7            Bm        E7\nServirá de trono al rey de los cielos./\n            Bm                       Dmaj7\nFinal: Burrito, Burrito. Jijó\n    Bm            Bsus4               D+         Dmaj7\n1. María me dijo: “nuestro gran misterio\n        B7         E7              A7          Gmaj7\n lo sabe el burrito, parece entenderlo.\nG7                 F#7 C#°                 Bm\nÉl para la oreja cuando tú le hablas\nEm               Bm            F#7       Bm B7\n/La cola menea, baila en una pata/\n\n2. María es un nicho que guarda en su seno\nTodo lo más rico de la tierra y cielo.\nPórtate burrito, tú sabes hacerlo,\n/Comerás de todo hasta maíz tierno/\n\n3. El león, el burro al lado del niño\nCual buenos amigos comen paja juntos\nEse niño bello, León de Judá,\n/En su nacimiento nos trae la paz/"
+    },
+    {
+      "id": "06-la-jornada",
+      "titulo": "La Jornada",
+      "seccion": "Entrada",
+      "paginas": "129, 137",
+      "letra": "D                      A7                      D\nDin, din, din, es hora de partir.\n                         E7                      A\nDin, din, din, camino de Belén.\n     G                    A7                           D  (Dm)\n/Los esposos bajan desde Nazaret./\n      Dm                 A7                          Dm\n1. /La Virgen María modesta y sencilla\nD7              Gm    A7                  Dm  (D)\nEs la maravilla del dichoso Edén./\n\n2. /Sobre un jumentillo se sienta María\nY es experto guía el casto José. /\n\n3. /Los buenos amigos de José y María\nLlegan a porfía a decirle adiós. /\n\n4. /Van José y María, van hacia Belén,\nDonde nuestro bien ha de aparecer./\n\n5. /Largo es el camino, aire sofocante,\nMas es importante cumplir el deber. /\n\n6. /Llegan extenuados al morir el día\nY en la noche fría no hay donde hospedar. /\n\n7. /José solicita, fuerte y animoso,\nLugar de reposo en todo Belén. /"
+    },
+    {
+      "id": "06-rey-de-israel",
+      "titulo": "Rey De Israel, No Tardes Más",
+      "seccion": "Entrada",
+      "paginas": "130",
+      "letra": "Letra: José Jesús García\nMúsica: Joscar Salazar\nG               D                       G\nRey de Israel, no tares más;\n                        D                        G   G7\nVen pronto, que la humanidad\nC                             G\nEspera tu revelación\n                           D7                         G     D7 Gm\nVen, Dios bendito, Dios del Amor.\nGm                          D7\n1. Del faraón y les libré,\n     Cm                                          D7\nDesierto y mar también crucé,\n         D7                           Gm\nCon fuego y nube les guiaba\n              Cm       D7                Gm\ny en la tienda me encontraban.\nGm                          D7\nLes día una tierra y descendencia,\n     Cm                                          D7\nJueces y reyes con mi ciencia,\n         D7                           Gm\ny cuando yo quise me escucharan,\n              Cm       D7                 G      C D7 G\nenvíe profetas que les hablaran.\n\n2. A Babilonia los deportaron,\nallí yo estuve a su lado\ny al volver a Jerusalén\nReconstruimos el templo también.\nNo creas, Pueblo, que te olvido;\npor salvarte, al mundo, he venido\nencarnado, al seno de María,\ncomo anunciaba el profeta Isaías.\n\n3. A tu lado, en mi caminar,\nmi vida di, para salvar\nal pueblo que tanto esperaba\nal rey Mesías que les libertara.\nNo me he ido, pues con gran cariño\nestoy en la risa de un niño\ny como prueba patente, hoy día,\nestoy por ti, en la Eucaristía.\n\n4. Estoy en la comunidad\nque se congrega en torno al altar.\nEscucha y cumple con mi amor\ndándolo a todos sin discriminación.\nSi ves a enfermos y oprimidos\nEstoy en ellos, no es su merecido;\npreparen camino y senderos,\nestén en vela y haciendo actos bueno."
+    },
+    {
+      "id": "06-senor-ten-piedad-navideno",
+      "titulo": "Señor Ten Piedad Navideño",
+      "seccion": "Kyrie",
+      "paginas": "130",
+      "letra": "      E                                         A               B7               E\n/Señor ten piedad de nosotros, Señor ten piedad/\n      E              A       B7                 E\n/Cristo, Cristo, Cristo ten piedad/"
+    },
+    {
+      "id": "06-senor-ten-piedad-salazar",
+      "titulo": "Señor Ten Piedad (José Virgilio Salazar)",
+      "seccion": "Kyrie",
+      "paginas": "130",
+      "letra": "       Em   D  C     B7\n/Señor ten piedad\nAm                       C B7\n/Cristo, ten piedad/"
+    },
+    {
+      "id": "06-nochebuena-ven-ven-ven",
+      "titulo": "Nochebuena (Ven, Ven, Ven)",
+      "seccion": "Entrada",
+      "paginas": "130",
+      "letra": "          C                                        G7                      C\n1. /Ven, ven, ven, que ya la fiesta va a empezar,\n                                                  G7                        C\nVen, ven, ven, que al niño Dios hay que cantar./\n      F                                      C\n/Noche Buena, Noche de Paz.\n                 A7                      Dm\n¡Cómo alumbran las estrellas,\n               G7                        C\n¡Pero la Luna alumbra más!/\n\n2. /Con amor cantemos todo a Jesús\nQue en Belén en un pesebre ha de nacer./\n\n3. /Don din don, se oyen campanas repicar\nDon din don, que el Dios divino ha de llegar. /"
+    },
+    {
+      "id": "06-gloria-jv-salazar",
+      "titulo": "Gloria (José Virgilio Salazar)",
+      "seccion": "Gloria",
+      "paginas": "131",
+      "letra": "    C                           G                                       C\n/Gloria, Gloria a Dios en el cielo y en la tierra\nF                  C                    G                   C\npaz a los hombres Que ama el Señor. /\n                  F                                              C\n1. Por tu inmensa gloria, todos, Te alabamos, te bendecimos,\n             G                         C\nte adoramos, te glorificamos,\nF                     C          G                         C\nte damos gracias. Por tu inmensa gloria.\nAm                              Em              F                        C\n2. Señor Dios, rey celestial, Dios Padre todopoderoso.\n    Am                       Em\nSeñor, Hijo único, Jesucristo.\n             F               C                      F   G       C\nSeñor Dios, Cordero de Dios, Hijo del Padre.\n               Am                              Em\n3. Tú que quitas el pecado del mundo,\n       Dm    G            C\nten piedad de nosotros;\nAm                              Em\nTú que quitas el pecado del mundo,\n       Dm    G            C\natiende nuestra súplica\nAm                                          Em\nTú que estás sentado a la derecha del Padre,\n Dm                      C\nten piedad de nosotros.\n                Am                             Em\n4. Porque solo Tú eres Santo, solo Tú Señor,\nF                G                    C\nSolo Tú Altísimo, Jesucristo.\n F              G         C                    F                       G\nCon el Espíritu Santo, en la gloria de Dios Padre.\nF G       C\nAaaamen."
+    },
+    {
+      "id": "06-gloria-costeno",
+      "titulo": "Gloria Costeño",
+      "seccion": "Gloria",
+      "paginas": "131",
+      "letra": "Am                                           F        Dm      E7\n/Gloria a Dios en el cielo y en la tierra paz\n                                                                  Am\na todos los hombres de buena voluntad. /\n Am                                                           F                      E\n1. Por tu inmensa gloria, Padre, Te alabamos, te adoramos,\nE7                                                                        Am\nCon amor, te bendecimos, Señor, te glorificamos,\n Am                                                            F             E\nSeñor Dios, rey celestial, Dios Padre todopoderoso.\nE7                                                                        Am\nPor tu Hijo Jesucristo, Gracias te damos Nosotros.\n\n2. Señor, Dios Hijo del Padre, Cordero de Dios bendito,\nTú que quitas el pecado, tennos piedad Jesucristo,\nNuestra suplica atiende, unigénito bendito,\nTú que estas a la derecha del padre, Óyenos cristo.\n\n3. Porque solo tú eres, Santo, Altísimo Jesucristo,\nSolo tú Señor del Mundo, y Junto a ti, el Santo Espíritu,\nPorque solo tú eres Santo, altísimo Jesucristo,\nen la gloria de Dios padre, Amen por todos los siglos."
+    },
+    {
+      "id": "06-aleluya-agustin-sanchez",
+      "titulo": "Aleluya (Agustín Sánchez)",
+      "seccion": "Aleluya",
+      "paginas": "131",
+      "letra": "G             C             D7                  G\nAleluya, aleluya, Aleluya, Aleluya"
+    },
+    {
+      "id": "06-aleluya-joscar-salazar",
+      "titulo": "Aleluya (Joscar Salazar)",
+      "seccion": "Aleluya",
+      "paginas": "131",
+      "letra": "D           G     D     G A D             F#7\n/Aleluya, aleluya, Aleluya. /\nCambio de Ritmo a Habanera\nB\nOh Sabiduría del Altísimo,\nE                               F#7                              B\nQue ordenas todo con firmeza y suavidad,\nE                               F#7                              B\nVe y muéstranos el camino de la prudencia."
+    },
+    {
+      "id": "06-aclamaciones-evangelio",
+      "titulo": "Aclamaciones Antes Del Evangelio",
+      "seccion": "Aleluya",
+      "paginas": "132",
+      "letra": "17 de diciembre\nOh Sabiduría del Altísimo,\nQue ordenas todo con firmeza y suavidad,\nVe y muéstranos el camino de la prudencia.\n18 de diciembre\nOh Pastor de la casa de Israel,\nQue en el Sinaí diste a Moisés tu ley,\nVen a librarnos con el poder de tu brazo.\n19 de diciembre\nOh Renuevo del tronco de Jesé,\nQue te alzas como un signo para los pueblos,\nVen a librarnos, no tardes más.\n20 de diciembre\nOh Llave de David, Oh Llave de David,\nQue abres las puertas del reino eterno,\nVen y libra a los cautivaos que viven en tinieblas.\n21 de diciembre\nOh Emmanuel, Oh Emmanuel,\nOh legislador y rey nuestro,\nVen a salvarnos, Señor, Dios nuestro.\n22  y 23 de diciembre\nOh Rey de las naciones, Rey de las naciones\ny piedra angular de la Iglesia\nVen y salva al hombre que formaste de la tierra.\n24 de diciembre misa matutina\nOh Sol de justicia que naces de lo alto,\n resplandor de la luz eterna,\nVen ahora a iluminar a los que viven en tinieblas"
+    },
+    {
+      "id": "06-por-eso-presentamos-vino-y-pan",
+      "titulo": "Por Eso Presentamos Vino Y Pan",
+      "seccion": "Ofrendas",
+      "paginas": "132",
+      "letra": "Joscar Salazar. Gaita. Ofrendas\nBm                          A                   G                 F#7\nToda mi tierra espera con alegría y felicidad\nD                              Em7              A 7                          D\nTu nacimiento mi niño divino, ¡ven! ya no tardes más,\nBm                                 A                       G                             F#7\nSuenan parrandas y gaitas ritmos alegres hay por doquier\nD                              Em7              A7                          D\nDe un pueblo venezolano que te ama y quiere verte nacer.\n                 D                                            A7\n//y por eso presentamos vino y pan,\n            Bm                                       D\nOh divina luz, mi niño angelical\n             G                                          D\nVirgencita te acompaño con José para cantar\n           Em7                                       A7\nEsta gaita para el niño en el portal//\n                D                   A7                      D\n1. En tu altar hoy Presentamos pan y el vino\n              Em7                               A7\nQue es el fruto del trabajo redentor.\n              D                             A7                    D\nNuestras penas y temores oh mi niño.\n              Em7                               A7\nCuando vengas partirán del corazón.\n             D                   A7                 D\n2. Oh María, Madre Santa, te cantamos\n         Em7                               A7\nY contigo esperamos al Señor,\n            D                   A7                       D\nFruto Santo, de tu vientre que es bendito.\n              Em7                               A7\nTestimonio de tu entrega fiel a Dios.\n\n3. Niño Dios tú siempre nos has regalado\n              Em7                               A7\nLa esperanza y la alegría de vivir,\n              D                             A7                    D\nDe esta tierra un paraíso que has creado\n              Em7                               A7\nEsta ofrenda la traemos ante ti.\n\n4. Entre gaitas y parrandas te esperamos\nCon hallacas y también pan de Jamón,\nEn familia todo lo hemos preparado\nPara recibirte ¡oh Gran Salvador!"
+    },
+    {
+      "id": "06-al-altar-venimos",
+      "titulo": "Al Altar Venimos",
+      "seccion": "Ofrendas",
+      "paginas": "133",
+      "letra": "Aguinaldo, Adviento. Maturín-Monagas\nD                      A7      Bm                  F#m\nAl altar venimos, hoy, a acompañar\nG                    D          A7                     D A7\nA la Virgen Santa, que encinta esta.\nD                      A7      Bm                  F#m\nAl altar venimos, a entregar también,\nG                    D          A7                     D   D7\nEstos pocos dones para nuestro Bien.\nG                    D          A7                     D A7\nEstos pocos dones para nuestro Bien.\nD                      A7      Bm                  F#m\n1. /Ven, niño adorado, ven, oh buen Jesús\nG                    D          A7                     D A7\nSin ti, nuestro mundo va falto de luz./\n2. Estos pocos Dones, vengo a presentar.\nTodo me lo has dado, Gracia sin igual.\n\n3. Salve virgen Pura, que Dios se escogió,\nPara ser su madre, Madre del amor.\n\n4. Oh Bella Doncella, Lirio sin igual\nEs tu flor el Niño, que viene a salvar.\n\n5. Ninguna gracia se podrá igualar\nA la que en tu ceno, se quiso posar."
+    },
+    {
+      "id": "06-santo-armando-figuera",
+      "titulo": "Santo (Aguinaldo, Padre Armando Figuera)",
+      "seccion": "Santo",
+      "paginas": "133",
+      "letra": "Am7     G7                                C\nSanto, Santo, Santo es el Señor\nAm7            G7                                C\nDios del universo, Santo es el Señor\nSanto, Santo, Santo es el Señor\nHosanna en el cielo, Santo es el Señor.\nC               G7                        C                      G7\n1. /Llenos están en cielo y la tierra de tu gloria\n                                                G\nDe tu gloria santo es el Señor/\n\n2. /Bendito el que viene en nombre del Señor\nHosanna en el cielo, Santo es el Señor./"
+    },
+    {
+      "id": "06-santo-joscar-salazar-gaita",
+      "titulo": "Santo (Joscar Salazar, Gaita)",
+      "seccion": "Santo",
+      "paginas": "133",
+      "letra": "Bm A   G   F# Em Bm C#7  F#7\nSanto, Santo, Santo es el Señor\n                         F#7                             Bm\n1. /Dios del universo, Santo es el Señor/\n                           F#7                                    Bm\nLlenos están el cielo y la tierra de tu gloria. /\n       Em          Bm               G      F#7          Bm\n/Hosanna, Hosanna, Hosanna en el cielo/\n                              F#7                                       Bm\n2. /Bendito el que viene en el nombre del Señor/"
+    },
+    {
+      "id": "06-oh-grande-patriarca",
+      "titulo": "Oh Grande Patriarca",
+      "seccion": "Ofrendas",
+      "paginas": "133",
+      "letra": "A                          D\n1.¡Oh Grande Patriarca!\n          A                          D\nvenerado padre y señor,\nB7                         E\n¡Oh Grande Custodio\n       F#m                   C#m\ndel Renuevo de Jesé!\nF#7              B7\n¡Hijo de Jacob!,\nE7                         A\nde la tribu de Judá.\n         F#                         E                       F#                    E\n/Enséñanos a entregar en silencio, todos los trabajos,\nF#                    E          F#                  E\nTodo lo que somos, y lo que tenemos,\n    E7                   A                    E\na Dios, Padre Eterno y también,\nF#                        E  F# E\n/hacer su voluntad,         /\nF#                        E\nhacer su voluntad.\n\n2. ¡Oh Padre Nutricio\nde Jesús!, nuestro Señor,\n¡Oh Guardián y esposo\nde María!, Madre de Dios\n¡Oh Gran Soñador!\nde la voluntad de Dios.\n\n3. ¡Oh Gran Carpintero,\nde la casa de David!,\n¡Oh padre Amoroso\npara Jesús!, El Salvador.\n¡Oh servidor fiel\ny prudente del Señor¡\n\n4. Hombre de Oración\nentregado a su misión.\nHombre de valor,\nde coraje y compasión.\n¡Oh Gran varón Justo!,\na los ojos del Señor."
+    },
+    {
+      "id": "06-cordero-de-dios-jv-joscar",
+      "titulo": "Cordero De Dios (José Virgilio y Joscar Salazar)",
+      "seccion": "Cordero",
+      "paginas": "133",
+      "letra": "         D                              F#m          Fm            Em\n/Cordero de Dios que quitas el pecado del Mundo,\n                    A7\n1 y 2: Ten piedad de nosotros./\nD7    G,                              G               F#7              D        D7\n3. Cordero de Dios que quitas el pecado del Mundo,\nD7              G           E7     Am   D7          G\n/Danos la paz, danos la paz, danos la paz /"
+    },
+    {
+      "id": "06-cordero-de-dios-joscar",
+      "titulo": "Cordero De Dios (Joscar Salazar)",
+      "seccion": "Cordero",
+      "paginas": "134",
+      "letra": "Em                                                      B7\nCordero de Dios que Quitas el pecado\n             Am            Em\nTen piedad de Nosotros\nEm                                                      B7\n/Cordero de Dios que quitas el pecado del Mundo,\n Am       Em                 B7            Em\n1 y 2: Ten piedad. Ten piedad de nosotros./\nAm                                                                      Em\n3. Cordero de Dios que quitas el pecado del Mundo,\nAm           Em     B7          Em\n/Danos la paz, danos la paz/"
+    },
+    {
+      "id": "06-el-cardenalito",
+      "titulo": "El Cardenalito",
+      "seccion": "Comunión",
+      "paginas": "134",
+      "letra": "A                                 E7                          A\nEstando en la cruz, nuestro Redentor,\n                      A7                            D\nA sacar la espina llegó un pajarito,\n                               E7                                  A\n Manchó su plumaje con sangre de Cristo\n                        E      D                     A            E7         A\ny por eso es rojo, y por eso es rojo el cardenalito.\n A                                   E7                  A\n1. Si el Niño está triste se contentará,\n                      A7                      D\ny si el Niño llora se consolará.\n                           E7                             A\nLa Virgen lo arrulla con su dulce manto,\n           D           A           E7           A\nY el cardenalito le brinda su canto,\n\n2. Cantaba en su jaula triste un cardenal,\nCuando un preso canta es por no llorar.\nLlegó un muchachito, las puertas le abrió\nY a la libertad, contento voló,\n\n3. El cardenalito cruzó el ancho mar,\nVolando muy alto llegó hasta Belén\n se acercó al pesebre y a Jesús le dijo\nQue aquí en Venezuela lo quieren también."
+    },
+    {
+      "id": "06-el-nino-es-el-mismo",
+      "titulo": "El Niño Es El Mismo",
+      "seccion": "Comunión",
+      "paginas": "134",
+      "letra": "L. Otilio Galíndez, M.  Miguel Delgado Estévez\n        D,                D+    Am7       Bm7   Em\nCantemos un coro que al niño le guste,\n    B7              Em      B7                       Em\nAlegre y sonoro, que el niño lo escuche\nG                        A7   F#7                 Bm D7\nSan José que baile la virgen sonría\n          G A7   Dmaj7 D6 Em A7          D D7\n/llenemos las Calles con esta alegría/\n     Dm                  Gm  A7sus4 A7       Dm\n1. /El niño es el mismo de los niños tantos,\n Dm6 C#7            F#7     E7               A7sus4  A7\n Que la madre arrulla con su tierno canto /\n\n2. /El niño es el mismo corazón de oro\nDe mejillas tiernas que besamos todos/.\n\n3. /El niño es el mismo preguntón de cosas,\nEl por qué la espiga el por qué la rosa/.\n\n4. /El niño es el mismo salvador del mundo\n De mirada tierna y sentir profundo/."
+    },
+    {
+      "id": "06-gozos",
+      "titulo": "Gozos",
+      "seccion": "Comunión",
+      "paginas": "134",
+      "letra": "Bm                        Em\nDulce Jesús mío, mi niño adorado\nF#7                                                     Bm\n Ven a nuestras almas, ven no tardes tanto"
+    },
+    {
+      "id": "06-la-encarnacion",
+      "titulo": "La Encarnación",
+      "seccion": "Comunión",
+      "paginas": "135",
+      "letra": "Em                               C                   B7\n1. Viendo la infinitud del amplio Cielo\nB7                                                  Em\nVeo destellar la luz  el Dios supremo\nEm                               C                   B7\nEstán el Padre, el Hijo  Y Espíritu Santo\nB7                                                  Em\nViendo a la humanidad Que sufre tanto\nAm                       Em\n¿A quién enviaremos? se dicen\nB7                         Em\nPara nuestro pueblo se dicen\nAm              G\nYo iré, Yo voy, dice el hijo\nB7                   Em\nEl verbo de Dios\nAm                       Em\n¿A quién enviaremos? se dicen\nB7                         Em\nPara nuestro pueblo se dicen\nAm  D7      G                   C\nYo iré, Yo voy, dice el hijo\nF#7      B7     Em\nEl verbo de Dios.\n\n2. Habiendo decidido quien nacería\nVuelve a mirar al hombre Que salvaría\n¿Quién podrá recibirlo? se preguntaban\nUna mujer sencilla o humilde esclava\n\n¿A quién lo enviaremos? se dicen\n¿Quién de nuestro pueblo se dicen\nAquí está la Esclava  la Virgen\nSierva del Señor.\n\n3. Esa doncella Humilde Era María\nLa pobre de Yahveh La prometida\nComo profetizaba Isaías\n\"Del seno de la virgen El nacería\"\n\n¿Cuándo lo enviaremos? Se dicen\nPrepara a mi pueblo, se dicen\nPronto nacerá el Mesías\nEl niño Jesús."
+    },
+    {
+      "id": "06-nino-jesus-llanero",
+      "titulo": "Niño Jesús Llanero",
+      "seccion": "Comunión",
+      "paginas": "135",
+      "letra": "                         Am           Dm                 C\n/En mi conuquito las flores de los campos\n     Dm                Am        E7                     Am\nAdornan tu belleza y brilla tu esplendor./\n       Am             C       Dm             Am\n1. /Niñito llanero, indio soberano,\nA7                Dm                       B7                   F   E7\nDámele ternura, dámele cariño al venezolano./\n\n2. /Lindo pajarito, que vive en el llano,\nDesde tu piquito, dale un pedacito, al venezolano. /\n\n3. /Alpargata de oro, cogollito blanco,\nNo lo desampares, vuelve tu mirada, al venezolano. /\n\n4. /Trompo serenito, que baila en la mano,\nBríndale la calma, que tanto le falta, al venezolano. /"
+    },
+    {
+      "id": "06-nino-monaguense",
+      "titulo": "Niño Monaguense",
+      "seccion": "Comunión",
+      "paginas": "135",
+      "letra": "      Em    B7                    Em       D7                        G\n1. Soñé que el Niño bendito nacía aquí en esta tierra\n    F#                           B7             F#                     B7\nY se paseaba en la sierra de Perijá y de Falcón.\nPara ofrecer con amor, alegría y esperanza\nA familias que desean cumplir con sus añoranzas\n                       E         B7                E\nNiño de mi cielo, Niño Monaguense,\n                           F#m               C#7       F#m\nBendice a tus pueblos y a toda su gente,\n                       B7                             E\nNiño de mi cielo, Niño Monaguense,\n    F#m                     E             B7               E\n/Bendice a tus pueblos y a toda su gente/\n\n2. Brindo a todos los niños, andinos también llaneros\nGuayaneses y costeros, Para esta navidad\nUn Mensaje de hermandad a toditas las naciones\nCarritos de bendiciones y muñequitas de paz."
+    },
+    {
+      "id": "06-burrito-sabanero",
+      "titulo": "Burrito Sabanero",
+      "seccion": "Comunión",
+      "paginas": "135",
+      "letra": "     G                                C                  D7              G\n1. /Con mi burrito sabanero voy camino de Belén./\n             C                 G                D7              G\n/Si me ven, si me ven voy camino de Belén./\nB7                             Em      B7                          Em\nTuqui, Tuqui, tuqui, tuqui, tuqui, tuqui, tuqui ta.\n        A7                 D                   A7               D\nApúrate mi burrito que ya vamos a llegar.\nB7                             Em      B7                          Em\nTuqui, Tuqui, tuqui, tuqui, tuqui, tuqui, tu.\n        C                  G                D7              G\nApúrate mi burrito vamos a ver a Jesús.\n\n2. /El lucerito mañanero, ilumina mi sendero./\n\n3. /Con mi cuartico voy cantando y mi burrito va trotando./"
+    },
+    {
+      "id": "06-a-ti-te-cantamos",
+      "titulo": "A Ti Te Cantamos",
+      "seccion": "Comunión",
+      "paginas": "136",
+      "letra": "                    Dm             A7            Dm\nA ti te cantamos preciosa María\n                      Gm                        A7\nY de ti esperamos paz y alegría\n                 D7  Gm                     C7   F          Bb          A7\nA ti te cantamos, a ti te cantamos preciosa María.\n      D G                      D       G  Gm            D\n1. /Tu, la flor más pura del vergel del cielo\n                     A7     E7                A7\nEres la esperanza eres el consuelo. /\n\n2. /A ti gran Señora a ti suspiramos\nMadre del Dios Niño a quien tanto amamos. /\n\n3. /No nos desampares, divina Señora\nSé nuestro consuelo en cualquiera hora. /\n\n4. /Lumbrera del mundo, cándida María,\nEn la vida triste nuestros pasos guía. /\n\n5. /Por ti virgen pía baja el Redentor\nPorque el alma mía se inflama de amor. /"
+    },
+    {
+      "id": "06-como-el-rocio",
+      "titulo": "Como El Rocío",
+      "seccion": "Comunión",
+      "paginas": "136",
+      "letra": "Bm                                                      Em\nComo el rocío del cielo baja constante,\nF#7                                                           Bm\nCual viene de las nubes lluvia abundante,\n B7                                                     Em\nComo flores y frutos produce el suelo\nG                             Bm                          F#7 Bm\nVenga Dios con nosotros, el Dios del cielo.\n//B  E   F#7    B /\nB                 E    F#7                B\n1.//Cetro de Israel, llave de David,\nE                       B         F#7                     B\nVen, y nuestra cárcel con tu mano abrid.//\n\n2. Gracia celestial, oh, sol de Sión,\nLuz del universo, paz del corazón.\n\n3. Dios es para el hombre clemencia y bondad\nY el único puerto de seguridad.\n\n4. Del empíreo bajas con amor profundo\nY en humildes pajas te recibe el mundo.\n\n5. Primoroso Infante, Hijo de María,\nTú eres sol radiante de nuestra alegría.\n\n6. Del hombre las penas por siempre acabaron,\nEn gozo y contento todas se cambiaron"
+    },
+    {
+      "id": "06-como-busca-el-tierno-infante",
+      "titulo": "Como Busca El Tierno Infante",
+      "seccion": "Comunión",
+      "paginas": "136",
+      "letra": "          Gm                        D7        Gm                 D7\n1. Como busca el tierno infante, afligido y pesaroso,\n        Gm               D7            Gm      D7      Gm\nEl descanso y el reposo en el seno maternal,\n      D7                       Gm          D7                    Gm\nAsí yo, desde que brilla la blanca luz de la aurora,\nCm                                     Gm             D7                   Gm G7\n/Vengo a buscar, oh, Señora, tu protección celestial./\n\n2. Como clama hacia lo alto el ave que cae del nido\nTodavía sin plumaje que la pueda sostener,\nAsí clamo yo, María, desde mi desesperanza,\n/Porque sé que tú, mi Madre, siempre me has de proteger./\n\n3. Cual capullo en el verano, mustio y seco al sol ardiente,\nEn espera de la gota que lo haga florecer,\nAsí espero yo, Señora, Madre de Jesús y mía,\n/Que Tú pongas en mi frente una gota de saber./\n\n4. Como tu Hijo resucita, luego de crucificado,\nVenciendo a la misma muerte y al demonio Lucifer,\nAsí esperan los mortales, con la fe que no desvía,\n/Llegar frente a Vos un día y tu faz, por siempre, ver./"
+    },
+    {
+      "id": "06-el-nino-criollo",
+      "titulo": "El Niño Criollo",
+      "seccion": "Comunión",
+      "paginas": "136",
+      "letra": "    A                                    B7                                    E\n/Si la Virgen fuera andina y San José de los llanos,\n     D                      A         E7                A\nel Niño Jesús sería un niño venezolano/.\n          A                                    E             D                   A\n1. /Sería un niño de alpargatas y liquiliqui planchao\n          D                          A               E7                     A\ncon sombrero de cogollo y el calzón arremangao./\n\n2. /Sería un niño de alpargatas y liquiliqui planchao\ny en vez de aureola, un sombrero de cogollo deschinflado/\n\n3. /Tendría los ojos negritos, quien sabe si aguarapaos\ny la cara tostadita del Sol de por estos laos./\n\n4. /Por cuna tendría un chinchorro chiquito, muy bien tejío,\n y la Virgen mecería al niño Jesús dormido./\n\n5. /Los ángeles cantarían en vez de gloria aguinaldos\n con furruco, con maracas, una charrasca y un cuatro./\n\n6. /Los Reyes Magos vendrían de Cumana y Margarita\ntrayendo perlas al niño, canasta de oro en pepitas. /"
+    },
+    {
+      "id": "06-oh-virgen-pura",
+      "titulo": "Oh, Virgen Pura",
+      "seccion": "Comunión",
+      "paginas": "137",
+      "letra": " A                  E7       D             A\nOh, virgen pura, brillante flor,\nA7                    D                                 B7                           C#7\nDe nuestras penas, De nuestras penas calma el dolor.\nF#7               B7                              E7\nOh, virgen pura, Oh, virgen pura,\n                      A                             D\nOh, virgen pura, Oh, virgen pura,\n                         A         D     A      E  A\nDe nuestras penas calma el dolor\nG#7  C#m B7 E A E B7 E\nE                 C#7       F#m     C#7  F#m\n1. Reina del cielo, Madre de Dios,\n A                   E                           B7            E      E7 A\nDe tus amados, De tus amados oye la voz.\n\n2. Madre querida, Madre de amor,\n/De nuestras penas/ oye el clamor.\n\n3. Y torna en lluvia de bendición\n/La voz que exhala/ nuestro dolor.\n\n4. Te regalo, Madre, esta oración\nQué /nace, sincera/, del corazón"
+    },
+    {
+      "id": "06-purisima",
+      "titulo": "Purísima",
+      "seccion": "Comunión",
+      "paginas": "137",
+      "letra": "Bm                  F#7                     Bm    Em                       Bm\nPurísima María, Lirio de Nazaret, Virgen predestinada\n             C#7                F#7          Bm F#7    Bm\nPara salvar, para salvar al pueblo de Israel.\nB F# F#7 B,  B F# E-F#7-B\n           B          E               F#7        B\n1. /La voz armónica, de canto placido\n           B          E               F#7        B                Em    Bm F#7  B7\nDel mundo prodiga llena los ámbitos./\n\n2. /La Estrella cándida de faz lumínica,\nPrestancia célica del alba mística./"
+    },
+    {
+      "id": "06-sois-la-prometida",
+      "titulo": "Sois La Prometida",
+      "seccion": "Comunión",
+      "paginas": "137",
+      "letra": "Dm                         Gm                Dm\n1. Sois la prometida del Omnipotente\nGm                    Dm         A7                 Dm\nY la que vencisteis la infernal serpiente.\nDm                  D7                         Gm\nSois la prometida del Omnipotente\nGm                    Dm         A7                 Dm\nY la que vencisteis la infernal serpiente.\nC                                   F                Bb          F\nVuelve, hermosa Virgen, tu linda mirada\nD7                      Gm         D7                Gm\nLlena de ternura, de gloria inundada.\n Bb                               F           C                  F\nVuelve, hermosa Virgen, tu linda mirada\nGm                      Dm         C               F\nLlena de ternura, de gloria inundada.\n\n2. Tú eres blanco lirio, tú eres la azucena,\nQue con sus aromas el ambiente llena.\n\n3. Alegres pregonan dulces melodías\nAl que ha de nacer, deseado Mesías.\n\n4. Ese fruto santo del árbol de vida\nVendrá de la Virgen por Dios elegida."
+    },
+    {
+      "id": "06-venid-venid",
+      "titulo": "Venid, Venid",
+      "seccion": "Comunión",
+      "paginas": "137",
+      "letra": "Em B7     Em    C                     B7\nVenid, venid, venid no te tardes,\nC                    G    B7 Em\nOh Jesús venid, venid.\n          B7            Em         B7             Em\n/Del cielo las puertas, generoso abrid/\nG                  D    G   C                   G\n1. Oh niño precioso, reluciente estrella\n  Am           Em   Am    B7       C\nOfrenda divina de la gloria eterna.\n  Am           Em   Am   B7     Em\nOfrenda divina de la gloria eterna.\n\n2. Ven Jesús divino, sois nuestro consuelo\n/Verdad y camino, que nos lleva al cielo/."
+    },
+    {
+      "id": "06-ya-se-acerca-el-dia",
+      "titulo": "Ya Se Acerca El Día",
+      "seccion": "Comunión",
+      "paginas": "138",
+      "letra": "La palabra milagro por indicación del obispo se ha sustituido por Misterio, para evitar confusiones teológicas.\nG                                                   D7\nYa se acerca el día de la Navidad,\nC                           G               A7            D\nCon fervor cantemos el mejor cantar.\nG                                                   D7\nYa se acerca el día de la Navidad,\nC                           G               D7            G\nCon fervor cantemos el mejor cantar.\nC                     G       G7                 C\n1. Una Virgen pura está en Nazaret,\nAm                      Em       Dm              C\nSu alma es un encanto, su casa un vergel.\nC                       G       E7                 Am\nFeliz nueva anuncia el ángel Gabriel:\nC                              G       G7                    C\nQue ya viene al mundo el Dios de Israel.\nC                     G       G7                 C\n2. Tímida María, tímido José,\nAm                      Em       Dm              C\nEsperan ansiosos, puesta en Dios su fe.\nC                       G       E7                 Am\nSumisos, alegres, viajan a Belén:\nC                              G       G7                    C\nAllí, nuestra dicha, Jesús, va a nacer.\n\n3. Los ángeles buscan al Rey del Edén,\nSe marchó del cielo, se marchó a Belén:\nYa están los mortales esperando al Rey,\nLas estrellas dicen que está por nacer.\n\n4. ¡Mirad qué precioso! ¡Ya el Niño ha nacido!\nDe paja dorada su lecho florido.\nDel cielo ha bajado, misterio de amor,\n¡Oh! Cristo encarnado, la espina y la flor."
+    },
+    {
+      "id": "06-aguinaldo-al-nino",
+      "titulo": "Aguinaldo Al Niño",
+      "seccion": "Parrandas y Aguinaldos",
+      "paginas": "139",
+      "letra": "D                               A7                  D               D7         G\nPreparen la mesa, preparen la mesa y encienda la luz\n  G                    D        A7            D\n/para que reciban al niño Jesús/\n\n1. Ésta era la casa, ésta era la casa que yo les decía\n/que al llegar a ella las puertas se abrían/\n\n2. Niño chiquitico, niño chiquitico, chiquitico y bello\n/dame un manojito de lindos cabellos/\n\n3. Aquí está Jesús, Aquí está Jesús, déjenlo venir\n/que el año que viene vuelve por aquí/\n\n4. Cuando Jesús venga, cuando Jesús venga y yo venga con él\n/pongan en la mesa el mejor clavel/\n\n5. Vamono' Enmanuel, Vamono' Enmanuel Salvador Pascual\n/que tu santa madre te mando a buscar/\n\n6. Aquí está Jesús, aquí está Jesús el niño adorado\n/Den le su aguinaldo que no se lo han dado/\n\n7. En una montaña, en una montaña oscura y sin luz\n/venimos siguiendo al niño Jesús/\n\n8. Vámonos mi niño, vámonos mi niño vámonos ligero\n/que el tiempo está puesto y viene aguacero/"
+    },
+    {
+      "id": "06-aguinaldo-del-tocuyo",
+      "titulo": "Aguinaldo Del Tocuyo (Tamunangue)",
+      "seccion": "Parrandas y Aguinaldos",
+      "paginas": "139",
+      "letra": "A                                D\n1. Del Tocuyo vengo, siguiendo una estrella\n    E7                  AE7                                A\n//Para que el niñito/ se Alumbre con ella./\n    A                 E7                                      A\n/Aguinaldos nuevos traigo en la cabeza/\n     A7                    D          E7                        A\n/De los que cantamos al niño en la Iglesia/\n\n2. Que le Doy al Niño, Pa’que se entretenga\n//Un Carrito de oro/ pa’que vaya y venga.\n\n3. Esta es la parranda, que hasta aquí ha venido\n//para que nos sirvan/ y un mondongo e´chivo./"
+    },
+    {
+      "id": "06-aguinaldo-carupanero",
+      "titulo": "Aguinaldo Carupanero",
+      "seccion": "Parrandas y Aguinaldos",
+      "paginas": "139",
+      "letra": "C                                                      G7\nAtención muchachos, mira que viene\n                                                   C\nse ve por encima la mar serena\nAm                                              E7\n/Así, como la sombra de la sirena\n                                                             Am\nDándole un colazo a la Noche Buena./\n                       G7                           C\n1. La Virgen María llegó a Playa Grande\n                    G7                                 C\npidiendo posada casa´e los Hernández\nBb                     A7                            Dm\nesa es la verdad casa’e los Hernández,\nF                    C        G7               C\nla Virgen María llegó a Playa Grande\n\n2. ¡Ay! Compae Perucho deme la mañana\nque ha nacido el Niño en Macarapana\nesa es la verdad,  en Macarapana\n ¡Ay ! compae Perucho deme la mañana.\n\n3. Óigame compae yo le digo a usted\n que este palo’e ron me llegó a los pies\nesa es la verdad,  me llegó a los pies,\nóigame compae yo le digo a usted.\n\n4. Los tres Reyes Magos llegaron temprano,\nya están entonando casa’e los Marcano\nesa es la verdad,  casa’e los Marcano\nlos tres Reyes Magos llegaron temprano."
+    },
+    {
+      "id": "06-el-rio-crecido",
+      "titulo": "El Río Crecido",
+      "seccion": "Parrandas y Aguinaldos",
+      "paginas": "139",
+      "letra": "    F#m                                                                        C#7\n1. /Allá viene el rio crecido, las playas llenas de flores,\n                                                                                              F#m\nPor donde quiera que pasa, lo que encuentra son amores //\n F#m                       Bm                                 F#m\n/Adiós, adiós, Adiós, no te pongas a llorar,\n                                   C#7                                      F#m\nQue yo volveré por ti cuando vuelva a parrandear,\nF#m                       Bm          F#m\nAy, ay, ay, ay, se secó la catarata,\n                                C#7                                         F#m\nDonde se bañó Jesús, en tiempo ’e Semana Santa. //\n\n2. /Los aguinaldos modernos tienen un problema grave,\nQue no saben de aguinaldos, ni hablan de las navidades. /"
+    },
+    {
+      "id": "06-al-llegar-aqui",
+      "titulo": "Al Llegar Aquí",
+      "seccion": "Parrandas y Aguinaldos",
+      "paginas": "140",
+      "letra": "A                         A7                           D\n1. /Al llegar aquí/ me saco el pañuelo\nB7                  E7                              A\npara darle a todos feliz año nuevo,\nD                   A         E7               A\npara darle a todos feliz año nuevo.\n\n/Palomita blanca/ paticas azules,\n/Tú eres la que cantas por dentro’ e las nubes/\nD        A         E7    A\n/Lam,   Lam,   Lam,   Lam.\nD        A         E7    A\nLalala, lalala, lalala, la. /\n\n2. /Me subí en tres topias/ pa’cogé un laurel.\n/pasen buenas noches, marido y mujer/\n/La Virgen María/ la flor purpurina,\n/Madre de Jesús allá en Palestina./\n\n3. /Esta era la casa// que yo les decía\n/Que al llegar a ella las puertas se abrían/\n/¿Qué fue del dichoso? / Como San José\n/que una vara seca la hizo florecer/.\n\n4. /Esta parrandita/ de nosotros cuatro\n/aquí no se meten ni perro ni gato/\n/Denme los pasteles/ dénmelos calientes\n/que pasteles fríos ahuyenta a la gente/"
+    },
+    {
+      "id": "06-cantemos-con-alegria",
+      "titulo": "Cantemos Con Alegría",
+      "seccion": "Parrandas y Aguinaldos",
+      "paginas": "140",
+      "letra": "            Em                                     C            B7\n/Cantemos con alegría, pero con felicidad\n                                                              Am             Em\nQue el Niño Jesús bendito con nosotros estará,\n              B7             Em\nCon nosotros estará/.\n          D7                                                                  G\n1. Ya nuestro Jesús llegó, llegó con mucha alegría\n    D7                                                                G\nLo recibiremos todos cantando el Ave María,\n           B7                  Em\nCantando el Ave María.\n\n2. Yo te pido Virgencita que en esta gran Navidad\nMientras yo me encuentro lejos tú me cuides a mamá,\nTú me cuides a mamá.\n\n3. Esta noche es Noche Buena pero que buena será\nQue se acerque el año nuevo y también la Navidad,\nY también la Navidad.\n\n4. Como suenan las campanas, como se ve la alegría\nY todos están felices en este bendito día,\nEn este bendito día."
+    },
+    {
+      "id": "06-fuego-al-canon",
+      "titulo": "Fuego Al Cañón",
+      "seccion": "Parrandas y Aguinaldos",
+      "paginas": "140",
+      "letra": "C               G7                       C\nFuego al cañón, fuego al cañón,\nF                   C          G7                      C\nPara que respeten nuestro parrandón. (Bis)\n C                  G7                       C\n1. /Niño chiquitito niño parrandero/\nF                          C           G7                        C\n/sigue con nosotros hasta el mes de enero/\n\n2. /Esta casa es grande tiene cuatro esquinas,/\n/Y en el medio tiene rosas y clavellinas./\n\n3. /San José, la virgen, la mula y el buey,/\n/fueron los que fueron al niño Nacer./"
+    },
+    {
+      "id": "06-gente-de-todos-los-caminos",
+      "titulo": "Gente De Todos Los Caminos",
+      "seccion": "Parrandas y Aguinaldos",
+      "paginas": "140",
+      "letra": "Parranda\n  F#m                                  E           D                         C#m\nGentes de todos los caminos vienen a ver a Jesús\n      Bm                            F#m                       C#m\nEl Niño Dios Baja del cielo y vienen a darnos\n                Bm   F#m                      D    Bm    F#m\nToda su Luz, a darnos toda su luz, a darnos toda su luz\n  F#m                       C#m  F#m                         C#m\n1. Empapados de su don vienen poetas y orfebres\nE                       D                          A                  B7\nA visitar el pesebre donde nació el Redentor\n  F#m                       C#m  F#m                         C#m\nEn cada mano una flor y en cada flor una espina\nE                                     D                          A                  B7\nConserva la mano amiga, llena de gracia, llena de amor\n  Bm                           F#m Bm                          F#m\nLlena de gracia y amor, llena de gracia y amor\n\n2. Su llegada es la emoción que da luz a nuestro pueblo\nGota de agua bendita y una promesa de redención\nHay gozo en mi corazón habrá paz en Venezuela\nNunca jamás habrá guerra y viviremos siempre en unión\nViviremos en unión, Viviremos en unión."
+    },
+    {
+      "id": "06-la-alegria-de-la-navidad",
+      "titulo": "La Alegría De La Navidad",
+      "seccion": "Parrandas y Aguinaldos",
+      "paginas": "141",
+      "letra": "              D                   A               G   A7              D\nA mí nadie me quitará la alegría de la navidad\n              D                   A               G   A7              D\nA mí nadie me quitara la alegría de la navidad\n               G                      D                       A7                    D   D7\nPorque Cristo es esa alegría que nadie nos puede quitar.\n                G      Gm              D               B7     Em       A7      D\nPorque Cristo es esa alegría que nadie nos puede quitar.\n          Gm                         Dm A7                    Dm    D7\n1. Navidad no solo es hallaca, ni pan de Jamón\n         G                   D      A7              D\nNavidad es Jesucristo el Hijo de Dios.\n          Gm                         Dm A7                    Dm\n2. Navidad no solo es Regalos, obsequios y estrenos;\n         G                   D      A7              D\nEs celebrar unidos al rey de los cielos.\n\n3. Navidad es el Divino Niño, el niño Jesús,\nEl verbo encarnado para dar Salud.\n\n4. Navidad es alegría, también compartir,\nLo poco o lo mucho que nos hace feliz.\n\n5. Navidad es el servicio, también caridad,\nA los necesitados unidos ayudar.\n\n6. Navidad es Esperanza, Fe y Caridad\nMaría nos enseña, vamos a imitar."
+    },
+    {
+      "id": "06-la-capilla-esta-abierta",
+      "titulo": "La Capilla Está Abierta",
+      "seccion": "Parrandas y Aguinaldos",
+      "paginas": "141",
+      "letra": "G                                           D                 G\nLa capilla está abierta de noche y de día\n                                    E7         Am\nrezaremos todos el Ave María.\n                                                A7              D7\nLa capilla está abierta de noche y de día\nC                   G            D7        G\n/rezaremos todos el Ave María./\n\nG D7       G     E7             Am\n/El niño Jesús nació caminando\nA7                  D           D7                      G\ncon su maraquita pidiendo aguinaldo. /\n\nLos tres Reyes Magos vienen del oriente\ncon su taparita bebiendo aguardiente. (Bis)"
+    },
+    {
+      "id": "06-la-matica",
+      "titulo": "La Matica",
+      "seccion": "Parrandas y Aguinaldos",
+      "paginas": "141",
+      "letra": "       Gm                                D7         Gm\n/Nosotros vivimos Bajo’e la matica/\n      Cm              Gm         D7       Gm\n/Verano con ella y ella verdecita/\n\n1. /Cantando aguinaldo con entonación/\n/Dormimos al niño con esta canción/\n\n2. /Dame mi Aguinaldo, aunque sea poquito/\n/25 hallacas y un cochino frito/\n\n3. /Dale a la tambora con fuerza y sabor/\n/Para que se alegre nuestro parrando/"
+    },
+    {
+      "id": "06-oh-luna",
+      "titulo": "Oh Luna",
+      "seccion": "Parrandas y Aguinaldos",
+      "paginas": "141",
+      "letra": "          A                                   E7\n/Oh Luna que brilla en diciembre\n                                                A\nSe oye el rumor de un cañonazo/\n          F#7                         B7       E7                                 A\n/Y esta parranda que llega, viene a darte un feliz año/\n                                E7                           A7\n/Un feliz año pa’tí, un feliz año pa’ella,\n                                E7                           A7\n un feliz año pa’Todos un feliz año/\nA                     E7                                               A\nEste es el conjunto aiju , aiju, Alegre y sencillo, aiju , aiju,\n D                             A\nTodo el que lo escucha,\n                               E7                          A\ntodo el que lo escucha le toma cariño."
+    },
+    {
+      "id": "06-san-benito",
+      "titulo": "San Benito",
+      "seccion": "Parrandas y Aguinaldos",
+      "paginas": "141",
+      "letra": "G                                        A7                             D7\n1. Repícame tamborero la fiesta ya ha comenzado\nC                                 G                  D7                           G\nEl santo negro ha escapado con todos los chimbanglero\n                                   D                                                    G\nSan Benito se escapó bien temprano de la Catedral\n                                                       D\nChimbanglero con el van a tocar,\n                                                             G\nLa fiesta de santo negro ya empezó\n                                        D\n// San Benito (San Benito)\n                                           G\nChimbanglero (chimbanglero)//\n\n2. Al negrito van bailando al son de los chimbangleros\nY de ron lo va bañando todos los sambenitero.\n\n3. La fiesta de san Benito no tiene comparación\nes tan fuerte que el re quinto le pone ritmo y sabor"
+    },
+    {
+      "id": "06-poncho-andino",
+      "titulo": "Poncho Andino",
+      "seccion": "Parrandas y Aguinaldos",
+      "paginas": "142",
+      "letra": "Dm                                     Am\nCon un poncho andino y un sombrero\n              E7                                     Am      A7\nMuy alegre por el páramo cantando.\nDm                                     Am\nCon un poncho andino y un sombrero\n              E7                                     Am\nCabizbajo por el páramo llorando.\nA7              Dm                           Am                               E7\n1. El niño Jesús de bellos frailejones, lindos ramos ponen al\n                  Am A7                      Dm                   Am\nPie de la cruz, en medio del frío, solo y tiritando, caminaba.\n\n2. El niño Jesús el que sonríe y llora, ese niño adora y tiene la virtud de reír llorando. De llorar riendo. Por la vida.\n\n3. El niño Jesús vive en la cordillera, pegado a la tierra que lo vio nacer, camina entre surcos de las sementeras\nQue lo miran.\n\n4. El Niño Jesús mejillas coloradas, vive en la montaña bajo el ancho azul, tiene por amigo vientos y quebradas,\nQue rumoran."
+    },
+    {
+      "id": "06-venga-un-abrazo",
+      "titulo": "Venga Un Abrazo",
+      "seccion": "Parrandas y Aguinaldos",
+      "paginas": "142",
+      "letra": "Bm                                                 G                          F#7\nCompai, venga un abrazo, que esta noche el año se termina\n           Em                            F#7\nA las doce lo espero en la esquina para que brindemos,\n                      Bm\n para que brindemos\n Pero compai, venga un abrazo\n                B7                                    Em\n no me diga que va a empezar a llorar\n                                                            Bm\nSiéntase alegre de estar vivo en esta hora\n                                           F#7\nque el hombre macho no llora\n                  F#7                      Bm\nCompai, eh, ¿por qué va a llorar?\n                         F#7                  Bm\nCompadrito no, ¿por qué va a llorar?\n                             F#7                     Bm\nSiéntase contento, ¿por qué va a llorar?\n                    F#7                   Bm\nDe felicidad, ¿por qué va a llorar?\n                               F#7                      Bm\nEn estos momentos, ¿por qué va a llorar?\n                                             G          F#7\n1. Felicidades a todos en esta noche bonita\nRepican las campanitas, repican las campanitas\n         Bm\ndel año nuevo\n                                    G              F#7\nFelicidades a todos en esta noche bonita\nRepican las campanitas, repican las campanitas\n          Bm\ndel año nuevo\n                         A                                              G\nPero no se ponga triste porque el amor siempre existe\n                       F#7                           Bm\nY la voluntad no muere cuando uno quiere,\nF#7        Bm\ncuando uno quiere\n\nCompae, venga un abrazo…\n\n2. Me están temblando las manos, ya no puedo dar un paso\nSuenan doce campanadas, suenan doce campanadas\ny un cañonazo (Bis)\nEstalla la algarabía y en medio de la alegría\nCaigo en brazos de mi madre, ay de mi madre\nay de mi madre (Bis)"
+    },
+    {
+      "id": "06-el-negrito-fullero",
+      "titulo": "El Negrito Fullero",
+      "seccion": "Parrandas y Aguinaldos",
+      "paginas": "143",
+      "letra": "Autor: Eurípides Romero\nA                                   E7\n1. soy un negrito fullero, orgulloso y por demás\n                                                                            A\nsoy en el amor audaz, buen amigo y parrandero (BIS)\nA                                            E\ny que soy, que soy negrito fullero,\n                                          A\nviva la pascua y la navidad\n                                                                                  E\nque yo te canto, yo te bailo, yo te gozo con esmero\n                                          A\nviva la pascua y la navidad\nA                                                 E7\n// A mí me llaman negrito fullero\n                                                A\nporque me gusta la guachafita\n                                                E7\ncuando consigo una parrandita\n                                               A\ncon todo gusto ya estoy colao\n                   A7                     D\nporque yo soy zuliano rajao\n                  B7                           E\n y tengo herencia de parrandero\n               D                               A\nyo soy amigo del que es sincero\n                  E                             A\ny del que bebe en un enlozao//\n\n2. La gaita cura los males a todo el que sea gaitero\ny como yo, al que es fullero,\ngoza con Los Cardenales (BIS)\ny que soy, que soy negrito fullero\nviva la pascua y la navidad\npero me dan duro al cuatro\npa'que vean romper un cuero memerlá\nviva la pascua y la navidad\nA mí me llaman negrito fullero porque me gusta ...\nTengo candela en mis venas, candelita de gaitero,\nsoy el negrito fullero que no le agobian las penas (Bis)"
+    },
+    {
+      "id": "06-canto-de-las-posadas",
+      "titulo": "Canto De Las Posadas",
+      "seccion": "Parrandas y Aguinaldos",
+      "paginas": "143-144",
+      "letra": "           Dm                            Am              Dm\n1. José: /Les pido pasada por amor de Dios/\nGm                      Dm            A7     Dm\nMi esposa esta encinta, somos ella y yo.\nMi esposa esta encinta, somos ella y yo.\n\nPosaderos: /No los conocemos y es tarde, señor./\n/Sigan su camino, busque otro mesón./\n\n2.\nJosé: /Yo soy carpintero, me llamo José. /\n/Mi esposa es María, vamos a belén. /\n\nPosaderos: /La casa es pequeña, no hay habitación. /\n/Es la media noche, ya no hay atención. /\n\n3.\nJosé: /Mi esposa no puede dar un paso más, /\n/Esta tan cansada que quiere llorar. /\n\nPosaderos: /¿Quién es la señora que pide el favor? /\n/No tenemos sitio, no insista por Dios. /\n\n4.\nJosé: /Ella es una reina de un reino de amor, /\n/Es madre del Verbo, el Hijo de Dios. /\n\nPosaderos: /Si ella fuera reina en carruaje vendría, /\n/¿Cómo es que va en burro y en noche tan fría? /\n\n5.\nJosé: /Abranos la puerta, ¿no tiene un rincón? /\n/¿No sabe que lleva mi esposa al Señor? /\n\nPosaderos: / ¿Porque no lo dijo cuándo nos llamó? /\n/Pasen caminantes, que aquí sobra amor. /\n           D\nTodos: ¡Entren santos peregrinos, peregrinos!\n         A                     D\n¡Reciban este rincón!\nD\nQue, aunque es pobre la morada, la morada,\n         A                       D\nla damos de corazón!"
+    },
+    {
+      "id": "06-esplendido-sol",
+      "titulo": "Espléndido Sol",
+      "seccion": "Parrandas y Aguinaldos",
+      "paginas": "144",
+      "letra": "Aguinaldo cumanes\nE7                   Am       D7                 G   F\nTú lo sabes todo, lo ha dicho Jesús\n                                C               G7                 C\nLa estrella que alumbra, brilló con su luz.\nE7                   Am       D7                 G   F\nTú lo sabes todo, lo ha dicho Jesús\n                                C                                       G7                 C\nLa estrella que alumbra, mi hermano, brilló con su luz.\nC                            G7                C    C7               F\n1. Esplendido sol, esplendido sol digo con cariño,\nF                                         G7                    C\nCuéntame en tus rayos la historia del niño\nC7                             F                                 G                       C\nCuéntame en tus rayos, mi hermano, la historia del niño.\nC                            G7                C    C7               F\n¿Cómo fue ese día?, ¿cómo fue ese día, monarca de luz?\nF                                       G7            C\nCuando vino al mundo el niño Jesús\nC7                           F                                 G               C\nCuando vino al mundo, mi hermano, el niño Jesús.\n\n2. Monarca divino, monarca divino, Dime mis anhelos,\n¿Qué color tenía la nube en el cielo?\n¿Qué color tenia, mi hermano, la nueve en el cielo?\nAngles bajaron, ángeles bajaron, de faces hermosas,\nDel jardín celeste le trajeron rosas,\nDel jardín celeste, mi hermano, le trajeron rosas.\n\n3. El día fue claro, el día fue claro, Y fue medio oscuro,\nY el azul del cielo se puso más puro,\nY el azul del cielo, mi hermano, se puso más puro.\n¿Cómo era José?, ¿Cómo era José dentro e’ su alegría?\n¿Cómo era su adre, la virgen maría?\n¿Cómo era su madre, i hermano, la virgen María?"
+    },
+    {
+      "id": "06-parranda",
+      "titulo": "Parranda (Parranda Para Parrandear)",
+      "seccion": "Parrandas y Aguinaldos",
+      "paginas": "144",
+      "letra": "D                                      A7                                          D\nParranda para parrandear, parranda vamos a empezar\n    G                              D             A7          D\nPorque ya las pascuas se van a acabar,  (Si)\n    G                              D             A7          D\nPorque ya las pascuas se van a acabar\n  D                                       B7                    Em\n1. Los tres reyes magos vestidos de armiño\nG                    A             Em  A7     A+    D\nVienen de sus reinos a adorar al niño\n  D                                      B7             Em\nOro incienso y mirra traen del oriente\nG                              D              A7        D\ny una Tamarita llena de aguardiente\n\n2. La agreste y humana, la grey cariñosa,\nOfrece al infante dulce de lechosa\nY quesos más blancos que la luz del día\nEn hojas de hayacas llevan a María."
+    },
+    {
+      "id": "06-si-acaso-algun-vecino",
+      "titulo": "Si Acaso Algún Vecino",
+      "seccion": "Parrandas y Aguinaldos",
+      "paginas": "144",
+      "letra": "(Aguinaldo Caraqueño)\nD                                            D7             G\nSi acaso algún vecino se quiere molestar,\n                                   A7                               D\nAquí traigo un chaparro para hacerle callar.\n         B7                  Em            A7                   D\n1. Repican las campanas, con vivo y claro son,\n                           E7                                        A7\nEn esta Nochebuena que alegra el corazón.\n\n2. Del cielo, las estrellas nos dan su claridad\nEn esta hermosa noche de alegre Navidad.\n\n3. Olor de las hallacas se siente al respirar\nY el apetito inquieto se quiere entusiasmar.\n\n4. Los dueños de esta casa prodiguen su deber\nDe dar a esta parranda licores que beber.\n\n5. La bella trigueñita me mira sin rubor;\nIgnora esa muchacha que yo soy todo amor.\n\n6. Muchachos, prosigamos, dichosos de vivir,\nCantando villancicos para el que quiera oír.\n\n7. El canto de los gallos comienza a menudear\nY el alba en el oriente comienza a despuntar.\n\n8.  Al pie de la montaña que el gran Cabré pintó\nRetoza la sultana que tanto quiero yo."
+    },
+    {
+      "id": "06-tun-tun",
+      "titulo": "Tun, Tun",
+      "seccion": "Parrandas y Aguinaldos",
+      "paginas": "145",
+      "letra": "     A                          E7                       A\n/Tun, tun. ¿Quién es? Gente de paz,\nD                      A       E7                      A\nÁbranos la puerta que ya es Navidad./\n          F#m                     Bm      C#7              F#m\n1. Que venga el comisario primero a averiguar\n   B7                            E              B7                E\nsi son personas de orden o quieren molestar.\n\n2. Si es que ha nacido el niño pues váyanse a Belén,\n que yo desde mi cama les doy mi para bien.\n\n3. Me están robando el sueño me arruinan la salud,\nno quiero trasnocharme porque nació Jesús.\n\n4. No quiero abrir mi puerta molesten más allá,\n que el diablo se los lleve y a mi déjenme en paz.\n\n5. Ya les abro la puerta, no puedo ya dormir,\n alabemos a Dios, ¿qué hacemos aquí?"
+    },
+    {
+      "id": "06-calenda-i",
+      "titulo": "Calenda, Kalenda O Pregón De Navidad I",
+      "seccion": "Navidad",
+      "paginas": "146",
+      "letra": "Pasados innumerables siglos\ndesde de la creación del mundo,\nCuando en el principio Dios creó el cielo y la tierra\ny formó al hombre a su imagen;\nDespués también de muchos siglos,\ndesde que el Altísimo pusiera su arco en las nubes,\nAcabado diluvio como signo de alianza y de paz;\n\nVeintiún siglos después de la emigración de Abrahán,\n nuestro padre en la fe, de Ur de los Caldeos;\nTrece siglos después de la salida del pueblo de Israel de Egipto bajo la guía de Moisés;\nCerca de mil años después de que David fuera ungido\ncomo rey;\nla semana sesenta y cinco según la profecía de Daniel;\n\nEn la Olimpíada ciento noventa y cuatro,\nEl año setecientos cincuenta y dos de la fundación de Roma,\nEl año cuarenta y dos del imperio de César Octavio Augusto;\nEstando todo el orbe en paz,\n\nJesucristo, Dios eterno e Hijo del eterno Padre,\nQueriendo consagrar el mundo con su piadosísima venida,\nConcebido del Espíritu Santo,\nNueve meses después de su concepción,\n\nTiene lugar en Belén de Judea,   Hecho hombre,\nDe María Virgen:\nLa Natividad de nuestro Señor Jesucristo según la carne."
+    },
+    {
+      "id": "06-calenda-ii",
+      "titulo": "Calenda, Kalenda O Pregón De Navidad II",
+      "seccion": "Navidad",
+      "paginas": "146-147",
+      "letra": "Tono para tenor\nAm                         E              Am\nLes anuncio una nueva de gozo:\nAm                                                                                        G\nHabían pasado millones de años después de la creación,\nAm                                                                            G\nCuando en un principio creó Dios el cielo y la tierra;\nAm                                                   G\nY miles de años después del diluvio;\nAm                                                                                     G\nHacia el año 2015 después del nacimiento de Abraham,\nAm                                                          G\nHacia el año 1510 después de Moisés\nAm                                                              G\nY de la salida del pueblo israelita de Egipto;\nAm                                                                         G\nHacia el año 1032 después de la unción de David,\nAm                                                                  G\nEn la semana 65 según la profecía de Daniel.\nC                         G\nEn la olimpíada 194,\nC                                                       G\nEn año 752 de la fundación de Roma,\nF                                                                      G\nEn el año 42 de imperio de Octavio Augusto;\nF                                                                                                E\nCon todo el orbe pacificado, hace ahora 2024-02-17 años:\n          A         D           A            D              A\nJesucristo, hijo del Padre, del Dios Eterno,\nA\nQueriendo santificar el mundo con su venida,\nA                                             D       A\nConcebido por obra del Espíritu Santo,\nD                                                                    A\nY pasado los nueve meses de la concepción,\nD\nnació en Belén de Judá\n                                                         C#7\nDe la virgen María, Hecho hombre.\nD        A                   E              A\nLes anuncio una nueva de Gozo.\n\nTono para Barítono\nEm                         B               Em\nLes anuncio una nueva de gozo:\nEm                                                                                        D\nHabían pasado millones de años después de la creación,\nEm                                                                            D\nCuando en un principio creó Dios el cielo y la tierra;\nEm                                                   D\nY miles de años después del diluvio;\nEm                                                                                     D\nHacia el año 2015 después del nacimiento de Abraham,\nEm                                                      D\nHacia el año 1510 después de Moisés\nEm                                                             D\nY de la salida del pueblo israelita de Egipto;\nEm                                                                         D\nHacia el año 1032 después de la unción de David,\nEm                                                                  D\nEn la semana 65 según la profecía de Daniel.\nG                         D\nEn la olimpiada 194,\nG                                                       D\nEn el año 752 de la fundación de Roma,\nC                                                                      D\nEn el año 42 de imperio de Octavio Augusto;\nC                                                                                                B7\nCon todo el orbe pacificado, hace ahora 2024-02-17 años:\n          E         A           E            A              E\nJesucristo, hijo del Padre, del Dios Eterno,\nE\nQueriendo santificar el mundo con su venida,\nE                                             A       E\nConcebido por obra del Espíritu Santo,\nA                                                                    E\nY pasado los nueve meses de la concepción,\nA\nnació en Belén de Judá\n                                                         G#7\nDe la virgen María, hecho hombre.\nA        E                   B7              E\nLes anuncio una nueva de Gozo."
+    },
+    {
+      "id": "06-calenda-iii",
+      "titulo": "Calenda, Kalenda O Pregón De Navidad III (Kiko Argüello)",
+      "seccion": "Navidad",
+      "paginas": "147-148",
+      "letra": "          D\nHermanos, les anunciamos una buena notica,\nUna gran alegría para todo el pueblo,\n                     A7                      D\nEscúchenla con corazón gozoso.\nD\nHabían pasado miles de años, desde que, al principio,\n                         A7         D\nDios creo el cielo y la tierra,\n                                      A7            D\nAsignándoles un progreso continuo,\nA7                       D\na treves de los tiempos.\nD\nMiles y miles de años, desde el momento en que Dios,\n                                                   A7            D\nquiso que apareciera en la tierra el hombre,\n                         A7                   D\nhecho a su imagen y semejanza\nD\nhacía unos 2000 años, que Abraham el padre de nuestra fe,\n                       A7          D\nobediente a la voz de Dios,\n                                                       A7\nse dirigió a una tierra desconocidas,\n                  A7                              D\npara dar origen al pueblo elegido.\nD\nHacía unos 1200 años que Moisés,\n                                                                                 A7                D\nhizo pasar a pie enjuto por el mar rojo, a los hijos de Israel.\nD\nHacía unos 1000 años que David,\nun sencillo pastor que guardaba los rebaños de sus padres\n                        A7                            D\nJesé, fue ungido como rey de Israel.\nD\nHacía unos 700 años que Israel,\nD\nque había reincidido en las infidelidades de sus padres,\nD\nfue deportado pro os Caldeos a Babilonia,\n                         A7                                   D\ndonde aprendió a esperar un salvador.\nD\nCuando finalmente, durante la olimpiada 94,\nD\nEn el año 752 de la fundación de roma;\n\nEn el año 14 del reinado del emperador Augusto,\n\n                                            A7                                             D\nCuando en el mundo entero reinaba una paz universal.\nD                                       G                          D\nHace 2024-02-17 años, en Belén de Judá,\nG                                       D\npueblo humilde de Israel,\nD                                                         A7                  D\nen un pesebre, porque no había sitio en la posada,\n G                        D        G               D\nde María Virgen, esposa de José,\nD                                                         G                         D\n de la casa y familia de David, nació Jesús, Dios eterno.\nD\nHijo del eterno Padre y hombre verdadero,\n        G                         D\nLlamado Mesías y Cristo,\n                    A7                                        D\nes el salvador que los hombres esperaban,\n\nla palabra que ilumina a todo hombre,\n           G                  A           D\nel Camino, la Verdad y la Vida.\nD\nNosotros los que creemos en él,\nD\nnos hemos reunidos en esta noche santa\n                                           A7           D\npara celebrar con alegría la navidad.\nD                     G     D      G           D\nHermanos, alégrense, hagan fiesta,\nD                       G             D\ny celebren la mejor noticia,\n       G                   D                   G      D\nde toda la historia de la humanidad."
+    },
+    {
+      "id": "06-a-adorar-al-nino",
+      "titulo": "A Adorar Al Niño",
+      "seccion": "Navidad",
+      "paginas": "148",
+      "letra": "Rec.: Vicente Emilio Sojo.\n     D                    A7                            D\n1. /A adorar al niño Corramos pastores /\nD                          G          A7                    D\nQue está en el portal, llevemos le flores\nD                          A7                             D\nQue está en el portal, llevemos le flores\n\n2. /Una palomita anunció a María /\n/Que en su seno santo él se encarnaría/\n\n3. /Alabo el misterio de la trinidad/\n/Que son tres personas Y es un Dios, no más./"
+    },
+    {
+      "id": "06-adeste-fideles",
+      "titulo": "Adeste Fideles",
+      "seccion": "Navidad",
+      "paginas": "148",
+      "letra": "John F. Wade, ca. 1711-1786;\n         F            C        F         Bb     F    C\n1. Adeste, fideles, leati triunphantes:\n    Dm G7      C   F   C G7  C\nvenite, venite in betlehem.\n   F               C7 F   C      Gm7   C\nNatum videte regem angelorum.\n   F           Bb    F     C      F           Bb   F     C\nVenite, adoremus, venite, adoremus,\n         F      G7   C    Bb  F C     F\nVenite, adoremus Dominum.\n\n2. En grege relicto, humiles ad cunam\nVocati pastores adproperant.\nEt nos ovanti gradu festinemus.\n\n3. Cantet nunc io Chorus angelorum,\nCantet nunc aula caelestium\nGloria, gloria in excelsis Deo.\n\n4. Aeterni Parentis splendorem aeternum,\nVelatum sub carne videbimus\nDelum Infantem, pannis involutum.\n\n5. Pro nobis egenum, et foeno cubantem,\nPiis foveamus amplexibus:\nSic nos amantem quis non redamaret?\n\nVersión en Español\n    F                  C             F  Bb            F    C\n1. Vengan, los Fieles, Alegres, triunfantes:\n  Dm G7   C   F   C G7  C\nVengan, a belén.\nF                 C7 F   C         Gm7  C\nVean al nacido, al Rey de los Ángeles.\nF           Bb    F     C      F           Bb   F     C\nVenite, adoremus, venite, adoremus,\n      F      G7   C    Bb  F C     F\nVenite, adoremus Dominum.\n\n2. En pobre pesebre yace él reclinado,\nal mundo ofreciendo eterna salvación.\nAl santo Mesías, el Verbo humanado.\n\n3. Cantad jubilosas, celestes criaturas:\nresuenen los cielos con vuestra canción.\nGloria, gloria a Dios en el cielo.\n\n4. El Rey de la Gloria, se hace siervo humilde:\nen la carne esconde, su eterno esplendor.\nUn Dios se viste, con pañal humilde.\n\n5. Al que duerme entre pajas, al pobre por nosotros,\nCon nuestros abrazos, démosle calor.\nAl que así nos ama, ¿Cómo no amarle?"
+    },
+    {
+      "id": "06-al-claro-y-sereno",
+      "titulo": "Al Claro Y Sereno",
+      "seccion": "Navidad",
+      "paginas": "149",
+      "letra": "Autor: Rafael Izaza. Armonización para piano: Vicente Emilio Sojo. Transcripción para la guitarra: Alirio Díaz.\nD               Bm        B7                 Em\nAl claro y sereno fulgor de la luna\n Bm         B7                   A7             D\nDios humanado que brilla en la cuna\n         E7                 A7      B7             Em\n Cual astro eternal, alzad oh, mortales\nA7                 D           F#         B7\nEspléndido coro al eco vibrante\n       Em           G            A7            D\nde cítara de oro  cantemos la gloria\nD7 G      A7               D\nsí, si la gloria inmortal.\nD7  G  E7 A7 G A7 D\n         D             A7  G            D\n1. Adonai excelso, jefe de Sion,\nBm                  Em    A7                   D\ntu llegada augura nuestra rendición.\n\n2. Fuente de bondades sempiterna luz\nDios de los humildes es mi buen Jesús."
+    },
+    {
+      "id": "06-ay-que-lindo",
+      "titulo": "¡Ay, Qué Lindo!",
+      "seccion": "Navidad",
+      "paginas": "149",
+      "letra": "D7            Gm   D7           Gm      D7         Gm         D7        Gm\n¡Ay, qué lindo! ¡Ay, qué bello! ¡Qué gracioso el Niño está!\nD7             G                C                     D7                   G\nFue el amor a sus ovejas que del cielo le hizo bajar.\nGm             D7        Gm,               Gm    D7    Gm\n1. Los pastores van llegando, presurosos y alegres,\nGm             D7        Gm,              Gm             D7\nLlevándole sus rebaños al Niño Dios del pesebre.\n             D7                Gm,                   Gm           D7\nLos pastores van llegando, presurosos y alegres,\n            D7              Gm,                   Gm           D7\nLlevándole sus rebaños al Niño Dios del pesebre.\n\n2.Chavalillas y chavales hacen ronda al Niño bello\nY a lo lejos del paisaje los tres Magos en camello"
+    },
+    {
+      "id": "06-cantemos-alegres",
+      "titulo": "Cantemos Alegres",
+      "seccion": "Navidad",
+      "paginas": "149",
+      "letra": "         Amaj7                              E             Dmaj7\nCantemos, alegres, un canto de amor,\n                 C#7             F#m7          B7           E\nQue al mundo ha venido el Dios Redentor.\n               D                A                 E7                  Amaj7\nQue al mundo ha venido el Dios Redentor.\n  D       A      Bm         F#m  G         D             A7       D\n1. Este Niño, tan gracioso, Le da al mundo paz y gozo.\n\n2. Son sus manos, primorosas, Del empíreo frescas rosas.\n\n3. Su mirada, bienhechora, Es más bella que la aurora.\n\n4. Seda y oro sus cabellos, De los cielos son destellos.\n\n5. Cristo, fruto de María, Trajo al mundo la alegría.\n\n6. Niño bendito, Rey de los cielos,\nHoy te pedimos paz y consuelo."
+    },
+    {
+      "id": "06-cantemos-cantemos",
+      "titulo": "Cantemos, Cantemos",
+      "seccion": "Navidad",
+      "paginas": "149",
+      "letra": "        C                  G                                   C\nCantemos, cantemos gloria al Salvador.\n  C7                   F            G7                C\nFeliz Noche Buena, Feliz Noche Buena\n  A7                  Dm     G7                       C\nFeliz Noche Buena nos da el niño Dios.\n     C7                           F                       C\n1. /Tú eres la esperanza, tú la caridad,\n                           G7                             C\nTú eres el consuelo de la humanidad./\n\n2. /Divinos destellos, raudales de luz,\nAlumbra la cuna del niño Jesús./\n\n3. /Es la Noche Buena de grata memoria,\nPorque vino al mundo el Rey de la Gloria./\n\n4. La esfera celeste canta luminosa,\nLa paz y alegría con voz deliciosa./\n\n5. /Oh noche dichosa, noche de esplendor,\nNoche en que ha nacido nuestro Redentor./"
+    },
+    {
+      "id": "06-corramos-corramos-la-musica-suena",
+      "titulo": "Corramos, Corramos (La Música Suena)",
+      "seccion": "Navidad",
+      "paginas": "149",
+      "letra": "autor desconocido\nC                       G           G7              C\n1. //Corramos, corramos, la música suena,//\n    C7               F      G7                   C\n//A cantarle al Niño en la Nochebuena.//\n    A7                   Dm      G7               C\nVenid, venid pastores, venid a adorar\n    C7               F          G7                    C\nAl Rey de los cielos que ha nacido ya.\n\n2. El rocío del campo es agua bendita\nY los frailejones le dan cosquillita.\n\n3. Y la chicha andina con los pastelitos\nLe traen las abuelas y los pastorcitos"
+    },
+    {
+      "id": "06-corramos-corramos-hogar-vinador",
+      "titulo": "Corramos, Corramos (Hogar Viñador)",
+      "seccion": "Navidad",
+      "paginas": "150",
+      "letra": "        D                              B7                    Em\nCorramos, corramos, hogar viñador\n    Em                             A7                   D\nY Reguemos flores al Dios redentor.\n        D                             D7                    G\nCorramos, corramos, hogar viñador\n     G               D             A7             D\n/Y reguemos flores al Dios redentor./\n G                                           C\n1. Seas bienvenido, divino señor,\n               D7                             G\nPara tributar respeto y amor.\nG7                C       A7           D\nSeas bienvenido, divino señor,\nC            G     D7                G\nPara tributar respeto y amor.\n\n2. Estrellita blanca\nAbre ya los ojos que amanece Dios.\n\n3. los campos se visten de aroma y color\nY un cambio de vida se ve en cada flor.\n\n4. A Belén pastores vamos a belén\nQue ha nacido un niño para nuestro bien.\n\n5. Nació en un pesebre siendo soberano\nPara dar ejemplo al género humano."
+    },
+    {
+      "id": "06-de-contento",
+      "titulo": "De Contento",
+      "seccion": "Navidad",
+      "paginas": "150",
+      "letra": "    C                       G7        C           D7           G       D7         G\n/De contento voy cantando, al Dios Niño celebrando./\n   C                                      G7                                               C\n1. Himnos, himnos de alabanza, Cantos, cantos de alegría,\n     F                  C       G7                    C\n/en honor al niño que nos da María/\n\n2. Cantos, cantos de alegría, todos, todos dirijamos,\n/al que está nacido, al que tanto amamos/\n\n3. Eres, eres oh Jesús, vida, vida y consuelo,\n/verdad y camino que nos lleva al cielo/"
+    },
+    {
+      "id": "06-dichosos-mortales",
+      "titulo": "Dichosos Mortales",
+      "seccion": "Navidad",
+      "paginas": "150",
+      "letra": "Dm                               A7                         Dm\n1. Dichosos mortales ya brilla en oriente\n        E7                      A7,           A7          Dm\nLa aurora que anuncia al Dios refulgente.\n       Bb                C            Bb               F\nDe rayos, estrellas, Divinos fulgores\nDm                       Bb                 C7          F\nHermosos destellos nos da el salvador\n\n2. Piadosas creaturas si adorar queréis,\n la gloria del cielo, venid y veréis."
+    },
+    {
+      "id": "06-en-muy-duras-pajas",
+      "titulo": "En Muy Duras Pajas",
+      "seccion": "Navidad",
+      "paginas": "150",
+      "letra": "D                                                          G\nEn muy duras pajas, tendidito está\n                    A7                        D\nY allí sólo sabe gemir y llorar,\n                         D       G                    A7\nOh, Niño querido, divino Emanuel,\n                               D      A7                        D\n¿Por qué tanto llanto, por qué y por qué?\nDm                            Gm                        A7\n1. Jesús de mi vida, ¿qué quieres, mi amor?\nGm                         A7                    Dm\n¿Las pálidas rosas que da el corazón?\nDm    D7        Gm                              Dm\nEn fuego abrasadas, en su santo amor,\nGm                Dm   A7            Dm\nA tus pies rendidas en adoración.\n\n2. Tú llegaste al mundo para redimir\nCon el don divino de la salvación\nAnte Ti, postrado, no sé qué decir…\n¡Gracias, Niño amado, gracias por venir!\n\n3. Heme arrodillado, con o sin razón,\nLava mis pecados, dame tu perdón.\nMisericordioso, alivias mi cruz,\n¡Gracias, Niño hermoso mi radiante luz!\n\n4. Eres la templanza que me brinda paz\nY nunca te cansas cuando pido más.\n¡Ten mi vida entera, te la doy, Señor!\nPalabra certera: amor, puro amor"
+    },
+    {
+      "id": "06-en-tus-manos",
+      "titulo": "En Tus Manos",
+      "seccion": "Navidad",
+      "paginas": "150",
+      "letra": "Dm         Gm   Dm    Bb        Gm       A7\n1. En tus manos, Niño, que tan bellas son,\nDm      Gm   Dm    Gm          Dm      A7   Dm\nPongo yo mi alma, vida y corazón, corazón./\n  D                        A7         G    A7                   D\nNiño, Niño venturoso, fruto, fruto de María,\n  D     D7                    G       A7         D      A7    D\nDanos, Danos el reposo, danos paz y alegría.\n\n2. Adoremos todos, con ardiente amor,\nAl Verbo Encarnado, al Dios Redentor.\n\n3. Honremos la cuna del Recién Nacido\nQue con tanta gloria al mundo ha venido.\n\n4. Roguemos ahora, a este Santo Niño,\nNos conceda siempre su tierno cariño.\n\n5. Que este grado día de su nacimiento,\nConforte las almas y aumente el contento."
+    },
+    {
+      "id": "06-esplendida-noche",
+      "titulo": "Espléndida Noche",
+      "seccion": "Navidad",
+      "paginas": "151",
+      "letra": "D                                B7                 Em\nEsplendida noche radiante de luz,\n                        A7                               D\nEs la Noche Buena pues nació Jesús.\nD7                   G           E#°7        F#m7\nEsplendida noche radiante de luz,\n    G                      D      A#°7, A7         Bm, D            E7 A D E7 A\n/Es la Noche Buena pues nació Jesús/.\n     A   E7        A          B7                       E7\n1. /Venid adoremos con gran humildad\nA     Am            F        E7                         A\nAl Dios humanado que todo es bondad./\n\n2. /Aromas y flores vamos a ofrendar,\nAl niño divino que está en el portal./\n\n3. /Oro, incienso y mirra cual ricos presentes,\nLe ofrendan gozosos los reyes de oriente./"
+    },
+    {
+      "id": "06-gloria-canta",
+      "titulo": "Gloria Canta",
+      "seccion": "Navidad",
+      "paginas": "151",
+      "letra": "D                      G        D,        D          A7\n1. Gloria canta, voz celeste, en los montes,\nG           A7        G    A7 D\nen los montes de Belén.\nBm             F#7   B7            Em      Bm    Em    F#7           Bm\nY el eco, el eco de valle a valle, repite una, una y otra vez…\nG                                 D           A7                        D\n/Y el eco, de valle a valle, repite una y otra vez,\nG                                 D           A7                        D\nY el eco, de valle en valle, repite una y otra vez./\n\n2. Cantan en los altos cielos,\nCantan los querubes y en su luz el sol.\nY el eco, de valle a valle, repite una y otra vez…\n\n3. Himnos de voces alegres cantan las estrellas al Divino Ser\nY el eco, de valle a valle, repite una y otra vez…\n\n4. Canta la creación en pleno,\nCanta en coro cada hijo de Yahvé.\nY el eco, de valle a valle, repite una y"
+    },
+    {
+      "id": "06-la-fresca-manana",
+      "titulo": "La Fresca Mañana",
+      "seccion": "Navidad",
+      "paginas": "151",
+      "letra": "F C G7 C F C G7 C\nC       G             C            E7                  Am\nLa fresca mañana galana se asoma\nF                      C            G7                C\nY el aire respira perfumado aroma.\n             C             F            C7                   F\n1. Las aves despiertan, llenas de alegría,\n         Bb         F                 C7            F\nY a todos saludan con sus armonías.\n\n2. Pastores alegres llegaron cantando\nLa Virgen, humilde, lo está amamantando.\n\n3. Los Reyes le traen un lindo chapero\nY el Niño Bendito les hace pucheros.\n\n4. El niño en su cuna, José martillando,\nLa mula dormida, la Virgen rezando"
+    },
+    {
+      "id": "06-la-gloria-cantemos",
+      "titulo": "La Gloria Cantemos",
+      "seccion": "Navidad",
+      "paginas": "151",
+      "letra": "A                      Bm            E7           A\nLa gloria cantemos al Dios de Israel\nF#m             E             A           E\nsublime tesoro de gracia y amor\nA               Bm          E7             A\ny en alegre coro pidámosle a Él\n                          A            E7           A\nque borre del mundo desgracia y Dolor.\nA    D   E7    A  A7  D E7   A\n      A7               D              B7        Em\n1. Brillante, gozoso de gloria nimbado\n E7              A             E7         A\nal mundo ha bajado el hijo de Dios\nF#7         Bm            B7           E7\nla gloria cantemos del Dios increado\n  G               D                    A7             D\noremos, oremos, de su gloria en pos.\n\n2. La virgen María de Dios genitora\nCircuida de aurora se ve en el portal,\nMeciendo en sus brazos al rey de los cielos\nRisueño, radiante de luz sideral"
+    },
+    {
+      "id": "06-las-navidades",
+      "titulo": "Las Navidades (Es Nochebuena En Belén)",
+      "seccion": "Navidad",
+      "paginas": "152",
+      "letra": "La palabra milagro por indicación del obispo se ha sustituido por Misterio, para evitar confusiones teológicas.\nG                                                                                     D\nEs Nochebuena en Belén, porque nació el Niño Dios,\nC                       D7                                                           G\n¡Oh, misterio divino, pues ha llegado el Dios Redentor!\nC                G      Am               Em\nGuíanos Señor, bríndanos tu luz,\nB7                Em                   C                              B7\n paz, amor y fe, perdón, bondad: ¡Eso eres Tú!\nG                                                          C\nCon tu mano sanas, limpias los pecados,\nC                       D7                                                           G\n¡No nos desampares ni abandones, Dios amado!\nE7                   Am    E7            Am\nHoy te bendecimos, te glorificamos:\nD7                   G                      D7                   G\n hoy es Nochebuena, Pues nació el Niño Jesús"
+    },
+    {
+      "id": "06-los-ecos",
+      "titulo": "Los Ecos",
+      "seccion": "Navidad",
+      "paginas": "152",
+      "letra": "C                F                         Bb Gm\nDad a María primorosas (rosas)\nC           C7                                     C F\nY entonad, con mil encantos (cantos);\nD7                                                Gm\nDadle con músicas y flores (flores):\n        C                      F                     Bb            F\nLos ecos encantadores nos indican a porfía,\nD7                                 Gm Bb Gm   C7 F  C7         F\nQue ofrezcamos a María, rosas, cantos y flores.\nF C7\nC                              G                      G7                   C\n1. Los ángeles con su gloria, sin descanso noche y día,\nC                                F                      G7               C\nPara honrar en el pesebre a Jesús, José y María.\n\n2. De virtudes canastilla, alma ofrece a tu Señor,\nQue por ser tu Salvador a sufrir por ti se humilla."
+    },
+    {
+      "id": "06-madre-en-la-puerta-hay-un-nino",
+      "titulo": "Madre, En La Puerta Hay Un Niño",
+      "seccion": "Navidad",
+      "paginas": "152",
+      "letra": "Gm Cm Gm D7 Gm Cm Gm D7\nG                                              C\n1. Madre, en la puerta hay un Niño\n              D                              G\n más hermoso que el sol bello,\n  G                         C\nSin duda que tiene frío\n C                    D            G\nporque anda medio en cueros.\nGm                                    Cm  D7\n/Pues dile que entre, se calentará,\nCm                  Gm                  D7\nPorque en esta tierra aún hay caridad./\n\n2. Entró el Niño y se sentó, y mientras se calentaba\nLe preguntó la patrona por su tierra y por su patria.\n\n/Mi tierra es el cielo, mi patria, también,\nYo vine a este mundo para padecer./"
+    },
+    {
+      "id": "06-alegres-cantemos",
+      "titulo": "Alegres, Cantemos",
+      "seccion": "Navidad",
+      "paginas": "152",
+      "letra": "E                     F                                   E   G7\nAlegres, cantemos al Dios Redentor\n                      C      D7                       G7     B7\nAlegres, cantemos, alegres, cantemos,\n                        E           B7               E\nAlegres, cantemos al Dios redentor\n                                        B7                        C\nQue brilla en la cuna, lleno de esplendor.\n                        E           B7                   E\nAlegres, cantemos al Dios redentor\n                                         B7                      E\nQue brilla en la cuna, lleno de esplendor.\nD7     C     G7     C\nC                D7   G7             C\n1. La naturaleza se llena de gozo,\nEb7                 Ab     G7               C   B7\nSaludando el día que trae reposo.\n\n2. El cielo profundo muestra sus estrellas\nCual espeso bosque, con flores más bellas."
+    },
+    {
+      "id": "06-camino-a-belen",
+      "titulo": "Camino A Belén",
+      "seccion": "Navidad",
+      "paginas": "153",
+      "letra": "Em                                                                               B7\nToman muy de mañana José y María largo camino\n                                                                               Em\nIban hacia Belén donde se cumplirá su destino\n                                                                    E7             Am\nY cuando a medianoche solo luceros daban su luz\nAm            Em                   B7                          Em\n¡Oh Jesús, oh mi amor! En Belén naciste tú\nEm                                 B7                                  Em\n1. La virgen ahora postrada Ante su niño bendito\n                            D                D7                         G\nY San José la contempla pleno de amor infinito.\n             Am            Em             B7                     Em   Am B7\nY San José la contempla pleno de amor infinito.\n\n2. Al llegar la madrugada Esta llorando el niñito\n/Vayamos también nosotros A llevarle un regalito./"
+    },
+    {
+      "id": "06-campana-sobre-campana",
+      "titulo": "Campana Sobre Campana",
+      "seccion": "Navidad",
+      "paginas": "153",
+      "letra": "D                                   A        G             A7             D\n1. Campana sobre campana, Y sobre campana una\nD                                   A        G             A7             D\nAsómate a esa ventana, Verás al Niño en la cuna.\n     D              G                   D\nBelén, campanas de Belén\n         G                   D                      A7                  D\nQue los ángeles tocan, ¿Qué nuevas me traéis?\nD                                   G    E7             A7       D\n1. Recogido tu rebaño, ¿A dónde vas pastorcito?\nD                                   G    E7             A7       D\nVoy a llevar al Portal, Requesón, manteca y vino.\n\n2. Campana sobre campana, Y sobre campana dos\nAsómate a esa ventana, Porque está naciendo Dios.\n\n2. Caminando a medianoche, ¿Dónde caminas pastor?\nLe llevo al Niño que nace, Como a Dios mi corazón.\n\n3. Campana sobre campana, Y sobre campana tres\nEn una cruz a esta hora, El Niño va a padecer. Coro\n\n3. Ya las estrellas alumbran, Pastor donde quieres ir;\nVoy al portal por si el Niño, Con él me deja morir."
+    },
+    {
+      "id": "06-corre-caballito",
+      "titulo": "Corre Caballito",
+      "seccion": "Navidad",
+      "paginas": "153",
+      "letra": "A                                              E7\n1. /Corre caballito, vamos a Belén\n                     D          E7            A\na ver a María y al niño también./\nA7                 D        B7                 E7\n al niño también dicen los pastores:\n   D                                  A   E7                   A\n/que ha nacido un niño cubierto de flores/\n\n2. /El ángel Gabriel anunció a María que el niño divino de\nella nacería./  De ella nacería dicen los pastores:\n/que ha nacido un niño cubierto de flores./\n\n3. /Los tres Reyes Magos vienen del Oriente y le traen al\nniño hermosos presentes./ Hermosos presentes dicen los\npastores:\n/que ha nacido un niño cubierto de flores./\n\n4./ San José y la Virgen, la mula y el buey  fueron los que\nvieron al niño nacer./  Al Niño nacer dicen los pastores:\n/que ha nacido un Niño cubierto de flores./"
+    },
+    {
+      "id": "06-el-angel-gabriel",
+      "titulo": "El Ángel Gabriel",
+      "seccion": "Navidad",
+      "paginas": "153",
+      "letra": " Em                  B7                   Em\n1. /El ángel Gabriel anunció a María,/\nAm                   Em      B7         Em\n/que al cantar el gallo Jesús nacería./\nD7                 G        E7                A\n/Y a la media noche, cuando ella dormía,\nAm                    Em         B7        Em\nse cumplió el mandato de la profecía./\n\n2. /Para el nacimiento del Dios de Israel, /\n/bajaron cantando los Reyes también. /\n/Y los pastorcillos a Belén se van,\nllevando hallaquitas, cachapas y pan. /\n\n3. /San José y la Virgen, la mula y el buey, /\n/reposan debajo de un araguaney. /\n/Y sobre una mata el Niño se mece\ny un haz de cocuyos de luz resplandece. /"
+    },
+    {
+      "id": "06-el-omnipotente",
+      "titulo": "El Omnipotente",
+      "seccion": "Navidad",
+      "paginas": "154",
+      "letra": "     Em                                        B7                        Em\n¿Dónde están los hombres para que se presenten?\n                        Am  E7             Am\nPorque ya llego el omnipotente,\n                      B7                           Em\nYo le digo así, porque ya llegué.\n    Am                        Em             B7        Em\n/Yo estoy en el mundo y nadie me ve/\n        Em                    B7                                 Em\n1. /Cuando el niño nace: los campos florecen,\n                           Am               B7              Em\nLas nubes se apartan y el sol resplandece/\n\n2. /vamos a la Iglesia que el gallo cantó\nY en su canto dijo ya Jesús nació. /\n\n3. /San José sonríe, lleno de alegría\nAl saberse el padre del hijo e’ María. /\n\n4. /Esta maraquita con que canto yo\nMe la dio santa Ana la abuela de Dios. /\n\n5. /Verónica quiere la luz de la luna\nY que las estrellas alumbren su cuna. /"
+    },
+    {
+      "id": "06-el-tamborilero",
+      "titulo": "El Tamborilero",
+      "seccion": "Navidad",
+      "paginas": "154",
+      "letra": "     D                         G             D\n1.-El camino que lleva a Belén,\n     D                                      G             D\nBaja hasta el valle que la nieve cubrió,\n                                             A7\nLos pastorcillos quieren ver a su rey,\nA                  D                         D7          G\nLe traen regalos en su humilde zurrón,\n                   D                         A7\nRopopompón, Ropopompón.\n D                                 G             D\nHa nacido en un portal de Belén,\nA7           D      G      D  A      D\nEl Niño Dios.  Uuuuh\n\n2.-Yo quisiera poner a tus pies,\nAlgún presente que te agrade Señor,\nMás tú ya sabes que soy pobre también,\nY no poseo más que un viejo tambor,\nRopopompón, Ropopompón.\nEn tu honor frente al portal, cantaré,\n Con mi tambor. Uuuuh Uuuuh\n\n3. El camino que lleva a Belén,\nYo voy marcando con mi viejo tambor,\nNada mejor hay que yo pueda ofrecer,\nSu ronco acento es un canto de amor,\nRopopompón, Ropopompón.\nCuando Dios me vio tocando ante Él,\nMe sonrió. Uuuuh Uuuuh"
+    },
+    {
+      "id": "06-en-lo-alto-gloria",
+      "titulo": "En Lo Alto Gloria",
+      "seccion": "Navidad",
+      "paginas": "154",
+      "letra": "D                     A7          D    Dsus4    D   A          D\n1. Ángeles cantando están, tan dulcísima canción,\nD                     A7          D    Dsus4    D   A          D\nLas campanas su eco dan, como fiel contestación\nD B7 Em   A7 D   G Em7 A7 D      G        D   A7\nGloooooooooooooooooria, En lo alto Gloria,\nD B7 Em   A7 D   G Em7 A7 D      G        D   A7    D\nGloooooooooooooooooria, En lo alto Gloria a Dios\n\n2. Los pastores sin cesar, sus honores dan a Dios,\nCuan glorioso es el cantar, de su melodiosa voz.\n\n3. Hoy lo vemos como un niño, entre pajas junto al buey\nAlgún día lo veremos en el cielo como el rey\n\n4. La virgen lo tiene brazos, y a ratitos San José\nComo ellos en mis brazos, quiero cantarle a mi rey"
+    },
+    {
+      "id": "06-esta-bella-noche",
+      "titulo": "Esta Bella Noche",
+      "seccion": "Navidad",
+      "paginas": "154",
+      "letra": "Am7             D7    B7                    Em\nEsta bella noche de gran alegría\nAm7                          B7        Esus4 Em\nPorque ya ha nacido el Mesías\nY los chiquilines cantan con dulzura\n/Porque ya nació nuestro guía/\n     E7                             Am  D7                           G\n1. La familia toda estará      reunida con humildad\nB7                           Em       A7                         Dsus4 D\nY el abrazo no faltará       en todita la vecindad.\n    G            Cmaj7     F#7          B7\n/Esta bella noche estaremos todos\n Em7                 A7       D7sus4             D7\nCantando aguinaldos para nuestro bien/\n\n2. Los cohetes retumbarán, y la noche florecerán\nY el pesebre iluminará el recinto de nuestro hogar.\n/Esta bella noche estaremos todos\nCantando aguinaldos para nuestro bien/"
+    },
+    {
+      "id": "06-ha-traido-la-esperanza",
+      "titulo": "Ha Traído La Esperanza",
+      "seccion": "Navidad",
+      "paginas": "155",
+      "letra": "Dm                               C                                    Gm\n1. Desde el cielo ha bajado la promesa celestial;\n                           Bb                C                    Dm     C Dm\nEs el hijo de María que la bendición traerá\nDm                           C                                    Gm\nA un rey han esperado, coronado de esplendor\n                                   Bb                              C                     Dm C F\nPero Dios se ha presentado pobre, humilde y redentor.\nF                                      C                                    Gm\nHoy la humanidad celebra y los ángeles aclaman\n                                            Bb               C                      F\nQue el Señor se hizo presente, ha traído la esperanza.\nF                         C                                    Gm\nEste niño indefenso, acostado en el pesebre,\n                                    Bb                 C                      Dm\nEs el salvador del mundo y nos da vida perenne.\n            C     Dm\nOh uh ooooooh\n\n2. Él nos da la eucaristía, alimento celestial\nSe ha quedado con nosotros en un pedazo de pan\nNo olvidemos que ese niño  siendo dios e inmortal\nNos enseña a ser humildes y proclamar la verdad."
+    },
+    {
+      "id": "06-la-navidad-es",
+      "titulo": "La Navidad Es",
+      "seccion": "Navidad",
+      "paginas": "155",
+      "letra": "F,                 F  C7   Bb        C7       F\n1. La navidad es Dios Recién Nacido,\n              Bb       F             C7\nUna sonrisa y un temblor\nF,                 F  C7   Bb        C7       F\nLa navidad es Toco estremecido\n              Bb                 C7          F\nY es palpitar de un Dios Amor.\n          F                C7                         F\nLa navidad es Dios que no nos deja\n              F               G7        C7\nEn las tinieblas y el en dolor.\n          F                C7                         F\nLa navidad es Dios que se me acerca\n               F               C7    F\nPara nacer en mi corazón.\n\n2. La navidad es luz que nos alumbra,\nDel cielo trae su fulgor\nLa navidad misterio que me encumbra\nPues nace hombre el Dios Amor.\n\n3. La navidad es canto de alegría,\nSi a otros brindo mi canción.\nLa navidad florece cada Día,\nSi nace en mí el Dios Amor."
+    },
+    {
+      "id": "06-noche-de-paz",
+      "titulo": "Noche De Paz",
+      "seccion": "Navidad",
+      "paginas": "155",
+      "letra": "G                                                       D7                       G\n1. Noche de paz, noche de amor, todos duermen alrededor,\nC                                      G\nEntre los astros que esparcen su luz,\nC                                   G\nViene anunciando al niño Jesús.\n D7                            G                         D7             G\nBrilla la estrella de paz, Brilla la estrella de paz.\n\n2. Noche de paz, Noche de amor; Mira qué gran resplandor\nLuce en el rostro del Niño Jesús,\nEn el pesebre del mundo la luz,\nBrilla la estrella de paz, Brilla la estrella de paz.\n\n3. Noche de paz, Noche de amor; Al Divino Salvador\nQue por nosotros Nació en un portal.\nHimnos cantemos De amor celestial.\n¡Gloria por siempre al Señor! ¡Gloria por siempre al Señor!\n\n4. Noche de paz, Noche de amor; Jesús nace en un portal,\nLlena la tierra la paz del Señor,\nLlena las almas la gracia de Dios,\nPorque nació el Redentor, Porque nació el Redentor.\n\n5. Noche de paz, Noche de amor; ¡Noche buena del Señor!\nCantan los ángeles al Emmanuel:\n\"Gloria en los cielos al Rey de Israel,\nPaz en la tierra y amor; Paz en la tierra y amor\".\n\n6. Noche de paz, Noche de amor; Ha nacido el Redentor,\nYa los Pastores le vienen a ver,\nSus corazones le van a ofrecer\nA su Dios y Salvador; A su Dios y Salvador.\n\n7. Noche de paz, Noche de amor; Alabemos al Señor\nQue en esta Noche se dignó venir\nA los humildes para redimir.\n¡Amor al Dios del amor! ¡Amor al Dios del amor!"
+    },
+    {
+      "id": "06-ofrenda-navidena",
+      "titulo": "Ofrenda Navideña",
+      "seccion": "Navidad",
+      "paginas": "156",
+      "letra": "Letra: Monseñor Federico López Plaza.\nMúsica: Pbro. Benjamín Vega Robles.\nLa palabra milagro por indicación del obispo se ha sustituido por Misterio, para evitar confusiones teológicas.\n G               Am                 D7                      G\nRecibe, Señor, el pan; recibe, Señor, el vino,\nC                                  G              Em                     A     D7\nMisterio de comunión de tu cuerpo con el mío\n      Am                 D7     G        D7       G D7 G        B7\nRecibe mi corazón, recíbelo tú, mi niño.\n                    Em               B7                                      Em\n1. Que mis ojos puedan ver, lo inmenso de tu cariño,\n                    Em               B7                                     Em\nQue mi ceguera  no impida reconocerte en un niño,\n            E7                   Am                  Em                          B7     D7\nRecostado en un pesebre, igual que en el pan y el vino.\n\n2.Esta ofrenda navideña, lleva lo que tú me has dado,\nLleva el barro y la ternura, con la que me has amasado\nTambién lleva mis miserias por las que te has encarnado.\n3. Recibe lo que es más mío, mis penas y mis pecados,\nSeñor, da luz a mi vida, que para eso has bajado\nY en tu locura divina de mi te has enamorado.\n4. Agranda Padre el establo, para que yo pueda entrar\ny achícame como a un niño, para poder disfrutar\nEl misterio navideño que ocurre en el altar."
+    },
+    {
+      "id": "06-partamos-todos-a-belen",
+      "titulo": "Partamos Todos A Belén",
+      "seccion": "Navidad",
+      "paginas": "156",
+      "letra": "       Am                G                   F\nPartamos todos a Belén, Belén\n             Am                G        C\nQue el niño acaba de nacer,\n       Dm7                G7         Em7                  Am7\nHallacas vino y pan le vamos a ofrendar\n      B7,                        B7      E7\nAl niño que está en el portal\n                    Am           D7                   G\n1. Conservas y dulces sobre la mesa están\n                    Gm                            F\nLa gustosa hallaca ya van a cociná,\n                           Dm7                G7         Em7\nToquen bien muchachos, charrascas y tamboras\n    Am7           F#m7      B7              Em    E7\nque ya llegó la hora vamos a celebra.\n\n2. Con cuatro y furruco, cantando vamos ya\nestos aguinaldos hasta la madruga,\ncantemos, muchachos las bellas tradiciones,\nmotivos y costumbres de nuestra navidad."
+    },
+    {
+      "id": "06-presentemos-dones",
+      "titulo": "Presentemos Dones Al Dios Encarnado",
+      "seccion": "Navidad",
+      "paginas": "156",
+      "letra": "Letra: Himno del Oficio de Lecturas de la Natividad del Señor\n       D               Bm            G              D\nPresentemos dones, el vino y el pan,\n      Bm             D                   Em              A7\nAl Dios encarnado que está en el portal.\n                 Bm                          F#m\n1. De un Dios que se encarnó\n    G                                   D\nMuestra el misterio la luz de navidad.\n  Bm                       F#m\nHoy, comienza, Jesús,\n           G                   E7                 A7\nTu imperio de amor y de verdad.\n\n2. El Padre eterno te engendró\nEn su mente es de la eternidad,\nY antes que el mundo,\nEternamente ya, fue tu natividad.\n\n3. La plenitud del tiempo está cumplida;\nRocío bienhechor\nBaja del cielo,\nTrae nueva vida al mundo pecador.\n\n4. ¡Oh Santa Noche!\nHoy Cristo nacía en mísero Portal;\nOh Hijo de Dios,\nRecibe de María la carne del mortal.\n\n5. Este Jesús en brazos de maría\nes nuestra redención;\nCielos y tierra con sus brazos\nUnía de paz y perdón."
+    },
+    {
+      "id": "06-todos-los-dias-nace-el-senor",
+      "titulo": "Todos Los Días: Nace El Señor",
+      "seccion": "Navidad",
+      "paginas": "157",
+      "letra": "A               D               A,          A,         D         A\n1. Para esta tierra sin luz: Nace el Señor.\nA               D             A              A,        D         A\nPara Vencer las tinieblas: Nace el Señor.\nD                                    A\nPara cambiara este mundo:\n   D                   A    E7               A\n/Todos los días: nace el Señor/\n\n2. Para traer libertad: Nace el Señor.\nRompiendo nuestras cadenas: Nace el Señor.\nEn cada hombre que es libre:\n/Todos los días: nace el Señor/ Sube 1 tono (B)\n\n3. Para quitar la opresión: Nace el Señor.\nPara borrar la injusticia: Nace el Señor.\nEn todo pueblo que grita:\n/Todos los días: nace el Señor/\n\n4. Para vencer la pobreza: Nace el Señor.\nPara los pobres que sufren: Nace el Señor.\nPor la igualdad de los hombres:\n/Todos los días: nace el Señor/ Sube 1/2 tono (C)\n\n5.  Para traeros la paz: Nace el Señor.\nPara esta tierra que sangra: Nace el Señor.\nEn todo hombre que lucha:\n/Todos los días: nace el Señor/\n\n6. Para traernos amor: Nace el Señor.\nPara vencer egoísmos: Nace el Señor.\nPara estrechar nuestras manos:\n/Todos los días: nace el Señor/ Sube 1 tono (D)\n\n7. Para este mundo dormido: Nace el Señor.\nPara inquietar nuestras vidas: Nace el Señor.\nEn cada hombre que espera:\n/Todos los días nace el Señor/"
+    },
+    {
+      "id": "06-oh-enmanuel",
+      "titulo": "Oh Enmanuel",
+      "seccion": "Navidad",
+      "paginas": "157",
+      "letra": "G7 C G7 C E7 Am B7 E7\n      E7                            Am       E7             Am\n1. //Oh, Emmanuel del mundo rey y Salvador\n         Dm                Am          B7               E7\nVen y haz que el infierno tiemble de terror. //\nC                     F         C                           F\n//Brilla en el oriente con gran esplendor,\nC                         F       G                 C\nla aurora que anuncia al Divino Sol.//\nG7 C G7 C E7 Am B7 E7\n2. //Plácida y hermosa, la pascua ha llegado\ny nos trae noticias del Profetizado. //\n\n3. //Almas redimidas, si gloria queréis,\nla gloria del cielo venid y veréis. //\n\n4. //Himnos de alegría cantad con fervor,\nya viene el Mesías, Nuestro Salvador. //"
+    },
+    {
+      "id": "06-cuentanos-madre-amada",
+      "titulo": "Cuéntanos, Madre Amada",
+      "seccion": "Navidad",
+      "paginas": "157",
+      "letra": "Letra: José Jesús García\nMúsica: Joscar Salazar\nDm            D7        Gm\nOh María Inmaculada,\nA7                                  Dm\nOh Madre del Dios celestial.\nDm                             D7                     Gm\n/Cuéntanos, Cuéntanos Madre amada,\nA7                             Dm D    F#7   Bm  A7 Dm\ndel misterio en el portal./\nDm\n1. Con la orden de censar\n                                       A7\nel pueblo se estremecía\nA7\ny con José, mi fiel guía,\n                               Dm    A7   D\na Belén fuimos a dar.\nD                                      D7\nNo te preocupes mi amado,\n                             G\nSi tu debes emigrar,\nG                                  D\nDios contigo al caminar,\n                 A7                     D\nTe acompaña y va a tu lado.\n\n2. Ya en la ciudad de David,\nBelén o Casa del Pan,\nLa posada no nos dan,\nAun viendo mi sufrir\nNo te aflijas mi amado,\nQue aun sin techo y sin cobijo,\nDios te abriga como a un hijo,\nTe acompaña y va a tu lado.\n\n3.  Un lugar Encontramos,\nun establo sucio y frio\ny a Jesús, el amor mío,\nen un pesebre acostamos.\nEstoy contigo mi amado,\nAunque en pobre casa estés,\nEn la familia, como ves,\nDios habita, está a tu lado.\n\n4. Por el odio al ungido,\nHerodes Quiso extinguir,\nA inocentes que al morir\nproclaman al Dios nacido.\nNo estés triste mi amado\nSi te persiguen o mueres,\nEl padre, a los buenos seres,\nLos lleva hasta su lado."
+    },
+    {
+      "id": "06-el-gran-misterio",
+      "titulo": "El Gran Misterio (La Encarnación)",
+      "seccion": "Navidad",
+      "paginas": "158",
+      "letra": "                  D                                                A7\nAy mira, Mira, que mira que gran misterio\n     A7                                                D\nEs el que rodea al Niño, Divino Verbo\nD                       D7                                  G\nEse misterio grande es su encarnación.\n          G                                   D\n/por el que Dios se hace hombre,\n                        A7                           D\n Para que el hombre se haga Dios./\n                           F#7                           Bm\n1. ¡Qué gran misterio!, ¡qué gran amor!\n                  B7                               Em\nDel Dios eterno que se encarnó,\n                     F#7                            Bm\nAsumió al hombre, su humanidad,\n      G                            D                             A7                     D\nTomando, tomando todo, menos el pecado y la maldad.\n\n2. ¡qué gran Misterio!, de salvación:\nEl verbo eterno, hombre nació,\nDel seno virgen, en la humildad\nDe la virgen María que Dijo sí al Dios Inmortal.\n\n3. El verbo eterno del creador\nFue pronunciado con gran amor\nY hace posible que tú y yo\nPodamos hablarle a Dios unidos a Cristo en la oración.\n\n4. El Rey del cielo se ha anonadado\nEstá en el pobre, el que está al lado,\nEn el que sufre, ¡mira lo ahí!\nQue Cristo ya ha llegado, está a tu lado y quiere de ti."
+    },
+    {
+      "id": "06-nacio-el-redentor",
+      "titulo": "Nació El Redentor",
+      "seccion": "Navidad",
+      "paginas": "158",
+      "letra": "Intro: G A7 F#m Bm Em7 A A7 D\n                               D                      A7\n/Nació el Redentor, nació, nació,\n                                                D\nen humilde cuna nació, nació,\n                                                       A7\npara dar al hombre la paz, la paz,\n                   E7                        A\npaz y ventura, ventura y paz./\n    D G                  D       G   Gm          D\n1. /Yo quiero cantarte graciosa María,\n   B7                  E        E7          A7\ncon notas del alma, esta melodía./\n\n2. En la Nochebuena, el Niño Bendito,\nToma Fresca avena en su teterito.\n\n3. Antes de la aurora, préndanle una vela,\nPorque se desvela y se malhumora.\n\n4. De noche se asusta, y un rayo de luna\nAl Niño le gusta que alumbre su cuna."
+    },
+    {
+      "id": "06-nino-dios-athenas-venica",
+      "titulo": "Niño Dios",
+      "seccion": "Navidad",
+      "paginas": "159",
+      "letra": "D A Bm G\n      D                      A\n1. Niño Dios, que naciste en Belén\n                  Bm\nHoy te quiero ofrecer\nG        D\nmi corazón\n     D                       A\nNiño Dios, tu pesebre quiero ser\n                     Bm\nY aunque digno yo no soy,\n             D      A\nte quiero recibir\nBm                   A     G\n  Y si no encuentras un lugar\n              D                 A\nAquí puedes nacer, te quiero adorar\n        D              A\nVen a nacer en mí, Jesús\n              Bm\nComo aquella noche\n                       G\nen que el Cielo se abrió\n        D              A\nVen a nacer en mí, Jesús\n              Bm\nComo aquella noche\n                 G\nen que todo cambió.\n\nD A Bm G\n\n2. Niño Dios, hoy te quiero agradecer\nPor traer tu salvación a este pecador\nNiño Dios, tan humilde y eres Rey\nTan pequeño y eres Dios, te quiero recibir\nY si no encuentras un lugar\nAquí puedes nacer, te quiero adorar\nCoro…\nD A Bm D/F# |\nPuente\n           G            A\nVen Niño Dios, ven Salvador\n           Bm      G       D/F#\nCon tu alegría, tu paz y tu luz\n           G            A\nVen Niño Dios, ven Salvador\n           Bm         G        D/F#\nCon tu consuelo, esperanza y tu amor\n\nCoro"
+    },
+    {
+      "id": "06-nino-lindo",
+      "titulo": "Niño Lindo",
+      "seccion": "Navidad",
+      "paginas": "159",
+      "letra": "Em               B7                Em                           B7                Em\nNiño lindo, ante ti me rindo, Niño lindo, eres tú mi Dios\nAm      Em   B7                Em      Am      Em   B7                Em\nNiño lindo, ante ti me rindo, Niño lindo, eres tú mi Dios\n Em                     D7                G\n1. Esa tu hermosura, ese tu candor,\n                      Am                         Em       B7                  Em\nEl alma me roba, El alma me roba me roba el amor. (Bis)\n\n2. Con tus ojos lindos Jesús mírame,\n Y solo con eso, Y solo con eso me consolare\n\n3. La vida, bien mío, y el alma también,\nTe ofrezco gustoso, Te ofrezco gustoso, rendido a tus pies.\n\n4. De mí no te ausentes, pues sin ti ¿qué hare?,\nCuando tú te vayas, Cuando tú te vayas, has por llevarme.\n\n5. Adiós, tierno infante; adiós, Niño, adiós;\nAdiós dulce amante, Adiós dulce amante, Adiós niño adiós."
+    },
+    {
+      "id": "06-nino-venturoso",
+      "titulo": "Niño Venturoso",
+      "seccion": "Navidad",
+      "paginas": "159",
+      "letra": "C                             F                     C\nNiño venturoso, fruto de María,\nCm                               D7                      G\nDerrama tus dones sobre el alma mía.\nE7                 Am   C7                   F\n/Niño venturoso, fruto de María,\nG7                     C         G7                      C\nDerrama tus dones sobre el alma mía./\nCm                                 Fm                 Cm\n1. Has venido al mundo sólo a prodigar\nFm             Cm    D7                  G\nTodo tu cariño al pobre mortal.\nCm                                 Fm                 Cm\nhas venido al mundo sólo a prodigar\nD7               G    D7                    G\nTodo tu cariño al pobre mortal.\nFm           Cm       G                Ab\nTodo tu cariño al pobre mortal.\nFm            Cm       G7             Cm\nTodo tu cariño al pobre mortal.\n\n2. Postrada te adora mi frente, Señor;\nPalpita mi pecho y ensancha su amor.\n\n3. Aunque Tú bien sabes que habrás de sufrir,\nHoy traes a los hombres razón de vivir.\n\n4. Cantando aguinaldos llenos de piedad\nTu pueblo te ensalza cada Navidad."
+    },
+    {
+      "id": "06-reyes-que-venis-por-ellas-horeb",
+      "titulo": "Reyes Que Venís Por Ellas (Comunidad Horeb)",
+      "seccion": "Navidad",
+      "paginas": "160",
+      "letra": "Letras: Liturgia de las horas\n Em                                   B7\n/Reyes que venís por ellas,\n         B7                     Em\nno busquéis estrellas ya, /\n  D7                                  G\nporque donde el sol está\n     B7                          Em\nno tienen luz las estrellas.\nAm                                     Em\nporque donde el sol está\n     B7                          Em\nno tienen luz las estrellas.\n   Em                            D\n1. Mirando sus luces bellas,\n          C                B7\nno sigáis la vuestra ya,\n   Em                            D\nporque donde el sol está\n  C              B7             Em\nno tienen luz las estrellas.\n   Em                            D\n  Aquí parad, que aquí está\n          C                B7\nquien luz a los cielos da:\n   Em                            D\nDios es el puerto más cierto,\n                                C\nsi habéis hallado puerto\n              B7                    Em\nno busquéis estrellas ya.\n   Em                            D\nporque donde el sol está\n  C              B7             Em\nno tienen luz las estrellas.\n\n2. No busquéis la estrella ahora:\nque su luz ha oscurecido\neste Sol recién nacido\nen esta Virgen Aurora.\nYa no hallaréis luz en ellas,\nel Niño os alumbra ya,\nporque donde el sol está\nno tienen luz las estrellas."
+    },
+    {
+      "id": "06-reyes-que-venis-por-ellas-alcalde",
+      "titulo": "Reyes Que Venís Por Ellas (Antonio Alcalde)",
+      "seccion": "Navidad",
+      "paginas": "160",
+      "letra": "Letras: Liturgia de las horas\nIntro: E   A Am   E\n E                      A Am   E\nReyes que venís por ellas,\n                                       B7\nno busquéis estrellas ya,\n               E                  G#m\nporque donde el sol está\nC#m F#m B7             E\nno tienen luz las estrellas.\nE  Fdis  F#m  B7 E\n      G#m     C#7       F#m\n1. Mirando sus luces bellas,\nB7      E          A         B7\nno sigáis la vuestra ya,\n   A           Fdis                 F#m\nporque donde el sol está\n                   B7             A   E\nno tienen luz las estrellas.\n        G#m     C#7       F#m\nNo busquéis la estrella ahora:\nB7      E          A         B7\nque su luz ha oscurecido\n         C#7              F#m\neste Sol recién nacido\n                 B7             A            E\nen esta Virgen Aurora.\n      G#m     C#7       F#m\n2. Ya no hallaréis luz en ellas,\nB7      E          A         B7\nel Niño os alumbra ya,\n   A           Fdis                 F#m\nporque donde el sol está\n                   B7             A   E\nno tienen luz las estrellas.\n        G#m     C#7       F#m\nAunque eclipsarse pretende,\nB7      E          A         B7\nno reparéis en su llanto,\n         C#7              F#m\nporque nunca llueve tanto\n                 B7             A            E\ncomo cuando el sol se enciende.\n      G#m     C#7       F#m\n3. Aquellas lágrimas bellas\nB7      E          A         B7\nla estrella oscurecen ya,\n         C#7              F#m\nporque donde el sol está\n                 B7             A            E\nno tienen luz las estrellas."
+    },
+    {
+      "id": "06-salve-reina",
+      "titulo": "Salve Reina",
+      "seccion": "Navidad",
+      "paginas": "161",
+      "letra": "C                            G7                            C\nSalve, Reina del cielo, madre de amor,\nC7                        F                       C\nDulce Reina adorada del corazón.\nC                             D7         G7\nSalve, Reina del cielo, madre.\n   C                        G                        C           G7        C\nMadre de Amor, Madre de amor. Madre de Amor,\n\nDm                           Gm   C                F\n1. Te eligió el empíreo de progenitora\nAm                     C              G7                   C\nDel Hijo de Dios que este pueblo adora.\n\n2. También eres Madre de todos nosotros,\nEsta Venezuela que a ti eleva votos.\n\n3. Mi afecto sencillo recibe, Señora:\nMi frente en el polvo te ensalza y te adora.\n\n4. Pídele a tu Hijo nos dé la victoria,\nTriunfando del mal en la última hora."
+    },
+    {
+      "id": "06-salve-salve",
+      "titulo": "Salve, Salve",
+      "seccion": "Navidad",
+      "paginas": "161",
+      "letra": "C           G7      F         C       C7          F         G7 C\nSalve, salve Dios nacido, prometido Redentor,\nC           G7      F         C       C7          F         G7 C\nQue a la tierra descendiste por el triste pecador.\n\nC   Dm      G7    C                            G7   C\n1. Eres astro matutino del camino celestial\n\nY a la gloria suspirada es entrada tu portal.\n\n2. Ramilletes de amapolas y gladiolas carmesí,\nHoy tejemos, dulce Niño, con cariño para ti.\n\n3. Tiernos ecos a María, de alegría van en pos,\nEs la aurora que murmura, en la altura: ¡Gloria a Dios!\n\n4. Y las fuentes y los prados, los collados y hasta el mar\nVan la nueva repitiendo con estruendo singular"
+    },
+    {
+      "id": "06-salve-virgen-pura",
+      "titulo": "Salve, Virgen Pura",
+      "seccion": "Navidad",
+      "paginas": "161",
+      "letra": "G                       C       A7                     D7\nSalve, Virgen pura, salve, Virgen bella,\n C                        G               D7           G               G7\n/Del cielo y la tierra eres tú la estrella./\nC                                  G7                              C         F G C\n1. Venga el buen Jesús, que el mundo lo espera,\n                     E7                       Am\nCual suave rocío de la primavera.\nF                        C                   G7                C\nVenga el buen Jesús, que el mundo lo espera,\nF         G       C        G7           C\nCual suave rocío de la primavera.\n\n2. Venga el buen Jesús, fruto de María,\nÁbreme el camino, oh, luz que me guía.\n\n3. Venga el buen Jesús, misericordioso,\nLlenando mi vida de paz y de gozo.\n\n4. Venga el buen Jesús, el Verbo Encarnado,\nTal como, nos consta, fue profetizado."
+    },
+    {
+      "id": "06-venid-aca-pastorcitos",
+      "titulo": "Venid Acá, Pastorcitos",
+      "seccion": "Navidad",
+      "paginas": "161",
+      "letra": "       C                     G                                          C\n1. /Venid acá, pastorcitos, paso a paso acá venid,/\n       Am               Dm                         G7                    C\nEntonemos dulce canto, que ya el Niño va a dormir…\nG                                                C     G7         C\n/Shhh, shhh, shhh, que ya el Niño va a dormir./\n\n2. /Traed dulce de lechosa y el juguito de la vid,/\nRegalémosle una rosa que ya el Niño va a dormir…\n/Shhh, shhh, shhh, que ya el Niño va a dormir./\n\n3. /¡Cantemos con alegría que ha nacido el Niño Dios!/\nBendigamos a María, que ya el Niñito se durmió…\n/Shhh, shhh, shhh, que ya el Niño se durmió./"
+    },
+    {
+      "id": "06-venid-oh-mortales",
+      "titulo": "Venid, Oh, Mortales",
+      "seccion": "Navidad",
+      "paginas": "161",
+      "letra": "Gm          Cm     D7           Gm   Eb        Cm  Eb          D7\n1. Van cantando los pastores Al Dios Niño sus amores.\nGm                      D7\nVenid, oh, mortales, (Venid)\nD7                  Gm\nVenid /a Belén,/ (Venid)\nCm                                  Gm\nA adorar (a adorar al Niño),\n              D7                                           Gm\nEmmanuel, (A adorar al Supremo Bien).\n\n2. Reyes Magos del Oriente  Ven la estrella refulgente.\n\n3. Gloria cantan en la altura Y se expande su hermosura.\n\n4. El pesebre se engalana Con la luz de la mañana."
+    }
+  ]
+}
