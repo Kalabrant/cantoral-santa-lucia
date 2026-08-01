@@ -2,7 +2,7 @@
 
 Aplicación web para los **Coros Parroquiales de Santa Lucía**. Elige la celebración del día y genera al azar la lista completa de cantos de la misa, respetando las reglas litúrgicas del cantoral (Gloria omitido en Adviento y Cuaresma, salmos propios de Semana Santa, marianos en la salida, etc.).
 
-El repertorio son **899 cantos** con su letra y sus acordes, tomados de los diez cuadernos del cantoral parroquial.
+El repertorio son **1157 cantos**: 899 con su letra y sus acordes, tomados de los diez cuadernos del cantoral parroquial, y 258 más —sólo letra— procedentes del *Cancionero Mónica 2009*.
 
 No necesita internet, ni servidor, ni instalación: es HTML, CSS y JavaScript puro.
 

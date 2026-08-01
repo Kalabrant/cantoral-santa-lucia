@@ -1,0 +1,365 @@
+{
+  "paquete": "monica_04",
+  "canciones": [
+    {
+      "id": "m4-himno-eucaristico",
+      "titulo": "Himno Eucarístico",
+      "seccion": "Comunión",
+      "paginas": "Cancionero Mónica 2009",
+      "letra": "Coro\nJesús está aquí y te llama,\nen la Eucaristía es la vida,\ncorramos a Él con esperanza,\nes alimento en nuestro camino.\n\nEs pan de resurrección,\nmaná que del cielo viene,\nes sangre de redención\nque al hombre sostiene.\n\nTe adoramos, Jesús,\ny gracias a ti te damos,\nporque en tu santa cruz\nte vemos y amamos.\n\nJesús, hijo de María,\ntú, arca de la alianza,\ny en la Eucaristía\nestá la esperanza.\n\nSacramento del amor,\nunidad de los hermanos,\natiende este clamor\ndel pueblo zuliano.",
+      "tags": ["comunión", "eucaristía", "himno"],
+      "posibleDuplicado": ""
+    },
+    {
+      "id": "m4-pan-de-angeles",
+      "titulo": "Pan De Ángeles",
+      "seccion": "Comunión",
+      "paginas": "Cancionero Mónica 2009",
+      "letra": "Hoy comprendí una gran realidad,\nsupe que estabas allá en el altar.\nHoy supe que en un pedazo de pan\nestá la vida y la paz que yo vine a buscar.\nTú, mi Señor, tú, mi verdad,\ntú que me ofreces la vida inmortal.\n\nCoro\nPorque eres tú pan de ángeles,\nmi libertad, mi deleite en la tierra,\nmi pan celestial, sacramento de vida\nque no acaba jamás.\nTe recibo hoy, Jesús, en mi alma, aquí en el altar.\n\nHostia sagrada, te quiero adorar,\ntrigo molido en límpido pan.\nSangre preciosa vertida en la cruz\nselló nuestra alianza contigo, te amamos, Jesús.\nNutre mi alma, cambia mi vida,\nhaz que te siga y no mire hacia atrás.",
+      "tags": ["comunión", "eucaristía", "adoración"],
+      "posibleDuplicado": ""
+    },
+    {
+      "id": "m4-el-es-jesus",
+      "titulo": "Él Es Jesús",
+      "seccion": "Alabanza",
+      "paginas": "Cancionero Mónica 2009",
+      "letra": "Se manifestó por fin el rostro del eterno,\nse ha dado a conocer el amor.\nPuede contemplarse el secreto\nque abiertamente dice: yo soy.\nSe develó, uh, ah,\nla razón de todo cuanto existe,\nse ve la imagen, uh, ah,\ndel que no se puede ver.\n\nCoro\nÉl es Jesús, Jesús, el Hijo de Dios,\nÉl es Jesús, del Padre el resplandor (bis).\n\nSe ha esperado hasta el último tiempo\npara esta verdad revelar.\nEl Hijo es en todo igual que el Padre,\nel Padre en el Hijo está,\ny Él es plenitud, uh, ah,\nverdadero corazón y esencia\ndel que lo engendra, uh, ah,\ndesde toda la eternidad.\n\nCoro\nÉl es Jesús, Jesús, el Hijo de Dios,\nÉl es Jesús, del Padre el resplandor (bis).\n\nDios nacido de Dios, luz nacida de luz,\nimagen visible de Dios invisible: Él es Jesús.\n\nCoro\nÉl es Jesús, Jesús, el Hijo de Dios,\nÉl es Jesús, del Padre el resplandor (bis).",
+      "tags": ["alabanza", "cristológico", "adoración"],
+      "posibleDuplicado": ""
+    },
+    {
+      "id": "m4-nadie-te-ama-como-yo",
+      "titulo": "Nadie Te Ama Como Yo",
+      "seccion": "Cantos varios",
+      "paginas": "Cancionero Mónica 2009",
+      "letra": "Cuánto he esperado este momento,\ncuánto he esperado que estuvieras así,\ncuánto he esperado que me hablaras,\ncuánto he esperado que vinieras a mí.\nYo sé bien lo que has vivido,\nyo sé bien por qué has llorado,\nyo sé bien lo que has sufrido,\npues de tu lado no me he ido.\n\nCoro\nPues nadie te ama como yo (2).\nMira la cruz,\nesa es mi más grande prueba,\nnadie te ama como yo.\nPues nadie te ama como yo (2).\nMira la cruz,\nfue por ti, fue porque te amo,\nnadie te ama como yo.\n\nYo sé bien lo que me dices\naunque a veces no me hables,\nyo sé bien lo que en ti sientes\naunque nunca lo compartes.\nYo a tu lado he caminado,\njunto a ti yo siempre he ido,\naun a veces te he cargado,\nyo he sido tu mejor amigo.",
+      "tags": ["cantos varios", "amor de dios", "interiorización"],
+      "posibleDuplicado": "Nadie Te Ama Como Yo (E)"
+    },
+    {
+      "id": "m4-el-amor-de-mi-dios",
+      "titulo": "El Amor De Mi Dios",
+      "seccion": "Cantos varios",
+      "paginas": "Cancionero Mónica 2009",
+      "letra": "Un amor que siempre está a tu lado\ny que no te exige nunca nada,\nese es el amor de mi Dios (2).\n\nCoro\nUn amor que va de puerta en puerta,\nque bajo sonrisas Él te espera,\nun amor que siempre está esperando\nsin importar quién eres\nni hasta cuándo.\n\nUn amor que ríe cuando ríes,\nun amor que sufre cuando sufres,\nese es el amor de mi Dios (2).\n\nUn amor que vive en el silencio,\nun amor tan suave como el viento,\nese es el amor de mi Dios (2).",
+      "tags": ["cantos varios", "amor de dios"],
+      "posibleDuplicado": "El Amor De Mi Dios (G)"
+    },
+    {
+      "id": "m4-renuevame",
+      "titulo": "Renuévame",
+      "seccion": "Alabanza",
+      "paginas": "Cancionero Mónica 2009",
+      "letra": "Renuévame, Señor Jesús,\nya no quiero ser igual.\nRenuévame, Señor Jesús,\npon en mí tu corazón.\n\nCoro\nPorque todo lo que hay dentro de mí\nnecesita ser cambiado, Señor,\nporque todo lo que hay\ndentro de mi corazón necesita más de ti (2).",
+      "tags": ["alabanza", "conversión", "adoración"],
+      "posibleDuplicado": ""
+    },
+    {
+      "id": "m4-es-tu-corazon",
+      "titulo": "Es Tu Corazón",
+      "seccion": "Cantos varios",
+      "paginas": "Cancionero Mónica 2009",
+      "letra": "Es tu corazón una fuente de agua pura,\nes tu corazón un manantial de amor\ndonde el pecador\nse encuentra libre de su condición.\nEl hambriento en su amor consigue paz,\nel desesperado halla libertad.\nEs tu corazón\nuna medida del amor de Dios.\n\nCoro\nOh, sangre y agua que brotó\ndel corazón de mi Salvador\ncomo una fuente de misericordia.\nOh, sangre y agua que brotó\ndel corazón de mi Salvador,\nyo confío sólo en tu amor,\nel de tu corazón.\n\nEs tu corazón\nel que ha hecho a la esperanza.\nEs tu corazón\nese fuego que te abraza y da calor\ny sólo busca tu salvación.\nPerdido allá en la fuente de su amor\nel hombre encuentra\njustificación delante de Dios,\npues no tiene límite\nla misericordia de su corazón.",
+      "tags": ["cantos varios", "sagrado corazón", "misericordia"],
+      "posibleDuplicado": ""
+    },
+    {
+      "id": "m4-como-no-creer-en-ti",
+      "titulo": "Cómo No Creer En Ti",
+      "seccion": "Cantos varios",
+      "paginas": "Cancionero Mónica 2009",
+      "letra": "Cómo no creer en ti (2)\nsi miro, respiro y hablo,\ncamino, pienso y descanso sólo en ti.\nCómo no creer en ti (2)\nsi el amor que brota de mis ojos al mirar\nes tu amor que quiere convertir\ny transformar todo alrededor,\nen paz, en gozo y amor,\nen caminos de rosas y espinas\nque esperan ansiosos a quien camina\nllevando a los hombres la salvación.\n\nCómo no creer en ti (2)\nsi tan sólo con volver los ojos\nal horizonte,\ntan sólo con mirar los montes\nte veo, Señor (2).\nTe amo, Señor Jesús (4).\n\nSi tan sólo con volver los ojos al horizonte,\ntan sólo con mirar los montes\npodría verte sonreír.\nTe amo, Señor Jesús (4).\n\nQuiero estar junto a ti,\ncaminar contigo, quiero ser feliz\ny no dudar jamás de tu inmenso amor.\nTe adoro, Jesús, mi Salvador.",
+      "tags": ["cantos varios", "fe", "alabanza"],
+      "posibleDuplicado": "Cómo No Creer En Ti"
+    },
+    {
+      "id": "m4-sin-mascaras",
+      "titulo": "Sin Máscaras",
+      "seccion": "Cantos varios",
+      "paginas": "Cancionero Mónica 2009",
+      "letra": "Si soy la que no tiene tiempo de nada\ny sólo te busco en mi almohada\ny cuando se me mueve le piso.\nSi soy la que teme hacer el ridículo\ny nunca salgo de ese vicio\nde mirar sólo a mi dirección.\nSálvame, mi Salvador,\na ti te abro el corazón,\ncomo aquel ciego yo quiero ver la luz.\n\nCoro\nSin máscaras, sin disfraz\nquiero seguirte, Señor, soltar el manto\ny caminar descalza\ny apoyada en ti, mi Salvador.\nSin máscaras y en la verdad\nmi vida te quiero entregar\ny tan unida estar a ti\nque yo te pueda transmitir\ny hacer tu voluntad.\n\nSi soy la que para todo hace cuentas\ny olvido que realmente cuentas,\npara darle crédito sólo a mi fuerza.\nSi soy la que teme dar el primer paso,\nle temo más al fracaso\nque al abandono confiado.\nSálvame, mi Salvador,\na ti te abro el corazón,\ncomo aquel ciego yo quiero ver la luz.\n\nSi soy la que juzga a todo y a todos\ny no lo apruebo si no es a mi modo,\npara terminar sólo en el lodo.\nTambién soy la que está delante de ti\ny te pide poder vivir a plenitud\nlo que le diste por mí.\nSálvame, mi Salvador,\na ti te abro el corazón,\ncomo aquel ciego yo quiero ver la luz.",
+      "tags": ["cantos varios", "conversión", "interiorización"],
+      "posibleDuplicado": ""
+    },
+    {
+      "id": "m4-dame-un-nuevo-corazon",
+      "titulo": "Dame Un Nuevo Corazón",
+      "seccion": "Alabanza",
+      "paginas": "Cancionero Mónica 2009",
+      "letra": "Dame un nuevo corazón, Señor,\nun corazón para alabarte,\nun corazón para servirte,\nyo quiero un nuevo corazón, Señor.\n\nCoro\nLimpio como el cristal,\ndulce como la miel,\nun corazón que sea\ncomo el tuyo, Señor (2).\nGrande para amar,\nfuerte para luchar,\nun corazón que sea\ncomo el tuyo, Señor (2).",
+      "tags": ["alabanza", "conversión", "animacion"],
+      "posibleDuplicado": ""
+    },
+    {
+      "id": "m4-tan-cerca-de-mi",
+      "titulo": "Tan Cerca De Mí",
+      "seccion": "Cantos varios",
+      "paginas": "Cancionero Mónica 2009",
+      "letra": "Coro\nTan cerca de mí (2),\nque hasta lo puedo tocar,\nJesús está aquí.\n\nLe hablaré muy quedo al oído,\nle contaré las cosas que hay en mí\ny que sólo a Él le interesarán.\nÉl es más que un mito para mí.\n\nMíralo a tu lado por las calles\ncaminando entre la multitud.\nMuchos ciegos van, sin querer lo ven,\nllenos de ceguera espiritual.\n\nNo busques a Cristo en lo alto\nni lo busques en la oscuridad.\nMuy dentro de ti, en tu corazón,\npuedes adorar a tu Señor.",
+      "tags": ["cantos varios", "interiorización", "adoración"],
+      "posibleDuplicado": "Tan Cerca De Mí"
+    },
+    {
+      "id": "m4-oracion-de-san-francisco",
+      "titulo": "Oración De San Francisco",
+      "seccion": "Cantos de paz",
+      "paginas": "Cancionero Mónica 2009",
+      "letra": "Hazme un instrumento de tu paz:\ndonde haya odio lleve yo tu amor,\ndonde haya injuria tu perdón, Señor,\ndonde haya duda fe en ti.\n\nHazme un instrumento de tu paz,\nque lleve tu esperanza por doquier,\ndonde haya oscuridad lleve tu luz,\ndonde haya pena tu gozo, Señor.\n\nCoro\nMaestro, ayúdame a nunca buscar\nquerer ser consolado como consolar,\nser entendido como entender,\nser amado como yo amar (2).\n\nHazme un instrumento de tu paz:\nes perdonando que nos das perdón,\nes dando a todos lo que tú nos das\ny muriendo volveremos a nacer.",
+      "tags": ["paz", "san francisco", "oración"],
+      "posibleDuplicado": "Hazme Un Instrumento De Tu Paz"
+    },
+    {
+      "id": "m4-aqui-estoy",
+      "titulo": "Aquí Estoy",
+      "seccion": "Misioneros",
+      "paginas": "Cancionero Mónica 2009",
+      "letra": "Conocí una vez a un hombre,\nsu rostro estaba lleno de luz,\nsu cuerpo maltratado\ncargaba con una cruz.\nMe dijo que Él quería\nque lo ayudara a caminar,\nque lo ayudara en mis hermanos,\nque le ayudara a levantar.\n\nCoro\nAquí estoy, Señor, ¿qué quieres de mí?\nNo soy nada, no tengo nada,\npero con tu amor, con tu ardor,\nte puedo ayudar.\n\nÉl me dijo que en el mundo\nmucha gente no conocía su amor,\nque había sed de su palabra\ny hambre de perdón,\nque quería que le ayudara\na construir un mundo mejor,\na construirlo sobre la roca,\nla roca de su amor.",
+      "tags": ["misionero", "vocacional", "envío"],
+      "posibleDuplicado": "Aquí Estoy Señor"
+    },
+    {
+      "id": "m4-cara-a-cara",
+      "titulo": "Cara A Cara",
+      "seccion": "Cantos varios",
+      "paginas": "Cancionero Mónica 2009",
+      "letra": "Solamente una palabra,\nsolamente una oración\ncuando llegue a tu presencia, mi Señor.\nNo me importa en qué lugar\nde la mesa me hagas sentar,\nni el color de mi corona\nsi la llego a ganar.\n\nSolamente una palabra,\nsi es que aún me queda voz,\nsi es que llego a articularla, mi Señor.\nNo te quiero hacer preguntas,\nsólo una petición,\ny si puede ser a solas, mucho mejor.\n\nCoro\nSólo déjame mirarte cara a cara,\nuh, uh, uh, cara a cara,\ny que llore como un niño\nen tu mirada,\nuh, uh, uh, tu mirada,\ny que pase mucho tiempo\ny que nadie diga nada.\nSólo déjame mirarte cara a cara,\nque se ahogue mi recuerdo,\nuh, uh, uh, cara a cara,\nen tu mirada.\nQuiero amarte en silencio\ny sin palabras,\nuh, uh, uh, sin palabras,\ny que pase mucho tiempo\ny que nadie diga nada.\nSólo déjame mirarte cara a cara.\n\nSolamente una palabra,\nsolamente una oración\ncuando llegue a tu presencia, mi Señor.\nNo me importa en qué lugar\nde la mesa me hagas sentar,\nni el color de mi corona si la llego a ganar.\n\nCoro\nSólo déjame mirarte cara a cara,\nuh, uh, uh, cara a cara,\naunque caiga derretido en tu mirada,\nuh, uh, uh, tu mirada.\nDerrotado y desde el suelo,\ntembloroso y sin aliento,\nyo te seguiré mirando, mi Maestro.\nAunque caiga ante tus plantas,\nuh, uh, uh, de rodillas,\nde rodillas,\ndéjame llorar pegado a tus heridas,\nuh, uh, uh, tus heridas,\ny que pase mucho tiempo\ny que nadie me lo impida.\nHe esperado este momento\ntoda mi vida.",
+      "tags": ["cantos varios", "interiorización", "adoración"],
+      "posibleDuplicado": ""
+    },
+    {
+      "id": "m4-dios-esta-aqui",
+      "titulo": "Dios Está Aquí",
+      "seccion": "Alabanza",
+      "paginas": "Cancionero Mónica 2009",
+      "letra": "Coro\nDios está aquí,\ntan cierto como el aire que respiro,\ntan cierto como las mañanas\nse levantan,\ntan cierto como que le canto\ny me puedes oír.\n\nLe puedes notar\na tu lado en este mismo instante,\nle puedes sentir dentro de tu corazón,\nle puedes contar\nese problema que tienes.\nJesús está aquí,\nsi quieres le puedes seguir.",
+      "tags": ["alabanza", "animacion", "adoración"],
+      "posibleDuplicado": "Dios Está Aquí"
+    },
+    {
+      "id": "m4-el-jardin-del-amado",
+      "titulo": "El Jardín Del Amado",
+      "seccion": "Cantos varios",
+      "paginas": "Cancionero Mónica 2009",
+      "letra": "En la noche yo busqué\naquel que mi alma quiere.\nEn mi árido jardín Él puso su morada,\ncon perlas de rocío coronó mi cabeza.\nMi alma engalanada,\nmi bien amado llama.\n\nCoro\nVen, hermosa mía, ven a mi jardín.\nEl invierno ya pasó y las viñas en flor\nexhalan tu perfume. Ven a mi jardín.\n\nYa siento que mi amado\nse asoma a la ventana.\nLos frutos maduraron,\nmi alma ya está lista.\nÉl tocará la puerta,\nme pedirá que le abra.\nCanta la tórtola, mi bien amado llama.",
+      "tags": ["cantos varios", "cantar de los cantares", "vocacional"],
+      "posibleDuplicado": ""
+    },
+    {
+      "id": "m4-yo-soy-el-pan-de-vida",
+      "titulo": "Yo Soy El Pan De Vida",
+      "seccion": "Comunión",
+      "paginas": "Cancionero Mónica 2009",
+      "letra": "Yo soy el pan de vida,\nel que viene a mí no tendrá hambre,\nel que viene a mí no tendrá sed.\nNadie viene a mí\nsi mi Padre no le atrae.\n\nCoro\nYo le resucitaré (3) en el día final.\n\nEl pan que yo daré\nes mi cuerpo, vida del mundo.\nEl que come de mi carne\ntendrá vida eterna (2).\n\nMientras no comas del cuerpo\ndel Hijo del hombre\n(y bebas de su sangre) (2)\nno tendrá vida Él en ti.\n\nSí, Señor, yo creo\nque tú eres el Cristo,\nel Hijo de Dios\nque vino al mundo para salvarnos.\n\nYo soy la resurrección,\nyo soy la vida.\nEl que cree en mí,\naunque muera,\ntendrá vida eterna (bis).",
+      "tags": ["comunión", "eucaristía", "pan de vida"],
+      "posibleDuplicado": "Yo soy el Pan de Vida"
+    },
+    {
+      "id": "m4-has-pensado",
+      "titulo": "Has Pensado",
+      "seccion": "Comunión",
+      "paginas": "Cancionero Mónica 2009",
+      "letra": "Has pensado alguna vez\nlo grande y hermoso que es\nrecibir a Jesucristo\nen un pedazo de pan.\n\nQuizás nunca imaginaste\nque ese pedazo de pan\nes el cuerpo de Cristo\nqueriéndote salvar.\n\nCoro\nOh, Jesús, divino tesoro, allí estás (2),\nesperando por nosotros, allí estás (2),\nvivo sobre el altar.",
+      "tags": ["comunión", "eucaristía", "adoración"],
+      "posibleDuplicado": "¡Oh Jesús! Divino Tesoro"
+    },
+    {
+      "id": "m4-entra-jesus",
+      "titulo": "Entra Jesús",
+      "seccion": "Alabanza",
+      "paginas": "Cancionero Mónica 2009",
+      "letra": "Cuando escuches la voz del Señor\nque está hablando a tu corazón,\nno te resistas ni quieras seguir\ncomo rebelde (bis).\n\nCoro\nEntra, Jesús, toma mi vida,\ntodo mi ser, que es para ti,\ny entre tus brazos quiero sentir\ncuánto me amas (bis).\n\nPorque Él está a la puerta esperando\na que le abras tu corazón,\npara entrar y morar junto a ti\ntoda la vida (bis).",
+      "tags": ["alabanza", "conversión", "animacion"],
+      "posibleDuplicado": "Entra Jesús"
+    },
+    {
+      "id": "m4-la-via-dolorosa",
+      "titulo": "La Vía Dolorosa",
+      "seccion": "Cuaresma",
+      "paginas": "Cancionero Mónica 2009",
+      "letra": "Por la vía dolorosa,\ntriste día en Jerusalén,\nlos soldados le abrían paso a Jesús,\nmas la gente se acercaba para ver\nal que llevaba aquella cruz.\nLas heridas le sangraban\nen la espalda del Señor,\nsu cabeza coronada de traición,\ny cada paso iba escuchando\nla burla de aquel pueblo sin amor.\n\nCoro\nPor la vía dolorosa,\nque es la vía del dolor,\nun cordero es el Mesías, Rey y Señor,\ny fue Él quien quiso ir\npor su amor, por ti, por mí,\npor la vía dolorosa\nal calvario y a morir.\n\nLa sangre que hoy nos limpia por fe\nfue derramada por Él en Jerusalén.",
+      "tags": ["cuaresma", "pasión", "semana santa"],
+      "posibleDuplicado": ""
+    },
+    {
+      "id": "m4-huellas-en-la-arena",
+      "titulo": "Huellas En La Arena",
+      "seccion": "Cantos varios",
+      "paginas": "Cancionero Mónica 2009",
+      "letra": "A lo largo del camino,\ndonde desemboca un río,\ncaminando al lado mío\nyo te puedo percatar.\nLas escenas de mi vida,\nmuchas de ellas repetidas,\ncon tus manos se escribían\ncomo si volviera atrás.\nEntre luces y entre sombras\nvi que yo no estaba solo,\ny jamás hubo demoras\nal venirme tú a atender.\nDuplicabas cada paso,\nme tomabas de la mano,\ny al sentirte a mi lado\nnunca tuve a qué temer.\n\nCoro\nPorque a la par de mis huellas caminabas tú,\nporque en las pruebas\ny en mis penas\nme ayudabas tú.\nEn el dolor y en la alegría\ntú me hiciste compañía,\nen el comienzo de mis días,\nen el ocaso de mi vida.\n\nAl final de ese camino,\ndonde el mar recibe al río,\nno te pude percibir.\nLas escenas de mi vida\nen tus manos van deprisa,\ncon sorpresas repentinas\nque acordaban mi existir.\nEntre luces y sombras\nvi que me dejaste solo,\nque tus huellas ya no adornan\nmi sendero hasta el final.\nPregunté por qué lo hiciste\nen dejarme o no seguirme,\npero tú más bien dijiste\nque no fue así jamás.",
+      "tags": ["cantos varios", "providencia", "confianza"],
+      "posibleDuplicado": ""
+    },
+    {
+      "id": "m4-dejame-llegar",
+      "titulo": "Déjame Llegar",
+      "seccion": "Cantos varios",
+      "paginas": "Cancionero Mónica 2009",
+      "letra": "Déjame llegar\nallí donde se encuentra\ntu alma herida,\nallí donde descifras tú la vida,\nallí donde se esconde tu dolor.\n\nDéjame llegar,\ntu rostro no se escapa de mi vista,\ntu llanto ha traspasado mi sonrisa\ny quiero acercarme a tu dolor.\n\nCoro\nPara amarte con tus dudas, con tus penas,\npara amarte sin ninguna condición,\nalcanzarte en medio de tu tristeza\ny convertirte en el objeto de mi amor.\n\nPara amarte con tu corazón herido,\nperdonarte con toda mi compasión,\nabrazarte con la ternura de un niño\ny convertirte en el objeto de mi amor.\n\nDéjame llegar,\ntu soledad incita mi consuelo,\ntu palpitar despierta mi silencio,\nescucho la oración de tu dolor.\n\nDéjame llegar,\nsanarte en un instante, en un momento,\npermite que se logre este encuentro\nabriendo puertas en tu corazón.",
+      "tags": ["cantos varios", "amor de dios", "consuelo"],
+      "posibleDuplicado": ""
+    },
+    {
+      "id": "m4-pescador-de-hombres",
+      "titulo": "Pescador De Hombres",
+      "seccion": "Cantos varios",
+      "paginas": "Cancionero Mónica 2009",
+      "letra": "Tú has venido a la orilla,\nno has buscado ni a sabios ni a ricos,\ntan sólo quieres que yo te siga.\n\nCoro\nSeñor, me has mirado a los ojos,\nsonriendo has dicho mi nombre.\nEn la arena he dejado mi barca,\njunto a ti buscaré otro mar.\n\nTú sabes bien lo que tengo,\nen mi barca no hay oro ni espadas,\ntan sólo redes y mi trabajo.\n\nTú necesitas mis manos,\nmi cansancio que a otros descanse,\namor que quiere seguir amando.\n\nTú, pescador de otros lagos,\nansia eterna de almas que esperan,\namigo bueno que así me llamas.",
+      "tags": ["cantos varios", "vocacional", "misionero"],
+      "posibleDuplicado": "Pescador De Hombres"
+    },
+    {
+      "id": "m4-robame-este-corazon",
+      "titulo": "Róbame Este Corazón",
+      "seccion": "Cantos varios",
+      "paginas": "Cancionero Mónica 2009",
+      "letra": "Róbame este corazón,\nque se vuelva siempre a ti,\nque piense en ti cuando ore,\ncuando ría, cuando llore.\nRóbame este corazón.\n\nQue las ganas de vivir\nse conviertan en quererte,\nque me derrita por verte,\nque todo quiera ofrecerte.\nRóbame este corazón.\n\nEl ciego de Galilea,\nsin saber tocó tu manto,\nera ciego y quedó sano.\nRóbame este corazón.\n\nLa llamaban pecadora,\nla arrastraron hacia ti,\nsu pecado quedó allí.\nRóbame este corazón.\n\nLa mujer de Samaria\nse ganó tu bendición\npor un jarro de agua fría.\nRóbame este corazón.",
+      "tags": ["cantos varios", "conversión", "interiorización"],
+      "posibleDuplicado": ""
+    },
+    {
+      "id": "m4-vaya-esta-cancion",
+      "titulo": "Vaya Esta Canción",
+      "seccion": "Cantos varios",
+      "paginas": "Cancionero Mónica 2009",
+      "letra": "Vaya esta canción y pertenezca\nal que con nuestra fe prende una llama\ny hace de su oración una proclama\nde combatir al mundo de opresión.\n\nVaya esta canción y pertenezca\nal que con la mirada en el futuro\nbaña con su sangre viejos muros\ny subvierte al mundo con su amor.\n\nCoro\nNuestra fe no puede descansar\nhasta desterrar del continente\nel hambre, la tortura,\nla miseria y el terror.\nEste es el mandamiento del amor (bis).",
+      "tags": ["cantos varios", "compromiso", "misionero"],
+      "posibleDuplicado": ""
+    },
+    {
+      "id": "m4-no-me-habeis-vosotros-elegido",
+      "titulo": "No Me Habéis Vosotros Elegido",
+      "seccion": "Comunión",
+      "paginas": "Cancionero Mónica 2009",
+      "letra": "No me habéis vosotros elegido,\nfui yo mismo quien os eligió.\nYa no os llamo siervos, sino amigos,\npermaneceréis para siempre junto a mí.\nYo soy la verdad, soy el camino,\nsoy la vida y la resurrección.\nQuien me siga no andará perdido,\npues yo soy la luz, yo soy vuestra salvación.\n\nRecordad mi nuevo mandamiento\npor el cual os reconocerán:\nque os améis los unos a los otros\ncomo yo os amé hasta mi vida entregar.\n\nTomad y comed, este es mi Cuerpo\nque se entrega por vuestra salud.\nTomad y bebed, esta es mi Sangre\nque yo derramé por vosotros en la cruz.",
+      "tags": ["comunión", "eucaristía", "vocacional"],
+      "posibleDuplicado": "No me habéis vosotros elegido"
+    },
+    {
+      "id": "m4-si-yo-no-tengo-amor",
+      "titulo": "Si Yo No Tengo Amor",
+      "seccion": "Cantos varios",
+      "paginas": "Cancionero Mónica 2009",
+      "letra": "Coro\nSi yo no tengo amor,\nyo nada soy, Señor (bis).\n\nEl amor es comprensivo,\nel amor es servicial,\nel amor no tiene envidia,\nel amor no busca el mal.\nEl amor nunca se irrita,\nel amor no es descortés,\nel amor no es egoísta,\nel amor nunca es doblez.\n\nEl amor disculpa todo,\nel amor es caridad,\nno se alegra de lo injusto,\nsólo goza en la verdad.\nEl amor soporta todo,\nel amor todo lo cree,\nel amor todo lo espera,\nel amor es siempre fiel.\nNuestra fe, nuestra esperanza\nfrente a Dios terminará.\nEl amor es algo eterno,\nnunca, nunca pasará.",
+      "tags": ["cantos varios", "caridad", "bíblico"],
+      "posibleDuplicado": "Si Yo No Tengo Amor"
+    },
+    {
+      "id": "m4-hoy-perdoname",
+      "titulo": "Hoy Perdóname",
+      "seccion": "Cuaresma",
+      "paginas": "Cancionero Mónica 2009",
+      "letra": "Hoy perdóname, hoy por siempre,\nsin mirar las mentiras,\nlo vacío de nuestras vidas,\nnuestra falta de amor y caridad.\n\nHoy perdóname, hoy por siempre,\naun sabiendo que he caído,\nque de ti siempre había huido.\nHoy regreso arrepentido,\nvuelvo a ti, vuelvo a ti.",
+      "tags": ["cuaresma", "perdón", "penitencial"],
+      "posibleDuplicado": "Hoy Perdóname"
+    },
+    {
+      "id": "m4-supremo-amor",
+      "titulo": "Supremo Amor",
+      "seccion": "Cantos varios",
+      "paginas": "Cancionero Mónica 2009",
+      "letra": "Hoy me toca definir\nlo que tú hiciste\nal cambiar mi corazón.\nTú usaste algo en mí\nque es muy distinto\na lo que el mundo llama amor.\nEs más extenso, más profundo,\nmás eterno, más sencillo,\nmás tranquilo, más completo.\nTodo lo aparta, todo lo comprende,\nnunca se apaga y nunca muere.\n\nSupremo amor\nque alcanza y me sostiene,\nsupremo amor\nque me arrastra y que me mueve,\nsupremo amor\nque me sana y fortalece,\nsupremo amor\nel de hoy, mañana y siempre.\nSupremo amor\nque perdona y que olvida,\nsupremo amor\nel que borra mis heridas,\nsupremo amor\nque me apoya en mis caídas,\nsupremo amor\nque comienza y no termina.\n\nTú conoces todo en mí,\nmi fortaleza, mi pobreza y mucho más.\nMe tocaba a mí morir\ny sin embargo te pusiste en mi lugar.\nSin esperanza\nme encontré en muchos momentos,\naunque tardabas\ntú llegabas siempre a tiempo\npara abrazarme, para salvarme,\npara enseñarme y conquistarme.",
+      "tags": ["cantos varios", "amor de dios", "alabanza"],
+      "posibleDuplicado": ""
+    },
+    {
+      "id": "m4-no-se-como-alabarte",
+      "titulo": "No Sé Cómo Alabarte",
+      "seccion": "Alabanza",
+      "paginas": "Cancionero Mónica 2009",
+      "letra": "No sé cómo alabarte ni qué decir, Señor.\nConfío en tu mirada que me abre\nel corazón.\nToma mi pobre vida,\nque es sencilla ante ti.\nQuieres ser alabanza\npor lo que haces en mí.\n\nCoro\nGloria, gloria a Dios (2) (bis).\n\nSiento que en tu presencia\nsoy como tú me ves.\nBajas a mis miserias, me llenas de tu paz.\nIndigno de tus dones,\nmas por tu gran amor\ntu Espíritu me llena. Gracias te doy, Señor.\n\nGracias por tus palabras,\ngracias por el amor,\ngracias por nuestra Madre,\ngracias te doy, Señor.\nGracias por mis hermanos,\ngracias por el perdón,\ngracias porque nos quieres\njunto a ti, Señor.",
+      "tags": ["alabanza", "acción de gracias"],
+      "posibleDuplicado": ""
+    },
+    {
+      "id": "m4-coronate",
+      "titulo": "Corónate",
+      "seccion": "Alabanza",
+      "paginas": "Cancionero Mónica 2009",
+      "letra": "Levantemos nuestras manos en alabanza,\nlevantemos nuestras manos en adoración.\nQue todo lo que respire alabe a Dios.\nCorónate con mi canción (bis).\n\nCoro\nCorónate con mis alabanzas,\ncorónate con mi clamor,\ncorónate con mis alabanzas, Señor,\ncorónate con mi canción (bis).",
+      "tags": ["alabanza", "adoración", "animacion"],
+      "posibleDuplicado": "Corónate"
+    },
+    {
+      "id": "m4-mi-querer",
+      "titulo": "Mi Querer",
+      "seccion": "Cantos varios",
+      "paginas": "Cancionero Mónica 2009",
+      "letra": "Mi querer por ti no tiene fin\ny mi ser es ya feliz por ti,\nporque ahora ya mi vida\nes un himno al amor.\n\nDoy así las gracias al Señor,\nque le dio vivir a mi ilusión,\ny por siempre y para siempre.",
+      "tags": ["cantos varios", "acción de gracias"],
+      "posibleDuplicado": ""
+    },
+    {
+      "id": "m4-tu-amor-es-tan-puro",
+      "titulo": "Tu Amor Es Tan Puro",
+      "seccion": "Alabanza",
+      "paginas": "Cancionero Mónica 2009",
+      "letra": "Tu amor es tan puro,\nse hace fácil amarte.\nSeñor, en mi alma mi deseo es\nque pueda amarte aún\nmás que a mí mismo.\nSella en mi corazón\nel fuego de tu amor.\n\nTe amo, eres todo para mí (2).\n\nTu amor es más puro\nque la luz del sol,\nen palabras no hay explicación.\nQue pueda amarte aún\nmás que a mí mismo.\nSella en mi corazón\nel fuego de tu amor.",
+      "tags": ["alabanza", "adoración", "amor de dios"],
+      "posibleDuplicado": ""
+    },
+    {
+      "id": "m4-saname",
+      "titulo": "Sáname",
+      "seccion": "Cuaresma",
+      "paginas": "Cancionero Mónica 2009",
+      "letra": "Coro\nComo río de fuerte caudal,\ncomo aguas impetuosas,\nSeñor, entra a mi vida y sáname,\npara que cambie la vida y el corazón\nde los hombres y venga tu reino de amor\ncomo lo anunciaba Juan.\n\nEscucharé en el desierto\nel grito de aquel profeta,\nprepararé mi camino al Señor,\nenderezaré mi senda.\n\nTu bautismo necesito,\nel mismo Juan un día lo dijo.\nAcepto, Señor, lo que quieras de mí,\ncaminaré tu camino.\n\nComo el bautismo de Juan\nme acerco a ti suplicante,\nno sólo como un simple hijo de Abraham:\nmi conversión quiero darte.",
+      "tags": ["cuaresma", "conversión", "bautismo"],
+      "posibleDuplicado": ""
+    },
+    {
+      "id": "m4-dios-es-horizonte",
+      "titulo": "Dios Es Horizonte",
+      "seccion": "Cantos varios",
+      "paginas": "Cancionero Mónica 2009",
+      "letra": "Si pudiéramos hablar de un horizonte,\ndel camino que no pude terminar,\ncaminando, caminando firmemente\ny lograr llegar a esa paz.\nSi pudiéramos hablar de un horizonte\ny comparar lo que podemos amar,\nese horizonte es infinito\nporque Dios en él está.\n\nCoro\nDios es horizonte y te habla a ti,\nsimplemente te llama a ti. [Corre] (2)\nCon tu corazón abierto,\nDios es horizonte y te llama a ti.",
+      "tags": ["cantos varios", "vocacional", "esperanza"],
+      "posibleDuplicado": ""
+    },
+    {
+      "id": "m4-pacto-de-esperanza",
+      "titulo": "Pacto De Esperanza",
+      "seccion": "Comunión",
+      "paginas": "Cancionero Mónica 2009",
+      "letra": "Me sorprende, Señor,\nhallarte tan pequeño en un humilde pan,\nque mi boca puede triturar,\ny poder tener dentro de mí\na un amigo de verdad.\n\nMe sorprende, Señor,\nque siendo tú el más grande\npuedas ahí estar demostrando\ntoda tu humildad,\ndemostrando cuánto eres capaz de amar.\n\nCoro\nHoy me alegra, Señor,\nsaberme convidado a tu celebración,\nsentarme aquí en tu mesa\ny de corazón estrechar contigo\nel pacto de esperanza\nde llevar a los demás tu pan de vida\ny llenar el corazón\nque triste está (bis).",
+      "tags": ["comunión", "eucaristía", "esperanza"],
+      "posibleDuplicado": "Pacto de esperanza"
+    },
+    {
+      "id": "m4-jesus-esta-entre-nosotros",
+      "titulo": "Jesús Está Entre Nosotros",
+      "seccion": "Entrada",
+      "paginas": "Cancionero Mónica 2009",
+      "letra": "Coro\nJesús está entre nosotros,\nÉl vive hoy y su Espíritu a todos da.\nJesús, razón de nuestras vidas,\nes el Señor,\nnos reúne en pueblo de amor.\n\nCambia nuestras vidas con tu fuerza,\nguárdanos por siempre en tu presencia.\nTú eres verdad, eres la paz.\n\nNuestras existencias hoy te alaban,\nnuestros corazones te dan gracias.\nGracias, Señor, gracias, Salvador.",
+      "tags": ["entrada", "asamblea", "alabanza"],
+      "posibleDuplicado": ""
+    },
+    {
+      "id": "m4-ante-ti-senor",
+      "titulo": "Ante Ti Señor",
+      "seccion": "Alabanza",
+      "paginas": "Cancionero Mónica 2009",
+      "letra": "Ante ti, Señor (2),\nmi alma levantaré (2) (bis).\n\nOh, mi Dios (2), confío en ti (2).\nYo te alabo, Señor, yo te adoro, Señor.\nOh, mi Dios (2).\n\nGuíame, Señor (2),\ny guarda mi alma (2) (bis).\n\nDame un corazón (2)\nque pueda adorarte (2).",
+      "tags": ["alabanza", "adoración", "salmo"],
+      "posibleDuplicado": ""
+    },
+    {
+      "id": "m4-quiero-cantar-una-linda-cancion",
+      "titulo": "Quiero Cantar Una Linda Canción",
+      "seccion": "Alabanza",
+      "paginas": "Cancionero Mónica 2009",
+      "letra": "Quiero cantar una linda canción\na aquel que mi vida cambió.\nQuiero cantar una linda canción\na Jesús, que me transformó.\nEs mi amigo Jesús (2).\n\nCoro\nÉl es Dios, Él es Rey,\nes amor y verdad.\nSólo en Él encontré\nla paz que yo busqué,\nsólo en Él encontré la felicidad.\n\nManda, Señor, a este mundo traidor\na tu Espíritu de amor.\nTú prometiste enviarnos, Señor,\na tu Espíritu consolador.\nEres tú mi Señor, eres mi Salvador.",
+      "tags": ["alabanza", "animacion", "espíritu santo"],
+      "posibleDuplicado": ""
+    },
+    {
+      "id": "m4-que-nada-te-turbe",
+      "titulo": "Que Nada Te Turbe",
+      "seccion": "Cantos varios",
+      "paginas": "Cancionero Mónica 2009",
+      "letra": "Coro\nQue nada te turbe,\nque nada te espante,\ntodo se pasa, Dios no se muda.\nLa paciencia todo lo alcanza,\nquien a Dios tiene nada le falta.\nSólo Dios basta.\n\nEs sólo la fe y la confianza\nque me dará estar unida a ti\nlo que cambiará mi panorama\ny me mantendrá\na la espera de un porvenir.\n\nY si todo pasa no tengo miedo\nde librar otra batalla,\nmas ya la noche le da paso al día\ny al final del camino\nme encontraré contigo.\n\nY si tu amor permanece\ninmutable en la eterna alegría de salvarme,\nnada me cuesta darte lo que poseo,\nporque me has demostrado\nque yo contigo tengo.",
+      "tags": ["cantos varios", "confianza", "santa teresa"],
+      "posibleDuplicado": ""
+    }
+  ]
+}

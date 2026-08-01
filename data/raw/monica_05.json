@@ -1,0 +1,464 @@
+{
+  "paquete": "monica_05",
+  "canciones": [
+    {
+      "id": "m5-abba-padre",
+      "titulo": "Abba Padre",
+      "seccion": "Alabanza",
+      "paginas": "Cancionero Mónica 2009",
+      "letra": "Coro\nAbba, Padre. Padre mío. (2v)\n\nEsta es la vida eterna, conocerte a Ti\nÚnico y verdadero Dios.\n\nNo te pido que nos saques del mundo\npero sí que nos defiendas del maligno.\n\nHaznos santos según tu verdad\nTu palabra es la verdad.",
+      "tags": ["alabanza", "padre", "trinidad"],
+      "posibleDuplicado": "Abba, Padre Mío"
+    },
+    {
+      "id": "m5-dona-tu-vida",
+      "titulo": "Dona Tu Vida",
+      "seccion": "Misioneros",
+      "paginas": "Cancionero Mónica 2009",
+      "letra": "Una noche de sudor\nCon mi barca en el alta mar,\nMientras amanece ya\nSus redes están vacías.\nPero la voz que te llama\nOtro mar te enseñará\ny sobre cada corazón\nsus redes echará\n\nCoro\nDona, dona tu vida\nComo María al lado de la cruz\ny serás: siervo de todo hombre\nSiervo por amor,\nSacerdote de la humanidad (bis)\n\nCaminabas en silencio\nY entre lágrimas esperabas\nQue la semilla antes sembrada\nCayera sobre tierra fértil\nNace el gozo ya en ti\nViendo el trigo madurar\ny tendido bajo el sol\nya se puede almacenar",
+      "tags": ["misionero", "vocacional", "sacerdotal", "entrega"],
+      "posibleDuplicado": "Dona Tu Vida (Siervo por Amor)"
+    },
+    {
+      "id": "m5-estallido-de-amor",
+      "titulo": "Estallido De Amor",
+      "seccion": "Alabanza",
+      "paginas": "Cancionero Mónica 2009",
+      "letra": "En medio de la oscuridad,\nBrillará una gran luz\ny ella no podrá tomarla presa,\npues más penetrante es esa luz\nque las tinieblas,\nMás rebosante es la alegría que la tristeza,\nmás persistente\nla esperanza que la confusión\ny más fuerte la vida sobre la muerte.\nPues vencerá Él, que es más poderoso\nque aquel príncipe de las tinieblas...\nÉl es Dios del Amor\n\nCoro\nToda lágrima será enjugada,\ntoda hambre será saciada,\ntoda tristeza transformada\nen un estallido de alabanza\n\nNo más muerte, ni enfermedad,\nlos enemigos derrotados serán\nbajo tus pies se rendirán\nhoy por siempre\ntoda rodilla se doblará\ntocará y toda lengua confesará...\nEl Rey de Reyes,\nSeñor de Señores reinará...\ny se oirá una multitud en adoración,\naleluya al Cordero vencedor,\nlo anterior atrás quedó,\nnuevo cielo, nueva tierra\ny su gloria ilumina como el sol.",
+      "tags": ["alabanza", "esperanza", "victoria"],
+      "posibleDuplicado": ""
+    },
+    {
+      "id": "m5-habiendo-tanta-belleza",
+      "titulo": "Habiendo Tanta Belleza",
+      "seccion": "Cantos varios",
+      "paginas": "Cancionero Mónica 2009",
+      "letra": "Habiendo tanta belleza en el mundo\nno entiendo,\ncómo la gente está triste\ny hay tanto dolor.\nSi levantaran los ojos al cielo verían\nque de allí llega luz, y es de amor\n\nCoro\nSiempre, siempre es hermoso vivir (3)\nSi aprendemos a amar (bis)\n\nHabría paz en la tierra\nsi todos se amaran,\nNo existirían los odios ni tanto rencor...\nSi levantáramos los ojos al cielo verían,\nque de allí llega luz, y es de amor.",
+      "tags": ["amor", "esperanza", "cantos varios"],
+      "posibleDuplicado": ""
+    },
+    {
+      "id": "m5-se-tu",
+      "titulo": "Se Tú",
+      "seccion": "Cantos varios",
+      "paginas": "Cancionero Mónica 2009",
+      "letra": "Se tú cual la mujer que fue y tocó\nEl borde del vestido de Jesús,\nVirtud salió de Él y ella sanó,\ny si lo tocas tú, sanas también.\n\nA la casa de Jairo iba Jesús,\nuna gran multitud iba tras Él,\nuna pobre mujer llena de fe,\nno miró la multitud fue y lo tocó.\n\nFui yo quien tocó a mi buen Jesús,\nmi mal ningún doctor pudo sanar,\nTu fama llegó a mí y vine a ti,\nya sanada estoy, perdóname",
+      "tags": ["sanación", "fe", "cantos varios"],
+      "posibleDuplicado": ""
+    },
+    {
+      "id": "m5-senor-es-mi-pastor",
+      "titulo": "El Señor Es Mi Pastor (Salmo 23)",
+      "seccion": "Salmos",
+      "paginas": "Cancionero Mónica 2009",
+      "letra": "Aunque pase por valles tenebrosos\nY no haya luz para mis ojos\nno temeré porque conmigo vas\n\nAnte mis enemigos me bendices\nEres el Dios que siempre vive\nLlena mi copa, rebosando está\n\nDicha y gracia me acompañará (3)\nDurante toda mi vida Eh…\n\nCoro\nEres agua fresca de manantial\nEres sombra en el portal\nEres campo verde\ndonde me haces reposar\nEres mi pastor y me cuidarás\nnada me podrá faltar\nHacia fuentes claras\nSiempre me conducirás\nPorque eres mi pastor",
+      "tags": ["salmo", "salmo 23", "pastor", "confianza"],
+      "posibleDuplicado": "El Señor Es Mi Pastor"
+    },
+    {
+      "id": "m5-por-todo-tu-amor",
+      "titulo": "Por Todo Tu Amor Te Doy Gracias",
+      "seccion": "Alabanza",
+      "paginas": "Cancionero Mónica 2009",
+      "letra": "Por todo tu amor te doy gracias\nPor todo aquello que harás\nPor tantas promesas, por ser mi Señor\nTu amor me ha traído hasta aquí\ny hoy te doy gracias\n\nCoro\nTe doy gracias, gracias Señor….\nTe doy gracias, gracias Señor….\n\nGracias por darme total libertad\nGracias por todo pecado borrar\nte doy gracias, Oh Cristo gracias\nte doy gracias",
+      "tags": ["alabanza", "acción de gracias"],
+      "posibleDuplicado": ""
+    },
+    {
+      "id": "m5-una-vez-mas-rezare",
+      "titulo": "Una Vez Más Rezaré",
+      "seccion": "Cuaresma",
+      "paginas": "Cancionero Mónica 2009",
+      "letra": "Una vez más rezaré\nde rodillas me pondré\nYo no dudo una vez más Él me perdone\nLe diré que lucho en vano\nque peque pues soy humano\nYo no dudo una vez más Él me perdone\n\nCoro\nPara un Dios que conoció la tentación\nDel amigo la traición\nYo no dudo me perdone Dios Amigo (2)\n\nYo vi sufrir a mi hermano\nCuando bastaba una mano\nYo no dudo una vez Él me perdone\nMurió pobre y olvidado,\nyo con los brazos cruzados\nYo no dudo una vez más Él me perdone",
+      "tags": ["cuaresma", "perdón", "penitencial"],
+      "posibleDuplicado": "Una Vez Más Rezaré"
+    },
+    {
+      "id": "m5-tu-fidelidad",
+      "titulo": "Tu Fidelidad",
+      "seccion": "Alabanza",
+      "paginas": "Cancionero Mónica 2009",
+      "letra": "Tu Fidelidad es grande\nTu Fidelidad incomparable\nNadie como tu bendito Dios\nGrande es tu Fidelidad (bis)",
+      "tags": ["alabanza", "fidelidad", "animacion"],
+      "posibleDuplicado": ""
+    },
+    {
+      "id": "m5-te-necesito",
+      "titulo": "Te Necesito",
+      "seccion": "Alabanza",
+      "paginas": "Cancionero Mónica 2009",
+      "letra": "Te necesito dentro de mi corazón\nSiento en mí ser\nRebozar mi alma de amor (2)\n\nCoro\nComo el ave necesita del viento\nY las flores necesitan del sol\nasí mi alma necesita de ti\nde sentir tu presencia divina\ncuando llenas mi vida vacía del amor\nde tu espíritu en mí",
+      "tags": ["alabanza", "oración", "espíritu"],
+      "posibleDuplicado": ""
+    },
+    {
+      "id": "m5-vaso-nuevo",
+      "titulo": "Vaso Nuevo",
+      "seccion": "Cantos varios",
+      "paginas": "Cancionero Mónica 2009",
+      "letra": "Yo quiero ser, Señor amado\nComo el barro en mano del alfarero\ntoma mi vida hazla de nuevo\nYo quiero ser un vaso nuevo (bis)\n\nGracias quiero darte por amarme\nGracias quiero darte yo aquí Señor\nhoy soy feliz porque te conocí\nGracias por amarme a mí también\n\nTe conocí y te amé\nte pedí perdón y me escuchaste\nSi te ofendí, perdóname Señor\npues te amo y nunca te olvidaré",
+      "tags": ["conversión", "entrega", "cantos varios"],
+      "posibleDuplicado": "Vaso Nuevo (Yo Quiero Ser)"
+    },
+    {
+      "id": "m5-dormia",
+      "titulo": "Dormía",
+      "seccion": "Cantos varios",
+      "paginas": "Cancionero Mónica 2009",
+      "letra": "Dormía, dormía y soñaba\nque la vida no era más que alegría\n\nCoro\nMe desperté y vi que la vida\nno era más que servir, servir\ny vi que servir era alegría\n\nNuestro Dios\nno es ladrón de esperanza\nSino que es dador de alegría.",
+      "tags": ["servicio", "alegría", "cantos varios"],
+      "posibleDuplicado": ""
+    },
+    {
+      "id": "m5-arrepentido-estoy",
+      "titulo": "Arrepentido Estoy",
+      "seccion": "Cuaresma",
+      "paginas": "Cancionero Mónica 2009",
+      "letra": "Aquí estoy Padre bueno\nde rodillas me postro\nante ti te confieso\nsiento miedo y vergüenza\nde estar frente a ti\nhe pecado te he ofendido\na tus pies estoy rendido\nsoy el pequeño que has creado\ny que hoy te ha fallado\n\nCoro 1\nArrepentido estoy Oh Señor\npor haber ofendido\nal amor que me entregaste\nAl cordero que inmolaste\narrepentido estoy\n\nQue bueno verte hijo mío\nno te imaginas cuanto te he esperado\nte había visto tan confundido\nquise ayudarte pero no has dejado\nven que quiero abrazarte\ny mi amor eterno entregarte\nsoy tu padre que te ha amado\ny que a ti todo lo ha dado\n\nCoro 2\nOh hijo mío ven a mí\ntu visita me hace tan feliz\nquiero abrazarte por todo lo que pasaste\nOh hijo ven a mí\n\nOh Señor toma mi alma hoy\nlímpiala con tu amor\nquiere ser renovada y digna de ti Señor\nte necesito solo no puedo\nle hace falta tu luz a mi sendero\nsana mi vida\nrenuévame Oh padre bueno\n\nCoro 1\n\nHijo mío confía en mi amor\ntomo tu ofrenda y petición\nyo te perdono y renuevo en ti\ntodo lo que el pecado manchó\nahora hijo ya no temas\npues desde hoy caminas con mi fuerza\nya de la muerte te he rescatado\nquédate a mi lado\n\nCoro 2",
+      "tags": ["cuaresma", "penitencial", "perdón", "reconciliación"],
+      "posibleDuplicado": ""
+    },
+    {
+      "id": "m5-el-reina",
+      "titulo": "Él Reina",
+      "seccion": "Pascua",
+      "paginas": "Cancionero Mónica 2009",
+      "letra": "Por qué buscáis entre los muertos\nAl que vive\nResucitó, se levantó, Él vive\nNo busquéis más no lloréis más Él vive\na Satán derrotó, a la muerte venció\nresucitó (bis)\n\nCoro\nÉl reina, regocíjese la tierra\nÉl reina, alégrense las muchas fuerzas\nReina, justicia y juicio son\nel cimiento de su trono (bis)\n\nTe alabaré,\npor tu gloria y tu victoria\nElevaré,\nSalmos ante ti Oh Dios\nMe gozaré,\nTributándote la gloria\nProclamando tu victoria\ndando toda honra\na ti Oh Señor\n\nQue bueno es,\nLevantar tu nombre en alto\nGlorificar,\nLa grandeza de tu Amor\nY disfrutar,\nde tu gran misericordia\nque nos da siempre victoria\nExaltando tu fidelidad\n\nPues tú eres digno Señor\nNo hay otro en el cielo como tú\nDesde la eternidad hasta la inmensidad\nEres Rey de Reyes eres Señor (bis)",
+      "tags": ["pascua", "resurrección", "alabanza"],
+      "posibleDuplicado": ""
+    },
+    {
+      "id": "m5-amemonos",
+      "titulo": "Amémonos",
+      "seccion": "Cantos de paz",
+      "paginas": "Cancionero Mónica 2009",
+      "letra": "Hermanos amémonos unos a otros\nPorque el Amor es de Dios\nY todo el que ama es nacido de Dios\nY conoce a Dios\nel que no ama\nNo es de Dios porque Dios es Amor\nDios es Amor\nHermanos amémonos unos a otros\n\nCoro\nPor eso tienes que ser un niño\nTienes que ser un niño (2)\nPara ir al cielo (bis)",
+      "tags": ["paz", "amor fraterno", "caridad"],
+      "posibleDuplicado": ""
+    },
+    {
+      "id": "m5-resucito-para-quererte",
+      "titulo": "Resucitó Para Quererte",
+      "seccion": "Pascua",
+      "paginas": "Cancionero Mónica 2009",
+      "letra": "Él duerme en el alma\nsu voz de padre nos llama por siempre\na la calma\nnos dice que su amor es inmenso\neterno capaz de entregar por otro\nsu vida su cuerpo\nresucitó entre la muerte\nresucitó para quererte\n\nCoro\nRebosa el universo\ny cabe en nuestro corazón\nsu amor es canto eterno\nva más allá del cielo\npues sé que no soy digno\nde ver tu rostro Oh Señor\npero feliz sería\nmi Espíritu en tu paz descansaría\n\nÉl siembra en tu vida\nla semilla hecha camino\nhacia la esperanza\ngeneroso nos muestra el milagro\ndivino y nos perdona al hacernos sentir\nsus hijos\nsaberlo no es suficiente\nresucitó para quererte\n\nHermano ya es hora\nde dar consuelo al corazón que llora\ny hacer sentir la fe que mueve\nlas montañas despertando de un profundo sueño a toda alma\ndespierta que ha llegado Él\nresucitó para quererte",
+      "tags": ["pascua", "resurrección", "esperanza"],
+      "posibleDuplicado": ""
+    },
+    {
+      "id": "m5-me-amo-y-se-entrego",
+      "titulo": "Me Amó Y Se Entregó Por Mí",
+      "seccion": "Cuaresma",
+      "paginas": "Cancionero Mónica 2009",
+      "letra": "No hay amor más grande\nque aquel que siente alguien\nque sale a dar la vida por su amigo\ncomo un grano de trigo\nque muere y da su fruto\nJesús nos dio la vida muriendo en una cruz\n\nCoro\nMe amó y se entregó por mí (2)\nÉl es mi salvador mi guía mi pastor\nla luz que brilla en la oscuridad (bis)\nMe amó y se entregó por mí (2)\nSu Espíritu de paz\nnos guía en la verdad\nme amó y se entregó por mí\n\nEs este el gran ejemplo\nque Cristo nos enseña\nquien viene en pos de mí\nsu cruz la llevará\nSeñor toma mi vida\nhaz de ella lo que quieras\npero se cumpla en mí tu voluntad",
+      "tags": ["cuaresma", "cruz", "amor", "entrega"],
+      "posibleDuplicado": ""
+    },
+    {
+      "id": "m5-por-tus-llagas",
+      "titulo": "Por Tus Llagas",
+      "seccion": "Cuaresma",
+      "paginas": "Cancionero Mónica 2009",
+      "letra": "(Pbro. José Gregorio Villalobos)\n\nToda enfermedad tú llevaste al morir\nY por mí sufriste en silencio mi dolor\nPor mi rebelión azotado y herido\nY por darme paz recibiste mi castigo\n\nCoro\nPor tus llagas sano estoy\nSoy fruto de tu aflicción\nOh Mesías Salvador\nhoy te rindo adoración\nPusiste tu vida\nen expiación por la mía\nJesucristo mi Rey glorioso Mesías\n\nVarón de dolores fuiste desechado\nEn todo quebranto experimentando\nComo cordero al matadero llevado\nY con tu sangre limpiaste mi pecado",
+      "tags": ["cuaresma", "pasión", "cruz", "sanación"],
+      "posibleDuplicado": ""
+    },
+    {
+      "id": "m5-solo-en-el-puerto",
+      "titulo": "Solo En El Puerto",
+      "seccion": "Cantos varios",
+      "paginas": "Cancionero Mónica 2009",
+      "letra": "Solo en el puerto de la verdad\nveo mi vida metiéndose en el mar\nes una barca que no viene ni va\nmis esperanzas son velas sin hinchar\n\nCoro\nDime Señor\na quién tengo que esperar\nCon qué viento con qué rumbo\nDebo navegar\ndime Señor\nPescador del más allá\nHabrá un puerto donde pueda anclar\n\nNo tengo playa donde atracar\nno tengo amarras a nadie tengo ya\na la deriva está mi barca en el mar\na la deriva mi vida flota ya\n\nSolo en el puerto de la verdad\ndos nubes blancas se mecen en el mar\nson dos amores que no pude alcanzar\nson dos simplezas viajando en soledad",
+      "tags": ["búsqueda", "vocacional", "cantos varios"],
+      "posibleDuplicado": ""
+    },
+    {
+      "id": "m5-huellas-de-tu-pasion",
+      "titulo": "Las Huellas De Tu Pasión",
+      "seccion": "Cuaresma",
+      "paginas": "Cancionero Mónica 2009",
+      "letra": "Coro\nPor mis culpas va la cruz en ti\nOh mi Señor\nLas huellas de tu pasión\nMarcaste en mi corazón mi Señor (bis)\n\nTe pesa mi maldad\nmi indiferencia por ti\nTe lacera mi piedad\nte maltrata mi mentir\nMi Señor (bis)\n\nTe causa tal dolor\nla ingratitud a tu amor\nMis pecados borran ya\nla sonrisa de tu paz\nMi Señor (bis)\n\nTanto amó el Salvador\nque en sus hombros están\nlas huellas de su dolor\nhechas de mi desamor\nmi Señor (bis)\n\nY me das tu perdón\nen el paso de tu amor\nLas huellas de tu pasión\nya están en mi corazón\nmi Señor (bis)",
+      "tags": ["cuaresma", "pasión", "viacrucis", "semana santa"],
+      "posibleDuplicado": ""
+    },
+    {
+      "id": "m5-la-cruz-del-cordero",
+      "titulo": "La Cruz Del Cordero",
+      "seccion": "Cuaresma",
+      "paginas": "Cancionero Mónica 2009",
+      "letra": "Coro\nEs la cruz del Cordero\npor amor da la vida\nAunque no veo su rostro\nSé que su amor me mira\nÉl vencerá la muerte,\nvencerá con su Amor\nCon su dolor con su perdón (2) (bis)\n\nCuando pasa silente\nsus pasos me dan vida\nEs que Él quita el pecado\nque ante Dios nos cubría\nY su sangre nos lava\nvíctima inocente\nEs el Amor es el dolor (2)\n\nEs el manso Cordero\nque la ley requería\npara pagar nuestras culpas\nLa piel le quitarían\nlevantado en lo alto\nA todos atraería\ncon su amor con su perdón (2)\n\nPermite que te siga\npara adorar en silencio\nEl sacrificio que me hace\nSalvado a tal precio\nÉl vence en mí la muerte\nvence en mí con su amor\ncon su dolor con su perdón (2)",
+      "tags": ["cuaresma", "cruz", "viacrucis", "semana santa"],
+      "posibleDuplicado": ""
+    },
+    {
+      "id": "m5-dios-coronado",
+      "titulo": "Dios Coronado",
+      "seccion": "Cuaresma",
+      "paginas": "Cancionero Mónica 2009",
+      "letra": "Coro\nMisericordia pido entregado\nA tus heridas y a tu dolor\nMisericordia Dios coronado\nPor tus espinas pido perdón (bis)\n\nOh Señor oye mi corazón\nClamo a ti yo pobre pecador (bis)\n\nPues amó Dios tanto nos amó\nQue te dio como mi Salvador (bis)\n\n¡Oh Jesús! mi Dios y redentor\nHágote Rey de mi corazón (bis)",
+      "tags": ["cuaresma", "pasión", "viacrucis", "misericordia"],
+      "posibleDuplicado": ""
+    },
+    {
+      "id": "m5-que-sentir-hacia-la-cruz",
+      "titulo": "Qué Sentir Hacia La Cruz",
+      "seccion": "Cuaresma",
+      "paginas": "Cancionero Mónica 2009",
+      "letra": "Coro\nQué sentir hacia la cruz\nEs el Amor de Jesús\nDanos Cristo tu perdón\nDel pecado aléjanos\nde la muerte líbranos (bis)\n\nToda la turba grita a su paso\nLlena de ira y desamor\nGuardias tiene tras sí\nCon ladrones va a morir\nA quien lo mata Redimir\n\nLloran de angustia golpean su pecho\nMujeres de Jerusalén\nsi es así tratado\nEl verde ramo\ndel seco que habrá quedado\n\nCuando de penas te veas colmado\nEn tu quebranto mira la cruz\nCuenta te darás de ver\nQue el dolor muy sabio es\nPues a Dios te hace volver",
+      "tags": ["cuaresma", "cruz", "viacrucis"],
+      "posibleDuplicado": ""
+    },
+    {
+      "id": "m5-el-que-esta-por-caer",
+      "titulo": "El Que Está Por Caer",
+      "seccion": "Cuaresma",
+      "paginas": "Cancionero Mónica 2009",
+      "letra": "Coro\nQuién es el hombre\nque en su cansancio está por caer\nque no puede sostenerse en sus pies\nQue en su martirio carga con la cruz\nCordero fiel piedad de mí (2) (bis)\n\nEl Hijo eterno que de su seno\nEl Padre ha enviado\nPara abrirme el cielo\nPara Él volver\n\nEn la subida dolor y agonía\nPor la cruz asida\nel peso lo inclina\nHasta el suelo ver\n\nEn tus subidas en dolor hundidas\nMira hacia la cima\nÉl cayó también\nApóyate en Él",
+      "tags": ["cuaresma", "viacrucis", "cruz"],
+      "posibleDuplicado": ""
+    },
+    {
+      "id": "m5-dejame-secar-tu-rostro",
+      "titulo": "Déjame Secar Tu Rostro",
+      "seccion": "Cuaresma",
+      "paginas": "Cancionero Mónica 2009",
+      "letra": "Coro\nDéjame secar tu rostro\nQue agoniza ensangrentado\nDéjame ser el consuelo\nde tu cuerpo maltratado\nSeñor ten compasión\nten compasión de mí\nAlivia este corazón (bis)\n\nNo hay aquí un corazón con dolor\nLo que recibes es desprecio\nQuiero yo responder a tu Amor\nSecando tu amarga pasión (2)\n\nUn consuelo un mirar busco yo\nEn medio de esta indiferencia\nUna muestra valiente de Amor\nMe has dado con tu corazón (2)\n\nEs tu Amor el que obró mi Jesús\nDejando tu rostro en mi lienzo\nUna muestra pequeña de Amor\nHa merecido tu favor (2)",
+      "tags": ["cuaresma", "viacrucis", "verónica", "pasión"],
+      "posibleDuplicado": ""
+    },
+    {
+      "id": "m5-mujeres-de-jerusalen",
+      "titulo": "Mujeres De Jerusalén",
+      "seccion": "Cuaresma",
+      "paginas": "Cancionero Mónica 2009",
+      "letra": "Coro\nMujeres no lloréis por mí\nAsí les decía el Señor\nCuando iba camino a la cruz\nCargando con la redención (2) (bis)\n\nMujeres de Jerusalén\nJesús las enseña a sufrir\nNo hay más pecado que no amar\nNo amar a quien es el Amor (2)\n\nEstar tan cerca del Amor\nY por completo rechazar\nFue el gran delito de Israel\nEl crimen de la humanidad (2)\n\nEl Hijo nunca pasará\nSu dignidad no cambiará\nOdios, Envidias y Maldad\nSerán razón para llorar (2)",
+      "tags": ["cuaresma", "viacrucis", "pasión"],
+      "posibleDuplicado": ""
+    },
+    {
+      "id": "m5-yo-no-soy-nada",
+      "titulo": "Yo No Soy Nada",
+      "seccion": "Presentación de Dones",
+      "paginas": "Cancionero Mónica 2009",
+      "letra": "Yo no soy nada y del polvo nací\npero tú me amas y moriste por mí\nAnte la cruz solo quiero exclamar\nTuyo soy tuyo soy Señor\n\nCoro\nToma mis manos te pido\ntoma mis labios Te amo\ntoma mi vida Oh padre tuyo soy\ntuyo soy (bis)\n\nCuando de rodillas te miro Jesús\nVeo tu grandeza y mi pequeñez\nQué puedo darte yo todo mi ser\nTuyo soy tuyo soy Señor",
+      "tags": ["ofertorio", "entrega", "humildad"],
+      "posibleDuplicado": ""
+    },
+    {
+      "id": "m5-yo-estoy-aqui",
+      "titulo": "Yo Estoy Aquí",
+      "seccion": "Misioneros",
+      "paginas": "Cancionero Mónica 2009",
+      "letra": "Yo estoy aquí para que obres en mí\nSolo quiero imitarte solo quiero amarte\nTómame Señor que a tu servicio estoy\n\nCoro\nTú solo tú puedes hacer esto en mí\nCambia toda mi vida\nTransfórmame Señor (bis)\nTransfórmame Señor…",
+      "tags": ["misionero", "entrega", "servicio"],
+      "posibleDuplicado": ""
+    },
+    {
+      "id": "m5-quiero-vivir-por-la-fe",
+      "titulo": "Quiero Vivir Por La Fe",
+      "seccion": "Alabanza",
+      "paginas": "Cancionero Mónica 2009",
+      "letra": "Quiero vivir por la fe\nno quiero desesperar\nEl tesoro que hay en mí\nen vaso de barro está\nquiero vivir por la fe\nmostrar ese gran poder\nque viene de Dios el Señor\nviene de Dios su bondad\nMi fuerza viene de Él\n\nCoro\nAunque llenos de problemas\nnos veamos\nno estamos sin salida, ah\ntenemos preocupaciones\npero no, no desesperamos No…\nNos persiguen pero no estamos solos\nNo estamos abandonados ¡No!\nnos derriban pero no nos destruyen\nJesús está a nuestro lado (bis)\n\nTú y yo que estamos aquí\nNo nos importa morir a causa de Jesús\nY así podremos vivir\ntuve fe y por eso hablé\nque Dios me prometió\nResucitarnos con Él\npara la gloria de Dios\nPor eso resistiré\n\nCoro (2 veces)\n\nNos persiguen pero no nos destruyen\nJesús está a nuestro lado",
+      "tags": ["alabanza", "fe", "esperanza", "animacion"],
+      "posibleDuplicado": ""
+    },
+    {
+      "id": "m5-ensename-a-orar",
+      "titulo": "Enséñame A Orar",
+      "seccion": "Cantos varios",
+      "paginas": "Cancionero Mónica 2009",
+      "letra": "(Danny Bravo)\n\nSeñor enséñame a orar\nenséñame a sentir el fuego dentro de mí\nOh Dios hazme volar en tu gloria\nPara siempre en la eternidad\nSiento que en mi vida\ntú has cambiado el rumbo\nSiento que tu Amor\nha abierto un nuevo mundo\nPara mí Oh Jesús enséñame a orar\nSeñor quiero sentir tu presencia\nen el momento de mi hostilidad\n\nJesús quiero vivir sintiendo todo el tiempo\ntu calma y tu paz pero yo no sé orar\nY tu presencia quiero contemplar\nJesús quiero llorar y darte gracias\nPor tu vida entregar\nJesús quiero mi vida ofrecer\nEnséñame a orar…",
+      "tags": ["oración", "cantos varios", "interioridad"],
+      "posibleDuplicado": ""
+    },
+    {
+      "id": "m5-padre-santo",
+      "titulo": "Padre Santo",
+      "seccion": "Alabanza",
+      "paginas": "Cancionero Mónica 2009",
+      "letra": "Padre Santo te aprecio (2)\nte amo te alabo\npostrado te adoro\nPadre santo te aprecio\n\nJesucristo maravilloso eres tú\ndel pecado me limpiaste\nTu Espíritu enviaste\nJesucristo maravilloso eres tú\n\nEspíritu Santo eres consolador (2)\nme miras me mueves\nen mi ser tú eres\nEspíritu Santo eres consolador",
+      "tags": ["alabanza", "trinidad", "adoración"],
+      "posibleDuplicado": ""
+    },
+    {
+      "id": "m5-salmo-23",
+      "titulo": "Salmo 23 (El Señor Es Mi Pastor Y Nada Me Falta)",
+      "seccion": "Salmos",
+      "paginas": "Cancionero Mónica 2009",
+      "letra": "Coro\nEl Señor es mi pastor\ny nada me falta,\nen verdes pastos Él me hace reposar\ny donde brota agua fresca me conduce (2)\n\nPor ser un Dios que es fiel a sus promesas,\nme guía por el sendero recto,\nasí aunque camine por cañadas oscuras\nno temo ningún mal,\nporque Tú estás conmigo\ntu bastón y tu vara me protegen\n¡Oh Dios qué grande eres!\n\nTú mismo me preparas la mesa,\na despecho de mis enemigos,\nme unges la cabeza con perfume\ny llenas mi copa hasta los bordes.\n\nTu bondad y tu misericordia\nme acompañarán\ntodos los días de mi vida,\ny viviré en la casa del Señor,\npor años sin término.",
+      "tags": ["salmo", "salmo 23", "pastor"],
+      "posibleDuplicado": "El Señor Es Mi Pastor"
+    },
+    {
+      "id": "m5-hora-de-la-resurreccion",
+      "titulo": "La Hora De La Resurrección",
+      "seccion": "Pascua",
+      "paginas": "Cancionero Mónica 2009",
+      "letra": "(Pbro. José Gregorio Villalobos)\n\nOs digo mi hora ha llegado\ny seré glorificado\nCual grano de trigo que al caer\nEn la tierra muere y da su fruto\nSeré muerto y resucitaré\n\nCoro\nLa hora es de la resurrección\nquien se ame más que a mí\nSu vida perderá\nLa hora es de la resurrección\nAllí donde yo esté vosotros estaréis\nQuien cargue con su cruz\nTestigo de mi Amor será\n\nYo soy la vid verdadera\ny vosotros los sarmientos\nPermaneced siempre junto a mí\nYo soy la verdad soy el camino\nSoy la vida y la resurrección\nHe venido a dar mi vida\npor las ovejas perdidas\nSoy el buen pastor oye mi voz\nQuien me sigue no andará perdido\nVivid siempre unidos en mi Amor",
+      "tags": ["pascua", "resurrección", "seguimiento"],
+      "posibleDuplicado": ""
+    },
+    {
+      "id": "m5-comunion-oracion-unida",
+      "titulo": "Comunión (Oración Unida)",
+      "seccion": "Comunión",
+      "paginas": "Cancionero Mónica 2009",
+      "letra": "Tu gracia recibí dulzura y luz\nYo nunca merecí tanto amor\nMi vida renació se iluminó\nDe la sombra pasé a la luz\n\nMe abriste el corazón con tu perdón\nY mi pecho se inflamó en el ardor\nporque tu gracia Señor mi dolor curó\nYa nunca tuve más temor\n\nTardamos en captar el mensaje de amor\nQue tú me enseñaste en la cruz\nDos mil años de error\nVeinte siglos de horror y la verdad triunfó\nPor fin la humanidad recapacitó\nY un canto de hermandad entonó\nEl sol nos guió de la tierra brotó\nLa oración de unidad\n\nTu gracia recibí dulzura y luz\nYo nunca merecí tanto amor\nMi vida renació se iluminó\nDe la sombra pasé a la luz",
+      "tags": ["comunión", "gracia", "unidad"],
+      "posibleDuplicado": ""
+    },
+    {
+      "id": "m5-eres-tu",
+      "titulo": "Eres Tú",
+      "seccion": "Cantos varios",
+      "paginas": "Cancionero Mónica 2009",
+      "letra": "Como una promesa eres tú eres tú\nComo una mañana de verano\nComo una sonrisa eres tú eres tú\nAsí, así eres tú\n\nToda mi esperanza eres tú eres tú\ncomo lluvia fresca en mis manos\nComo fuerte brisa eres tú eres tú\nAsí eres tú\n\nCoro\nEres tú como agua de mi fuente\nEres tú el fuego de mi hogar\nEres tú como el fuego de mi hoguera\nEres tú el trigo de mi pan\n\nTodo mi poema eres tú, eres tú\nComo una guitarra en la noche\nTodo mi horizonte eres tú, eres tú\nAsí eres tú.",
+      "tags": ["cantos varios", "amor", "popular"],
+      "posibleDuplicado": ""
+    },
+    {
+      "id": "m5-sin-ti-no-puedo-vivir",
+      "titulo": "Sin Ti No Puedo Vivir",
+      "seccion": "Cantos varios",
+      "paginas": "Cancionero Mónica 2009",
+      "letra": "Con amor te quiero cantar\nY dar gracias por lo que me das\nPues mi voz tu regalo fue\nY sin ti, me perdería….\nSin ti no puedo vivir\n\nTe confieso que en la vida he tropezado\nInsegura muchas veces me he encontrado\nY en mi desesperación, miro pa' arriba\nSiento que sola no estoy\n\nHoy quiero dar gracias a ti\npor estar en mí\nHoy quiero dar gracias porque sufriendo\ny cayendo mil veces tu mano sentí\nSin ti no puedo vivir\n\nY si miro a mi alrededor\nMe doy cuenta que hay más como yo\nQue en un vaso ahogan sus sueños\ny su fe hasta la suelen perder.\n\nHoy quiero dar gracias a ti\npor estar en mí,\nHoy quiero dar gracias porque sufriendo\ny cayendo mil veces tu mano sentí\nSin ti no puedo vivir\n\nContigo secretos nunca existirán\nMe conoces como soy,\nSabes que en tu mano estoy\nY no puedo vivir, no puedo respirar\nSi no estás aquí, ¡oh sí!\n\nHoy quiero dar gracias a ti\npor estar en mí\nHoy quiero dar gracias porque sufriendo\ny cayendo mil veces tu mano sentí\nSin ti no puedo vivir\n\nNo puedo respirar\nNo puedo ni cantar\nNo puedo caminar\nNo puedo ver el mar\nY el amanecer sin ti no puede ser\nY mis pequeños hijos al atardecer\nMe niego estar sin ti\nY una familia hermosa te la debo a ti\nMe niego a estar sin ti\nJESÚS, sin ti no puedo… vivir.",
+      "tags": ["cantos varios", "acción de gracias", "testimonio"],
+      "posibleDuplicado": ""
+    },
+    {
+      "id": "m5-te-seguire",
+      "titulo": "Te Seguiré",
+      "seccion": "Comunión",
+      "paginas": "Cancionero Mónica 2009",
+      "letra": "(Pbro. José Gregorio Villalobos)\n\nAquí en tu presencia\nante tu cuerpo y tu sangre\nante la esencia que a mi ser inunda\nla majestad de tu poder.\nTe alabo porque te amo,\nme has hablado,\nme has ungido con tu espíritu\ny se ha renovado mi existir.\nAhora siento más que nunca\nuna fuerza que unida a tu presencia\nme dice al corazón:\n\nCoro\nVen y Sígueme (2)\n\nAyúdame a sanar y a salvar al mundo\ny ante tu cuerpo y tu sangre te digo\nTe seguiré\nY donaré mi vida como en la cruz\nla donaste por mí\nTe seguiré\nY acaso no es mi vida si no eres tú\nquien habitas allí\nTe seguiré\nY al alcanzar la vida ante santidad, estaré\n\nMe has dado de tu luz la gracia de nacer,\nel valor de ver la realidad y afrontarla\ncon la fuerza que me das.\nSé que me hablas, que conoces\ny amas lo que soy, que me comprendes\ny no me abandonas en el dolor.\nAhora siento más que nunca una fuerza\nque unida a tu presencia\nme dice al corazón:\n\nCoro\nVen y Sígueme (2)\n\nAyúdame a sanar y a salvar al mundo\ny ante tu cuerpo y tu sangre te digo\nTe seguiré\nY donaré mi vida como en la cruz\nla donaste por mí\nTe seguiré\nY acaso no es mi vida si no eres tú\nquien habitas allí\nTe seguiré\nY al alcanzar la vida ante santidad, estaré",
+      "tags": ["comunión", "eucaristía", "seguimiento", "vocacional"],
+      "posibleDuplicado": ""
+    },
+    {
+      "id": "m5-tan-solo-he-venido",
+      "titulo": "Tan Solo He Venido",
+      "seccion": "Alabanza",
+      "paginas": "Cancionero Mónica 2009",
+      "letra": "(Juan Luis Guerra)\n\nNo he venido a pedirte\ncomo suelo, Señor\nsi antes de yo clamarte\nconoces mi petición.\n\nSolo quiero escucharte\npon el tema, Señor\ncaminar por el parque\ny dedicarte una canción.\n\nCoro\nTan solo he venido\na estar contigo\na ser tu amigo\na compartir con mi Dios\na adorarte y darte gracias\npor siempre gracias\npor lo que has hecho, Señor\nconmigo\n\nCuéntame de tus obras\n¿qué hay de nuevo, Señor?\ny de paso pregunto\n¿cómo es la piel del sol?\n\nY yo solo quiero abrazarte\nbendecirte, mi Dios\ncaminar por las calles\ny abrirte mi corazón\n\nTan solo he venido\na estar contigo\na ser tu amigo\na compartir con mi Dios\na adorarte y darte gracias\npor siempre gracias\npor lo que has hecho, Señor\n\nHe venido\na estar contigo\na ser tu amigo\na compartir con mi Dios\na adorarte y darte gracias\npor siempre gracias\npor lo que has hecho, Señor\nconmigo",
+      "tags": ["alabanza", "adoración", "amistad", "acción de gracias"],
+      "posibleDuplicado": ""
+    },
+    {
+      "id": "m5-cambiar-el-mundo",
+      "titulo": "Cambiar El Mundo",
+      "seccion": "Cantos varios",
+      "paginas": "Cancionero Mónica 2009",
+      "letra": "(Alejandro Lerner)\n\nPuedes cambiar el mundo\nTan solo en un instante\nPuedes cambiar de rumbo\nSi quieres que eso pase\nPuedes mirar adentro\nde tus sentimientos\nEl universo traerá tus sueños\nCambiar el mundo empieza por ti\nVerás que los colores\nSon mucho más brillantes\nVerás con otros ojos\nLa magia en otras partes\n\nCoro\nArriba y adelante se ven los horizontes\n\nSolista\nSi el sol también renace\nRenacerán los hombres\n\nCoro\nCambiar el mundo empieza por ti\n\nSolista\nSi se renueva la esperanza\n\nCoro\nEmpieza por ti\n\nSolista\nSi te convences que se puede cambiar,\nsi quiero un suelo nuevo\nEmpiezo yo primero y elevo una alabanza\nHacia la humanidad\n\nCoro\nPara cambiar el mundo empiezo por mí (2)\n\nSolista\nPuedes cambiar hoy mismo el rumbo de tu viaje\nverás, que no es lo mismo si tienes el coraje\n\nCoro\nArriba y adelante se ven los horizontes\n\nSolista\nSi el sol también renace\nRenacerán los hombres\n\nCoro\nCambiar el mundo empieza por ti\n\nSolista\nSi se renueva la esperanza\n\nCoro\nEmpieza por ti\n\nSolista\nSi te convences que se puede cambiar,\nsi quiero un suelo nuevo\nEmpiezo yo primero y elevo una alabanza\nHacia la humanidad\n\nCoro\nPara cambiar el mundo empiezo por mí (2)",
+      "tags": ["cantos varios", "compromiso", "juvenil", "esperanza"],
+      "posibleDuplicado": ""
+    },
+    {
+      "id": "m5-eres-mi-protector",
+      "titulo": "Eres Mi Protector",
+      "seccion": "Alabanza",
+      "paginas": "Cancionero Mónica 2009",
+      "letra": "Eres mi protector\nLlenas mi corazón\nCon cánticos de liberación\nDe angustias me salvarás\n\nConfiaré en ti (2)\nEl débil dirá fuerte soy\nCon poder del Señor.",
+      "tags": ["alabanza", "confianza", "animacion"],
+      "posibleDuplicado": ""
+    },
+    {
+      "id": "m5-si-conocieras-el-amor",
+      "titulo": "Si Conocieras El Amor",
+      "seccion": "Cantos varios",
+      "paginas": "Cancionero Mónica 2009",
+      "letra": "Si conocieras el amor que Dios te tiene,\nSi descubrieras el amor\nque Dios te quiere regalar.\n\nSi conocieras como te amo,\nSi conocieras como te amo,\nDejarías de vivir sin amor\nSi conocieras como te amo,\nSi conocieras como te amo,\nDejarías de mendigar cualquier amor\nSi conocieras como te amo, como te amo\nSerías más feliz.\n\nSi conocieras como te busco,\nSi conocieras como te busco,\nDejarías que te alcanzara mi voz\nSi conocieras como te busco,\nSi conocieras como te busco,\nDejarías que te hablara al corazón\nSi conocieras como te busco, como te busco,\nEscucharías más mi voz\n\nSi conocieras como te sueño,\nSi conocieras como te sueño,\nMe preguntarías lo que espero de ti\nSi conocieras como te sueño,\nSi conocieras como te sueño,\nBuscarías lo que he pensado para ti\nSi conocieras como te sueño,\ncomo te sueño,\nPensarías más en mí.",
+      "tags": ["cantos varios", "amor de dios", "vocacional"],
+      "posibleDuplicado": ""
+    },
+    {
+      "id": "m5-jesus",
+      "titulo": "Jesús",
+      "seccion": "Misioneros",
+      "paginas": "Cancionero Mónica 2009",
+      "letra": "Cada día este mundo\nSe endurece más y más\nYa la humanidad ha perdido\nEl sentido de la paz\nPero yo tengo esperanza\nDe que todo cambiará\nTu amor lo puede todo\nY al mundo llenará\n\nCoro\nJesús, me pides que yo sea tus manos\nJesús, me pides que yo sea tus pies\nJesús, mis labios repiten tus palabras\nJesús, en Ti confío y yo te serviré\n\nCaminando en tus huellas\nEs por donde quiero ir\nLleno de tu Santo Espíritu\nAhora sé que es vivir\nMe detengo y contemplo\nTu gran amor por mí\nMi misión hoy en la tierra\nEs servirte sólo a Ti",
+      "tags": ["misionero", "servicio", "envío"],
+      "posibleDuplicado": ""
+    },
+    {
+      "id": "m5-extiende-tu-mano",
+      "titulo": "Extiende Tu Mano",
+      "seccion": "Alabanza",
+      "paginas": "Cancionero Mónica 2009",
+      "letra": "(Juan Luis Guerra)\n\nExtiende tu mano Señor\nPues todo lo puede tu amor\nHoy te confieso mi Dios, mi Señor, Salvador\nYa no hay tinieblas en mí\nSolo hay luz, ahora extiende tu mano\nJesús (2)\n\nEscucha Señor mi oración\nHoy te entrego mi corazón\nBorra mis faltas Dios salvador\nHoy te confieso Señor (3)\n\nBorra mis faltas Dios salvador\nHoy te confieso Señor.",
+      "tags": ["alabanza", "perdón", "oración"],
+      "posibleDuplicado": ""
+    },
+    {
+      "id": "m5-levanto-mis-manos",
+      "titulo": "Levanto Mis Manos",
+      "seccion": "Alabanza",
+      "paginas": "Cancionero Mónica 2009",
+      "letra": "Levanto mis manos\nAunque no tenga fuerzas\nLevanto mis manos\nAunque tenga mil problemas\n\nCoro\nCuando levanto mis manos\nComienzo a sentir\nUna unción que me hace cantar\nCuando levanto mis manos\nComienzo a sentir el fuego\nCuando levanto mis manos\nmis cargas se van\nNuevas fuerzas tú me das\nTodo esto es posible (2)\nCuando levanto mis manos",
+      "tags": ["alabanza", "animacion", "unción"],
+      "posibleDuplicado": ""
+    },
+    {
+      "id": "m5-por-el-poder-de-tu-amor",
+      "titulo": "Por El Poder De Tu Amor",
+      "seccion": "Alabanza",
+      "paginas": "Cancionero Mónica 2009",
+      "letra": "Vengo a ti Señor\nCámbiame, renuévame\nCon la gracia que encontré en ti\nAhora sé que las debilidades\nQue hay en mí desvanecerán\nCon el poder de tu amor\n\nCoro\nCúbreme, con tu amor rodéame\nTómame, cerca quiero estar\nY al esperar nuevas fuerzas yo tendré\nY me levantaré como las águilas\nPor el poder de tu amor (bis)\n\nYo te quiero ver cara a cara, Oh Señor\nY conocer así más de ti, en mí\nPrepárame Señor, para hacer tu voluntad\nViviendo cada día\nPor el poder de tu amor",
+      "tags": ["alabanza", "adoración", "renovación"],
+      "posibleDuplicado": ""
+    },
+    {
+      "id": "m5-el-taller-del-maestro",
+      "titulo": "El Taller Del Maestro",
+      "seccion": "Cantos varios",
+      "paginas": "Cancionero Mónica 2009",
+      "letra": "(Alex Campos)\n\nAy cómo me duele estar despierto,\ny no poder cantar\nCómo expresarte sin palabras,\nme muero si no estás.\nQue el tiempo pasa y todo cambia,\ny lloro de soledad\nQue el sueño que llevo en el alma,\nde repente ya no está.\nQue la sonrisa se ha marchado,\nmis lágrimas caerán…\nmis lágrimas caerán…\n\nPre-Coro\nAl Taller del Maestro vengo,\npues Él me curará\nMe tomará entre sus brazos\ny cada herida sanará.\nLas herramientas del Maestro,\nmi alma Él remendará\nMartillo en mano y mucho fuego,\naunque me duela ayudará,\na conocerlo y entenderlo,\na saber que nada merezco,\namar es más que un pretexto,\nes una entrega, es un negar,\nMás que aquel sentimiento,\nes la decisión de amar…\n\nCoro\nAl Taller del Maestro Vengo… (Allí, allí el sol se pondrá…)\nAl Taller del Maestro Vengo… (Carpintero, mi alma aquí está…)\nAl Taller del Maestro Vengo… (No importa el tiempo que allí he de estar…)\nAl Taller del Maestro Vengo…\n\nAy de aquellos días que hizo frío,\nel sol no apareció\nCuando el talento no lo es todo,\ny el silencio vale más\nQue mil palabras sin sentido,\nla vida que morirá\nSi tú no estás aquí conmigo,\nde qué sirve mi cantar\nPara qué la fama y las estrellas,\nsi el maestro allí no está\nPara qué decirte que te amo,\nsi contigo no quiero estar\n\nPre-Coro\n\nCoro\nAl Taller del Maestro Vengo… (Allí, allí el sol se pondrá…)\nAl Taller del Maestro Vengo… (Carpintero, mi alma aquí está…)\nAl Taller del Maestro Vengo… (No importa el tiempo que allí he de estar…)\nAl Taller del Maestro Vengo… (¡Aquí estoy! ¡Carpintero!)\nAl Taller del Maestro Vengo… (Martillo en mano... Martillo en mano y mucho fuego)\nAl Taller del Maestro Vengo… (Aunque me duela, aunque me duela eso ayudará...)\nAl Taller del Maestro Vengo…",
+      "tags": ["cantos varios", "conversión", "sanación", "juvenil"],
+      "posibleDuplicado": ""
+    },
+    {
+      "id": "m5-mira-a-los-cielos",
+      "titulo": "Mira A Los Cielos",
+      "seccion": "Alabanza",
+      "paginas": "Cancionero Mónica 2009",
+      "letra": "(José Luis Reyes)\n\nNo, no es igual guiarse por las emociones\nque por la fe que dentro arde\nNo, no, no es igual alguien contarte\nque Dios es grande o creer\npor lo que sientes dentro en ti\nentonces tienes que decidir\nsi ser un rey o un alfil\ny creer lo que Dios dice de ti\n\nCoro\nQue eres un vencedor,\nporque la autoridad te dio,\ny un conquistador,\nPorque te lanzas sin temor\nQue mires a los cielos\ny que trates de contar\nLas estrellas y sepas que tus bendiciones\nSon más que ellas\n\nNo, no es igual saber\nque Dios ha prometido algo,\nque confesar que lo recibirás\nNo, no, no es igual sentarse\na ver venir el milagro,\nque levantarse e ir donde Él está\nEntonces tienes que decidir\nsi detenerte o seguir\ny creer lo que Dios dice de ti\n\nLa victoria está en ti\nes tiempo de levantarse y recibir\nlo que Él ha prometido\nhoy que está en tu corazón,\ny marchar hacia el frente,\nsin nada\nque te haga dar\nla vuelta.\n\nMira ahora a los cielos\ny cuenta las estrellas\nPorque tus bendiciones\nson más que ellas",
+      "tags": ["alabanza", "fe", "animacion", "victoria"],
+      "posibleDuplicado": ""
+    },
+    {
+      "id": "m5-hombre-verdadero",
+      "titulo": "Hombre Verdadero",
+      "seccion": "Cantos varios",
+      "paginas": "Cancionero Mónica 2009",
+      "letra": "Yo no sé qué está pasando\nparece que quieren cambiarme\na ese hombre que llevo dentro\ny que vive en cada gente.\n\nYo no sé si ya no escucho\no si es Él quien me habla menos\nlo que siempre fue su canto\nhoy siento que es mi llanto.\n\nÉl es Jesús el carpintero\nel de alegrías y quebrantos\nde pobres y afligidos\nde mi canto y el de tantos\n\nJesús, amor, padre, ternura,\nDios del pan, Dios del madero,\nSeñor de la esperanza\neres el hombre que yo espero.\n\nCoro\nEl hombre que yo conozco\nno es de espuma y vanidades\nsiempre es libre y verdadero\nson sus ojos diferentes.\nCuando llama es un susurro\ncuando clama una tormenta\nuna brasa cuando ama\ncuando siente es un torrente.\nEl que quieren imponerme\nes de piedras y mentiras\nsólo compra, suma y vende\nes de hielo y amarguras.\nYo no quiero parecerme\na eso que llaman el hombre,\nel hombre es uno y desde siempre\nen él creo y quiero verle.\n\nÉl es Jesús el carpintero\nel de alegrías y quebrantos\nde pobres y afligidos\nde mi canto y el de tantos\nJesús, amor, padre, ternura,\nDios del pan, Dios del madero,\nSeñor de la esperanza\neres el hombre que yo espero.\nPadre, amigo, hermano bueno\nel de alegrías y quebrantos\nde pobres y afligidos\nde mi canto y el de tantos.\nJesús, amor, padre, ternura,\nDios del pan, Dios del madero\nSeñor de la esperanza\neres el hombre verdadero.",
+      "tags": ["cantos varios", "cristo", "compromiso"],
+      "posibleDuplicado": ""
+    },
+    {
+      "id": "m5-alza-tus-ojos",
+      "titulo": "Alza Tus Ojos",
+      "seccion": "Alabanza",
+      "paginas": "Cancionero Mónica 2009",
+      "letra": "(José Luis Reyes)\n\nPor mucho tiempo yo viví\nEn la orilla sin saber\nQue existía la profundidad\nPor tanto tiempo yo pensé\nQue todo se detuvo aquí\nY que no hay nada más allá\nHasta que esa voz oí\nQue me dijo levántate\nY te mostraré lo que tengo para ti\n\nCoro\nAlza tus ojos\nTan lejos como puedas ver\nDios te ha dado el poder\nDe ver más allá para vencer\nAlza tus ojos\nY mira a tu alrededor\nLa promesa está a tu lado\nJusto ahí\nLevanta tus manos porque Dios\nConfía en ti\n\nDesde entonces no es igual\nAhora sé lo que es real\nNo quiero volver atrás\nAhora soy un vencedor\nSu promesa me alcanzó\nahora sé por qué luchar\nDesde que esa voz oí\nQue me dijo levántate\nY te mostraré lo que tengo para ti",
+      "tags": ["alabanza", "fe", "animacion", "promesa"],
+      "posibleDuplicado": ""
+    },
+    {
+      "id": "m5-el-alfarero",
+      "titulo": "El Alfarero",
+      "seccion": "Cantos varios",
+      "paginas": "Cancionero Mónica 2009",
+      "letra": "Gracias, quiero darte, por amarme,\ngracias, quiero darte yo a ti, Señor.\nHoy soy feliz porque te conocí.\nGracias, por amarme a mí también.\n\nSeñor yo quiero abandonarme,\ncomo el barro en las manos del alfarero\ntoma mi vida y hazla de nuevo,\nyo quiero ser, yo quiero ser...\nun vaso nuevo.\n\nTe conocí y te amé,\nte pedí perdón y me escuchaste.\nSi te ofendí, perdóname, Señor,\nPues te amo y a tu lado me quedaré.",
+      "tags": ["conversión", "entrega", "cantos varios"],
+      "posibleDuplicado": "Vaso Nuevo (Yo Quiero Ser)"
+    },
+    {
+      "id": "m5-prosigo-al-blanco",
+      "titulo": "Prosigo Al Blanco",
+      "seccion": "Cantos varios",
+      "paginas": "Cancionero Mónica 2009",
+      "letra": "(José Luis Reyes)\n\nEs más fácil\ncreer que es imposible\nmirar atrás y devolverse\nque levantarse y continuar\nes más fácil\ndetenerse y rendirse\ncuando la duda te dice\nno lo intentes no llegarás\npero cuando entiendes que Dios\nes quien te ha hecho el llamado\ny te ha enviado\nno te rindes y puedes decir\n\nCoro\nProsigo al blanco\nporque comprendo lo que espera al final\nprosigo al blanco\nporque más grande es aquel\nque a mi lado va\ny mientras tanto\naunque difícil sea el camino al andar\ntú me guiarás, tú me guardarás\na más allá conquistar",
+      "tags": ["cantos varios", "perseverancia", "vocacional", "fe"],
+      "posibleDuplicado": ""
+    }
+  ]
+}

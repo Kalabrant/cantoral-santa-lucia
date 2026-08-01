@@ -1,0 +1,257 @@
+{
+  "paquete": "monica_08",
+  "canciones": [
+    {
+      "id": "m8-adoracion",
+      "titulo": "Adoración",
+      "seccion": "Alabanza",
+      "paginas": "Cancionero Mónica 2009",
+      "letra": "Ante un Dios que da la vida\ny nos salva, yo me postro\ny le rindo adoración (bis)\n\nAdoración (2)\nyo me postro y le rindo adoración (bis)\n\nAnte un Dios que se hace pan\ny me nutre, yo me postro\ny le elevo mi acción de gracias (bis)\n\nGracias Señor por tu amor\nGracias Señor por darme vida (bis)\n\nAnte un Dios que me conoce\ny me perdona, yo me postro\ny a Él le canto loores (bis)\n\nOh mi Señor yo te celebro\nOh mi Señor, yo te adoro (bis)\n\nAnte un Dios que a María\nme la da por Madre\nyo me postro y le rindo adoración (2)\n\nAdoración (2) yo me postro\ny le rindo adoración (bis)\n\nAnte un Dios que me hace hijo\ny me da Iglesia, yo me postro\ny le elevo mi acción de gracias (bis)\n\nAdoración, acción de gracias\nyo me postro y a Él le canto loores (2)",
+      "tags": ["alabanza", "adoracion"],
+      "posibleDuplicado": ""
+    },
+    {
+      "id": "m8-alabado-seas-mi-senor",
+      "titulo": "Alabado Seas Mi Señor",
+      "seccion": "Alabanza",
+      "paginas": "Cancionero Mónica 2009",
+      "letra": "Coro\nAlabado seas mi Señor (2)\n\nEl sol y las estrellas\nproclaman tu grandeza\nlas flores y la luna\nproclaman tu poder (2)\n\nCantando el universo\nte ofrece su hermosura\npues toda creatura\nes cántico de amor (2)\n\nLos pájaros y el bosque\nlos árboles y el viento\nlos ríos y los mares\nnos cantan tu poder\n\nPor todos los hermanos\nque acogen y perdonan\npor todos los que rezan\nen su tribulación (2)",
+      "tags": ["alabanza", "creacion"],
+      "posibleDuplicado": "Alabado Seas, mi Señor"
+    },
+    {
+      "id": "m8-dios-en-el-sagrario",
+      "titulo": "Dios En El Sagrario",
+      "seccion": "Comunión",
+      "paginas": "Cancionero Mónica 2009",
+      "letra": "Vino al mundo por salvarnos del pecado\nDeseó permanecer a nuestro lado\nY alimenta nuestras vidas con su fuerza\nY en la Eucaristía impregna su Amor\n\nCoro\nDios está aquí vivo en el sagrario\nCon su Cuerpo y su Sangre\nEl pan y vino transformado\nEn el más grande milagro\nÉl te espera abnegado, ven aprisa\nY entrega todo todo el corazón\n\nMe dirijo con Amor a mis hermanos\nLevantemos el sol de la Eucaristía\nPara dar luz a esta tierra y ser testigos\nDe la gracia y del Amor que Él inspiró",
+      "tags": ["comunión", "eucaristia", "adoracion"],
+      "posibleDuplicado": ""
+    },
+    {
+      "id": "m8-nazareth",
+      "titulo": "Nazareth",
+      "seccion": "Cantos varios",
+      "paginas": "Cancionero Mónica 2009",
+      "letra": "Esa pequeña casa hecha de pocas cosas\nEncerraba en sí todo el cielo\nTreinta años de encanto\nquién podría imaginarlos\nCon Jesús que estaba allí en medio de ellos\nun misterio profundo\nun silencio que habla\nun milagro de maravilla\nTe conmoverás veloz de solo pensar\nTan solo al contemplarla\n\nCoro\nNazareth, esa historia comenzaba allí\nNazareth, Nazareth\n\nUn llamado secreto cambia todos los planes\nDios uno y trino se diseña una familia\nAvanzar en la noche turbación y refugio\nSe han trocado en un sí que es justicia\nNada ya es imposible la estéril da su fruto\nDe la esclava surge el reino\nLuz para las naciones\nSigno de contradicción\nConservar todo en el corazón\n\nEsposa y Madre suave fuerte dulce y serena\nBendita entre todas las mujeres\nLa aventurada de un Padre\nDía a día abrazando la belleza\nde aquel paraíso que sublime armonía\nUna mirada un acuerdo y no era caso\nAquel juego una trama elegida\npor el fuego de Amor para traer\nEl cielo a la tierra\n\nCanciones de cuna Madre toda ternura\nPor su hijo que era Dios hecho niño\nLos oficios de casa taller de carpintero\nLa fatiga de una entera jornada\nUn tesoro escondido una alegría vivida\nUn intenso lazo de Amor\nLa más sencilla y la más trascendente\nEsta pequeña grande familia.",
+      "tags": ["sagrada familia", "mariano", "san josé"],
+      "posibleDuplicado": ""
+    },
+    {
+      "id": "m8-amar-es-entregarse",
+      "titulo": "Amar Es Entregarse",
+      "seccion": "Cantos varios",
+      "paginas": "Cancionero Mónica 2009",
+      "letra": "Amar es entregarse\nolvidándose de sí\nbuscando lo que al otro\nle pueda hacer feliz\n\nQué lindo es vivir para amar\nqué grande es tener para dar\ndar alegría y felicidad\ndarse uno mismo eso es amar\n\nSi amas como a ti mismo\ny te entregas a los demás\nverás que no hay egoísmos\nque no puedas superar",
+      "tags": ["amor", "caridad"],
+      "posibleDuplicado": "Amar Es Entregarse"
+    },
+    {
+      "id": "m8-conviertete-a-el",
+      "titulo": "Conviértete A Él",
+      "seccion": "Cuaresma",
+      "paginas": "Cancionero Mónica 2009",
+      "letra": "Conviértete a Él conviértete a Él\nConviértete a Él y luego verás (bis)\n\nEs Cristo el Salvador el que te va a salvar\nEn Él encontrarás\nconsuelo dicha y paz (bis)\n\nLa santificación en Cristo he de encontrar\nPorque Él en mi perdón\nse hizo ser mortal (2)\n\nEn Cristo redentor mi único Señor\nEn Él solo encontraré\nla paz que yo busqué (bis)",
+      "tags": ["cuaresma", "conversion"],
+      "posibleDuplicado": ""
+    },
+    {
+      "id": "m8-andando-de-tu-mano",
+      "titulo": "Andando De Tu Mano",
+      "seccion": "Cantos varios",
+      "paginas": "Cancionero Mónica 2009",
+      "letra": "Desde que voy junto a ti\nla tierra que yo piso es como espuma\nDesde que voy junto a ti\nlas noches más oscuras tienen luz\nYo pienso que la vida no es tan dura\nsi todo en realidad me lo das tú (bis)\n\nCoro\nAndando de tu mano qué fácil es la vida\nAndando de tu mano\nel mundo es ideal (bis)\n\nDesde que voy junto a ti\nmis ojos se iluminan por completo\nDesde que voy junto a ti no sé por qué\nlos hombres llorarán\nYo solo en esta vida siento miedo\npensando en que tú no regreses más",
+      "tags": ["confianza", "cantos varios"],
+      "posibleDuplicado": ""
+    },
+    {
+      "id": "m8-el-legado",
+      "titulo": "El Legado",
+      "seccion": "Espíritu Santo",
+      "paginas": "Cancionero Mónica 2009",
+      "letra": "Ven promesa Divina que en tiempos pasados Jesús nos legó (bis)\n\nCoro\nVen (9) ven a nuestro corazón\nVen (9) ven espíritu de amor\nVen Espíritu Santo y\nllena nuestras vidas\nven tú dador de vida\nOh fuego de amor\n\nTú eres esa brisa\neres la alegría de saber vivir (bis)\n\nHoy soy tan diferente\ny veo a la gente con ojos de amor (bis)\n\nY es que estoy tan unido\na esa luz tan grande\nla luz de mi Dios (bis)",
+      "tags": ["espíritu santo", "pentecostés"],
+      "posibleDuplicado": "El Legado"
+    },
+    {
+      "id": "m8-saturame",
+      "titulo": "Satúrame",
+      "seccion": "Espíritu Santo",
+      "paginas": "Cancionero Mónica 2009",
+      "letra": "Satúrame Señor con tu Espíritu (4)\nY déjame sentir el fuego de tu amor\nAquí en mi corazón Señor (bis)\n\nEl hombre de Galilea está pasando (2)\nDéjalo que te toque (3)\nDentro tu corazón (2)",
+      "tags": ["espíritu santo", "animacion"],
+      "posibleDuplicado": ""
+    },
+    {
+      "id": "m8-ven-oh-espiritu",
+      "titulo": "Ven Oh Espíritu",
+      "seccion": "Espíritu Santo",
+      "paginas": "Cancionero Mónica 2009",
+      "letra": "Ven Oh Espíritu de amor\nVen Oh Espíritu divino\nVen Oh Espíritu Santo y llénanos de ti\nVen Oh Espíritu Santo\ny guía a la Iglesia del Señor\n\nVen enviado del Padre\nVen y penetra nuestro corazón\nVen Oh Espíritu y derrama\ntu más hermoso don\nVen Oh Espíritu Santo\ny llénanos de tu amor",
+      "tags": ["espíritu santo", "invocacion"],
+      "posibleDuplicado": "Ven, Santo Espíritu"
+    },
+    {
+      "id": "m8-ven-espiritu-santo-secuencia",
+      "titulo": "Ven Espíritu Santo (Secuencia)",
+      "seccion": "Espíritu Santo",
+      "paginas": "Cancionero Mónica 2009",
+      "letra": "Ven Espíritu Santo\nY envía desde el cielo un rayo\nde tu luz,\nven Padre de los pobres\nVen dador de las gracias\nVen lumbre de los corazones\n\nConsolador buenísimo\nDulce huésped del alma Dulce refrigerio\nDescanso en el trabajo\nEn el ardor tranquilidad\nConsuelo en el llanto\n\nOh luz santísima llena lo más íntimo\nde los corazones de tus fieles\n\nSin tu ayuda nada hay en el hombre\nnada que sea inocente.\n\nLava lo que está manchado\nRiega lo que es árido\nCura lo que está enfermo\n\nDoblega lo que es rígido\nCalienta lo que es frío\nDirige lo que está extraviado\n\nConcede a tus fieles que en ti confían\ntus siete sagrados dones\n\nDales el mérito de la virtud\nDales el puerto de la salvación\nDales el eterno gozo",
+      "tags": ["espíritu santo", "secuencia", "pentecostés"],
+      "posibleDuplicado": "Ven, Espíritu Santo (Secuencia)"
+    },
+    {
+      "id": "m8-espiritu-de-dios",
+      "titulo": "Espíritu De Dios",
+      "seccion": "Espíritu Santo",
+      "paginas": "Cancionero Mónica 2009",
+      "letra": "Espíritu de Dios, llena mi vida,\nllena mi alma, llena mi ser (2)\nY lléname (2)\nDe tu presencia lléname (2)\nDe tu poder, lléname, lléname\nDe tu verdad (bis)\nEspíritu de Dios",
+      "tags": ["espíritu santo", "invocacion"],
+      "posibleDuplicado": "Espíritu De Dios (Em)"
+    },
+    {
+      "id": "m8-espiritu-santo",
+      "titulo": "Espíritu Santo",
+      "seccion": "Espíritu Santo",
+      "paginas": "Cancionero Mónica 2009",
+      "letra": "Espíritu Santo\nlléname de ti\nHazme sentir tu presencia en mi interior\nY renueva mi corazón\nCon el fuego de tu amor\nSé que la experiencia de la edad\nyo no la tengo, pero mi pobre corazón pongo en tus manos\npara ser signo alegre de tu amor\n\nCoro\nVen Espíritu Santo, lléname de ti\nEspíritu Santo rompe las cadenas\nque nos atan y todo aquello que\nnos impide ser la esperanza\nde una nueva humanidad\n\nEspíritu Santo lléname de ti\nYo quiero ser instrumento de tu paz\nFuerza joven que con tu ardor\nencienda el fuego de tu amor\nY que siembre el gozo del perdón\nen los corazones\nPaz, esperanza y libertad\ncon el anuncio de Jesús nuestro salvador",
+      "tags": ["espíritu santo", "jóvenes"],
+      "posibleDuplicado": "Espíritu Santo (Athenas)"
+    },
+    {
+      "id": "m8-espiritu-santo-aqui-estoy",
+      "titulo": "Espíritu Santo Aquí Estoy",
+      "seccion": "Espíritu Santo",
+      "paginas": "Cancionero Mónica 2009",
+      "letra": "Espíritu Santo aquí estoy\npidiendo tu llama de amor\nEspíritu Santo aquí estoy\nqueriendo sentir tu calor\nEl amor del Padre\nel amor del Hijo\nel amor del Santo Espíritu de Dios\n\nEspíritu Santo aquí estoy\nauxilia Señor mi voz\nEspíritu Santo aquí estoy\nhaz que cante de corazón\nque cante a mi Padre\nque cante a su Hijo\nque cante al Espíritu Santo de amor\n\nEspíritu Santo aquí estoy\nquiero gozarme con tu ardor\nEspíritu Santo aquí estoy\nardiendo con fuego de bendición\nalabo a mi Padre\nalabo a su Hijo\nalabo al Espíritu Consolador\n\nEspíritu Santo aquí estoy\naplaudiendo tu gloriosa acción\nEspíritu Santo aquí estoy\nbendiciendo al que es amor\nBendigo a mi Padre\nBendigo a su Hijo\nBendigo al Espíritu Santificador\n\nEspíritu Santo aquí estoy\nquiero ser testigo de tu esplendor\nEspíritu Santo aquí estoy\nquiero dar la vida\namando con tu amor\nAmando a mi Padre\nAmando a su Hijo\nAmando al Espíritu de bendición\n\nEspíritu Santo aquí estoy\nquiero ser vasija de tu amor\nEspíritu Santo aquí estoy\nquiero ser reflejo de tu unción\nAmando a mi hermano\nAmando a tus hijos\nAmando a toda la creación.",
+      "tags": ["espíritu santo", "alabanza"],
+      "posibleDuplicado": ""
+    },
+    {
+      "id": "m8-espiritu-de-dios-ruah",
+      "titulo": "Espíritu De Dios (Ruah)",
+      "seccion": "Espíritu Santo",
+      "paginas": "Cancionero Mónica 2009",
+      "letra": "Ruah Espíritu de Dios (2)\n\nSopla tu poder llena nuestro ser\nBrille tu Amor danos tu calor (bis)\n\nSi el Espíritu de Dios se mueve en mí\nyo bailo como David (bis)\n\nYo bailo (3) como David (bis)\n\nSi el Espíritu de Dios se mueve en mí\nyo canto como David (bis)\n\nYo canto (3) como David (bis)\n\nSi el Espíritu de Dios se mueve en mí\nyo danzo como David (bis)\n\nYo danzo (3) como David (bis)",
+      "tags": ["espíritu santo", "animacion"],
+      "posibleDuplicado": "Espíritu De Dios (Em)"
+    },
+    {
+      "id": "m8-ven-espiritu",
+      "titulo": "Ven Espíritu",
+      "seccion": "Espíritu Santo",
+      "paginas": "Cancionero Mónica 2009",
+      "letra": "Ven Espíritu (2) ven Espíritu Santo (2)\nDame sabiduría ven Espíritu (2)\nVen Espíritu Santo lléname de alegría\nIlumina mi vida dame fuerza\npara seguir a Jesús de Nazareth (bis)\n\nEspíritu Santo ven (3)\ncomo viniste en Pentecostés (bis)\n\nVen con tus dones ven con tu luz\nsiempre hay gozo donde estás tú (bis)\n\nVen con tus dones ven con tu amor\nte adoramos consolador (bis)",
+      "tags": ["espíritu santo", "animacion"],
+      "posibleDuplicado": "Ven, Santo Espíritu"
+    },
+    {
+      "id": "m8-espiritu-santo-vive-en-mi",
+      "titulo": "Espíritu Santo Vive En Mí",
+      "seccion": "Espíritu Santo",
+      "paginas": "Cancionero Mónica 2009",
+      "letra": "Espíritu Santo vive en mí\nderrama tus dones\nVen aquí y así vivir con el Padre y el Hijo\nY tu Amor dentro de mí (2)",
+      "tags": ["espíritu santo", "invocacion"],
+      "posibleDuplicado": ""
+    },
+    {
+      "id": "m8-padre-nuestro",
+      "titulo": "Padre Nuestro",
+      "seccion": "Cantos varios",
+      "paginas": "Cancionero Mónica 2009",
+      "letra": "Padre nuestro que estás en el cielo\nSantificado sea tu nombre\nVen a nosotros venga tu Reino\nHágase tu voluntad así en la tierra\ncomo en el cielo el pan danos hoy\nnuestro pan de cada día\nPerdona nuestras ofensas\nasí como nosotros\nperdonamos al que nos ofende\nY no nos dejes caer en tentación\nmas líbranos del mal (2)",
+      "tags": ["padre nuestro", "oración"],
+      "posibleDuplicado": "Padre Nuestro (G)"
+    },
+    {
+      "id": "m8-muevete-en-mi",
+      "titulo": "Muévete En Mí",
+      "seccion": "Espíritu Santo",
+      "paginas": "Cancionero Mónica 2009",
+      "letra": "El Espíritu de Dios está en este lugar\nEl Espíritu de Dios se mueve en este lugar\nestá aquí para consolar\nestá aquí para liberar\nestá aquí para guiar\nEl Espíritu de Dios está aquí\n\nMuévete en mí (2)\nToma mi mente y mi corazón\nLlena mi vida de tu amor\nMuévete en mí Dios Espíritu\nMuévete en mí",
+      "tags": ["espíritu santo", "alabanza"],
+      "posibleDuplicado": ""
+    },
+    {
+      "id": "m8-ven-espiritu-de-dios",
+      "titulo": "Ven Espíritu De Dios",
+      "seccion": "Espíritu Santo",
+      "paginas": "Cancionero Mónica 2009",
+      "letra": "Ven Espíritu de Dios\nven Espíritu Santo\nVen y danos fe, ven abrázanos\n\nPalabra del Padre tú nos alientas\na que proclamemos que vives hoy\n\nVen gracia celeste fuente de vida\naviva mi ser, cura mi cuerpo\n\nVen a descubrirnos la luz del Padre\nel rostro de Cristo, tu resplandor",
+      "tags": ["espíritu santo", "invocacion"],
+      "posibleDuplicado": "Ven, Espíritu De Dios (Kairoi)"
+    },
+    {
+      "id": "m8-ven-senor-de-la-justicia",
+      "titulo": "Ven Señor De La Justicia",
+      "seccion": "Adviento",
+      "paginas": "Cancionero Mónica 2009",
+      "letra": "Ven Señor de la justicia\nVen Jesús nuestra Esperanza (bis)\n\nUna voz clama en el yermo\npreparad los caminos de Dios\nSu verbo proclama su gloria\ny aquellos que creen la verán.\n\nEl Espíritu está sobre ti Jesús\nla buena nueva a los pobres traes\nla libertad al cautivo la luz a los ciegos.\n\nPor nuestra desobediencia\nentró el dolor en el mundo\nmas tú cargando con ella\nrescatas a la humanidad.\n\nHermanos Él es la Esperanza de Amor\nde justicia y de verdad\npor nosotros murió y resucitó\na los que en Él creen vida da.\n\nBendito seas Dios de Israel\nporque eres fiel a tu alianza\ny has liberado a tu pueblo\nde toda injusticia y temor",
+      "tags": ["adviento", "esperanza"],
+      "posibleDuplicado": ""
+    },
+    {
+      "id": "m8-con-manos-vacias",
+      "titulo": "Con Manos Vacías",
+      "seccion": "Presentación de Dones",
+      "paginas": "Cancionero Mónica 2009",
+      "letra": "Con manos vacías vengo a ti\nNo tengo nada que darte\nNo hay nada de valor en mí\nNo puedo impresionarte\n\nTe puedo entregar mi corazón\npero está quebrantado\nRecíbelo mi buen pastor\nTú puedes restaurarlo\n\nPongo mi vida a tu servicio Señor\nNo será mucho pero la entrego hoy\nY si mis manos hoy vacías están\npuedes llenarlas\ncon tu gran poder y amor.\n\nUsa mis manos Señor",
+      "tags": ["ofertorio", "entrega"],
+      "posibleDuplicado": ""
+    },
+    {
+      "id": "m8-despues-de-ti",
+      "titulo": "Después De Ti",
+      "seccion": "Cantos varios",
+      "paginas": "Cancionero Mónica 2009",
+      "letra": "Después de la tormenta\nla calma reinará\nDespués de cada día\nla noche llegará\nDespués de un día de lluvia\nel sol se asomará\n¿Y después de ti qué?.. ¿Después de ti qué?\n\nDespués de cada instante el mundo girará\nDespués de cada año más tiempo se nos va\nDespués de un buen amigo\notro amigo encontrarás\n¿Y después de ti qué?.. ¿Después de ti qué?\n\nCoro\nDespués de ti no hay nada\nni sol ni madrugada\nni lluvia ni tormenta\nni amigos ni esperanza\nDespués de ti no hay nada\nni vida hay en el alma\nni paz que me consuele\nNo hay nada si tú faltas..\n\nDespués de haber tenido\nsiempre vuelves a tener\nDespués de haber querido\nlo intentas otra vez\nDespués de lo vivido\nsiempre hay un después\n¿Y después de ti qué?.. ¿Después de ti qué?\n\nCoro\n\nAhhh\nahhh aaa...\n¿Y después de ti qué?.. ¿Después de ti qué?\n\nDespués de ti no hay nada\nni vida hay en el alma\nni paz que me consuele\nNo hay nada si tú faltas\nDespués... después de ti...\n¿Qué?\nDespués de ti...",
+      "tags": ["cantos varios", "reflexion"],
+      "posibleDuplicado": ""
+    },
+    {
+      "id": "m8-dios-de-mi-vida",
+      "titulo": "Dios De Mi Vida",
+      "seccion": "Alabanza",
+      "paginas": "Cancionero Mónica 2009",
+      "letra": "(De Jóvenes de Valor)\n\nI\nQue mi vida sea una alabanza,\nque mis pensamientos no tengan falta,\nque mi boca y todo mi ser,\nsean fiel a ti, Cristo mi Rey.\nQue mi tiempo te enamore,\nque tus preceptos yo razone,\nquiero amarte noche y día,\nporque eres mi todo, Dios de mi vida.\n\nCoro\nDios de mi vida, eres mi todo,\nque mi existencia alabe tu nombre,\nDios de mi vida.\nDios de mi vida, eres mi todo,\neres mi principio y mi final,\nDios de mi vida.\nUuuu, larala, laralalala.\n\nQue mi vida sea una alabanza,\nque mis pensamientos no tengan falta,\nque mi boca y todo mi ser,\nsean fiel a ti, Cristo mi Rey.\nQue mi tiempo te enamore,\nque tus preceptos yo razone,\nquiero amarte noche y día,\nporque eres mi todo, Dios de mi vida.\nTe amo.\n\nCoro\nDios de mi vida, eres mi todo,\nque mi existencia alabe tu nombre,\nDios de mi vida.\nDios de mi vida, eres mi todo,\neres mi principio y mi final,\nDios de mi vida.",
+      "tags": ["alabanza", "jóvenes"],
+      "posibleDuplicado": ""
+    },
+    {
+      "id": "m8-heroe",
+      "titulo": "Héroe",
+      "seccion": "Cantos varios",
+      "paginas": "Cancionero Mónica 2009",
+      "letra": "(De Mariah Carey)\n\nI\nComo un libro\nque no sabes el final,\ny te asusta lo que lees\nasí la vida es.\nCuando naces\nya te expones al dolor\ny de a poco y con valor\nlogras crecer.\n\nCoro\nY como un libro el corazón,\nnos enseña que hay temor,\nque hay fracasos y maldad,\nque hay batallas que ganar.\nY en cada página el amor,\nnos convierte en luchador,\ny descubres lo común,\nno hay un héroe como tú.\n\nII\nSon muy pocos,\nlos que se arriesgan por amor,\npero tú tienes la fe\ny eso lo es todo.\nNo te caigas,\nque vivir es aprender\ny no hay nada que temer\nsi crees en ti.\n\nIII\nSolo Dios,\nsabe dónde y cuándo\nla vida nos dirá\nlo has hecho bien.\nSólo con un sueño tú\nsabrás cómo vencer.",
+      "tags": ["cantos varios", "jóvenes", "esperanza"],
+      "posibleDuplicado": ""
+    },
+    {
+      "id": "m8-a-ti-mi-senor",
+      "titulo": "A Ti Mi Señor",
+      "seccion": "Cantos varios",
+      "paginas": "Cancionero Mónica 2009",
+      "letra": "(De Anthony Javier García Martínez)\n\nI\nMaestro Jesús,\nte quiero hablar,\npero no sé cómo comenzar,\nsi tal vez con una oración\no quizá con una canción,\nlo único que sé,\nes que te quiero hablar.\n\nCoro\nA ti mi Señor,\nyo te quiero seguir,\ncon pasos de amor,\ntal cual caminó,\nel Santo de Asís.\nA ti mi Señor,\nte entrego mi corazón,\nmi vida entera,\nen adoración, perpetua de amor.\n\nII\nEl humo me envolvió,\nel exceso me atrapó,\nla omnipotencia de mí se apoderó,\nlloró mi corazón y mi alma se estremeció,\nme consolaba saber,\nque renacería por tu amor.\n\nIII\nAmigo Jesús, te pude encontrar,\nenvuelto en hambre,\nen lepra y en necesidad,\ncómo lo hice no sé,\ncómo responder, lo que puedo decir,\nes que solo tuve fe.\n\nFinal\nA ti mi Señor, el honor, la alabanza,\ntodo es para ti,\ncomo tuyo soy, porque tuyo, yo soy.",
+      "tags": ["cantos varios", "entrega", "san francisco"],
+      "posibleDuplicado": ""
+    },
+    {
+      "id": "m8-aqui-estoy-yo",
+      "titulo": "Aquí Estoy Yo",
+      "seccion": "Cantos varios",
+      "paginas": "Cancionero Mónica 2009",
+      "letra": "(De: Luis Fonsi, David Bisbal, Noel y Alex Syntek)\n\nI\nAquí estoy yo\npara hacerte reír una vez más,\nconfía en mí, deja tus miedos atrás\ny ya verás.\nAquí estoy yo\ncon un beso quemándome los labios,\nes para ti puede tu vida cambiar\ndéjame entrar.\nLe pido al sol que una estrella azul\nviaje hasta a ti y te enamore su luz.\n\nCoro\nAquí estoy yo,\nabriéndote mi corazón,\nllenando tu falta de amor,\ncerrándole el paso al dolor,\nno temas yo te cuidaré,\nsólo acéptame.\n\nII\nAquí estoy para darte mi fuerza\ny mi aliento,\ny ayudarte a pintar mariposas\nen la oscuridad, serán de verdad.\nQuiero ser yo el que despierte en ti\nun nuevo sentimiento y te enseñe a querer y entregarte otra vez\nsin medir los abrazos que dé.\nLe pido a Dios un toque de inspiración\npara decir lo que tú esperas oír de mí.\n\nIII\nDame tus alas las voy a curar.\nY de mi mano te invito a volar.\n\nCoro\nAquí estoy yo (y aquí estoy yo),\nabriéndote mi corazón (mi corazón),\nllenando tu falta de amor (falta de amor),\ncerrándole el paso al dolor (cerrándole el paso al dolor),\nno temas yo te cuidaré,\nsiempre te amaré.",
+      "tags": ["cantos varios", "animacion"],
+      "posibleDuplicado": ""
+    },
+    {
+      "id": "m8-mi-pastor",
+      "titulo": "Mi Pastor",
+      "seccion": "Cantos varios",
+      "paginas": "Cancionero Mónica 2009",
+      "letra": "(De Jóvenes de Valor)\n\nI\nEn este momento oscuro de mi necesidad\nlevanto mis manos y clamo,\nsabiendo que tú llegarás.\nEn esta batalla, en esta tormenta,\nen mi tribulación, reposa mi alma\nsin miedo porque tú vendrás mi Señor,\ncon tu vara y tu brazo a sacarme\nde este abismo a nada yo temo,\na nada porque tú Señor (bis).\n\nCoro\nTú eres mi Pastor (bis).\nSé que me ayudarás,\nsé que me rescatarás,\nvivo contemplo en ti.\n(Cristo tú eres mi pastor,\ntú eres mi pastor / solista).",
+      "tags": ["cantos varios", "confianza", "salmo 23"],
+      "posibleDuplicado": "El Señor Es Mi Pastor"
+    }
+  ]
+}

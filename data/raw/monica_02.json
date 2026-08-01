@@ -1,0 +1,536 @@
+{
+  "paquete": "monica_02",
+  "canciones": [
+    {
+      "id": "m2-alabad-a-dios",
+      "titulo": "Alabad A Dios",
+      "seccion": "Alabanza",
+      "paginas": "Cancionero Mónica 2009",
+      "letra": "Alabad a Dios en su santuario\nAlabadle en su magnificencia de su firmamento\nalabadle por sus proezas\nAlabadle conforme a la muchedumbre de su grandeza\n\nAlabadle al son de la bocina\nAlabadle con salterio y arpa\nAlabadle con pandero y danza\nAlabadle con cuerdas y flautas\nAlabadle con címbalos resonantes\nAlabadlo con címbalos de júbilo\nTodo lo que respira alabe al Señor (bis)\nAleluya, Aleluya (2)",
+      "tags": ["alabanza", "salmo 150", "aleluya"],
+      "posibleDuplicado": ""
+    },
+    {
+      "id": "m2-salmo-99",
+      "titulo": "Salmo 99",
+      "seccion": "Salmos",
+      "paginas": "Cancionero Mónica 2009",
+      "letra": "Coro\nAclamad al Señor tierra entera\nservid al Señor con alegría,\nllegad al Señor con cantares de gozo\n\nSabed que el Señor es Dios, Él nos creó\na Él pertenecemos, somos su pueblo\nsomos ovejas de su aprisco\n\nEntrad por sus puertas con himnos\ndando gracias, alabando su nombre,\nDios es bueno, misericordioso\nfiel para siempre.",
+      "tags": ["salmo", "alabanza", "entrada"],
+      "posibleDuplicado": ""
+    },
+    {
+      "id": "m2-tu-eres-sacerdote",
+      "titulo": "Tú Eres Sacerdote",
+      "seccion": "Salmos",
+      "paginas": "Cancionero Mónica 2009",
+      "letra": "Tú eres sacerdote, sacerdote eterno\nSegún el rito, según el rito\nDe Melquisedec, de Melquisedec.\n\nEl Señor lo ha jurado\nY no se arrepiente\nY no se arrepiente",
+      "tags": ["salmo 109", "sacerdocio", "ordenación"],
+      "posibleDuplicado": "Salmo 109, Tú eres Sacerdote para Siempre (Lourdes Montgomery)"
+    },
+    {
+      "id": "m2-mi-buen-jesus",
+      "titulo": "Mi Buen Jesús",
+      "seccion": "Alabanza",
+      "paginas": "Cancionero Mónica 2009",
+      "letra": "Eres Tú la única razón\nDe mi adoración, oh Jesús\nEres Tú la esperanza\nQue anhelé tener, oh Jesús\nConfié en Ti y me has ayudado\nTu salvación me has regalado (2)\n\nHoy hay gozo en mi corazón\nCon mi canto te alabaré\nTe alabaré, te glorificaré\nTe alabaré mi buen Jesús\nEn todo tiempo te alabaré\nEn todo tiempo te adoraré",
+      "tags": ["alabanza", "adoración", "jesús"],
+      "posibleDuplicado": ""
+    },
+    {
+      "id": "m2-yo-tengo-fe",
+      "titulo": "Yo Tengo Fe",
+      "seccion": "Cantos varios",
+      "paginas": "Cancionero Mónica 2009",
+      "letra": "Yo tengo fe, que todo cambiará,\nQue triunfará por siempre el amor,\nYo tengo fe que siempre brillará\nLa luz de la esperanza,\nno se apagará jamás\n\nYo tengo fe, yo creo en el amor,\nYo tengo fe, también mucha ilusión,\nYo tengo fe que siempre brillará\nEl mundo de justicia\nque ya empieza a despertar\n\nYo tengo fe, porque yo creo en Dios\nYo tengo fe, será todo mejor\nSe callará el odio y el dolor,\nLa gente nuevamente\nhablará de su ilusión\n\nYo tengo fe, los hombres cantarán\nUna canción de amor universal\nYo tengo fe será una realidad\nEl mundo de justicia\nQue ya empieza a despertar",
+      "tags": ["fe", "esperanza", "juventud"],
+      "posibleDuplicado": ""
+    },
+    {
+      "id": "m2-canta-hermano",
+      "titulo": "Canta Hermano",
+      "seccion": "Misioneros",
+      "paginas": "Cancionero Mónica 2009",
+      "letra": "Coro\nCanta hermano eleva tu voz\nQue el mundo necesita un canto de amor\nVen conmigo vamos a sembrar\nLa palabra de Dios que a mi pueblo\nHa de llegar\n\nDile a los niños que vengan a mí\nQue junto a los hombres los bendeciré\nA los ancianos que buscan la paz\nQue a todo el mundo yo les amaré\n\nDile a los ciegos que ya pueden ver\nY a los enfermos que se sanarán\nY a los que sufren los consolaré\nY al oprimido daré libertad\n\nSi dejas que el odio cambie en amor\nSi cambias la envidia por la humildad\nSi con el hermano compartes tu pan\nEl amor de Cristo se derramará",
+      "tags": ["misionero", "evangelización", "animacion"],
+      "posibleDuplicado": "Hermano, Canta Conmigo"
+    },
+    {
+      "id": "m2-himno-a-la-juventud",
+      "titulo": "Himno A La Juventud",
+      "seccion": "Himnos",
+      "paginas": "Cancionero Mónica 2009",
+      "letra": "Coro\n¿Dónde está la juventud si la tenemos?\n¿Dónde está nuestro valor?\n¿Dónde la sinceridad que alardeamos?\n¿Dónde hemos guardado a Dios?\nEs que ya olvidamos ese afán de luchar\nPor hacer un mundo mejor\nEs que ya se fue definitivamente\nDe nuestro lado el amor\n\nHacemos dioses de barro\nCon nuestra propia pobreza\nBuscamos a aquel que cuadre\nCon nuestra forma de ser\nLo alabamos y decimos:\nEse sí que es un gran hombre\nPero no, no vemos que es de carne\n\nVivimos un mundo raro\nSolo queremos progreso\nNos importan más los perros\nQue los niños que no nacen\nDespreciamos a la gente\nPorque se pone en el medio\nYa está bien, vamos a despertarnos",
+      "tags": ["himno", "juventud", "compromiso"],
+      "posibleDuplicado": ""
+    },
+    {
+      "id": "m2-solo-dios-es-grande",
+      "titulo": "Solo Dios Es Grande",
+      "seccion": "Cantos varios",
+      "paginas": "Cancionero Mónica 2009",
+      "letra": "Yo pensaba que el hombre era grande por su poder\nGrande por su saber, grande por su valor\nYo pensaba que el hombre era grande y me equivoqué\nPues grande solo es Dios\n\nCoro\nSube hasta el Cielo y lo verás\nQue pequeñito el mundo es\nSube hasta el Cielo y lo verás\nComo un juguete de cristal\nQue con cariño ha de cuidar\nSube hasta el Cielo y lo verás\n\nMuchas veces el hombre soñaba ser como Dios\nQuería ser como Dios,\npensaba ser como Dios\nMuchas veces el hombre soñaba y se despertó\nPues grande solo es Dios",
+      "tags": ["alabanza", "creación", "humildad"],
+      "posibleDuplicado": "Yo Pensaba Que El Hombre"
+    },
+    {
+      "id": "m2-ven-senor",
+      "titulo": "Ven Señor",
+      "seccion": "Adviento",
+      "paginas": "Cancionero Mónica 2009",
+      "letra": "Coro\nVen, ven Señor no tardes\nVen, ven que te esperamos\nVen, ven Señor no tardes\nVen pronto Señor\n\nEl mundo muere de frío\nEl alma perdió el calor\nLos hombres no son hermanos\nEl mundo no tiene amor\n\nEnvuelto en sombría noche\nEl mundo sin paz no ve\nBuscando va una esperanza\nBuscando Señor tu fe\n\nAl mundo le falta vida\nAl mundo le falta luz\nAl mundo le falta cielo\nAl mundo le faltas tú",
+      "tags": ["adviento", "espera", "esperanza"],
+      "posibleDuplicado": "Ven, Señor, No Tardes"
+    },
+    {
+      "id": "m2-aqui-estamos",
+      "titulo": "Aquí Estamos",
+      "seccion": "Cantos varios",
+      "paginas": "Cancionero Mónica 2009",
+      "letra": "Aquí estamos para vivir unidos\nBuscando todos los criterios de aunar\nY lo importante es lo que daré\nAmor y vida y la unidad hallaré\n\nTu afán y el mío\nSiempre han de estar unidos\nY nuestro esfuerzo ha de ser realidad\nNo demos gritos de un cansancio irreal\nY luchemos siempre por vivir la unidad\n\nCoro\nFuera de aquí se piensa\nQue es imposible llegar\nA que formemos unidos\nUna gran comunidad\nPero nosotros soñamos\nPoder llegar a formar\nLa unidad de los hombres\nY queriendo llegará",
+      "tags": ["comunidad", "unidad", "cantos varios"],
+      "posibleDuplicado": "Aquí Estamos Señor"
+    },
+    {
+      "id": "m2-alzad-las-manos",
+      "titulo": "Alzad Las Manos",
+      "seccion": "Alabanza",
+      "paginas": "Cancionero Mónica 2009",
+      "letra": "Coro\n[Alzad las manos\nY dadle la Gloria a Dios] (2)\nAlzad las manos\nY alabadle como niños del Señor\n\n[Dios dijo a Noé:\nConstruye una barca] (2)\nHecha toda ella de maderita\nComo niños del Señor\n\n[Los animalitos\nSubieron de dos en dos] (2)\nLos elefantes y los canguros\nComo niños del Señor\n\n[Los animalitos\nSubieron de dos en dos] (2)\nLos pajaritos y los pingüinos\nComo niños del Señor\n\n[Si tú vas al Cielo\nPrimero que yo] (2)\nDile a todos esos angelitos\nQue también yo iré",
+      "tags": ["alabanza", "animacion", "niños"],
+      "posibleDuplicado": ""
+    },
+    {
+      "id": "m2-resucito",
+      "titulo": "Resucitó",
+      "seccion": "Pascua",
+      "paginas": "Cancionero Mónica 2009",
+      "letra": "El primer día temprano fueron\nAl sepulcro sus seguidores\nCon susto vieron la entrada abierta\nY no estaba el cuerpo en los alrededores\nHasta aquel momento en que\nA dos radiantes hombres ven\nQue sentados preguntaron a la vez:\n\nCoro\n¿Por qué buscan al que vive\nEntre los que mueren?\nAquí no está, RESUCITÓ\nHa vencido a la muerte\nA la vida nos devuelve (bis)\n\nAl regreso contaron a todos\nDe lo que pasaba, los pormenores\nPero nadie creía lo que contaban\nTodos estos señores\nSolo Pedro echó a correr\nEl sepulcro quiso ver\nY asombrado regresó a contar también:",
+      "tags": ["pascua", "resurrección", "aleluya"],
+      "posibleDuplicado": "Resucitó"
+    },
+    {
+      "id": "m2-resurreccion",
+      "titulo": "Resurrección",
+      "seccion": "Pascua",
+      "paginas": "Cancionero Mónica 2009",
+      "letra": "Coro\nLa tumba está vacía al fin\nÉl resucitó, Él está aquí\nLa muerte está vencida al fin\nHoy triunfó el amor, Él está aquí\n\nTercer día y la promesa ya se cumplió\nViva el amor\nUna luz en la tumba brilló\nQuien no creía ahora cree\nY quien cree, creerá en Él\n\nFin del dolor\nSangre de cruz que nos redimió\nBuscar, errar\nEl Ángel nos anunció\nEs que la muerte no pudo ni puede\nNi podrá con Él\nY no lo busquen aquí\nPues aquí ya no se encuentra Él\n\n¿Y qué hay de aquel\nQue su cuerpo aquí se tendió?\nNo hay nadie aquí\nTan solo éste que lo envolvió\nY la piedra se rodó y se rodó\nContó quien pudo ver",
+      "tags": ["pascua", "resurrección"],
+      "posibleDuplicado": ""
+    },
+    {
+      "id": "m2-senor-ten-piedad-i",
+      "titulo": "Señor Ten Piedad I",
+      "seccion": "Kyrie",
+      "paginas": "Cancionero Mónica 2009",
+      "letra": "Señor ten piedad (2) De nosotros pecadores\nPerdona nuestros errores.\nTen piedad (3)\n\nCristo ten piedad. Perdona nuestras culpas\nTen misericordia. Derrama tu gloria\nTen piedad (3)\n\nSeñor ten piedad (2) De nosotros pecadores\nPerdona nuestros errores.\nTen piedad (3)",
+      "tags": ["kyrie", "acto penitencial"],
+      "posibleDuplicado": "Señor, Ten Piedad I (Bm)"
+    },
+    {
+      "id": "m2-stp-iii",
+      "titulo": "Señor Ten Piedad III (STP III)",
+      "seccion": "Kyrie",
+      "paginas": "Cancionero Mónica 2009",
+      "letra": "Ten piedad Señor ten piedad\nSoy pecador ten piedad (bis)\nY de mí Cristo apiádate\ncontra ti yo pequé (bis)\nTen piedad Señor ten piedad\nSoy pecador ten piedad (bis)",
+      "tags": ["kyrie", "acto penitencial"],
+      "posibleDuplicado": "Señor, Ten Piedad III, Pop (G)"
+    },
+    {
+      "id": "m2-stp-iv",
+      "titulo": "Señor Ten Piedad IV (STP IV)",
+      "seccion": "Kyrie",
+      "paginas": "Cancionero Mónica 2009",
+      "letra": "Señor ten piedad, de nosotros\nDe nosotros ten piedad (bis)\nCristo ten piedad, Cristo ten piedad\nSeñor ten piedad de nosotros\nDe nosotros ten piedad (bis)",
+      "tags": ["kyrie", "acto penitencial"],
+      "posibleDuplicado": "Señor, Ten Piedad IV"
+    },
+    {
+      "id": "m2-kirie-eleison",
+      "titulo": "Kirie Eleison",
+      "seccion": "Kyrie",
+      "paginas": "Cancionero Mónica 2009",
+      "letra": "Señor ten piedad,\nde nosotros ten piedad,\nKIRIE Eleison ten piedad (bis)\n\nCriste Eleison, Criste Eleison\nCriste de nosotros ten piedad\n\nSeñor ten piedad,\nde nosotros ten piedad,\nKIRIE Eleison ten piedad (bis)\nCriste Eleison ten piedad",
+      "tags": ["kyrie", "acto penitencial"],
+      "posibleDuplicado": "Señor, Ten Piedad XII, Kirie Oriental"
+    },
+    {
+      "id": "m2-senor-ten-piedad",
+      "titulo": "Señor Ten Piedad",
+      "seccion": "Kyrie",
+      "paginas": "Cancionero Mónica 2009",
+      "letra": "Piedad de mí Señor ten piedad\nDe nosotros ten piedad\nSeñor ten piedad\n\nCristo ten piedad de todo tu pueblo\nDe tu pueblo ten piedad\nCristo ten piedad\n\nPiedad de mí Señor de todos nosotros\nDe nosotros ten piedad\nSeñor ten piedad",
+      "tags": ["kyrie", "acto penitencial"],
+      "posibleDuplicado": "Señor, Ten Piedad V (Bm)"
+    },
+    {
+      "id": "m2-stp-pin-pin-pin",
+      "titulo": "Señor Ten Piedad (Pin, Pin, Pin)",
+      "seccion": "Kyrie",
+      "paginas": "Cancionero Mónica 2009",
+      "letra": "Señor ten piedad de nosotros\nten piedad (2)\nCristo ten piedad,\nde nosotros ten piedad.\nSeñor ten piedad,\nde nosotros ten piedad, Señor.",
+      "tags": ["kyrie", "acto penitencial"],
+      "posibleDuplicado": ""
+    },
+    {
+      "id": "m2-stp-juan-carlos",
+      "titulo": "Señor Ten Piedad (Juan Carlos)",
+      "seccion": "Kyrie",
+      "paginas": "Cancionero Mónica 2009",
+      "letra": "Señor ten piedad, Cristo ten piedad\nSeñor ten piedad, De nosotros\nten piedad (2)\nCristo ten piedad, Señor ten piedad\nCristo ten piedad, De nosotros ten piedad.",
+      "tags": ["kyrie", "acto penitencial"],
+      "posibleDuplicado": ""
+    },
+    {
+      "id": "m2-stp-seminario",
+      "titulo": "Señor Ten Piedad (Seminario)",
+      "seccion": "Kyrie",
+      "paginas": "Cancionero Mónica 2009",
+      "letra": "Señor, Señor ten piedad\nCristo, Oh Cristo ten piedad\nSeñor ten piedad,\nPiedad de nosotros (bis)\nSeñor, Señor ten piedad\npiedad de nosotros.",
+      "tags": ["kyrie", "acto penitencial"],
+      "posibleDuplicado": ""
+    },
+    {
+      "id": "m2-stp-elibeth-1",
+      "titulo": "Señor Ten Piedad (Elibeth 1)",
+      "seccion": "Kyrie",
+      "paginas": "Cancionero Mónica 2009",
+      "letra": "Señor ten piedad, Cristo ten piedad\nde nosotros, compadécete\nSeñor ten piedad (bis)\nSeñor ten piedad, ten piedad",
+      "tags": ["kyrie", "acto penitencial"],
+      "posibleDuplicado": ""
+    },
+    {
+      "id": "m2-stp-elibeth-2",
+      "titulo": "Señor Ten Piedad (Elibeth 2)",
+      "seccion": "Kyrie",
+      "paginas": "Cancionero Mónica 2009",
+      "letra": "Señor, ten piedad. Cristo, ten piedad\nSeñor, ten piedad. Ten piedad (bis)",
+      "tags": ["kyrie", "acto penitencial"],
+      "posibleDuplicado": ""
+    },
+    {
+      "id": "m2-stp-ii-juan-carlos",
+      "titulo": "Señor Ten Piedad II (Juan Carlos)",
+      "seccion": "Kyrie",
+      "paginas": "Cancionero Mónica 2009",
+      "letra": "Señor ten piedad de todos nosotros Señor\nTen piedad, Señor ten piedad\nCristo ten piedad, Oh Cristo ten piedad\nde todos nosotros Señor\nSomos pecadores (2)",
+      "tags": ["kyrie", "acto penitencial"],
+      "posibleDuplicado": "Señor, Ten Piedad II (Em)"
+    },
+    {
+      "id": "m2-gloria-tradicional",
+      "titulo": "Gloria (Tradicional)",
+      "seccion": "Gloria",
+      "paginas": "Cancionero Mónica 2009",
+      "letra": "Coro\nGloria a Dios en el cielo\nY en la tierra paz a los hombres, paz\nDe buena voluntad\n\nTe alabamos, te bendecimos\nTe adoramos, te glorificamos\nTe damos gracias por tu inmensa gloria\nSeñor Dios Rey celestial\nDios Padre Todopoderoso\n\nSeñor hijo único Jesucristo Señor Dios\nCordero de Dios hijo del Padre\n\nTú que quitas el pecado\nTen piedad de nosotros (2)\n\nPorque tú eres santo, solo tú Señor\nSolo tú altísimo Jesucristo\n\nCon el Espíritu, Espíritu Santo\nEn la gloria de Dios Padre (2)",
+      "tags": ["gloria", "misa"],
+      "posibleDuplicado": "Gloria I (Em)"
+    },
+    {
+      "id": "m2-gloria-ii-p-salas",
+      "titulo": "Gloria II (P. Salas)",
+      "seccion": "Gloria",
+      "paginas": "Cancionero Mónica 2009",
+      "letra": "Coro\nGloria, Gloria a Dios en el cielo\nGloria al Señor y en la tierra paz\nAl que buena voluntad tiene\nGloria al Señor.\n\nTe alabamos, te bendecimos\nTe adoramos, te glorificamos\nTe damos gracias por tu inmensa gloria\nSeñor Dios Rey celestial\nDios Padre todopoderoso\n\nÚnico hijo nuestro Señor\nOh Jesucristo Señor y Dios\nCordero de Dios hijo del Padre\nTú que quitas el pecado\nDe nosotros ten piedad\n\nPorque tú eres Santo, solo tú Señor\nSolo tú altísimo, Oh Jesucristo\nCon el Espíritu en la gloria de Dios Padre",
+      "tags": ["gloria", "misa"],
+      "posibleDuplicado": "Gloria II"
+    },
+    {
+      "id": "m2-gloria-javier-fuenmayor",
+      "titulo": "Gloria (Javier Fuenmayor)",
+      "seccion": "Gloria",
+      "paginas": "Cancionero Mónica 2009",
+      "letra": "Coro\nGloria a Dios en el cielo\nY en la Tierra paz a los hombres\nque aman al Señor.\n\nPor tu inmensa gloria, te alabamos,\nTe bendecimos, te adoramos,\nTe glorificamos, te damos gracias,\nSeñor Dios, Rey celestial.\n\nDios Padre todopoderoso\nDios hijo único de Dios\nJesucristo, Cordero de Dios\nTú que quitas el pecado\n\nPorque solo Tú eres Santo\nSolo tú Altísimo Señor\nCon el espíritu, espíritu de Dios\nEn la gloria de Dios Padre.",
+      "tags": ["gloria", "misa"],
+      "posibleDuplicado": ""
+    },
+    {
+      "id": "m2-gloria-magui",
+      "titulo": "Gloria (Magui)",
+      "seccion": "Gloria",
+      "paginas": "Cancionero Mónica 2009",
+      "letra": "Coro\nGloria a Dios, Gloria a Dios\nEn el cielo y en la Tierra paz a los hombres que aman al Señor (bis)\n\nTe alabamos y te bendecimos\nTe adoramos, te glorificamos\nTe damos gracias por tu inmensa gloria\nOh Señor Dios Rey celestial\nDios Padre todopoderoso\n\nÚnico hijo nuestro Señor\nOh Jesucristo Señor y Dios\nCordero de Dios hijo del Padre\nTú que quitas el pecado\nTen piedad de nosotros\n\nPorque tú eres Santo\nSólo tú Señor, sólo tú\nAltísimo Jesucristo\nCon el espíritu\nEn la gloria de Dios Padre",
+      "tags": ["gloria", "misa"],
+      "posibleDuplicado": ""
+    },
+    {
+      "id": "m2-aleluya-marcos-whitte",
+      "titulo": "Aleluya (Marcos Whitte)",
+      "seccion": "Aclamación",
+      "paginas": "Cancionero Mónica 2009",
+      "letra": "Aleluya (4)\nMi Dios es Bueno, Aleluya (bis)\nMe ha salvado, Aleluya (bis)\nMe ha perdonado, Aleluya (bis)\nAleluya (4)",
+      "tags": ["aleluya", "aclamación", "evangelio"],
+      "posibleDuplicado": ""
+    },
+    {
+      "id": "m2-aleluya-alfredo",
+      "titulo": "Aleluya (Alfredo)",
+      "seccion": "Aclamación",
+      "paginas": "Cancionero Mónica 2009",
+      "letra": "Aleluya (4)\nHabla Señor,\nque tu pueblo te escucha\nTú tienes palabra de vida eterna\nAleluya (4)",
+      "tags": ["aleluya", "aclamación", "evangelio"],
+      "posibleDuplicado": ""
+    },
+    {
+      "id": "m2-gloria-a-ti",
+      "titulo": "Gloria A Ti",
+      "seccion": "Aclamación",
+      "paginas": "Cancionero Mónica 2009",
+      "letra": "Aleluya (3) Gloria a ti. (bis)\nAlaben al Señor todos los pueblos\nAlaben al Señor todas las razas.\nAleluya, aleluya, aleluya, Gloria a ti (bis)",
+      "tags": ["aleluya", "aclamación", "evangelio"],
+      "posibleDuplicado": "Gloria a Ti por Siempre"
+    },
+    {
+      "id": "m2-aleluya-resurreccion",
+      "titulo": "Aleluya (Resurrección)",
+      "seccion": "Aclamación",
+      "paginas": "Cancionero Mónica 2009",
+      "letra": "Aleluya, Cristo vive hoy\nLa muerte no tuvo victoria\nDe la tumba se levantó\nÉl vivirá por siempre, vive hoy\nAleluya (2)",
+      "tags": ["aleluya", "aclamación", "pascua"],
+      "posibleDuplicado": ""
+    },
+    {
+      "id": "m2-aleluya-alexandra",
+      "titulo": "Aleluya (Alexandra)",
+      "seccion": "Aclamación",
+      "paginas": "Cancionero Mónica 2009",
+      "letra": "Alabemos al Señor.\nRecibamos con amor su palabra\nAleluya\nAlabemos al Señor\nPrediquemos con amor\nSu palabra, Aleluya\nAleluya (6)",
+      "tags": ["aleluya", "aclamación", "evangelio"],
+      "posibleDuplicado": ""
+    },
+    {
+      "id": "m2-aleluya-elibeth",
+      "titulo": "Aleluya (Elibeth)",
+      "seccion": "Aclamación",
+      "paginas": "Cancionero Mónica 2009",
+      "letra": "Aleluya (2) Aleluya, Amén. (bis)",
+      "tags": ["aleluya", "aclamación", "evangelio"],
+      "posibleDuplicado": ""
+    },
+    {
+      "id": "m2-aleluya-danny",
+      "titulo": "Aleluya (Danny)",
+      "seccion": "Aclamación",
+      "paginas": "Cancionero Mónica 2009",
+      "letra": "Aleluya (5)\nAleluya a tu camino, que nos da una razón.\nAleluya a tu vida, que nos da una lección\nAleluya a tu Palabra, que nos abre el corazón, Aleluya.\nAleluya (4) (bis)",
+      "tags": ["aleluya", "aclamación", "evangelio"],
+      "posibleDuplicado": ""
+    },
+    {
+      "id": "m2-aleluya-marysabel-salmo-147",
+      "titulo": "Aleluya (Marysabel) Salmo 147",
+      "seccion": "Aclamación",
+      "paginas": "Cancionero Mónica 2009",
+      "letra": "Coro\nAleluya, alaben al Señor\nporque es bueno cantarlo,\nAleluya, cántenle a nuestro Dios, conviene alabarlo.\n\nReconstruye el Señor a Jerusalén\nreúne los desterrados de Israel\nsana los corazones destrozados\nvenda sus heridas. Gloria, aleluya.\n\nCuenta las estrellas una por una\nllama a cada una por su nombre\ngrande es el Señor, todo lo puede\nnadie puede medir su inteligencia.",
+      "tags": ["aleluya", "aclamación", "salmo 147"],
+      "posibleDuplicado": ""
+    },
+    {
+      "id": "m2-aleluya-coromotano",
+      "titulo": "Aleluya Coromotano",
+      "seccion": "Aclamación",
+      "paginas": "Cancionero Mónica 2009",
+      "letra": "Coro\nAleluya (3) (bis)\n\nAnunciando grandes eras\nTrayendo la Buena Nueva\nAnunciando tu palabra\nCon la paz y la Esperanza\nPara este pueblo fecundo\nDonde florece la hierba\nComo perfume de Rosa\nque emana de nuestra historia\n\nDesde Oriente hasta Occidente\nDesde el centro hasta los Llanos\nCon agua de mil colores\nque bordean la rivera\nun homenaje también\nDe esta hermosa y bella tierra\nque tú eres Coromoto\nLa Madre de Venezuela.",
+      "tags": ["aleluya", "aclamación", "mariano", "coromoto"],
+      "posibleDuplicado": ""
+    },
+    {
+      "id": "m2-tu-palabra",
+      "titulo": "Tu Palabra",
+      "seccion": "Aclamación",
+      "paginas": "Cancionero Mónica 2009",
+      "letra": "Dichoso el que con vida intachable\nCamina en la ley del Señor\nDichoso el que guardando sus preceptos\nLos busca de todo corazón\n\nCoro\nTu Palabra me da vida\nConfío en ti Señor\nTu palabra es eterna, en ella esperaré.",
+      "tags": ["palabra", "salmo 118", "aclamación"],
+      "posibleDuplicado": "Tu Palabra me da Vida (Salmo 118), J. A. Espinosa"
+    },
+    {
+      "id": "m2-por-eso-guiame",
+      "titulo": "Por Eso Guíame",
+      "seccion": "Cantos varios",
+      "paginas": "Cancionero Mónica 2009",
+      "letra": "Cuando las fuerzas se acaban\ny el andar se vuelve lento\ntu Palabra es alimento\nque renueva el alma\n\nCuando me siento perdido,\ny sin rumbo en la vida\ntu Palabra es la guía\nes la estrella en el camino\n\nCoro\nPor eso guíame, aliméntame, sáname, acompáñame por siempre Señor (bis)\n\nSi he perdido ya la calma\ncuando siento enfermo el corazón\ntu Palabra es la unción\nque me sana y me levanta\n\nCuando hay frío y soledad\ny parece no haber nadie\ntu Palabra es como un ángel\nque consuela y acompaña",
+      "tags": ["palabra", "cantos varios", "confianza"],
+      "posibleDuplicado": ""
+    },
+    {
+      "id": "m2-queremos-escuchar-tu-voz",
+      "titulo": "Queremos Escuchar Tu Voz",
+      "seccion": "Aclamación",
+      "paginas": "Cancionero Mónica 2009",
+      "letra": "Queremos escuchar tu voz [Oh Jesús] (2)\nVivir tu amor a plenitud\nY cambiar\nNuestras vidas, nuestro ser\nDando frutos de este amor\nSiendo testimonio en nuestro caminar (bis)",
+      "tags": ["palabra", "aclamación", "evangelio"],
+      "posibleDuplicado": "Queremos Escuchar tu Voz (C)"
+    },
+    {
+      "id": "m2-busca-primero",
+      "titulo": "Busca Primero",
+      "seccion": "Aclamación",
+      "paginas": "Cancionero Mónica 2009",
+      "letra": "Busca primero el Reino de Dios\ny su justicia\nÉl te dará las demás cosas.\nAleluya, Aleluya.",
+      "tags": ["aleluya", "palabra", "aclamación"],
+      "posibleDuplicado": ""
+    },
+    {
+      "id": "m2-el-profeta",
+      "titulo": "El Profeta",
+      "seccion": "Misioneros",
+      "paginas": "Cancionero Mónica 2009",
+      "letra": "El Espíritu del Señor está sobre mí\nÉl me ha enviado para anunciar\nA los pobres la Buena Nueva (2)\nEsto dice el Señor (2) Aleluya, Aleluya",
+      "tags": ["misionero", "aclamación", "espíritu santo"],
+      "posibleDuplicado": "El Profeta"
+    },
+    {
+      "id": "m2-aleluya-jesus-es-el-rey",
+      "titulo": "Aleluya (Jesús Es El Rey)",
+      "seccion": "Aclamación",
+      "paginas": "Cancionero Mónica 2009",
+      "letra": "Aleluya (3) Jesús es el Señor\nAleluya (3) Jesús es el Rey\n\nTodos unidos al Cordero alabemos\nAlrededor de su trono cantemos\n\nAleluya...\n\nAlza tu voz con los miles que cantan\ndigno el cordero de Dios\n\nAleluya...\n\nGlorifiquemos a Dios nuestro Padre\ny al Hijo y al Espíritu Santo.\n\nAleluya...\n\nHonor y gloria, alabanza y poder\npor los siglos de los siglos. Amén.\n\nAleluya.",
+      "tags": ["aleluya", "aclamación", "alabanza"],
+      "posibleDuplicado": ""
+    },
+    {
+      "id": "m2-aleluya-el-cordero-de-dios-viene-ya",
+      "titulo": "Aleluya (El Cordero De Dios Viene Ya)",
+      "seccion": "Aclamación",
+      "paginas": "Cancionero Mónica 2009",
+      "letra": "El Cordero de Dios viene ya\nÉl perdona el pecado del mundo (3)\nel Cordero de Dios viene ya\nÉl concede la paz a los hombres (3)\nel Cordero de Dios viene ya",
+      "tags": ["aleluya", "aclamación", "cordero"],
+      "posibleDuplicado": ""
+    },
+    {
+      "id": "m2-son-palabras-de-vida",
+      "titulo": "Son Palabras De Vida",
+      "seccion": "Cantos varios",
+      "paginas": "Cancionero Mónica 2009",
+      "letra": "Cuando el mundo me hastía\nY me canso del dolor\nY las calles son tan frías\nQue me llenan de temor\nMe consuelo meditando\nLas historias de su amor\nSus palabras son la vida\nSon las palabras del Señor\n\nCoro\nSus palabras dan vida... ah, ah\nSus palabras dan vida\nSus palabras dan vida\nSus palabras dan vida\n\nCuando el peso del pecado\nYa no puedas soportar\nY tu alma esté vacía\nY tu sed querrás saciar\nHay palabras que dan vida\nHay sosiego en su amor\nLa verdad en todo tiempo\nEs la palabra del Señor.",
+      "tags": ["palabra", "cantos varios"],
+      "posibleDuplicado": ""
+    },
+    {
+      "id": "m2-aleluya-juan-luis-guerra",
+      "titulo": "Aleluya (Juan Luis Guerra)",
+      "seccion": "Aclamación",
+      "paginas": "Cancionero Mónica 2009",
+      "letra": "Aleluya (2) Gloria a Dios en las alturas\nAleluya (2) Gloria a Dios en las alturas\nAleluya (2) Aleluya, Aleluya\nAleluya (2) Aleluya, Aleluya (2 todo)\nAleluya, Aleluya, Aleluya, Amén.",
+      "tags": ["aleluya", "aclamación"],
+      "posibleDuplicado": ""
+    },
+    {
+      "id": "m2-aleluya-maria",
+      "titulo": "Aleluya (María)",
+      "seccion": "Aclamación",
+      "paginas": "Cancionero Mónica 2009",
+      "letra": "Aleluya (4)\n\nCon María yo quiero alabarte mi Dios\nJunto con María te bendigo\nyo te alabo con María,\ncon María, solo con María",
+      "tags": ["aleluya", "aclamación", "mariano"],
+      "posibleDuplicado": ""
+    },
+    {
+      "id": "m2-noticia-buena-y-nueva",
+      "titulo": "Noticia Buena Y Nueva",
+      "seccion": "Aclamación",
+      "paginas": "Cancionero Mónica 2009",
+      "letra": "Noticia buena y nueva\nLa que nos dejas hoy\nEscuchando tu palabra Señor\nAlabo tu grandeza\nY tu Espíritu se queda\nEn nuestro corazón\nGrande es mi Señor\nAleluya\nAleluya (2)\n\nCoro\nCon todo tu amor\nCon tus palabras\nCon tus enseñanzas\nVen y llénanos de tu esperanza\nGrande es mi Señor\nAleluya, Aleluya, Aleluya",
+      "tags": ["aleluya", "palabra", "aclamación"],
+      "posibleDuplicado": ""
+    },
+    {
+      "id": "m2-senor-ven-a-mi",
+      "titulo": "Señor Ven A Mí",
+      "seccion": "Cantos varios",
+      "paginas": "Cancionero Mónica 2009",
+      "letra": "Señor ven a mí en esta oración\nSeñor toma mis manos\nSeñor toma mis labios\nSeñor toma mi vida\nY haz tu voluntad\n\nSeñor quiero amarte\nSeñor quiero seguirte\nSeñor quiero servirte\nY hacer tu voluntad (bis)",
+      "tags": ["oración", "entrega", "cantos varios"],
+      "posibleDuplicado": ""
+    },
+    {
+      "id": "m2-que-seria",
+      "titulo": "Qué Sería",
+      "seccion": "Cantos varios",
+      "paginas": "Cancionero Mónica 2009",
+      "letra": "Qué sería de mi vida sin ti\nOh Jesús, qué sería de mí (bis)\n\nSin tu amor, sin tu paz\nSin tu luz, oh Jesús\nQué sería de mi vida sin ti (bis)",
+      "tags": ["alabanza", "cantos varios", "jesús"],
+      "posibleDuplicado": ""
+    },
+    {
+      "id": "m2-no-hay-dios",
+      "titulo": "No Hay Dios",
+      "seccion": "Alabanza",
+      "paginas": "Cancionero Mónica 2009",
+      "letra": "No hay nadie como tú (4)\nNo hay Dios [tan grande como tú] (2)\nNo hay nadie más (bis)",
+      "tags": ["alabanza", "animacion"],
+      "posibleDuplicado": "No Hay Dios Tan Grande"
+    },
+    {
+      "id": "m2-senor-yo-quiero-ser",
+      "titulo": "Señor Yo Quiero Ser",
+      "seccion": "Alabanza",
+      "paginas": "Cancionero Mónica 2009",
+      "letra": "Coro\nSeñor yo quiero ser\nUn verdadero adorador\nEn espíritu y en verdad\nYo te quiero adorar (bis)\n\n[Dame un corazón sencillo] (3) Señor\nPara entrar en tu presencia\n\n[Quiero ser agradecido] (3) Señor\nPara entrar en tu presencia\n\n[Quiero dejarlo todo] (3) Señor\nPara entrar en tu presencia",
+      "tags": ["alabanza", "adoración"],
+      "posibleDuplicado": ""
+    },
+    {
+      "id": "m2-cuanto-te-amo",
+      "titulo": "Cuánto Te Amo",
+      "seccion": "Alabanza",
+      "paginas": "Cancionero Mónica 2009",
+      "letra": "En momentos así levanto mi voz\nLevanto mi canto a Cristo\nEn momentos así levanto mi ser\nLevanto mis manos a Él\n\nCoro\n[Cuánto te amo Dios] (2)\nCuánto te amo\nDios te amo",
+      "tags": ["alabanza", "adoración"],
+      "posibleDuplicado": ""
+    },
+    {
+      "id": "m2-el-amor",
+      "titulo": "El Amor",
+      "seccion": "Cantos varios",
+      "paginas": "Cancionero Mónica 2009",
+      "letra": "[El amor] (2) nuestras vidas\nPara siempre las unió\n[El amor] (2) nuestras almas\nDe esperanza las llenó\n\nEl amor todo lo perdona\nTodo lo soporta y todo lo da\nEl amor todo hace puro\nY nos hace uno hasta la eternidad",
+      "tags": ["amor", "matrimonio", "cantos varios"],
+      "posibleDuplicado": ""
+    },
+    {
+      "id": "m2-cristo-no-me-abandones",
+      "titulo": "Cristo No Me Abandones",
+      "seccion": "Cantos varios",
+      "paginas": "Cancionero Mónica 2009",
+      "letra": "[Cristo no me abandones\nCristo acompáñame] (2)\n[Dame tu mano porque he caído\nSi estás conmigo ayúdame] (2)\n\n[Hijo yo estoy contigo\nHijo no te olvidaré] (2)\n[Toma mi mano, levántate\nSigue el camino yo te guiaré] (2)",
+      "tags": ["confianza", "cantos varios", "cuaresma"],
+      "posibleDuplicado": ""
+    },
+    {
+      "id": "m2-santisima-trinidad",
+      "titulo": "Santísima Trinidad",
+      "seccion": "Alabanza",
+      "paginas": "Cancionero Mónica 2009",
+      "letra": "Padre te adoramos\nNuestras vidas te entregamos\nCómo te amamos\n\nHijo te adoramos\nNuestras vidas te entregamos\nCómo te amamos\n\nEspíritu Santo te adoramos\nNuestras vidas te entregamos\nCómo te amamos",
+      "tags": ["alabanza", "trinidad", "adoración"],
+      "posibleDuplicado": ""
+    },
+    {
+      "id": "m2-un-dia-de-bodas",
+      "titulo": "Un Día De Bodas",
+      "seccion": "Presentación de Dones",
+      "paginas": "Cancionero Mónica 2009",
+      "letra": "Un día de bodas el vino faltó\nImposible poderlo comprar\nQué bello milagro hiciste Señor\nCon el agua de aquel manantial\nColmaste hasta el borde de vino mejor\nlas tinajas que pude llenar\nYo puse mi esfuerzo, yo puse mi afán\ntú pusiste Jesús lo demás\n\nCoro\nEs muy poco Señor lo que vengo a traer,\nes muy poco lo que puedo dar,\nMi trabajo es el agua que quiero ofrecer,\ny mi esfuerzo un pedazo de pan\nEs muy poco Señor lo que vengo a traer,\nes muy poco lo que puedo dar,\nen tus manos divinas lo vengo a poner,\ntú ya pones Jesús lo demás\n\nLa gente con hambre sentada esperó,\nen el prado que baja hasta el mar,\ncon cuanto tenía a ti se acercó\nun muchacho que quiso ayudar,\ntu mano en la frente feliz descansó\ny en sus ojos un dulce mirar,\nél puso sus peces, él puso su pan,\ntú pusiste Jesús lo demás\n\nLos hombres volvían al amanecer,\nmuy cansados de tanto bregar,\nlas barcas vacías, qué triste es volver\ny de nuevo volver a empezar,\nsalieron al lago a pescar otra vez,\ntu palabra les iba a guiar,\nlos hombres pusieron la barca y la red\ntú pusiste Jesús lo demás",
+      "tags": ["ofertorio", "presentación de dones", "milagro"],
+      "posibleDuplicado": "Tú Pones lo Demás, Cesáreo Gabaráin"
+    },
+    {
+      "id": "m2-la-verdadera-vid",
+      "titulo": "La Verdadera Vid",
+      "seccion": "Comunión",
+      "paginas": "Cancionero Mónica 2009",
+      "letra": "Yo soy la verdadera vid\nY mi Padre el viñador\nY aquel que no produzca fruto\nNo puede ya vivir en mí\n\nYo soy la verdadera vid\ny si se quedan en mí\nTodo lo que bien deseen\nYo les concederé al fin\n\nCoro\nCompartamos el Pan\nCompartamos el Vino\nque el Señor nos dará\nen este cáliz, vid y trabajo\nAhora juntos están aquí (bis)\n\nAl comer Jesús tomó su pan\npronunció la bendición\ntomen, coman, que es mi Cuerpo\nque se ha entregado hoy\n\nBeban todos que es mi Sangre\nque en mi pueblo derramé\nsangre de la Alianza eterna\npara que limpios sus cuerpos estén",
+      "tags": ["comunión", "eucaristía", "vid"],
+      "posibleDuplicado": "El Viñador"
+    },
+    {
+      "id": "m2-acoge-senor-nuestros-dones",
+      "titulo": "Acoge Señor Nuestros Dones",
+      "seccion": "Presentación de Dones",
+      "paginas": "Cancionero Mónica 2009",
+      "letra": "Acoge Señor nuestros dones\nEn este misterioso encuentro\nEntre nuestra pobreza y tu grandeza.\n\nTe ofrecemos las cosas\nQue tú mismo nos diste\nY tú en cambio, dónate\nDónate a ti mismo",
+      "tags": ["ofertorio", "presentación de dones"],
+      "posibleDuplicado": ""
+    }
+  ]
+}

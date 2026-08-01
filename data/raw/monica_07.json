@@ -1,0 +1,392 @@
+{
+  "paquete": "monica_07",
+  "canciones": [
+    {
+      "id": "m7-aqui-esta-el-cordero",
+      "titulo": "Aquí Está El Cordero",
+      "seccion": "Comunión",
+      "paginas": "Cancionero Mónica 2009",
+      "letra": "El mismo que a Pedro llamó\nA soltar sus redes y a andar\nEl que a Lázaro un día lloró\nY de la muerte lo hizo levantar\nÉl prometió que estaría hasta el final\nY se quedó en la mesa del altar\n\nCoro\nAquí está Jesús\nAquí está el Cordero\nEs el resucitado\nHa venido a salvarnos\nA dar vida y a unirse a su pueblo\nAquí está Jesús\nAquí está el Cordero\nElevado en las manos\nComo degollado\nEs el Cristo, es su sangre y su cuerpo\nAquí está el Cordero\n\nEl mismo que a un ciego sanó\nY a cautivos les dio libertad\nHoy les dice a sus hijos venid\nEstoy vivo en el vino y el pan\n\nSe abren los cielos\nSe unen a alabar\nSus ángeles y santos\nSe unen a adorar\n\nCoro\n\nEs Jesús... Es Jesús",
+      "tags": ["comunión", "eucaristía", "cordero", "adoración"],
+      "posibleDuplicado": ""
+    },
+    {
+      "id": "m7-venimos-ante-ti",
+      "titulo": "Venimos Ante Ti",
+      "seccion": "Alabanza",
+      "paginas": "Cancionero Mónica 2009",
+      "letra": "Venimos ante ti\nDeseamos hoy cantar\nUn canto de honor\nPor las bondades de tu amor\nNos diste vida nueva\nTe amamos más y más\nQueremos alabarte\nDesde nuestro corazón\n\nCoro\nEres tú el creador\nCordero de Dios\nHas vencido la muerte\nHoy vacía la tumba está\nHas librado a tu pueblo\nPor medio de tu amor\nPodemos caminar\nA tu lado oh Señor",
+      "tags": ["alabanza", "pascua", "adoración"],
+      "posibleDuplicado": ""
+    },
+    {
+      "id": "m7-pregon-pascual",
+      "titulo": "Pregón Pascual",
+      "seccion": "Pascua",
+      "paginas": "Cancionero Mónica 2009",
+      "letra": "Exulten los coros de los ángeles\nExulten la asamblea celeste\nY un himno de gloria\nAclame el triunfo del Señor resucitado\n\nAlégrese la tierra\nInundada por la nueva luz;\n\nEl esplendor del Rey\nDestruyó las tinieblas,\nDestruyó las tinieblas,\nLas tinieblas del mundo (bis)\n\nQue se alegre nuestra Madre la Iglesia\nResplandeciente de la gloria de su Señor\nY que en este lugar resuene unánime\nLa aclamación de un pueblo en fiesta\n\nEl Señor esté con vosotros\nA. Y con tu espíritu\nLevantemos el corazón\nA. Lo tenemos levantado hacia el Señor\nDemos gracias al Señor nuestro Dios\nA. Es justo y necesario (bis)\n\nRealmente es justo y necesario\nExaltar con el canto la alegría del espíritu,\nY elevar un himno al Padre Todopoderoso\nY a su único hijo, Jesucristo.\n\nÉl ha pagado por todos al eterno Padre\nLa deuda de Adán\nY con su sangre, derramada por amor,\nHa cancelado la condena antigua\nDel pecado.\n\nEsta es la Pascua\nEn que se inmola el Cordero\nEsta es la noche\nEn que fueron liberados\nNuestros padres de Egipto.\nEsta es la noche\nQue nos salva de la oscuridad del mal.\n\nEsta es la noche\nEn que Cristo ha vencido la muerte\nY del infierno\nRetorna victorioso (bis)\n\n¡Oh admirable condescendencia de tu amor!\n¡Oh incomparable ternura y caridad!\nPor rescatar al esclavo\nHas sacrificado al Hijo.\nSin el pecado de Adán\nCristo no nos habría rescatado\n\n¡Oh feliz culpa!\nQue mereció tan grande redentor,\n¡Oh feliz culpa! (bis)\n\n¡Oh noche maravillosa,\nQue despojaste al Faraón\nY enriqueciste a Israel!\n\n¡Oh noche que destruyes el pecado\nY lavas todas nuestras culpas!\n\n¡Oh noche realmente gloriosa\nQue reconcilias al hombre con su Dios!\n\nEsta es la noche\nEn que Cristo ha vencido la muerte\nY del infierno retorna victorioso (bis)\n\nEn esta noche acepta, Padre Santo\nEste sacrificio de alabanza\nQue la Iglesia te ofrece\nPor medio de sus ministros,\nEn la liturgia solemne de este cirio\nQue es signo de la nueva luz.\n\nTe rogamos, Señor, que este cirio\nOfrecido en honor de tu nombre\nBrille radiante;\nLlegue hasta ti como perfume suave,\nSe confunda con las estrellas del cielo;\nLo encuentre encendido el lucero de la mañana,\nEsa estrella\nQue no conoce el ocaso;\n\nQue es Cristo tu Hijo,\nResucitado,\nResucitado\nDe la muerte (bis)\nAmén, amén, amén",
+      "tags": ["pascua", "vigilia pascual", "pregón", "solemne"],
+      "posibleDuplicado": "Pregón Pascual"
+    },
+    {
+      "id": "m7-coronada",
+      "titulo": "Coronada",
+      "seccion": "Cuaresma",
+      "paginas": "Cancionero Mónica 2009",
+      "letra": "Coro\nCoronada tu frente sintió\nCoronada en medio del dolor\nCoronada tu alma siempre amó\nCoronada en la cruz se entregó\n\nLa mirada dulce\nLa tez afligida\nTu realeza divina de espinas coronó tu sien\n\nComo cruel veneno\nQue desgarra y hiere\nCada espina contiene\nHumillación, burla y desdén\n\nCorona de gloria\nTu Rey y Mesías\nQue en amor ardía\nTu silente corazón\n\nRey de confesores\nTu trono el madero\nRey de vírgenes y hombres\nQue se volvieron a tu amor\n\nAl pecado oscuro\nLa luz de tu gracia\nA la desesperanza\nVuelvo a confiar en tu perdón",
+      "tags": ["cuaresma", "pasión", "cruz", "semana santa"],
+      "posibleDuplicado": ""
+    },
+    {
+      "id": "m7-te-seguire",
+      "titulo": "Te Seguiré",
+      "seccion": "Cuaresma",
+      "paginas": "Cancionero Mónica 2009",
+      "letra": "Coro\nTe seguiré\nEn tu camino mi Cordero\nEn tu camino hacia el cielo\nLíbranos del pecado con tu amor\n\nCristo\nQue en tal angustia está exhausto\nLe vence el peso mortal\nTemen los soldados no pueda continuar\n\nCuando\nUn hombre viene del campo\nY es obligado a llevar\nLa pesada cruz y al reo ayudar\n\nTodas\nMis fuerzas pondré en seguirte\nMás tú hazme digno de ti\nCual Cireneo la cruz junto a ti",
+      "tags": ["cuaresma", "viacrucis", "cruz", "seguimiento"],
+      "posibleDuplicado": ""
+    },
+    {
+      "id": "m7-los-pasos-de-ella",
+      "titulo": "Los Pasos De Ella",
+      "seccion": "Cuaresma",
+      "paginas": "Cancionero Mónica 2009",
+      "letra": "Coro\nCon pasos silente caminando\nHasta el pie de la cruz llegó\nSu corazón también flagelado\nViendo a su hijo darnos su amor\n\nAmor no hay como el tuyo\nMadre de mi Salvador\nEn la vía a tu hijo encuentras\nMaltratado de dolor\n\nEn tu corazón el mío\nEn tu vida va mi amor\nTenlo allí junto al tuyo\nEn cada paso que doy\n\nLos hijos que aquí Él te entrega\nHas parido con dolor\nSon hijos que has salvado\nTraspasada por amor",
+      "tags": ["cuaresma", "viacrucis", "mariano", "dolorosa"],
+      "posibleDuplicado": ""
+    },
+    {
+      "id": "m7-para-ser",
+      "titulo": "Para Ser",
+      "seccion": "Cuaresma",
+      "paginas": "Cancionero Mónica 2009",
+      "letra": "Coro\nAmor sin fin\nQue abraza la cruz\nQue abraza su cruz\nPara ser el redentor\n\nQue da el perdón\nA todo pecador\nQue el paraíso nos abrió\nSu vida ofreció\n\nAbandonado se sintió de Dios\nQue su madre nos entregó\nY todo cumplió\n\nQue sufre sed por la humanidad\nSu espíritu encomienda\nA aquel\nQue su padre es",
+      "tags": ["cuaresma", "cruz", "siete palabras", "pasión"],
+      "posibleDuplicado": ""
+    },
+    {
+      "id": "m7-nadie-como-jesus",
+      "titulo": "Nadie Como Jesús",
+      "seccion": "Cuaresma",
+      "paginas": "Cancionero Mónica 2009",
+      "letra": "Coro\nNada como esa cruz\nNunca como en la cruz\nNadie como Jesús\nDio todo solo por amor\n\nLa locura del Dios vivo\nSabia es por demás\nPor la cruz se ha redimido\nEl alma mortal\n\nMás amor que éste supremo\nNadie halló jamás\nDar la vida por quien se ama\nJesús, todo lo das\n\nClavada en la cruz\nLa deuda que nos obligó\nAnulado el documento\nContra el pecador",
+      "tags": ["cuaresma", "cruz", "pasión", "redención"],
+      "posibleDuplicado": ""
+    },
+    {
+      "id": "m7-carga-la-cruz",
+      "titulo": "Carga La Cruz",
+      "seccion": "Cuaresma",
+      "paginas": "Cancionero Mónica 2009",
+      "letra": "Coro\nCarga la cruz\nJesús redentor\nY dale alivio a mi dolor\nPara encontrarte en mi corazón\n\nEn la vía\nEl amor te guía\nTu pasión quiero yo abrazar\nEl tan dulce amado encontrar\n\nUna vida\nSola es la que tengo\nEn tus manos la vengo a dejar\nGracia en ti he venido a buscar\n\nEn la cruz\nElevas mi dolor\nEl consuelo se ha de derramar\nFija en ti mi esperanza está",
+      "tags": ["cuaresma", "viacrucis", "cruz"],
+      "posibleDuplicado": ""
+    },
+    {
+      "id": "m7-tu-cuerpo-tu-sangre",
+      "titulo": "Tu Cuerpo, Tu Sangre",
+      "seccion": "Cuaresma",
+      "paginas": "Cancionero Mónica 2009",
+      "letra": "Coro\nDiste al mundo\nTu cuerpo\nY al mundo tu sangre\nCordero de Dios\n\nTomaste la condición\nDe esclavo tu Señor\nDios que se anonadó\nHumillado por mi amor\nAtado por mi amor\nEres mi redentor\n\nEl manso Cordero fiel\nLa víctima de amor\nPaciente corazón",
+      "tags": ["cuaresma", "pasión", "cordero", "comunión"],
+      "posibleDuplicado": ""
+    },
+    {
+      "id": "m7-el-que-va-a-la-cruz",
+      "titulo": "El Que Va A La Cruz",
+      "seccion": "Cuaresma",
+      "paginas": "Cancionero Mónica 2009",
+      "letra": "Coro\nNo hay oscuridad\nSu amor es la luz\nNo vacilará\nEl que va a la cruz\n\nPedro negó\nJuan insistió\nLe castigó\nPilatos azotarlo mandó\n\nLa pascua es\nTienen su rey\nLe condenó\nSalió a la cruz el salvador\n\nNo le quitó\nÉl la entregó\nLa vida dio\nSu muerte vida nos cedió",
+      "tags": ["cuaresma", "pasión", "cruz", "semana santa"],
+      "posibleDuplicado": ""
+    },
+    {
+      "id": "m7-maria",
+      "titulo": "María",
+      "seccion": "Marianos",
+      "paginas": "Cancionero Mónica 2009",
+      "letra": "Cuánta tristeza hay en sus ojos\nno la dejan hablar\ncallen al fin sus corazones\nhoy deben escuchar a quien los ama\na todos por igual\n\nCorren peligro nuestras almas\nsalgan de la oscuridad\nes muy sencillo consolarla\nsolo tienen que amar\nconcedan el alma\na la luz de su bondad\n\nCoro\nMaría viene a ayudarnos\na alcanzar el cielo\nMaría viene a advertir a la humanidad\nno se han dado cuenta\nque en verdad perdemos a Dios\n\nMuchos no entienden su intención\nsalgan de la oscuridad\nviene a pedirnos con dolor\nque no ofendan más a Dios\nDespierten hermanos\nes la Madre del Señor\n\nY no hay nada, nada, nada\nPeor que ignorar a Dios, no hay razón.",
+      "tags": ["mariano", "conversión", "llamado"],
+      "posibleDuplicado": ""
+    },
+    {
+      "id": "m7-maria-es-amor",
+      "titulo": "María Es Amor",
+      "seccion": "Marianos",
+      "paginas": "Cancionero Mónica 2009",
+      "letra": "Coro\nMaría es amor, dolor\na su hijo entregó\nMaría la sierva la Madre de Dios (bis)\n\nElla lo encuentra tanto es el dolor\nque traspasado está su corazón (bis)\n\nElla lo sigue Vía de la cruz\nLa dolorosa Madre de Jesús (bis)\n\nElla en silencio, delante la cruz\nElla recibe, yo su hijo soy (bis)",
+      "tags": ["mariano", "dolorosa", "cuaresma", "viacrucis"],
+      "posibleDuplicado": ""
+    },
+    {
+      "id": "m7-tu-eres-pura",
+      "titulo": "Tú Eres Pura",
+      "seccion": "Marianos",
+      "paginas": "Cancionero Mónica 2009",
+      "letra": "Tú eres pura porque Dios te hizo así\nPorque Él te enseñó a ser feliz\nPorque nadie como tú lo supo ser, María\n\nTú eres Madre de Jesús el Salvador\nLa alegría que nos vino de Belén\nTú María nos lo diste a conocer, María\n\nCoro\nYo quisiera ser como fuiste tú\nImitarte siempre a ti\nY cantar que soy feliz, María (bis)\n\nTú eres fuerte como torre de David\nMás hermosa que la luna en su esplendor\nTierna Madre, fiel esclava del Señor, María\n\nTú eres arca de la nueva salvación\nTú eres faro que nos guía con su luz\nTú la senda que nos lleva a Jesús, María",
+      "tags": ["mariano", "alabanza"],
+      "posibleDuplicado": "Tú Eres Pura"
+    },
+    {
+      "id": "m7-santa-maria-del-camino",
+      "titulo": "Santa María Del Camino",
+      "seccion": "Marianos",
+      "paginas": "Cancionero Mónica 2009",
+      "letra": "Mientras recorres la vida\nTú nunca solo estás\nContigo por el camino\nSanta María va (bis)\n\nCoro\nVen con nosotros a caminar\nSanta María ven (2)\n\nAunque te digan algunos\nQue nada puede cambiar\nLucha por un mundo nuevo\nLucha por la verdad\n\nSi por el mundo los hombres\nSin conocerse van\nNo niegues nunca tu mano\nAl que contigo está\n\nAunque parezcan tus pasos inútil caminar\nTú vas haciendo caminos\notros los seguirán",
+      "tags": ["mariano", "camino", "entrada"],
+      "posibleDuplicado": "Santa María Del Camino (C)"
+    },
+    {
+      "id": "m7-magnificat-ii",
+      "titulo": "Magníficat II",
+      "seccion": "Marianos",
+      "paginas": "Cancionero Mónica 2009",
+      "letra": "Coro\nTodo mi ser a Dios celebra\nY mi espíritu se alegra\nEn la grandeza del Señor (2)\nPorque ha hecho maravillas (3)\nSanto su nombre será\n\nPuso sus ojos en su humilde esclava\nSin fijarse en su condición\nY por siempre me llamarán bienaventurada\nEscogida por su gran amor\n\nSiempre dará de su misericordia\nA quienes le saben alabar\nSustituye al sabio y orgulloso\ny derriba a reyes de sus tronos\nY con su brazo poderoso\nA los humildes levantará\nA los sencillos los colmará de paz\nSiempre dará de su misericordia\nA quienes le saben adorar\nSu siervo Israel vio su promesa\nY se postró ante toda su grandeza\nSu pueblo en la tierra\npor siempre contemplará\nQue su Reino jamás terminará",
+      "tags": ["mariano", "magníficat", "cántico", "alabanza"],
+      "posibleDuplicado": "Magníficat (Kairoi)"
+    },
+    {
+      "id": "m7-quien-sera-la-mujer",
+      "titulo": "Quién Será La Mujer",
+      "seccion": "Marianos",
+      "paginas": "Cancionero Mónica 2009",
+      "letra": "Quién será la mujer\nQue a tantos inspiró\nPoemas bellos de amor\nLe rinden honor, la música y la luz\nEl mármol, la palabra, y el color (bis)\n\nQuién será la mujer\nQue el rey y el labrador\nInvocan en su dolor\nEl sabio, el ignorante\nEl pobre y el señor\nEl santo al igual que el pecador (bis)\n\nCoro\nMaría es esa mujer\nQue desde siempre\nEl Señor se preparó\nPara nacer como una flor\nEn el jardín que a Dios enamoró\n\nQuién será la mujer\nradiante como el sol\nVestida de resplandor\nla luna a sus pies\nEl cielo en derredor\nY ángeles cantando en su honor (bis)\n\nQuién será la mujer\nhumilde que vivió\nEn un pequeño taller\nAmando sin milagros\nviviendo de su fe\nLa esposa siempre alegre de José",
+      "tags": ["mariano", "alabanza"],
+      "posibleDuplicado": "Quién Será La Mujer (María Es Esa Mujer)"
+    },
+    {
+      "id": "m7-mi-alma-alaba-al-senor",
+      "titulo": "Mi Alma Alaba Al Señor",
+      "seccion": "Marianos",
+      "paginas": "Cancionero Mónica 2009",
+      "letra": "Mi alma alaba al Señor\nY mi Espíritu se alegra en su presencia\nPorque Él que es grande\nmaravillas ha hecho en mí\nEs Santo su nombre",
+      "tags": ["mariano", "magníficat", "cántico"],
+      "posibleDuplicado": ""
+    },
+    {
+      "id": "m7-junto-a-ti-maria",
+      "titulo": "Junto A Ti María",
+      "seccion": "Marianos",
+      "paginas": "Cancionero Mónica 2009",
+      "letra": "Junto a ti María como un niño quiero estar\nTómame en tus brazos\nGuíame en mi caminar\nQuiero que me eduques\nque me enseñes a rezar\nHazme transparente, lléname de paz\n\nCoro\nMadre (4)\n\nGracias madre mía por llevarnos a Jesús\nHaznos más humildes, tan sencillos como tú\nGracias madre mía por abrir tu corazón\nPorque nos congregas y nos das tu amor.",
+      "tags": ["mariano", "confianza"],
+      "posibleDuplicado": "Junto A Ti María (D)"
+    },
+    {
+      "id": "m7-himno-rosario-chiquinquira",
+      "titulo": "Himno De Nuestra Señora Del Rosario De Chiquinquirá",
+      "seccion": "Himnos",
+      "paginas": "Cancionero Mónica 2009",
+      "letra": "Coro\nGloria a ti, casta señora\nde mi pueblo bravo y fuerte\nque en la vida y en la muerte\nAma y lucha canta y ora.\n\nAutóctona virgen, de rostro bronceado\nMi lago encantado, te exorna los pies\nCon rizos y ondas, de armónico halago\nMi reina del lago, te digan doquier\n\nBruñeron tus sienes, con lirios plasmados\nÍgneas llamaradas, de eterno brillar\nPor eso mi tierra, que el trópico inflama\nDel sol te proclaman, la reina inmortal\n\nLa entrada fecunda, del suelo nativo\nPor ti fluye un vivo tesoro sin fin\nRiberas y llano, lagunas y sierra\nReina de mi tierra, te llamen a ti\n\nY porque mi casta, florezca en virtudes\nTus excelsitudes, proclame la grey\nReina de tribu, llamándote en tanto\nLa dicha o el llanto, nos colmen, Amén",
+      "tags": ["himno", "mariano", "venezuela", "chiquinquirá"],
+      "posibleDuplicado": "Himno a Nuestra Señora del Rosario de Chiquinquirá"
+    },
+    {
+      "id": "m7-maria-ven",
+      "titulo": "María Ven",
+      "seccion": "Marianos",
+      "paginas": "Cancionero Mónica 2009",
+      "letra": "Coro\nMaría ven, María ven\nLlévame de la mano a Jesús\nEnséñame a amarle\ncomo le amaste tú (bis)\n\nTú fuiste dócil\nal Espíritu de Dios\nY así en tu vientre\nla palabra encarnó",
+      "tags": ["mariano", "invocación"],
+      "posibleDuplicado": "María, Ven"
+    },
+    {
+      "id": "m7-madre-celestial",
+      "titulo": "Madre Celestial (J. C. Jambrina)",
+      "seccion": "Marianos",
+      "paginas": "Cancionero Mónica 2009",
+      "letra": "María, María eres tú la madre de Cristo\nBendito el fruto de tu vientre Jesús\nMadre Celestial, Madre bondadosa\nA ti te llamamos bienaventurada\n\nCoro\nTú eres pura porque Dios te hizo así\nBendita entre todas las mujeres\nHe aquí la esclava del Señor\nY sin negar dijiste sí a Dios\n\nReina del cielo y de los patriarcas\nReina de los profetas eres Reina de Amor\nMaría, María abogada nuestra\nruega por nosotros Santa Madre de Dios",
+      "tags": ["mariano", "alabanza"],
+      "posibleDuplicado": ""
+    },
+    {
+      "id": "m7-magnificat-daniela",
+      "titulo": "Magníficat (Daniela)",
+      "seccion": "Marianos",
+      "paginas": "Cancionero Mónica 2009",
+      "letra": "Coro\nGlorifica, mi alma al Señor\nY mi espíritu,\nse llena, en Dios mi Salvador\n\nPorque quiso mirar la condición\nHumilde de su esclava\nPor eso me dirán que soy dichosa\nEl todopoderoso hizo obras grandes\nSanto es su nombre\n\nSu ayuda alcanza a los que le temen\nY prosigue siempre en sus hijos\nSu brazo llevó a cabo hechos heroicos\nDerribó a los soberbios\nDestruyó a los poderosos\nPremió a los humildes\n\nAyuda a los hambrientos en lo bueno\nY despidió vacíos a los ricos\nDe la mano tomó a Israel su siervo\nLes dio misericordia,\ncumplió con la promesa\nDesde ahora y por siempre",
+      "tags": ["mariano", "magníficat", "cántico"],
+      "posibleDuplicado": "Magníficat (A. Mejía)"
+    },
+    {
+      "id": "m7-el-diario-de-maria",
+      "titulo": "El Diario De María",
+      "seccion": "Cuaresma",
+      "paginas": "Cancionero Mónica 2009",
+      "letra": "Te miro a los ojos y entre tanto llanto\nparece mentira que te hayan clavado\nque seas el pequeño al que he acunado\ny que se dormía tan pronto en mis brazos\nel que se reía al mirar al cielo\ny cuando rezaba se ponía serio.\n\nSobre ese madero veo aquel pequeño\nQue entre los doctores\nHablaba en el templo\nQue cuando pregunté\nrespondió con calma\nQue de los asuntos de Dios se encargaba\nEse mismo niño el que está en la cruz\nEl Rey de los hombres se llama Jesús.\n\nEse mismo hombre ya no era un niño\nCuando en esa boda le pedí más vino\nQue dio de comer a un millar de gente\nY a pobres y enfermos los miró de frente\nRió con aquellos a quienes más quiso\nY lloró en silencio al morir su amigo.\n\nYa cae la tarde, se nublan los cielos\nPronto volverás a tu Padre eterno\nDuérmete pequeño duérmete mi niño\nQue yo te he entregado todo mi cariño\nComo en Nazareth aquella mañana\nHe aquí tu sierva, he aquí tu esclava.",
+      "tags": ["cuaresma", "mariano", "semana santa", "dolorosa"],
+      "posibleDuplicado": "El Diario De María"
+    },
+    {
+      "id": "m7-salve",
+      "titulo": "Salve",
+      "seccion": "Marianos",
+      "paginas": "Cancionero Mónica 2009",
+      "letra": "Salve, María, madre de misericordia,\nvida dulzura y esperanza nuestra\nSalve, Salve María\n\nA ti llamamos nosotros los hijos de Eva\nA ti suspiramos, llorando,\nen este valle de lágrimas,\nAbogada nuestra vuelve a nosotros tus ojos\nmuéstranos después de este exilio\nEl fruto de tu vientre Jesús\n\nSalve, María, madre de misericordia\nOh clemente, Oh dulce, Oh piadosa Virgen\nMaría, Salve María, Salve, Salve",
+      "tags": ["mariano", "salve", "oración"],
+      "posibleDuplicado": "Dios Te Salve, Salve, María"
+    },
+    {
+      "id": "m7-himno-rosa-mistica",
+      "titulo": "Himno A María Rosa Mística",
+      "seccion": "Himnos",
+      "paginas": "Cancionero Mónica 2009",
+      "letra": "Desde mi corazón vacío\nBrota esta plegaria de gratitud\nA ti mujer a ti madre querida\nA ti María madre del amor\n\nCómo no cantarte y rezarte\nTu misterio está inserto en Jesús\nMadre junto a los desposeídos\nMadre hermana y amiga del que sufre\n\nLa suerte de los pobres es tu suerte\nEres tú la pobre de Yahvé\nEres la elegida del Señor\nMujer del pueblo, sencilla y fraternal\n\nCoro\nMaría del Amor y la ternura de Dios\nRosa Mística de luz y de bondad\nEres oasis en medio del dolor\nEres manantial\ny fuente de esperanza\nEres alegría y consuelo del que lucha\nAbriendo nuevos caminos\nPara hacer presente el Reino de Jesús\nRosa Mística eres nuestra estrella\nAsí eres tú…",
+      "tags": ["himno", "mariano", "rosa mística"],
+      "posibleDuplicado": ""
+    },
+    {
+      "id": "m7-himno-virgen-del-valle",
+      "titulo": "Himno A La Virgen Del Valle",
+      "seccion": "Himnos",
+      "paginas": "Cancionero Mónica 2009",
+      "letra": "Coro\nPaz y gloria a la Virgen sagrada\nQue del valle reina y amor\nA la excelsa y divina morada\nSurgió en alas del célico amor\n\nDe terribles martirios emblemas\nCircundada de célica luz\nen su aura y hermosa diadema\nBrilla enhiesta y serena la cruz\nLa ama el nauta que la mar atraviesa\nY el abrigo en su pobre heredad\nLos que luchan con brava entrega\nLos que sufren con blanca humildad\n\nEl fulgor de su dulce amor destella\nA través de las nubes y el viento\nMora víspera o alba es la estrella\nMás radiante del vasto elemento\nEs el huérfano triste clemencia del dolor\nproscrito templanza es el niño\nLa blanca inocencia del anciano\nLa dulce esperanza\n\nY del ser feliz del presito\nextraviado del humano consuelo\nes el faro inocente y bendito\nQue lo enrumba camino del cielo\nCaridad es tu nombre más bello\nFe circundada tu trono de luz\nLa esperanza te da en un destello\nEn Amor divinal de Jesús.",
+      "tags": ["himno", "mariano", "venezuela", "virgen del valle"],
+      "posibleDuplicado": ""
+    },
+    {
+      "id": "m7-himno-virgen-de-coromoto",
+      "titulo": "Himno A La Virgen De Coromoto",
+      "seccion": "Himnos",
+      "paginas": "Cancionero Mónica 2009",
+      "letra": "Salve aurora jubilosa\nDe una patria soberana\nQue te bendice y te aclama\nCon su historia gloriosa\nSalve Virgen de los llanos\nSiempre viva de amor\nCautivas tú el corazón\nde cada venezolano\nFlores de nieve en los Andes\nOlas de azul en el mar\nTodo me dice un cantar\nPara rimar tus bondades\nEn los pliegues tricolores\nde la bandera señera\nGuarda Venezuela entera\nDe su virgen los Amores",
+      "tags": ["himno", "mariano", "venezuela", "coromoto"],
+      "posibleDuplicado": "Himno a Ntra. Sra. de Coromoto"
+    },
+    {
+      "id": "m7-himno-nuestra-senora-de-los-angeles",
+      "titulo": "Himno A Nuestra Señora De Los Ángeles",
+      "seccion": "Himnos",
+      "paginas": "Cancionero Mónica 2009",
+      "letra": "Hoy quiero cantarte Señora de los Ángeles,\nreina soberana, madre celestial,\nyo soy una alondra que ha puesto en ti su nido,\nviviendo tu hermosura\nte reza su cantar.\n\nCoro\nLuz de la mañana, María templo y cuna\nmar de toda gracia, fuego, nieve y flor\npuerta siempre abierta,\nrosas sin espinas\nyo te doy mi vida, soy tu trovador\n\nSalve surco abierto donde Dios se siembra,\nte eligió por madre Cristo el Redentor,\nSalve esclava y reina Virgen nazarena,\ncasa, paz y abrazo para el pecador.",
+      "tags": ["himno", "mariano", "ángeles"],
+      "posibleDuplicado": ""
+    },
+    {
+      "id": "m7-mi-alma-alaba-magnificat",
+      "titulo": "Mi Alma Alaba (Magníficat)",
+      "seccion": "Marianos",
+      "paginas": "Cancionero Mónica 2009",
+      "letra": "Coro\nMi alma alaba al Dios que me salva\nMi alma alaba al Señor\nProclama su grandeza cree en su Amor\nMi alma alaba al Señor\n\nPorque ha mirado mi humillación\nY yo su esclava\nhoy proclamaré su fidelidad\nY dirán que dichosa soy\n\nY sus maravillas ha hecho el Señor\nSu nombre es el amor,\npoderoso es Él\nY todos verán su misericordia derramar\n\nAl rico y al soberbio del trono bajó\nDel pobre es liberador\npoderoso es Él\nEn su diestra para enaltecer y colmar\n\nAl pueblo que le llama Él acudirá\nPara su auxilio dar\neterna es su misericordia\nSu promesa ya cumplida está",
+      "tags": ["mariano", "magníficat", "cántico", "alabanza"],
+      "posibleDuplicado": ""
+    },
+    {
+      "id": "m7-desde-aqui-desde-alla",
+      "titulo": "Desde Aquí Desde Allá",
+      "seccion": "Marianos",
+      "paginas": "Cancionero Mónica 2009",
+      "letra": "Aquí me tienes pequeño\nMis brazos serán la cuna\nDonde descanse tu cuerpo\nEn medio de este quebranto\nAllá verás mi pequeño que\nTu Madre te sigue amando\n\nCoro\nSin llorar mi niño pues ya estoy\nSin sufrir mi Señor pues ya estoy aquí\nEn un Cielo que azul es\nA tu Trono has de subir\nY allá te acompañaré mi Rey\nDesde aquí mi niño me verás llorar\nDesde allá mi Señor me verás amar\nVerte crecer no fue fácil\ny menos verte subir\nMi pequeño, mi Señor, mi Rey\n\nAunque te parezca extraño\nPor siempre seguirás siendo\nMi Niño de treinta y tres años\nTu cuerpo mi manto encierra\nTu amor por siempre renovará\nToda la faz de la tierra",
+      "tags": ["mariano", "dolorosa", "cuaresma"],
+      "posibleDuplicado": ""
+    },
+    {
+      "id": "m7-con-maria",
+      "titulo": "Con María",
+      "seccion": "Marianos",
+      "paginas": "Cancionero Mónica 2009",
+      "letra": "Coro\nCon María es más fácil caminar\nPor el camino angosto donde Jesús\nSiempre está (bis)\n\nElla nos guía en el camino\nElla dirige nuestros pasos\n[Porque a Jesús nos quiere llevar\nÉl es el camino y la verdad] (2)",
+      "tags": ["mariano", "camino"],
+      "posibleDuplicado": "Con María"
+    },
+    {
+      "id": "m7-madre-del-si",
+      "titulo": "Madre Del Sí",
+      "seccion": "Marianos",
+      "paginas": "Cancionero Mónica 2009",
+      "letra": "Tu luz brilla\ncomo una estrella dentro de mí\nSolo quiero seguir tus huellas\nPorque tú dijiste sí\n\nDecir sí es lo que más cuesta\nEs lo que pienso yo\nSí es lo que debe ser mi respuesta\nAunque mis labios digan no\n\nTengo un camino que seguir,\nenséñamelo tú\nSi debo dar un sí en mi vivir\nMadre sé tú mi luz\n\nCoro\nMadre que pueda decir sí cada momento\nQue exprese en mi vivir lo que yo siento\nSí madre sí hasta el final (bis)",
+      "tags": ["mariano", "vocacional", "sí de maría"],
+      "posibleDuplicado": "El Sí De María"
+    },
+    {
+      "id": "m7-no-estoy-yo-aqui",
+      "titulo": "¿No Estoy Yo Aquí?",
+      "seccion": "Marianos",
+      "paginas": "Cancionero Mónica 2009",
+      "letra": "Ahí en el dolor\nEn el fragor de mis batallas\nAhí tu manto me envuelve\nA Cristo me lleva\n\nAhí en las pruebas\nEl cielo se abre\nTu voz me dice:\n[No tengas miedo\n¿No estoy yo aquí?\nQue soy tu madre] (2)",
+      "tags": ["mariano", "guadalupe", "confianza"],
+      "posibleDuplicado": "¿Acaso No Estoy Yo Aquí?"
+    },
+    {
+      "id": "m7-la-coronacion",
+      "titulo": "La Coronación",
+      "seccion": "Marianos",
+      "paginas": "Cancionero Mónica 2009",
+      "letra": "Coro\n[El Señor te coronó de Gloria\nLlenó tu corazón de gozo] (2)\nY esplendor\n\nMadre de los niños\nDel joven que te busca\nen su ilusión\nCon ansias de amor (bis)\n\nHija predilecta del Padre\nMadre amorosa de Jesús\nSantuario del Espíritu (bis)\n\nEstuviste atenta a la voz de Dios\nCuando con amor Él te escogió\nMadre del Salvador (bis)",
+      "tags": ["mariano", "coronación", "misterios"],
+      "posibleDuplicado": ""
+    },
+    {
+      "id": "m7-quisiera-ser-como-maria",
+      "titulo": "Quisiera Ser Como María",
+      "seccion": "Marianos",
+      "paginas": "Cancionero Mónica 2009",
+      "letra": "Si un deseo al cielo pudiera pedir\nCon voz queda me atrevería a decir\nCielo santo, mi Padre Eterno\nQuisiera un favor, ser como María\nPoder amarte como madre\nY tú ser mi pequeño niño\nAmarte hasta antes del vientre\nArroparte y cubrirte en sencillo pesebre\n\nNo deseo saber más del mundo\nNi del Cielo Eterno ni de sus glorias\nSolo quiero ser como María\nY amar a Dios como mi dulce niño\nYo quisiera mi buen Dios\nSi un deseo al Cielo pudiera pedir\nSer como la Santa, Santa María\nPara ti mi Dios con mis brazos cubrir\n\nCoro\nQuisiera ser como María\nY cuidarte mi Dios sin tantas razones\nSin más ideas por buenas que sean\nQue la sola idea de amarte",
+      "tags": ["mariano", "contemplación"],
+      "posibleDuplicado": ""
+    },
+    {
+      "id": "m7-la-anunciacion",
+      "titulo": "La Anunciación",
+      "seccion": "Marianos",
+      "paginas": "Cancionero Mónica 2009",
+      "letra": "Llevo dentro la esperanza deseada\nQue me envuelve, que me inunda,\nque me llama\nSoy pequeña, soy sencilla, soy la esclava\nPero sé que tengo todo y no soy nada\n\nLlevo dentro de mí al que me hace feliz\nY dichosa me han de llamar\nSoy aquella mujer que esperaba Israel\nPorque he dicho sí\nHágase carne la palabra\n\nAún recuerdo cómo fue\ny aunque espantada\nHoy me alegro y sonrío confiada\nCuando el Ángel me dejó\nyo aún temblaba\nDe esperanza, de ilusión, desconcertada\n\nPero pronto sentí\nque aquel que late por mí\nMe empujaba a llevarle a Isabel\nEl aliento de Dios con su sombra\nme cubrió\nY ahora tengo que irme de aquí\na la montaña\n\nTodo queda como ayer pero en mi alma\nUn amor desconocido me embriaga\nSiempre he amado lo que soy\ny me humillaba\nEscondida tras las rejas de mi casa\n\nPero Dios se fijó en aquella humillación\nY con todo su poder me levantó\nYo quería pasar oculta frente los demás\nY ahora veo la esperanza florecer\n[En mis entrañas] (2)",
+      "tags": ["mariano", "adviento", "anunciación"],
+      "posibleDuplicado": ""
+    },
+    {
+      "id": "m7-tu-dulce-rostro",
+      "titulo": "Tu Dulce Rostro",
+      "seccion": "Marianos",
+      "paginas": "Cancionero Mónica 2009",
+      "letra": "Tu dulce rostro me sonríe a mí María\nCuando en mi alma\nno hay rastro de maldad\nMe abrazas fuertemente y solo me miras\nY tú me cuidas si en peligro puedo andar\n\nCuando te ofendo en momentos de mi vida\nTú me disculpas y me miras con bondad\nPones tu ejemplo Virgencita santa y linda\nComo la Reina y Madre de la humanidad\n\nCoro\nEres la estrella que ilumina mi camino\nEres ternura como un niño al despertar\nEres la rosa más hermosa\nQue el Señor pudo crear\nEres amor, eternidad (bis)",
+      "tags": ["mariano", "ternura"],
+      "posibleDuplicado": ""
+    },
+    {
+      "id": "m7-cuando-era-pequeno",
+      "titulo": "Cuando Era Pequeño",
+      "seccion": "Marianos",
+      "paginas": "Cancionero Mónica 2009",
+      "letra": "Cuando era pequeño, muy pequeño\nRecuerdo que siempre junto a mi cama\nJuntaba las manos y deprisa rezaba\nMás rezaba como quien amaba\nLas avemarías yo rezaba\nY siempre comía unas palabras\nY a veces cansado me quedaba dormido\nMás dormía como quien amaba\n\nCoro\nAve María de mi Señor\nEl tiempo pasa y no vuelve atrás\nSiento nostalgia de aquellos días\nCuando dormía pensando en ti\nAve María de mi Señor\nAve María, Madre de Dios\n\nDespués fui creciendo, fui creciendo\nY eché en el olvido mis oraciones\nLlegaba a mi casa disgustado y cansado\nY de hablarte nunca me acordaba\nAnduve dudando hoy recuerdo\nDe cosas divinas que me enseñaban\nEn mí estaba muerto el niño inocente\nMis caminos de ti se alejaban",
+      "tags": ["mariano", "ave maría", "infancia"],
+      "posibleDuplicado": ""
+    },
+    {
+      "id": "m7-rio-de-alabanza",
+      "titulo": "Río De Alabanza",
+      "seccion": "Alabanza",
+      "paginas": "Cancionero Mónica 2009",
+      "letra": "Hay una fuente en mí\nque está brotando,\nque está fluyendo dentro de mí (bis)\n\nCoro\nEs un río de alabanza y de adoración,\nDirigido hacia a ti Señor Jesús,\nRecíbelo. (bis)\n\nHay un cantar en mí,\nque está brotando,\nque está fluyendo dentro de mí (bis)",
+      "tags": ["alabanza", "adoración", "animacion"],
+      "posibleDuplicado": ""
+    },
+    {
+      "id": "m7-te-amo-ii",
+      "titulo": "Te Amo II",
+      "seccion": "Alabanza",
+      "paginas": "Cancionero Mónica 2009",
+      "letra": "Coro\nTe amo, yo te amo\nporque tú eres mi Señor. (bis)\nTe amo, sí te amo\nY te digo así, porque\n\nPorque tú eres Señor mi manantial\nmi emoción, mi quietud,\nmi cielo siempre azul, mi horizonte, mi luz,\nporque Tú eres Señor\nel dulce néctar que llena mi ser,\nrocío y amanecer, lluvia de bendición\ny amigo fiel.\n\nPorque Tú eres Señor,\nla golondrina que surca el azul,\nmi amor y mi libertad,\nmi fortaleza, mi senda y mi pan,\nporque tú eres Señor\nla inmensidad de toda la creación\nsi te intentara alcanzar,\nnunca llegaría al final de tu ser.\n\nY es que te amo Señor,\ny libremente yo lo gritaré,\nDame la gracia mi bien\nque hasta mi sangre por ti yo daré\nY es que te amo Señor…",
+      "tags": ["alabanza", "adoración", "amor"],
+      "posibleDuplicado": "Te Amo"
+    },
+    {
+      "id": "m7-quiero-alabarte",
+      "titulo": "Quiero Alabarte",
+      "seccion": "Alabanza",
+      "paginas": "Cancionero Mónica 2009",
+      "letra": "Coro\nQuiero alabarte, más y más aún (2)\nBuscar tu voluntad, tu gracia conocer\nQuiero alabarte (bis)\n\nLas aves del cielo cantan para ti\nLas bestias del campo reflejan tu poder\nQuiero cantar, quiero levantar\nMis manos hacia ti (bis)",
+      "tags": ["alabanza", "adoración"],
+      "posibleDuplicado": ""
+    },
+    {
+      "id": "m7-te-adoro-a-ti",
+      "titulo": "Te Adoro A Ti",
+      "seccion": "Alabanza",
+      "paginas": "Cancionero Mónica 2009",
+      "letra": "Al estar en la presencia de tu divinidad\nY al contemplar la hermosura\nde tu santidad\nMi espíritu se alegra en tu majestad\nTe adoro a ti, te adoro a ti\n\nCuando veo la grandeza de tu dulce amor\nY compruebo la pureza de tu corazón\nMi espíritu se alegra en tu majestad\nTe adoro a ti, te adoro a ti\n\nCoro\nY al estar aquí delante de ti\nte adoraré\nPostrado ante ti mi corazón\nte adoro Dios\nY siempre quiero estar para adorar\ny contemplar tu santidad\nTe adoro a ti Señor, te adoro a ti",
+      "tags": ["alabanza", "adoración", "comunión"],
+      "posibleDuplicado": ""
+    }
+  ]
+}

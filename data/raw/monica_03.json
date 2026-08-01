@@ -1,0 +1,482 @@
+{
+  "paquete": "monica_03",
+  "canciones": [
+    {
+      "id": "m3-espiritu-santo-derramate",
+      "titulo": "Espíritu Santo Derrámate",
+      "seccion": "Presentación de Dones",
+      "paginas": "Cancionero Mónica 2009",
+      "letra": "Espíritu Santo derrámate\nsobre estas ofrendas\nque hoy te presentamos,\npara que se transformen\nen el cuerpo y sangre\nde nuestro Señor (bis)\n\nCoro\nY podamos comer su Cuerpo,\ny podamos beber su Sangre\ny podamos comer su Cuerpo,\nven Espíritu Santo (bis)",
+      "tags": ["ofertorio", "presentacion de dones", "espiritu santo"],
+      "posibleDuplicado": "Espíritu Santo, Derrámate"
+    },
+    {
+      "id": "m3-el-senor-dios-nos-amo",
+      "titulo": "El Señor Dios Nos Amó",
+      "seccion": "Comunión",
+      "paginas": "Cancionero Mónica 2009",
+      "letra": "El Señor Dios nos amó\ncomo a nadie amó jamás,\nEl nos guía como estrella\ncuando no existe la luz,\nEl nos da todo su amor,\nmientras la fracción del pan\nes el pan de la unidad, el pan de Dios.\n\nCoro\nEs mi cuerpo tomad y comed\nEs mi sangre tomad y bebed\nPues yo soy la vida yo soy el amor\nHoy Señor condúcenos hacia tu amor\n\nEl Señor Dios nos amó\ncomo a nadie amó jamás\nEl reúne a su Iglesia\ny les da a vivir su amor\nLos cristianos todos ya\nmiembros de su cuerpo son,\nnadie puede separarlos de su amor\n\nEl Señor nos da su amor\ncomo a nadie nos lo dio\ncomo todos sus amigos\ntrabajaba en Nazareth\nCarpintero se alegró\ntrabajando en su taller\ncon sus manos Cristo obrero trabajó\n\nEl Señor nos da su amor\ncomo nadie nos lo dio\nera tan grande y tan hondo\nque murió sobre una cruz\nera tan fuerte su amor\nque de la muerte triunfó\nde la tumba sale libre y vencedor\n\nEl Señor nos da su amor\ncomo nadie nos lo dio\nEl reúne a sus amigos\nen la mesa del amor\nen el mundo todos son\ncarne y sangre del Señor\nNadie puede separarnos de su amor.",
+      "tags": ["comunion", "eucaristia", "pan"],
+      "posibleDuplicado": ""
+    },
+    {
+      "id": "m3-quiero-senor",
+      "titulo": "Quiero Señor",
+      "seccion": "Presentación de Dones",
+      "paginas": "Cancionero Mónica 2009",
+      "letra": "Quiero Señor mi vida ofrecer,\ncomo ofrenda de amor, sacrificio,\nQuiero Señor mi vida a ti levantar,\ncomo ofrenda viva ante tu altar.\n\nCoro\nPues para adorar, fue que yo nací,\nHaz de mí, tu querer\nHaz lo que en tu corazón,\ny que cada día yo pueda más y más,\nestar a tu lado Señor (bis)",
+      "tags": ["ofertorio", "presentacion de dones", "ofrenda"],
+      "posibleDuplicado": "Quiero Señor mi Vida Ofrecer"
+    },
+    {
+      "id": "m3-queremos-ofrecerte",
+      "titulo": "Queremos Ofrecerte",
+      "seccion": "Presentación de Dones",
+      "paginas": "Cancionero Mónica 2009",
+      "letra": "Queremos ofrecerte,\nnuestras vidas nuestro ser, Señor\nlo que somos y sentimos,\nlo que hacemos y vivimos\n\nCoro\nQueremos darnos\ncomo ofrenda ante ti Señor (2)\n\nJunto a este pan y vino,\nNuestras vidas te entregamos,\npensamientos y obras\ntodo a ti te lo damos",
+      "tags": ["ofertorio", "presentacion de dones", "ofrenda"],
+      "posibleDuplicado": ""
+    },
+    {
+      "id": "m3-eucaristia",
+      "titulo": "Eucaristía",
+      "seccion": "Comunión",
+      "paginas": "Cancionero Mónica 2009",
+      "letra": "Pan transformado en el cuerpo de Cristo\nVino transformado en la sangre del Señor\n\nCoro\nEucaristía milagro de amor\nEucaristía presencia del Señor (2)\n\nCristo nos dice tomen y coman\nEsto es mi cuerpo que ha sido entregado\n\nJesús en persona nos vino a liberar\nDe nuestro egoísmo y la división fatal.",
+      "tags": ["comunion", "eucaristia"],
+      "posibleDuplicado": "Eucaristía"
+    },
+    {
+      "id": "m3-esto-que-te-doy",
+      "titulo": "Esto Que Te Doy",
+      "seccion": "Presentación de Dones",
+      "paginas": "Cancionero Mónica 2009",
+      "letra": "Esto que te doy, es vino y pan Señor\nEsto que te doy es mi trabajo\nEs mi corazón, mi alma\nEs mi cuerpo y mi razón\nEl esfuerzo de mi caminar\n\nEsto que doy, mi vida es Señor\nEs mi amor también es mi dolor\nEs la ilusión, mis sueños,\nes mi gozo y mi llorar\nEs mi canto y mi oración.\n\nCoro\nToma mi vida, Ponla en tu Corazón\nDame tu mano y llévame\nCambia mi pan en tu Carne\nY mi vino en tu Sangre\nY a mi Señor Renuévame\nLímpiame y Sálvame.\n\nEsto que te doy, no solo yo Señor\nEsta voz también es de mi hermano\nEs la unión, la paz, el orden,\nla armonía y felicidad\nEs un canto en comunidad.",
+      "tags": ["ofertorio", "presentacion de dones", "ofrenda"],
+      "posibleDuplicado": "Esto Que te Doy, E. Ortiz Tirado"
+    },
+    {
+      "id": "m3-danos-senor-de-ti",
+      "titulo": "Danos Señor De Ti",
+      "seccion": "Presentación de Dones",
+      "paginas": "Cancionero Mónica 2009",
+      "letra": "Danos Señor\nde ese tu cuerpo bajado del cielo\npan vivo y sagrado\npresente en la Eucaristía te recordamos\n\nCoro 1\nToma a cambio Señor\nNuestra juventud y corazón\nAliméntanos de tu Cuerpo\nrendido por la pasión\nToma a cambio Señor\nNuestra juventud y corazón\nLlénanos de tu cuerpo Oh Señor\n\nDanos Señor tu dulce sangre\nla que amargamente brotó de tu cuerpo\ny que como manantial todos la beberemos\n\nCoro 2\nToma a cambio Señor\nNuestra juventud y corazón\nAliméntanos de tu sangre\ny líbranos del dolor\ntoma a cambio Señor\nnuestra juventud y corazón\nllénanos de tu sangre, Oh Señor\n\nCoro 3\nToma a cambio Señor\nNuestra juventud y corazón\naliméntanos de tu vida\ntu cáliz y tu pasión.\n\nCoro 4\nToma a cambio Señor\nnuestra juventud y corazón\nllénanos de tu Cuerpo\nllénanos de tu Sangre\nllénanos de tu vida, Oh Señor",
+      "tags": ["ofertorio", "presentacion de dones", "eucaristia", "juventud"],
+      "posibleDuplicado": ""
+    },
+    {
+      "id": "m3-quiero-vivir",
+      "titulo": "Quiero Vivir",
+      "seccion": "Presentación de Dones",
+      "paginas": "Cancionero Mónica 2009",
+      "letra": "Quiero vivir una vez más\nel momento prodigioso\nen el que Tú Cristo amoroso\ncomo alimento vendrás\n\nDulce como el vino, mitigante como el pan\nel mismo pan y el mismo vino\nque entre espigas y racimos\npoblaron la viña y el trigal\n\nTuyo es mi cuerpo y mi corazón\ntuyas son mis fantasías\nmis fracasos y alegrías\ntuya es mi vida Señor.\n\nPero aunque soy tuyo y siempre lo seré\nhoy he venido a ofrendarte\na tu inmenso amor confiarte\nen esta sublime acción de fe\n\nToma Dios mi ser entero\nque es muy pobre\nes pequeño\npero es lo mejor que puedo ofrecer",
+      "tags": ["ofertorio", "presentacion de dones", "ofrenda"],
+      "posibleDuplicado": ""
+    },
+    {
+      "id": "m3-ante-tu-altar",
+      "titulo": "Ante Tu Altar",
+      "seccion": "Presentación de Dones",
+      "paginas": "Cancionero Mónica 2009",
+      "letra": "Ante tu altar\nHoy como hermanos\nEl pan y el vino\nte presentamos (bis)\n\nFruto de la tierra\ny del trabajo del hombre\nQue se convertirá\nen Cuerpo y Sangre de nuestro Señor\n\nFruto de la Vid\ny del esfuerzo del hombre\nQue es transformado en Sangre\nDe nuestro Señor.",
+      "tags": ["ofertorio", "presentacion de dones", "pan y vino"],
+      "posibleDuplicado": "Ante tu Altar (D)"
+    },
+    {
+      "id": "m3-solo-tu",
+      "titulo": "Solo Tú",
+      "seccion": "Comunión",
+      "paginas": "Cancionero Mónica 2009",
+      "letra": "Estamos hoy aquí con hambre y sed de ti\nPresente estás Jesús en la mesa del altar\nQueremos compartir tu ofrenda celestial\nQuien coma de este pan tendrá\nvida hasta el final\nTodo tu cuerpo toda tu sangre\nDiste por nuestra salvación (bis)\n\nCoro\nSolo tú eres pan y vino\nSolo tú Señor\nDas de beber\nSolo tú alimentas el alma\nSolo tú Señor, solo tú Señor\n\nVenimos hoy aquí a llenarnos más de ti\nY ahora Jesús eres tú quien vive en mí\nTodo tu cuerpo...",
+      "tags": ["comunion", "eucaristia"],
+      "posibleDuplicado": ""
+    },
+    {
+      "id": "m3-la-nueva-alianza",
+      "titulo": "La Nueva Alianza",
+      "seccion": "Comunión",
+      "paginas": "Cancionero Mónica 2009",
+      "letra": "En torno a la mesa del Señor\nLos apóstoles de la verdad\nDe Jesús el Nazareno\nSus miradas se posan en El\nQue resplandeciente está\nComo la luz de una estrella en la mañana\n\nCoro\nY les dijo coman de este pan\nQue es mi Cuerpo\nque se entrega ahora\nPara remisión de sus pecados\nesta es la Alianza de vida eterna\nde redención\n\nY abrazando a todos les pidió\nque guardaran sin temor\nese mandamiento nuevo\nY llegó la hora de partir\nPronto ya no me verán\nPara que se cumpla en sí\nLo que está escrito",
+      "tags": ["comunion", "eucaristia", "alianza"],
+      "posibleDuplicado": ""
+    },
+    {
+      "id": "m3-en-este-pan",
+      "titulo": "En Este Pan",
+      "seccion": "Presentación de Dones",
+      "paginas": "Cancionero Mónica 2009",
+      "letra": "Coro\nEn este pan y este vino de amor\nte ofrecemos nuestras vidas\nEn este pan y este vino de amor\nte entregamos nuestro corazón\n\nTe ofrecemos la alegría\ndel que triunfa\nte ofrecemos la tristeza\ndel que sufre\nte ofrecemos el cansancio del trabajo\ny también la alegría de vivir\n\nTe ofrecemos todo aquello\nque tenemos\nlo que hay dentro\nde nuestro corazón\nte ofrecemos todo aquello\nque deseamos\nnuestra vida\nque es el fruto de tu amor\n\nEn este pan y este vino de amor\nte ofrecemos este fruto de tu amor",
+      "tags": ["ofertorio", "presentacion de dones", "pan y vino"],
+      "posibleDuplicado": ""
+    },
+    {
+      "id": "m3-con-el-vino-y-con-el-pan",
+      "titulo": "Con El Vino Y Con El Pan",
+      "seccion": "Presentación de Dones",
+      "paginas": "Cancionero Mónica 2009",
+      "letra": "Con el vino y con el pan\nYo quiero ofrecerte Señor\nmis alabanzas mi vida mi ser\nEs la tierra que lo dio\nEl hombre que trabajó\nLa mujer que lo amasó\nacéptalo La La La...\nEs el fruto de la vid\nLa sangre que diste por mí\nOh Señor Jesús acéptalo",
+      "tags": ["ofertorio", "presentacion de dones", "pan y vino"],
+      "posibleDuplicado": ""
+    },
+    {
+      "id": "m3-la-copa-de-la-alianza",
+      "titulo": "La Copa De La Alianza",
+      "seccion": "Comunión",
+      "paginas": "Cancionero Mónica 2009",
+      "letra": "Llegada la hora Jesús se sentó\nA la mesa con los apóstoles y les dijo:\nEn verdad he deseado esta pascua comer\nCon ustedes antes de padecer, les aseguro:\n\n[Que ya no volveré a celebrar\nHasta que llegue la nueva pascua\nEn el Reino de Dios] (2)\n\nCoro\nEsto es mi Cuerpo\nEl que es entregado por ustedes\nQuiero que hagan esto\nQuiero que al hacerlo me recuerden\nEsta es la copa de la Alianza nueva\nSellada con mi Sangre\nY que todos por igual\nHan de derramar\n\nJesús recibió una copa\nDio gracias y les dijo, y les dijo:\nTómenla y repártanla\nEntre cada uno de ustedes, les aseguro:\n\n[Que ya no volveré a beber\nDel fruto de la uva\nHasta el Reino de Dios] (2)",
+      "tags": ["comunion", "eucaristia", "alianza", "jueves santo"],
+      "posibleDuplicado": ""
+    },
+    {
+      "id": "m3-saber-que-vendras",
+      "titulo": "Saber Que Vendrás",
+      "seccion": "Presentación de Dones",
+      "paginas": "Cancionero Mónica 2009",
+      "letra": "En este mundo que Cristo nos da\nHacemos la ofrenda del pan\nEl pan de nuestro trabajo sin fin\nY el vino de nuestro cantar\nTraigo ante ti nuestra justa inquietud\nAmar la justicia y la paz\n\nCoro\nSaber que vendrás\nSaber que estarás\nPartiendo a los pobres tu pan (bis)\n\nLa sed de todos los hombres sin luz\nLa pena y el triste llorar\nEl odio de los que mueren sin fe\nCansados de tanto luchar\nEn la patena de nuestra oblación\nAcepta la vida Señor",
+      "tags": ["ofertorio", "presentacion de dones", "justicia"],
+      "posibleDuplicado": ""
+    },
+    {
+      "id": "m3-santo-seminario",
+      "titulo": "Santo (Seminario)",
+      "seccion": "Santo",
+      "paginas": "Cancionero Mónica 2009",
+      "letra": "Santo, Santo, Santo,\nEs el Señor Dios del Universo,\nLlenos están el cielo\nY la tierra de su gloria\n\nHosanna (3) en el cielo\nBendito es el que viene\nen el nombre del Señor\nHosanna (3) en el cielo",
+      "tags": ["santo", "ordinario de la misa"],
+      "posibleDuplicado": ""
+    },
+    {
+      "id": "m3-santo-1",
+      "titulo": "Santo I",
+      "seccion": "Santo",
+      "paginas": "Cancionero Mónica 2009",
+      "letra": "Santo, Santo, Santo,\nEs el Señor Dios de los cielos (bis)\nLlenos están los cielos y la tierra\nDe su inmensa gloria hosanna en el cielo\n\nLlenos están los cielos y la tierra\nBendito el que viene\nEn nombre del Señor",
+      "tags": ["santo", "ordinario de la misa"],
+      "posibleDuplicado": "Santo I, Alfonzo Luna (Am)"
+    },
+    {
+      "id": "m3-santo-2",
+      "titulo": "Santo II",
+      "seccion": "Santo",
+      "paginas": "Cancionero Mónica 2009",
+      "letra": "Santo es el Señor mi Dios\ndigno de alabanza\na El, el poder el honor y la gloria (bis)\n\nHosanna (3) Oh Señor (bis)\n\nBendito el que viene en nombre del Señor,\ncon todos los santos cantamos para ti, (bis)",
+      "tags": ["santo", "ordinario de la misa"],
+      "posibleDuplicado": "Santo II (G), Movimiento Focolar, Gen Verde"
+    },
+    {
+      "id": "m3-querubines",
+      "titulo": "Querubines",
+      "seccion": "Santo",
+      "paginas": "Cancionero Mónica 2009",
+      "letra": "Santo, (3) dicen los querubines,\nSanto, (3) es nuestro Rey Yahvé,\nSanto, (3) es el que nos redime,\n\nPorque mi Dios es Santo\ny la tierra llena de su gloria es (bis)\n\nCoro\nCielo y tierra pasarán\nmás tu Palabra no pasará (2)\nNo, no, no, pasará\nNo, no, no, no, no, no, pasará\n\nBendito el que viene\nen nombre del Señor\nla gloria de Jesucristo\nel Hijo de David,\nHosanna en las alturas\ndel mundo el Salvador,\n(Bendito el que viene\nen el nombre del Señor) (2)",
+      "tags": ["santo", "ordinario de la misa"],
+      "posibleDuplicado": ""
+    },
+    {
+      "id": "m3-santo-3-msalas",
+      "titulo": "Santo III (M. Salas)",
+      "seccion": "Santo",
+      "paginas": "Cancionero Mónica 2009",
+      "letra": "Santo es El Señor\nDios del Universo\nLlenos están El cielo y la Tierra\nDe su Gloria\nSanto es el Señor\nHosanna en las alturas\nBendito es el que viene\nEn nombre del Señor\nHosanna Hosanna",
+      "tags": ["santo", "ordinario de la misa"],
+      "posibleDuplicado": "Santo III, Roquero (Em)"
+    },
+    {
+      "id": "m3-santo-3-voces",
+      "titulo": "Santo (3 Voces)",
+      "seccion": "Santo",
+      "paginas": "Cancionero Mónica 2009",
+      "letra": "Santo, Santo, Santo\nEs el Señor Dios del Universo\nLlenos están el Cielo y la tierra\nDe su gloria\nHosanna (3) en el cielo (2)\nBendito el que viene\nEn el nombre del Señor\nHosanna (3) en el cielo (2)",
+      "tags": ["santo", "ordinario de la misa", "polifonia"],
+      "posibleDuplicado": ""
+    },
+    {
+      "id": "m3-santo-2-msalas",
+      "titulo": "Santo II (M. Salas)",
+      "seccion": "Santo",
+      "paginas": "Cancionero Mónica 2009",
+      "letra": "Santo (3) Es el Señor Dios del universo\nSanto (3) Es el Señor Llenos están\nCielo y tierra de su gloria\nHosanna en el cielo\nBendito el que viene\nEn el nombre del Señor (bis)",
+      "tags": ["santo", "ordinario de la misa"],
+      "posibleDuplicado": "Santo II (G), Movimiento Focolar, Gen Verde"
+    },
+    {
+      "id": "m3-mi-paz-os-dejo",
+      "titulo": "Mi Paz Os Dejo",
+      "seccion": "Cantos de paz",
+      "paginas": "Cancionero Mónica 2009",
+      "letra": "Mi paz os dejo, mi paz os doy\nNo como el mundo la da, la doy yo\nMi paz os dejo, mi paz os doy\nEso dice el Salvador\nRecibe la paz, recibe el amor\nDe parte de Cristo el Señor\nRecibe la paz, recibe el amor\nJunto con la salvación",
+      "tags": ["paz", "rito de la paz"],
+      "posibleDuplicado": "Mi Paz Os Dejo (G)"
+    },
+    {
+      "id": "m3-yo-quiero-ser",
+      "titulo": "Yo Quiero Ser",
+      "seccion": "Cantos de paz",
+      "paginas": "Cancionero Mónica 2009",
+      "letra": "Yo quiero ser el instrumento\nque toques y suenes hasta el firmamento,\nQue a todos de paz\nDame la paz, que suene la paz\nQue en todo el mundo\nse oiga la paz, dame la paz.",
+      "tags": ["paz", "rito de la paz"],
+      "posibleDuplicado": "Vaso Nuevo (Yo Quiero Ser)"
+    },
+    {
+      "id": "m3-y-hoy-que-nos-das",
+      "titulo": "Y Hoy Que Nos Das (Paola I)",
+      "seccion": "Cordero",
+      "paginas": "Cancionero Mónica 2009",
+      "letra": "Siempre te pedimos tantas cosas\nY olvidamos lo importante que es la vida,\npues pidamos no más muerte\nno más heridas\ny la vida eterna Dios nos la dará\n\nCoro\nY hoy que nos das la paz\nCordero de Dios\nTe pedimos nos concedas Señor\nel perdón de los pecados y la salvación,\nrecibiendo tu Espíritu. (bis)\n\nSiempre te pedimos tantas cosas\nY necesitamos tanto de tu paz\nEn el mundo en mí mismo en mi patria,\ny esa paz llene mi vida espiritual.",
+      "tags": ["cordero", "paz", "ordinario de la misa"],
+      "posibleDuplicado": ""
+    },
+    {
+      "id": "m3-paz-entre-los-hombres",
+      "titulo": "Paz Entre Los Hombres (Paola II)",
+      "seccion": "Cordero",
+      "paginas": "Cancionero Mónica 2009",
+      "letra": "Cuánta necesidad de hallar la paz\nY al extender mi súplica hasta ti\nTu espíritu bajó y tu presencia en mí\nNos invita en el momento a pedir\n\nCoro\nPaz entre los hombres\nPaz para las guerras\nVen cordero de Dios\ny danos tu bendición\nMuchos males nos atacan,\ny sus víctimas no escapan\nPaz entre los hombres\nPaz para las guerras\nVen Cordero de Dios\ny entréganos tu perdón\n\nVen Señor y escucha mi oración\npues instrumento tuyo deseo ser\nQue florezca en mí verdad\nla primavera de paz\ny que del odio no sea yo\nun objeto más",
+      "tags": ["cordero", "paz", "ordinario de la misa"],
+      "posibleDuplicado": ""
+    },
+    {
+      "id": "m3-paz-paz-paz",
+      "titulo": "Paz, Paz, Paz",
+      "seccion": "Cantos de paz",
+      "paginas": "Cancionero Mónica 2009",
+      "letra": "Paz, paz, paz (2)\nQueremos paz para este mundo\nQueremos paz para esta tierra\nDa la paz sin ver a ninguno\nHaz que suene la paz\nDa la paz en el amor\nPaz, paz, paz (2)",
+      "tags": ["paz", "rito de la paz", "animacion"],
+      "posibleDuplicado": ""
+    },
+    {
+      "id": "m3-paz-en-la-tierra",
+      "titulo": "Paz En La Tierra",
+      "seccion": "Cantos de paz",
+      "paginas": "Cancionero Mónica 2009",
+      "letra": "Coro\nPaz en la tierra\nPaz en las alturas\nQue el gozo eterno reine\nEn nuestro corazón (2)\n\nDa la paz, hermano, Da la paz,\nconstrúyela en tu corazón\ny con tu gesto afirmarás que tienes la paz\n\nQue tu paz, hermano, sea don\nEs el mejor signo de amor\nQue tú nos puedes ofrecer, abrazo de paz\n\nDame de esa paz, paz, paz Señor\nEl mundo vive sediento de paz\nsediento de amor",
+      "tags": ["paz", "rito de la paz"],
+      "posibleDuplicado": "Paz En La Tierra (D)"
+    },
+    {
+      "id": "m3-danos-la-paz-rena",
+      "titulo": "Danos La Paz (Rena)",
+      "seccion": "Cantos de paz",
+      "paginas": "Cancionero Mónica 2009",
+      "letra": "En un mundo tan vacío\ndonde hay tantos desafíos\nhambre, miseria y dolor\nniños muriendo de frío\nse oyen voces suplicantes\nde otros nuevos caminantes\nJóvenes de Fe pujante\nque hoy te siguen desafiantes\nescucha la petición de tanto\nLlanto y dolor la de un joven\nque olvidó que existía el amor\nte pedimos paz Señor basta de guerra\ny terror danos hoy tu bendición\ntócanos el corazón\n\nCoro\nDanos la paz, paz Señor\nUnge nuestras vidas\ntoca nuestro corazón paz, paz Señor\nconvierte en vida nueva\na los hijos por amor\n\nHoy hay tanto sufrimiento\nalmas llenas de tormento\ncon tu espíritu perfecto\nguíanos que es el momento\ncambia el arma de matar\npor valor para luchar\npara hallar la libertad\nLlénanos Señor de paz",
+      "tags": ["paz", "rito de la paz", "juventud"],
+      "posibleDuplicado": ""
+    },
+    {
+      "id": "m3-por-la-paz-de-la-tierra",
+      "titulo": "Por La Paz De La Tierra",
+      "seccion": "Cantos de paz",
+      "paginas": "Cancionero Mónica 2009",
+      "letra": "Larara Larara Larara (bis)\n\nPor la paz de la tierra\nelevo mi plegaria\nespero que te apiades\nde mi oración amarga\npor esos niños pobres\ncarentes de ventura,\ntambién por esos hombres\nque la guerra tortura\n\nPor la paz de la tierra\nse elevan las plegarias\nde diferentes pueblos\nde diferentes razas\nla libertad persista\nSeñor por caridad\nTú que todo lo puedes\nhaz que el odio termine\nhaz que el odio termine\nen un canto de paz\n\nLarara... (bis) Por la paz de la tierra",
+      "tags": ["paz", "rito de la paz"],
+      "posibleDuplicado": ""
+    },
+    {
+      "id": "m3-te-pido-la-paz",
+      "titulo": "Te Pido La Paz",
+      "seccion": "Cantos de paz",
+      "paginas": "Cancionero Mónica 2009",
+      "letra": "Ayúdame a mirar con tus ojos\nYo quiero sentir con tu corazón\nNo quiero vivir más siendo insensible\nCuánta necesidad Oh Jesucristo (bis)\n\nTe pido la paz para mi ciudad\nTe pido perdón por mi ciudad\nAhora me humillo y busco tu rostro\nA quién iré Señor sino a ti (bis)\nA quién iré Señor sino a ti",
+      "tags": ["paz", "intercesion"],
+      "posibleDuplicado": ""
+    },
+    {
+      "id": "m3-paz-en-la-tormenta",
+      "titulo": "Paz En La Tormenta",
+      "seccion": "Cantos de paz",
+      "paginas": "Cancionero Mónica 2009",
+      "letra": "Cuando lloras por las veces que intentaste\nY tratas de olvidar las lágrimas que lloraste\nSolo ves pena y tristeza\nY el futuro incierto sea\npuedes tener\nPaz en la tormenta\n\nCoro\nPuedes tener paz en la tormenta\nEsperanza cuando no puedes seguir\nAún con tu mundo hecho pedazos\nEl Señor guiará tus pasos\nPuedes tener paz en la tormenta\n\nMuchas veces me siento igual que tú\nY mi corazón anhela algo real\nY su Amor viene a mí y me ayuda a vivir\nEn paz en medio de la tormenta",
+      "tags": ["paz", "esperanza", "consuelo"],
+      "posibleDuplicado": ""
+    },
+    {
+      "id": "m3-en-jesucristo",
+      "titulo": "En Jesucristo",
+      "seccion": "Cantos de paz",
+      "paginas": "Cancionero Mónica 2009",
+      "letra": "En Jesucristo se halla la paz\nEn horas negras de tempestad\nTienen las almas dulces solas\nGrato recuerdo felicidad\n\nCoro\nGloria cantemos al redentor\nque por nosotros quiso morir\nY que la gracia del Salvador\nSiempre dirija nuestro vivir\n\nEn nuestras luchas en el dolor\nEn tristes horas de tentación\nCalma le infunde Santo vigor\nNuevos alientos al corazón",
+      "tags": ["paz", "alabanza", "himno"],
+      "posibleDuplicado": ""
+    },
+    {
+      "id": "m3-mi-paz-te-doy",
+      "titulo": "Mi Paz Te Doy",
+      "seccion": "Cantos de paz",
+      "paginas": "Cancionero Mónica 2009",
+      "letra": "Mi Paz te doy a ti\nEsa paz que el mundo no da\n/Esa paz que el mundo no entiende\nPara ti recíbela\nMi paz te doy a ti /bis\nMi paz te doy a ti",
+      "tags": ["paz", "rito de la paz"],
+      "posibleDuplicado": ""
+    },
+    {
+      "id": "m3-paz-a-mi-pais",
+      "titulo": "Paz A Mi País",
+      "seccion": "Cantos de paz",
+      "paginas": "Cancionero Mónica 2009",
+      "letra": "Paz a mi país (3)\nEn el nombre de Cristo (bis)\n\nSeñor ven camina\nPor estas calles hoy\nRestaura, perdona\nY agua viva haz brotar\n\nAmor a mi país...\nGozo a mi país...",
+      "tags": ["paz", "intercesion", "animacion"],
+      "posibleDuplicado": ""
+    },
+    {
+      "id": "m3-paz-senor",
+      "titulo": "Paz Señor",
+      "seccion": "Cantos de paz",
+      "paginas": "Cancionero Mónica 2009",
+      "letra": "Paz Señor en el Cielo y la tierra\nPaz Señor en las olas del mar\nPaz Señor por las flores que mueve\nSin saberlo la brisa al pasar\nTú que has hecho las cosas más bellas\nLes has dado una vida fugaz\nPon Señor tu mirada en nosotros\nY devuelve a los hombres la paz\n\nCoro\nPaz (3) Señor\nPaz (3) y amor\n\nHoy Señor he visto en el Cielo\nSuspendidas de un rayo de luz\nDos palomas que alzaron el vuelo\nCon las alas en forma de cruz\nHaz Señor que vuelvan a la tierra\nLas palomas que huyeron Señor\nY la llama que enciende la guerra\nSe consuma en la paz y el amor",
+      "tags": ["paz", "rito de la paz"],
+      "posibleDuplicado": "Paz Señor En El Cielo Y En La Tierra"
+    },
+    {
+      "id": "m3-cordero-1",
+      "titulo": "Cordero I",
+      "seccion": "Cordero",
+      "paginas": "Cancionero Mónica 2009",
+      "letra": "Cordero de Dios\nTú que quitas el pecado del mundo\nTen piedad de nosotros,\nten piedad de nosotros (bis)\n\nCordero de Dios\ntú que quitas el pecado del mundo\nDanos la paz (3)",
+      "tags": ["cordero", "ordinario de la misa"],
+      "posibleDuplicado": "Cordero de Dios I (Dm)"
+    },
+    {
+      "id": "m3-cordero-2",
+      "titulo": "Cordero II",
+      "seccion": "Cordero",
+      "paginas": "Cancionero Mónica 2009",
+      "letra": "Cordero, De Dios\nTú que quitas el pecado del mundo\nTen piedad de nosotros\n(Se repite)\nCordero de Dios\nTú que quitas el pecado danos la paz\nDanos la paz",
+      "tags": ["cordero", "ordinario de la misa"],
+      "posibleDuplicado": "Cordero de Dios II, Rufino Zaragoza (adaptación)"
+    },
+    {
+      "id": "m3-cordero-3",
+      "titulo": "Cordero III",
+      "seccion": "Cordero",
+      "paginas": "Cancionero Mónica 2009",
+      "letra": "Cordero de Dios\nQue quitas el pecado del mundo\nten piedad\nCordero de Dios\nque quitas el pecado del mundo ten piedad\nCordero de Dios\nque quitas el pecado del mundo\nDanos la paz, danos la paz, danos la paz.",
+      "tags": ["cordero", "ordinario de la misa"],
+      "posibleDuplicado": "Cordero de Dios III, Popular I (D)"
+    },
+    {
+      "id": "m3-cordero-elibeth",
+      "titulo": "Cordero (Elibeth)",
+      "seccion": "Cordero",
+      "paginas": "Cancionero Mónica 2009",
+      "letra": "Cordero de Dios\nQue quitas el pecado del mundo\nUh uh uh\nCordero de Dios\nque quitas el pecado del mundo\nUh uh uh\n\nTen piedad de nosotros\nten piedad de nosotros\nten piedad, ah ah ah\nCordero de Dios\nque quitas el pecado del mundo\nUh uh uh\nDanos la paz,\nDanos la paz danos la paz,\ndanos paz.",
+      "tags": ["cordero", "ordinario de la misa"],
+      "posibleDuplicado": ""
+    },
+    {
+      "id": "m3-cordero-lorena",
+      "titulo": "Cordero (Lorena)",
+      "seccion": "Cordero",
+      "paginas": "Cancionero Mónica 2009",
+      "letra": "Cordero de Dios\nQue quitas los pecados del mundo\nqueremos pedirte, pedirte perdón\nCordero de Dios\nQue borras los pecados del mundo\nTen piedad de todo tu pueblo\nTen piedad de todos nosotros Señor\nSálvanos ten piedad\nCordero de Dios\nQueremos pedirte perdón\nCordero de Dios\nDanos la paz, danos la paz (bis)",
+      "tags": ["cordero", "ordinario de la misa"],
+      "posibleDuplicado": ""
+    },
+    {
+      "id": "m3-cordero-seminario",
+      "titulo": "Cordero (Seminario)",
+      "seccion": "Cordero",
+      "paginas": "Cancionero Mónica 2009",
+      "letra": "Cordero de Dios\nque quitas el pecado del mundo\nten piedad de nosotros (2)\nCordero de Dios\nque quitas el pecado del mundo\ndanos la paz, danos la paz",
+      "tags": ["cordero", "ordinario de la misa"],
+      "posibleDuplicado": ""
+    },
+    {
+      "id": "m3-cordero-javier-fuenmayor",
+      "titulo": "Cordero (Javier Fuenmayor)",
+      "seccion": "Cordero",
+      "paginas": "Cancionero Mónica 2009",
+      "letra": "/Cordero de Dios\nQue quitas el pecado del mundo,\nTen piedad de nosotros/ (3)\n\nCordero de Dios\nQue quitas el pecado del mundo,\nDanos la paz, danos la paz.",
+      "tags": ["cordero", "ordinario de la misa"],
+      "posibleDuplicado": ""
+    },
+    {
+      "id": "m3-a-tu-puerta",
+      "titulo": "A Tu Puerta",
+      "seccion": "Cantos varios",
+      "paginas": "Cancionero Mónica 2009",
+      "letra": "A tu puerta está, llamándote,\ny solo entrará, si le abres tú\nporque tú, Tan solo tan solo tú\nPuedes hacerlo\nAbre las puertas de tu corazón\ny déjale entrar porque El en ti\nquiere vivir para darte paz\nTan solo una vez inténtalo\nabre tus puertas\nY verás, qué bueno es el Señor\nSolo dile: que pase, que pase, y El entrará\n\nCoro\nA tu puerta; Él tocará\na tu puerta; El Corazón\nEscúchale Y luego cuéntale\nal mundo cómo es El y dónde está",
+      "tags": ["conversion", "evangelizacion", "cantos varios"],
+      "posibleDuplicado": ""
+    },
+    {
+      "id": "m3-alma-misionera",
+      "titulo": "Alma Misionera",
+      "seccion": "Misioneros",
+      "paginas": "Cancionero Mónica 2009",
+      "letra": "Señor, toma mi vida nueva,\nantes de que la espera retrase años en mí.\nEstoy dispuesto a lo que quieras,\nno importa lo que sea tú llámame a servir.\n\nCoro\nLlévame donde los hombres\nnecesiten tus palabras\nnecesiten,\nmis ganas de vivir\nDonde falte la esperanza\ndonde todo sea triste simplemente\npor no saber de ti\n\nTe doy, mi corazón sincero\npara gritar sin miedo tu grandeza Señor.\nTendré, mis manos sin cansancio,\nTu historia entre mis labios\ny fuerza en la oración.\n\nY así en marcha iré cantando\npor valles predicando\nlo bello que es tu amor.\nSeñor tengo alma misionera\ncondúceme a la tierra\nque tenga sed de Dios",
+      "tags": ["misionero", "vocacional", "envio"],
+      "posibleDuplicado": "Alma Misionera"
+    },
+    {
+      "id": "m3-brilla-en-mi",
+      "titulo": "Brilla En Mí",
+      "seccion": "Misioneros",
+      "paginas": "Cancionero Mónica 2009",
+      "letra": "Quiero ser luz, a las naciones\nQuiero ser sal, y al mundo cambiar\nMostrarles tu gloria, contarles la historia\nde tu magnífico amor\n\nCoro\nBrilla en mí, Yo iré,\nguía mis pasos, Yo te seguiré\nQue mi corazón,\nSe encienda con tu amor\nBrilla en mí, Envíame\nque el mundo proclame\nque tú eres el Rey\nque en tu nombre iré, brilla en mí.\n\nTu sanidad, pon en mis manos\nmi corazón, entregue tu amor\nsi no le mostramos,\nsi no le anunciamos\nCómo sabrán de tu amor.",
+      "tags": ["misionero", "envio", "alabanza"],
+      "posibleDuplicado": ""
+    },
+    {
+      "id": "m3-nada-te-turbe",
+      "titulo": "Nada Te Turbe",
+      "seccion": "Cantos varios",
+      "paginas": "Cancionero Mónica 2009",
+      "letra": "Nada te turbe, nada te quite la paz\nque Dios te dio con su amor\nY nada te haga dudar de su amor\nNada te turbe, nada te espante\nTodo lo puedes soportar,\nen Dios tu Salvador y Señor\n\nCoro\nPues nunca se alejará el Señor\nNunca se enojará,\nNunca se arrepentirá\nDe haberte dado su amor\nEl en sus brazos te llevará\nÉl contigo sufrirá\ny también sonreirá\nPues Dios te ama\n\nDios te ama tanto\nQue se entregó por ti en la cruz\nPor eso él es tuyo y tú de él\nY quien a Dios tiene\nNada le faltará,\nsu presencia todo alcanzará\nY quien a Dios tiene nada le faltará\nSolo Dios basta",
+      "tags": ["confianza", "consuelo", "cantos varios"],
+      "posibleDuplicado": ""
+    },
+    {
+      "id": "m3-mi-amado-es",
+      "titulo": "Mi Amado Es",
+      "seccion": "Cantos varios",
+      "paginas": "Cancionero Mónica 2009",
+      "letra": "Ha nacido hoy, dentro de mi corazón,\nun amor inmenso que llena de ilusión\nhoy he descubierto la huella que dejó\neste encuentro nuestro\nque mi vida transformó.\n\nCoro\nEres mi Amado así\ntan sencillo como las flores silvestres\ntan dulce como el canto de las aves\ntan puro como el agua\ny tan suave como el viento.\n\nComo las aves que en el cielo\nvienen y se van\nasí en el firmamento de mi alma\nsiempre estás,\nme llevas de la mano\npor caminos de verdad\nla luz de tu mirada\nme llena de amor y paz",
+      "tags": ["amor de dios", "cantos varios"],
+      "posibleDuplicado": ""
+    },
+    {
+      "id": "m3-vuelve",
+      "titulo": "Vuelve",
+      "seccion": "Cantos varios",
+      "paginas": "Cancionero Mónica 2009",
+      "letra": "Coro\n¡Vuelve Oh Vuelve!\nVuelve por tu pueblo Oh Señor\nTu novia dice Vuelve Oh Vuelve\nEl Espíritu y la novia dice ven\n\n¿Dónde está Oh muerte tu aguijón?\n¿Dónde Oh sepulcro tu victoria?\nsorbida es la muerte en victoria\ncuando en ese momento\nen solo un pestañar\nY a la final trompeta\nlos muertos resucitarán\nincorruptibles resucitarán\nY nuestros cuerpos transformados serán\n\nPor tanto no durmamos como los demás\nsino velemos Y seamos sobrios\nporque el mismo Señor\nCoro: El mismo Señor vendrá\nCon voz de Arcángel\ncon trompetas de Dios\ndescenderá del cielo\nmuertos en Cristo resucitarán\nY los que hayamos quedado seremos\nCoro: Arrebatados juntamente\ncon ellos Y en el aire le recibiremos\nY así estaremos para siempre con El\n\nCoro: Vuelve...\nPor tanto...\nVuelve...\nEl Espíritu y la novia dicen ven (3)",
+      "tags": ["escatologia", "esperanza", "cantos varios"],
+      "posibleDuplicado": ""
+    },
+    {
+      "id": "m3-lo-que-soy",
+      "titulo": "Lo Que Soy (M. Salas)",
+      "seccion": "Cantos varios",
+      "paginas": "Cancionero Mónica 2009",
+      "letra": "Para escucharte, para seguirte\nEstá mi vida de ti prendida\nComo un árbol y una flor\nComo nuestra tierra al sol\nComo peces en el mar\nAlimento que me das\ntu palabra y tu amor\npor eso vivo y soy Señor\n\nNo hay un momento, ni existe un día\nNi un minuto en esta vida\nque te llame y tú no estés\nYo te busco y tú me ves\nQue no existe amor igual\nningún poder y libertad\ndel espacio universal\ntu grandeza y gloria es única\n\nLo que he vivido y aún viviré\nEl ver y oír oler y sentir\nme resulta sin igual\npues mirar oír y hablar\nY vivir en libertad\nen alegría y en dolor\nCon tu aliento y amistad\nde tu mano y junto a ti Señor",
+      "tags": ["seguimiento", "cantos varios"],
+      "posibleDuplicado": ""
+    },
+    {
+      "id": "m3-gloria-martin-valverde",
+      "titulo": "Gloria (Martín Valverde)",
+      "seccion": "Alabanza",
+      "paginas": "Cancionero Mónica 2009",
+      "letra": "Gloria, Gloria (bis)\nA Jesús, el Señor\nAl Cordero de Dios\nAl nombre sobre todo nombre (bis)\nGloria, Gloria (bis)",
+      "tags": ["alabanza", "gloria", "animacion"],
+      "posibleDuplicado": ""
+    },
+    {
+      "id": "m3-lava-mis-pies",
+      "titulo": "Lava Mis Pies (M. Salas)",
+      "seccion": "Cuaresma",
+      "paginas": "Cancionero Mónica 2009",
+      "letra": "En la cena Jesús se levantó\nUna toalla en el cinto se colgó\nUna fuente de agua preparó\npara lavarle los pies a todos\nLe tocaba el turno a Simón\n¿Lavarás tú mis pies? le preguntó\nAhora no lo comprendes respondió\nMis pies no lavarás Señor\nsi no lavo Tus pies\njamás podrás compartir a mi lado\n\nCoro\nSeñor si es así, te quiero pedir\nQuédate aquí, lava mis pies\ny si también quieres lavar\nmis manos, mi cabeza, hazlo (2)\n\nEl Señor a la mesa se sentó\n¿Entiendes lo que he hecho? preguntó\nEl maestro me llaman y el Señor\nesa es la verdad lo soy\nsi yo que soy maestro y Señor\nhe lavado los pies a todos hoy\nháganlo unos a otros como yo\nesa es la verdad les digo\nque el servidor es igual al patrón\ny el enviado a quien lo envía",
+      "tags": ["cuaresma", "jueves santo", "lavatorio", "servicio"],
+      "posibleDuplicado": ""
+    },
+    {
+      "id": "m3-cantemos-al-amor-de-los-amores",
+      "titulo": "Cantemos Al Amor De Los Amores",
+      "seccion": "Alabanza",
+      "paginas": "Cancionero Mónica 2009",
+      "letra": "Cantemos al Amor de los Amores\nCantemos al Señor\nDios está aquí\nVenid adoradores\nAdoremos\nA Cristo redentor\n\nCoro\nGloria a Cristo Jesús\nCielos y tierra bendecid al Señor\nhonor y gloria a ti Rey de la gloria\namor por siempre a ti\nDios del Amor\n\nPor nuestro Amor oculta en el Sagrario\nsu gloria y esplendor\npara nuestro bien\nse queda en el santuario esperando\nal justo y pecador",
+      "tags": ["alabanza", "eucaristia", "adoracion"],
+      "posibleDuplicado": "Cantemos al Amor de los Amores"
+    }
+  ]
+}

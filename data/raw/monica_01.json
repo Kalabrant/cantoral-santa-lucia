@@ -1,0 +1,365 @@
+{
+  "paquete": "monica_01",
+  "canciones": [
+    {
+      "id": "m1-anda-y-siguelo",
+      "titulo": "Anda Y Síguelo",
+      "seccion": "Misioneros",
+      "paginas": "Cancionero Mónica 2009",
+      "letra": "Dónde vas tras la huella\nCaminante con tu cruz\nTú que dejas tus amigos\nTu familia tras la luz\nVoy detrás de Jesús\nEs la gran invitación\nVamos juntos al andar\nVamos todos en misión\n\nCoro\nAnda y síguelo\npor todas las naciones\nAnunciando su amor\na todos los pueblos\nllevando su luz,\nLevanta América y desde tu fe\nenvía misioneros a toda la grey\nLevanta América\ntu pobreza es tu riqueza\nEnvía misioneros comparte tu fe",
+      "tags": ["misionero", "envío", "américa", "juventud"],
+      "posibleDuplicado": ""
+    },
+    {
+      "id": "m1-alabare",
+      "titulo": "Alabaré",
+      "seccion": "Alabanza",
+      "paginas": "Cancionero Mónica 2009",
+      "letra": "Coro\nAlabaré, (4) Alabaré a mi Señor\n\nJuan vio el número de los redimidos\nY todos alababan al Señor\nUnos oraban, otros cantaban\nY todos alababan al Señor\n\nTodos unidos alegres cantamos\nGlorias y alabanzas al Señor\nGloria al Padre, gloria al Hijo\nY gloria al Espíritu de amor\n\nSomos tus hijos Dios Padre eterno\nTú nos has creado por amor\nTe adoramos, te bendecimos y\nTodos cantamos en tu honor",
+      "tags": ["alabanza", "animacion", "clásico"],
+      "posibleDuplicado": "Alabaré"
+    },
+    {
+      "id": "m1-a-edificar-la-iglesia",
+      "titulo": "A Edificar La Iglesia",
+      "seccion": "Entrada",
+      "paginas": "Cancionero Mónica 2009",
+      "letra": "A edificar la Iglesia (3) del Señor\n\nCoro\nHermano ven ayúdame\nHermana ven ayúdame\nA edificar la Iglesia del Señor\n\nYo soy la Iglesia\nTú eres la Iglesia\nSomos la Iglesia del Señor\n\nLos pobres son la Iglesia\nLos ricos son la Iglesia\nSomos la Iglesia del Señor",
+      "tags": ["entrada", "iglesia", "comunidad", "animacion"],
+      "posibleDuplicado": "A Edificar La Iglesia"
+    },
+    {
+      "id": "m1-alegrate-pueblo-de-dios",
+      "titulo": "Alégrate Pueblo De Dios",
+      "seccion": "Entrada",
+      "paginas": "Cancionero Mónica 2009",
+      "letra": "Coro\nAlégrate pueblo de Dios\nporque el Señor\nen medio de ti está (bis)\n\nAlaba al Padre, alaba al Hijo\nAlaba al Santo consolador (bis)\n\nSu amor derrama cual agua viva\nEn lo profundo de nuestro ser (bis)\n\nAlza tus manos, cierra los ojos\nDeja que inunde tu corazón (bis)",
+      "tags": ["entrada", "alabanza", "alegría"],
+      "posibleDuplicado": "Alégrate Pueblo De Dios (C)"
+    },
+    {
+      "id": "m1-caminare",
+      "titulo": "Caminaré",
+      "seccion": "Salmos",
+      "paginas": "Cancionero Mónica 2009",
+      "letra": "Coro\nCaminaré en presencia del Señor (2)\n\nAmo al Señor porque escucha\nmi voz suplicante\nporque inclina su oído hacia a mí\nel día que lo invoco.\n\nMe envolvían redes de muerte,\ncaí en tristeza y angustia,\ninvoqué el nombre del Señor.\n¡Señor salva mi vida!\n\nEl Señor es benigno y justo,\nnuestro Dios es compasivo,\nel Señor guarda a los sencillos,\nestando yo sin fuerzas me salvó\n\nAlma mía, recobra tu calma,\nque el Señor fue bueno contigo,\narrancó mi alma de la muerte,\nmis ojos de las lágrimas,\nmis pies de las caídas.",
+      "tags": ["salmo", "salmo 114", "confianza", "cuaresma"],
+      "posibleDuplicado": "Caminaré"
+    },
+    {
+      "id": "m1-perdona-a-tu-pueblo",
+      "titulo": "Perdona A Tu Pueblo",
+      "seccion": "Cuaresma",
+      "paginas": "Cancionero Mónica 2009",
+      "letra": "Perdona a tu pueblo Señor\nPerdona a tu pueblo, perdónale Señor (bis)\n\nNo estés eternamente enojado (2)\nPerdónale Señor\n\nPor la inocencia de Jesucristo,\nporque Él fue con sacrificio\nPerdónale Señor\n\nPorque Él fue limpio de corazón,\nporque fue honrado trabajador\nPerdónale Señor\n\nPorque Jesús mantuvo esperanza,\nporque Él creyó con tanta constancia\nPerdónale Señor\n\nPorque Jesús oyó tu palabra,\nla misión que tú le confiabas\nPerdónale Señor\n\nPorque Jesús habló con cariño,\nporque alentó al pueblo abatido\nPerdónale Señor\n\nPorque Él rezó por sus enemigos,\npidió perdón, no pidió castigo\nPerdónale Señor",
+      "tags": ["cuaresma", "perdón", "penitencial"],
+      "posibleDuplicado": "Perdona A Tu Pueblo"
+    },
+    {
+      "id": "m1-vamos-cantad",
+      "titulo": "Vamos Cantad",
+      "seccion": "Entrada",
+      "paginas": "Cancionero Mónica 2009",
+      "letra": "Vamos cantad,\ncantemos en la paz de mi Señor Jesús\ny que el amor de Dios\nse torne en nuestras vidas luz\n\nCoro\nEs tan bueno estar aquí\njuntos cantando al Señor\nsoltando nuestra voz y así\nexaltar un Dios de amor\n\nVamos gozad,\ngocemos en la paz de mi Señor Jesús\ny que el amor de Dios\nse torne en nuestras vidas luz\n\nVamos alabad,\nalabemos en la paz de mi Señor Jesús\ny que el amor de Dios\nse torne en nuestras vidas luz\n\nVamos adorad,\nadoremos en la paz de mi Señor Jesús\ny que el amor de Dios\nse torne en nuestras vidas luz",
+      "tags": ["entrada", "alabanza", "alegría"],
+      "posibleDuplicado": "Vamos Cantad"
+    },
+    {
+      "id": "m1-mayor-es-cristo-en-mi",
+      "titulo": "Mayor Es Cristo En Mí",
+      "seccion": "Alabanza",
+      "paginas": "Cancionero Mónica 2009",
+      "letra": "Danos tus ojos oh Señor\nY ayúdanos a ver oh Dios\nque el hombre está en cautividad\nMas donde abunda la maldad\nTu gracia sobreabundará\npara el cautivo libertar\n\nCoro\nAl enemigo atarás, victoria nos darás\nmi vida te daré, cantando lucharé\nMayor es el que vive en mí\nMás grande\nJesús es el que vive en mí\nEs grande\na la cautividad proclama libertad\nMayor es Cristo en mí\n\nDanos tu Espíritu Señor\npara estar firmes sin temor\nluchando juntos frente al mal\ntu gran poder es vencedor\nven rige nuestro corazón\ntú reinas sobre la maldad",
+      "tags": ["alabanza", "liberación", "carismático"],
+      "posibleDuplicado": ""
+    },
+    {
+      "id": "m1-cristo-yo-te-quiero",
+      "titulo": "Cristo Yo Te Quiero",
+      "seccion": "Cantos varios",
+      "paginas": "Cancionero Mónica 2009",
+      "letra": "Coro\nCristo yo te quiero\nme has visto cantar\ndime que si creo en ti\nme podré salvar\nCristo yo te quiero\nme puedes mirar\ndime que si creo en Dios\nme podré salvar\nSi tú quieres Cristo yo iré a tu Reino\nNo permitas oh Jesús\nque vaya al infierno\n\nCristo qué más pruebas necesitas\nde tu fuerza sobre esta multitud\nsi el poder del mal tú aniquilas\ntú sabrás librarnos de la esclavitud\n\nDeben ser más de treinta mil\nlos que harían cualquier cosa por ti\ndispuestos incluso a morir\nal menos unos treinta mil\nSiempre te están escuchando\nDiles que no hay que odiar\ny tú tendrás mucho más poder\ny nosotros un hogar\n\nY tú tendrás poder y gloria\nCoro: Poder y gloria (4)\nSiempre, por siempre, por siempre\nCoro: Por siempre siempre (4)\nPor los siglos de los siglos amén\nCoro: Por siempre Amén\nPor siempre Amén",
+      "tags": ["cantos varios", "juventud", "conversión"],
+      "posibleDuplicado": ""
+    },
+    {
+      "id": "m1-de-israel-vengo",
+      "titulo": "De Israel Vengo",
+      "seccion": "Cantos varios",
+      "paginas": "Cancionero Mónica 2009",
+      "letra": "Coro\nDe Israel vengo\nTraigo recuerdos\nHechos y nostalgias\nQue me llevan a ti\nDe Israel vengo\nCanto a tu reino\nEste es el pueblo\nEscogido por ti\n\nCuenta la historia que a Jacob\nDios lo escogió para que fuera\nEl camino de preparación\nDel pueblo de la salvación.\n\nPor mucho tiempo fue esclavo\nDe un faraón más que inhumano\nPero el canto de la libertad\nLo llevó a desear la paz.\n\nEl Rey David fue el primero\nEn fundar y preparar\nLo que sería el designio de Dios\nPues sus hijos nacerían\nDe ese pueblo escogido por Dios.",
+      "tags": ["cantos varios", "historia de la salvación", "israel"],
+      "posibleDuplicado": ""
+    },
+    {
+      "id": "m1-bienvenidos",
+      "titulo": "Bienvenidos",
+      "seccion": "Entrada",
+      "paginas": "Cancionero Mónica 2009",
+      "letra": "Bienvenidos mis hermanos\nA este encuentro parroquial\nNuestras manos te ofrecemos\nCon un amor fraternal\nVengas de donde tú vengas\nCon amor te serviré\nPorque en ti está el Señor.\n\nBienvenidos sean todos, bienvenidos\nNos alegramos al decirlo\nEn el nombre del Señor\nBienvenidos sean todos, bienvenidos\nAl encuentro parroquial\nIglesia pueblo de Dios.\n\nPara Dios no hay fronteras\nSólo importa tener fe\nSi tu corazón es puro\nY vives en la verdad\nComparte con tus hermanos\nLas gracias del Señor\nFe, esperanza y caridad.",
+      "tags": ["entrada", "acogida", "comunidad"],
+      "posibleDuplicado": "Bienvenidos Sean Todos (D)"
+    },
+    {
+      "id": "m1-el-nazareno",
+      "titulo": "El Nazareno",
+      "seccion": "Cuaresma",
+      "paginas": "Cancionero Mónica 2009",
+      "letra": "Por la vía dolorosa allí va… El Nazareno\nSus heridas ya nos dan la libertad\nEl cielo nuevo\n\nCoro\nYo voy siguiendo (2)\na Jesús el Nazareno (bis)\n\nEse hombre que ha nacido de María\nEl Nazareno\nQue blasfeman e insultan es quien da…\nEl cielo nuevo\n\nY la pascua ha celebrado antes de ir\nEl Nazareno\nA entregar su vida por ti y por mí\nEl cielo nuevo\n\nAnte el Padre ha suplicado por amor\nEl Nazareno\nQue su voluntad se haga en virtud…\nDel cielo nuevo\n\nA tres horas de agonía expira ya…\nEl Nazareno\nConsumado ante el Padre todo está\nEl cielo nuevo",
+      "tags": ["cuaresma", "semana santa", "pasión", "viacrucis"],
+      "posibleDuplicado": ""
+    },
+    {
+      "id": "m1-piedad-y-misericordia",
+      "titulo": "Piedad Y Misericordia De Mí",
+      "seccion": "Cuaresma",
+      "paginas": "Cancionero Mónica 2009",
+      "letra": "Coro\nPiedad y misericordia te pedimos\nHijo de Dios porque hemos pecado\nNuestras culpas van en tu Cruz\n\nEntregado y apresado,\nenjuiciado y negado,\nMaltratado y humillado,\nCoronado y flagelado\ncaminas hacia la muerte\npara darme así la vida\n\ntus heridas me han sanado,\neres tú mi redentor\ndesvestido y clavado,\nlevantado me atraes a ti\na María nos entregas\ncomo prenda de tu amor\n\nEl paraíso prometes\na quien te acompaña en el dolor\nen tres horas de agonía,\nperdonas desde la cruz\nAl Padre te encomiendas,\nmueres en la cruz\nTraspasado y bajado,\nEmbalsamado y sepultado.",
+      "tags": ["cuaresma", "semana santa", "pasión", "penitencial"],
+      "posibleDuplicado": ""
+    },
+    {
+      "id": "m1-nazareno-ii",
+      "titulo": "Nazareno II",
+      "seccion": "Cuaresma",
+      "paginas": "Cancionero Mónica 2009",
+      "letra": "Coro\nNazareno que vas con tu cruz\nPor las calles de Jerusalén\nSalvas al mundo y abres el cielo\nMe quieres a mí también\n\nDestrozada está tu piel por las caídas\nLevantándote me sanas las heridas\n\nTu Santa Madre es traspasada de dolor\nmientras te mira le agoniza el corazón\n\nAgotado está tu cuerpo por la cruz\nCirineo ya te ayuda a ti Jesús\n\nEs tu rostro el más doliente mi Jesús\nLa Verónica lo seca y allí quedas tú\n\nLas Mujeres se desgarran de dolor\nlas consuelas en el paso de tu amor",
+      "tags": ["cuaresma", "semana santa", "viacrucis", "pasión"],
+      "posibleDuplicado": ""
+    },
+    {
+      "id": "m1-peque-dios-mio",
+      "titulo": "Pequé, Dios Mío",
+      "seccion": "Cuaresma",
+      "paginas": "Cancionero Mónica 2009",
+      "letra": "Coro\nPequé, pequé Dios mío\nPiedad Señor piedad,\n[Si grandes son mis culpas\nMayor es tu bondad] (2)\n\nPor tu pasión sagrada,\npiedad Señor piedad…\n\nPor tu preciosa sangre,\npiedad Señor piedad…\n\nPor tu caída en tierra,\npiedad Señor piedad…\n\nPor tu Madre afligida,\npiedad Señor piedad…",
+      "tags": ["cuaresma", "penitencial", "perdón"],
+      "posibleDuplicado": "Pequé, Pequé"
+    },
+    {
+      "id": "m1-himno-a-san-pablo",
+      "titulo": "Himno A San Pablo",
+      "seccion": "Himnos",
+      "paginas": "Cancionero Mónica 2009",
+      "letra": "Tú que fuiste un gran padre del pueblo\nun apóstol por Cristo formado\nmira cuánto dolor y pecado\nsufre el mundo alejado de Dios (2)\n\nCoro\nOye Pablo la voz de tus hijos\nque ferviente se eleva hasta el cielo\nHaz que lleno de amor y de celo\ntu camino sepamos seguir (2)\n\nLa Palabra no tuvo confines\ntodo el mundo escuchó su mensaje\nCon tu fuego de Cristo le hablaste\nDe tu cruz, de tu Reino de Amor (2)",
+      "tags": ["himno", "santos", "san pablo", "misionero"],
+      "posibleDuplicado": ""
+    },
+    {
+      "id": "m1-es-como-un-rio",
+      "titulo": "Es Como Un Río",
+      "seccion": "Espíritu Santo",
+      "paginas": "Cancionero Mónica 2009",
+      "letra": "Es como un río, es la lluvia,\nes un soplo, es un fuego,\nes el Espíritu de Dios que quiere actuar\n\nAhí va bajando, va cayendo,\nva soplando, va ardiendo,\nes el Espíritu de Dios que está en mí\n\nBajando en ti, cayendo en ti,\nsoplando en ti, ardiendo en ti.\n\nAhí va bajando…",
+      "tags": ["espíritu santo", "pentecostés", "animacion"],
+      "posibleDuplicado": ""
+    },
+    {
+      "id": "m1-grande-es-mi-poderoso",
+      "titulo": "Grande Es Mi Poderoso",
+      "seccion": "Alabanza",
+      "paginas": "Cancionero Mónica 2009",
+      "letra": "Mi Dios es Rey, Él es el poderoso\nDios y Rey (bis)\n\nCoro\nGrande es mi poderoso Dios\nÉl reina con poder\nGrande es mi poderoso Dios\nEs Dios Supremo\nGrande es mi poderoso Dios\nÉl reina con poder\nGrande es mi Dios\nGrande es mi Rey\n\nCuando el pueblo de Israel\nLlegó frente al mar\nDios los cruzó y a Faraón hundió\nTodo el mundo danzaba al morir Faraón\nA una voz gritaban y danzaban\n\nCuando el pueblo de Dios llegó a Jericó\nDios dijo: Marchen alrededor\nHasta el séptimo día\ntodo el pueblo marchó\nDijo Dios: Gritad, y el muro cayó y decían\n\nCuando el pueblo moría\nPerdido en maldad\nmi Jesús murió y resucitó\nÉl llevó nuestras culpas\nY nos dio libertad\ngracias Dios\npor siempre te alabaremos diciendo",
+      "tags": ["alabanza", "animacion", "carismático"],
+      "posibleDuplicado": ""
+    },
+    {
+      "id": "m1-demos-gracias-al-senor",
+      "titulo": "Demos Gracias Al Señor",
+      "seccion": "Alabanza",
+      "paginas": "Cancionero Mónica 2009",
+      "letra": "Coro\nDemos gracias al Señor, demos gracias,\ndemos gracias al Señor (bis)\n\nPor las mañanas las aves cantan\nlas alabanzas al Padre Creador\ny por las tardes las flores cantan\nlas alabanzas al Padre Creador\n\nAl mediodía el sol le canta\nlas alabanzas a Cristo Salvador\ny a medianoche la luna canta\nlas alabanzas a Cristo Salvador\n\nDe madrugada la tierra canta\nlas alabanzas al Gran Consolador\ny a toda hora el hombre canta\nlas alabanzas al Gran Consolador",
+      "tags": ["alabanza", "acción de gracias", "creación"],
+      "posibleDuplicado": "Demos Gracias"
+    },
+    {
+      "id": "m1-yo-creo-en-la-misericordia",
+      "titulo": "Yo Creo En La Misericordia",
+      "seccion": "Alabanza",
+      "paginas": "Cancionero Mónica 2009",
+      "letra": "Yo creo en la misericordia de Dios (2)\nYo creo en la misericordia de mi Señor (bis)\n\nCoro\nSi soy fiel en lo poco Él me confiará más\nSi soy fiel en lo poco mis pasos Él guiará (bis)\n\nYo creo en el perdón de mi Dios (2)\nYo creo en el perdón de mi Señor (bis)\n\nYo creo en las promesas de Dios (2)\nYo creo en las promesas de mi Señor (bis)\n\nYo creo en el amor de mi Dios (2)\nYo creo en el amor de mi Señor (bis)",
+      "tags": ["alabanza", "misericordia", "confianza"],
+      "posibleDuplicado": ""
+    },
+    {
+      "id": "m1-popurri-i",
+      "titulo": "Popurrí I",
+      "seccion": "Cantos varios",
+      "paginas": "Cancionero Mónica 2009",
+      "letra": "Vamos a alabar al Señor\ncon panderos y danzas (2)\nSi en la tierra se canta\nen el cielo se oye (2)\nAsí (3) se alaba a Dios (2)\nCon mucha alegría todos (3)\nAsí se alaba a Dios\nY dando una vuelta todos…\nY dando un brinquito todos…\nY dándole a las palmas todos…\n\nA que tú no sabes\nlo que en la Iglesia pasó (3)\nFue el Espíritu Santo (3)\nlo que en la Iglesia se derramó (bis)\nA que tú no sabes\nlo que en mi vida pasó…\nA que tú no sabes\nlo que en mi casa pasó…\nA que tú no sabes\nlo que en mi hermano pasó…\n\nCon María es más fácil caminar,\npor el camino angosto\ndonde Jesús siempre está (bis)\nElla nos guía en el camino,\nella dirige nuestros pasos,\n(porque a Jesús nos quiere llevar\nÉl es el camino y la verdad) (2)\n\nLa sangre de Cristo\ntiene poder (3)\nla sangre de Cristo tiene poder para liberar\nyo estoy lavado por la sangre\ntú estás lavado por la sangre\nnosotros estamos lavados por la sangre,\nlavados por la sangre de Cristo Rey.\n\nNo hay Dios tan grande como tú\nno lo hay, no lo hay (bis)\nNo hay Dios que pueda hacer las cosas\ncomo las que haces tú (bis)\nNo es con espadas, ni con ejércitos,\nmas con tu Santo Espíritu (bis)\nY esos montes se moverán (3)\nMas con tu Santo Espíritu.\n\nSi la duda llega a tu corazón\ny te dice déjame entrar (2)\ndile no, no, no, Cristo vive en mí\ny no hay lugar para ti (2)\nsi el odio llega a tu corazón…\nsi el rencor llega a tu corazón…\nsi el amor llega a tu corazón\ny te dice déjame entrar (2)\ndile sí, sí, sí, Cristo vive en mí\ny sí hay lugar para ti.\n\nEsta alegría no va a salir (3)\nPorque está dentro de mi corazón\nY el fuego cae, cae, cae\nLos males salen, salen, salen\nY el creyente alaba al Señor (bis)\nEsta obra no va a parar (3)\nPorque está dentro de mi corazón\nJesucristo me va a salvar (3)\nPorque está dentro de mi corazón\nJesucristo ya me salvó (3)\nPorque está dentro de mi corazón.\n\nConviene que Cristo crezca (3) más y más\nY que disminuya yo (3) más y más\nConviene que Cristo venza (3) más y más\nY que expulse a Satanás (3) más y más\nConviene que Cristo reine (3) más y más\nPara así amarnos más (3) más y más\n\nEl amor del Señor es maravilloso (4)\nGrande es el amor de Dios\nTan alto que no puedo estar arriba de Él,\ntan bajo que no puedo estar debajo de Él,\ntan ancho que no puedo estar fuera de Él\nGrande es el amor de Dios\n\nJesús es el maestro,\nAlábalo que Él vive (2) Alábalo (2) Alábalo que Él vive (2)\nPerdona los pecados…\nJesús resucitado…\nJesús maná del cielo…\nJesús Hostia sagrada…\n\nSi tú pruebas todo\ny todo te falla, prueba a Cristo (2)\nÉl es tu amigo fiel\nÉl te acompaña siempre a donde vas\nSi tú pruebas todo y todo te falla (3)\nPrueba a Cristo\n\nSi quieres sentir\nel gozo del Espíritu Santo (2)\nAlábale (3) con el corazón\nDánzale… cántale… apláudele…",
+      "tags": ["popurrí", "animacion", "alabanza", "carismático"],
+      "posibleDuplicado": ""
+    },
+    {
+      "id": "m1-popurri-ii",
+      "titulo": "Popurrí II",
+      "seccion": "Cantos varios",
+      "paginas": "Cancionero Mónica 2009",
+      "letra": "No hay Dios tan grande como tú\nno lo hay (2)\n[no hay Dios que pueda hacer las cosas como las que haces tú] (2)\nno es con espadas ni con ejércitos\nmas con tu Santo Espíritu (2)\ny esos montes se moverán (3)\nmas con tu Santo Espíritu\ny esta asamblea te alabará…\n\nCristo rompe las cadenas (3)\ny nos da seguridad.\n¿A quién iré? (3)\nsino a Jesús, Él me salvó\nmi alma transformó\na quién iré sino a Jesús\n\nComo corren ríos dentro de mi ser (2)\nEs que yo confío en Cristo mi Rey (2)\n\nComo río de agua viva\nque salta pa' arriba, que llevo dentro\nConfirmo (2) en este momento\nEl Espíritu Santo, su derramamiento (bis)\n\nDame del agua que brota\npara la vida eterna (bis)\nDel agua que le diste\na la mujer samaritana (bis)\n\nBatiendo las palmas con gozo\nAsí se alaba al Señor (bis)\nEste gozo que hay en mi alma\nNadie lo podrá quitar (bis)\n\nOh oh… hay que nacer del agua\nOh… hay que nacer del Espíritu de Dios\nOh oh… hay que nacer del agua\ny del Espíritu de Dios\nhay que nacer del Señor (bis)\n\nAgáchate, párate, baila, brinca (2)\nAlaba al Señor con las manos, con los pies\nY que tu corazón grite gloria otra vez (2)\nGloria, gloria, gloria al Señor (3)\nGritemos gloria, gloria a Dios (2)\n\nEstos tres permanecen\nla fe, la esperanza y el amor\npero el mayor de ellos es el amor\n[Oh Dios lléname de amor\npara aceptar a mi hermano como es\npara poder alcanzar la estatura de Jesús\nsólo amando sé que venceré] (bis)\n\nLos israelitas le dieron siete vueltas\nle dieron siete vueltas a Jericó (2)\nGloria a Dios gritaron todos\ncayeron los muros de Jericó (2)\nHermano querido\nque tienes tantas pruebas\nque son como los muros de Jericó\nGloria a Dios podrás gritar\ncaerán los muros de tu corazón (bis)\n\nAlgo está descendiendo (3)\nde allá arriba de los cielos.\nEse es el Espíritu Santo (2)\nOh Gloria, Aleluya, Aleluya Gloria a Dios (2)\n\nQué bueno es alabarte Señor,\ncantar [salmodiar tu nombre (2)\nanunciar por la mañana tu misericordia\ntu fidelidad de noche] (bis)\ny ¿Quién es el que vive?\nJesús es el que vive\ny ¿Quién es el que reina?\nJesús es el que reina\nanunciar por la mañana…\n\nCuando Cristo venga en gloria\nyo no me voy a quedar (2)\nseremos levantados con poder (3)\nhacia la nueva Jerusalén\n(A que tú te vas, a que yo también\npara la nueva Jerusalén) (2)\ncielo nuevo, tierra nueva\ndonde vamos a vivir.\nSeremos levantados…\n\nEste es el día (3) que hizo el Señor (2)\ndía de alegría y de gozo (2)\nEste es el día que hizo el Señor\ndía de alegría y de gozo\nEste es el día (2) que hizo el Señor\n\nEstamos de fiesta con Jesús\ny al cielo queremos ir\nestamos reunidos en la mesa\ny es Cristo quien va a servir\nPoderoso es nuestro Dios (4)\nEl Padre, el Hijo\npoderoso es nuestro Dios\nEspíritu Santo\npoderoso es nuestro Dios\nPoderoso es nuestro Dios (2)\nÉl sana, Él salva,\npoderoso es nuestro Dios\nbautiza, Él viene,\npoderoso es nuestro Dios\npoderoso es nuestro Dios (2)\n\nEl mar se abrió y el pueblo pasó (2)\ny los israelitas alaban al Señor (2)\nPara el hombre de fe\nDios abre el camino (2)\ny los israelitas alaban al Señor (2)\nEl mar se cerró y Egipto se ahogó\ny los israelitas alaban al Señor (2)\nPara el hombre sin fe\nDios cierra el camino (2)",
+      "tags": ["popurrí", "animacion", "alabanza", "carismático"],
+      "posibleDuplicado": ""
+    },
+    {
+      "id": "m1-popurri-iii",
+      "titulo": "Popurrí III",
+      "seccion": "Cantos varios",
+      "paginas": "Cancionero Mónica 2009",
+      "letra": "Si tuviera fe como un granito de mostaza,\nesto dice el Señor (2)\nTú le dirías a las montañas\nmuévanse (3) (bis)\nY las montañas se moverán,\nse moverán, se moverán (bis)\ntú le dirías a los enfermos,\nsánense (3) (bis)\nY los enfermos se sanarán, caminarán, alabarán (bis)\ntú le dirías a los demonios\nváyanse (3) (bis)\nY los demonios se alejarán (bis)\n\nCuando el pueblo del Señor alaba a Dios,\nsuceden cosas, suceden cosas maravillosas (bis)\nHay sanación, liberación,\ny se siente la presencia del Señor (bis)\n\nAquí se siente la presencia de Dios (2)\nyo siento el fuego del Espíritu Santo (2)\nyo siento gozo, yo siento paz,\nyo siento el amor que Dios me da (bis)\n\nVen, ven, ven Espíritu divino\nVen, ven, ven apodérate de mí (bis)\nApodérate (3) de todo mi ser (bis)\n\nLos que esperan (2) en Jesús (bis)\nComo las águilas (2) sus alas levantarán (bis)\ncaminarán y no se cansarán\ncorrerán, no se fatigarán\n[nuevas fuerzas tendrán (2)\nlos que esperan, los que esperan\nen Jesús (2)] (bis)\nlos que aman… los que sirven…\n\nSi el Espíritu de Dios se mueve en mí,\nyo canto como David (2)\nyo canto (3) como David (bis)\nDavid (3) David cantaba\ncomo cordero de la manada\nYo danzo… Yo alabo…\n\nEsta asamblea va a estar maravillosa\nPorque el Señor va a derramar de su poder (2)\nDerrama Señor (2)\nDerrama sobre nosotros tu poder (bis)\nNosotros vamos a salir de aquí alegres…\nNosotros vamos a salir de aquí sanados…\n\nEn el principio el Espíritu de Dios\nse movía sobre las aguas (bis)\npero ahora se está moviendo\ndentro de mi corazón (bis)\n\nQuiero alabar tu nombre,\nquiero cantarte gloria y proclamar\ntus maravillas por siempre mi Señor (bis)\n\nNo puede estar triste\nel corazón que alaba a Cristo\nno puede estar triste\nel corazón que alaba a Dios (bis)\n[por eso le canto, le canto aleluya,\nno puede estar triste\nel corazón que alaba a Dios] (bis)\n\nYo sé de un barco que va por alta mar\ny en ese barco Jesús es capitán (2)\nlos marineros que en ese barco van\nson hombres\nredimidos por ese capitán (bis)\nLos pescadores que salen a pescar\nverán sus redes llenas por ese capitán (2)\nLas tempestades que puedan azotar\nson todas dominadas por ese capitán (2)\n\nEn el principio el Espíritu de Dios\nse movía sobre las aguas (2)\n[pero ahora se está moviendo\ndentro de mi corazón] (bis)\n\nHeme aquí Señor, envíame a mí (2)\nlisto estoy, yo quiero ir\nadonde me mandas tú, oh Señor envíame a mí\nY si tú vas adonde te manda Él\ny listo estás a su santa voluntad\nno demores en venir\npues pronto debes ir adonde te manda Él\n\nAmo a mi Dios (2) amo a mi Dios\nporque Él primero me amó\nle amaba ayer, le amo hoy y aún mañana\nyo le amaré con todo el corazón\n\nYo edifiqué una casa (2)\nsobre la roca la edifiqué\nEra Cristo la roca (2) sobre la roca la edifiqué\ny esa casa no se cae\nporque está sobre la roca (2)\n\nPaséate Nazareno, Nazareno paséate (2)\n¿Y cómo se le canta? Con poder\n¿Y cómo se le alaba? Con poder\n\nYo no sé a lo que tú has venido\npero yo vine a alabar a Dios (2)\nyo vine (3) a alabar a Dios",
+      "tags": ["popurrí", "animacion", "alabanza", "carismático"],
+      "posibleDuplicado": ""
+    },
+    {
+      "id": "m1-den-al-senor",
+      "titulo": "Den Al Señor",
+      "seccion": "Alabanza",
+      "paginas": "Cancionero Mónica 2009",
+      "letra": "Coro\nDen al Señor sus alabanzas\nDenle poder, honor y gloria,\na una voz canten un himno al Señor (bis)\n\nEn siete días creó Dios al mundo,\nAdán pecó y perdió el cielo,\nJesús vino para redimirnos,\nmurió en la cruz y nos salvó.\n\nA Moisés Dios dijo: haz mi pueblo libre,\nyo seré tu guía, siempre sígueme\nSalidos ya de Egipto y el mar pasado\nCantaron y bailaron, se llenaron de júbilo\n\nJesús dijo a Pedro: “Ven, te llamo\nel camino es duro mas iré contigo”\nPedro, soy un pecador, tiró su red\ny hacia el Señor corrió\n\nEntrégate hermano al Señor Jesús\nÉl te ama aunque seas pecador\nÉl pagó el precio de tu salvación\ny ahora eres una nueva creación.",
+      "tags": ["alabanza", "entrada", "historia de la salvación"],
+      "posibleDuplicado": "Den Al Señor Sus Alabanzas"
+    },
+    {
+      "id": "m1-estamos-de-fiesta",
+      "titulo": "Estamos De Fiesta",
+      "seccion": "Cantos varios",
+      "paginas": "Cancionero Mónica 2009",
+      "letra": "Estamos de fiesta con Jesús,\nal cielo queremos ir,\nestamos reunidos en la mesa\ny es Cristo quien va a servir\n\nCoro\nPoderoso es nuestro Dios (4)\n\nÉl sana, Él salva,\nPoderoso es nuestro Dios\nBautiza, Él viene,\nPoderoso es nuestro Dios\n\nEl Padre, el Hijo,\npoderoso es nuestro Dios\nEspíritu Santo,\npoderoso es nuestro Dios.",
+      "tags": ["animacion", "alabanza", "comunión"],
+      "posibleDuplicado": "Estamos de Fiesta con Jesús (Verde Barajas)"
+    },
+    {
+      "id": "m1-el-nombre-de-jesus",
+      "titulo": "El Nombre De Jesús",
+      "seccion": "Alabanza",
+      "paginas": "Cancionero Mónica 2009",
+      "letra": "El Nombre de Jesús es dulce\nnos trae paz y alegría\ncantando esta melodía, Jesús, Jesús, Jesús.\n\nSubiendo (3) para el cielo voy\ntristezas no van conmigo\npues Jesucristo se las llevó\nechando las tinieblas ¡FUERA!\ncon Jesucristo para el cielo voy",
+      "tags": ["alabanza", "animacion", "nombre de jesús"],
+      "posibleDuplicado": ""
+    },
+    {
+      "id": "m1-hay-una-fiesta",
+      "titulo": "Hay Una Fiesta",
+      "seccion": "Alabanza",
+      "paginas": "Cancionero Mónica 2009",
+      "letra": "Coro\nHay una fiesta, fiesta, fiesta\nContinuamente en mí, (bis)\nhay una fiesta, fiesta, fiesta\ndesde que a Cristo yo conocí.\n\nEste es el Cristo que yo predico\ny no me canso de predicar,\nÉl sana a los enfermos,\nExpulsa a los demonios,\nCalma las olas y la tempestad,\ny yo le alabaré (3) con todo el corazón\ny yo le alabaré (3) diciendo Gloria a Dios",
+      "tags": ["alabanza", "animacion", "carismático"],
+      "posibleDuplicado": ""
+    },
+    {
+      "id": "m1-hosanna-al-hijo-de-david",
+      "titulo": "Hosanna Al Hijo De David",
+      "seccion": "Cuaresma",
+      "paginas": "Cancionero Mónica 2009",
+      "letra": "Coro\nHosanna al Hijo de David\nBendito el que viene\nen nombre del Señor, el Rey de Israel\nHosanna, hosanna en el cielo\n\nAclamad al Señor, tierra entera\ntocad en honor de su nombre\nhaced resonar sus alabanzas\ncantad himnos a su gloria\n\nPueblos todos, batid palmas\naclamad a Dios con gritos de júbilo\nporque el Señor es sublime y terrible\nemperador de toda la tierra.",
+      "tags": ["ramos", "semana santa", "hosanna", "procesión"],
+      "posibleDuplicado": "Hosanna"
+    },
+    {
+      "id": "m1-los-ninos-hebreos",
+      "titulo": "Los Niños Hebreos",
+      "seccion": "Cuaresma",
+      "paginas": "Cancionero Mónica 2009",
+      "letra": "Los niños hebreos,\nllevando ramos de olivo\nSalieron al encuentro del Señor aclamando:\n\nCoro\nHosanna en el cielo (3 veces)",
+      "tags": ["ramos", "semana santa", "hosanna", "procesión"],
+      "posibleDuplicado": "Los Niños Hebreos"
+    },
+    {
+      "id": "m1-joven-proclama",
+      "titulo": "Joven Proclama",
+      "seccion": "Misioneros",
+      "paginas": "Cancionero Mónica 2009",
+      "letra": "Coro\nJoven proclama conmigo,\nla grandeza del Señor,\nvamos sembrando caminos\ncon Espíritu de amor (bis)\n\nLa juventud no está en la edad,\nse encuentra en la actitud,\ny si la entregas al Señor,\nmoverás la multitud (bis)\n\nEl Evangelio te traerá,\nla alegría de vivir,\ny la noticia has de llevar\nhasta el último confín (bis)\n\nY con María marcharás,\na predicar la paz,\ny como esclavo del Señor,\ntu vida entregarás.",
+      "tags": ["misionero", "juventud", "mariano", "envío"],
+      "posibleDuplicado": ""
+    },
+    {
+      "id": "m1-juntos-como-hermanos",
+      "titulo": "Juntos Como Hermanos",
+      "seccion": "Entrada",
+      "paginas": "Cancionero Mónica 2009",
+      "letra": "Coro\nJuntos como hermanos\nmiembros de una Iglesia\nvamos caminando\nal encuentro del Señor\n\nUn largo caminar\npor el desierto bajo el sol\nno podemos avanzar\nsin la ayuda del Señor\n\nUnidos al rezar,\nunidos en una canción,\nviviremos nuestra fe\ncon la ayuda del Señor\n\nLa Iglesia en marcha está,\na un mundo nuevo vamos ya,\ndonde reinará el amor, donde reinará la paz.",
+      "tags": ["entrada", "iglesia", "comunidad", "camino"],
+      "posibleDuplicado": "Juntos Como Hermanos"
+    },
+    {
+      "id": "m1-quien-es-ese",
+      "titulo": "¿Quién Es Ese?",
+      "seccion": "Cantos varios",
+      "paginas": "Cancionero Mónica 2009",
+      "letra": "¿Quién es ese que camina sobre el agua?\n¿Quién es ese que a los sordos hace oír?\n¿Quién es ese\nque a los muertos resucita?\n¿Quién es ese?\nQue su nombre quiero oír\n\nCoro\nEs Jesús, es Jesús\nDios y Hombre\nque nos guía con su luz (2)\n\n¿Quién es ese\nque los mares le obedecen?\n¿Quién es ese\nque a los mudos hace hablar?\n¿Quién es ese\nque da paz al alma herida,\nY pecados con su muerte perdonó?\n\n¿Quién es ese que murió en un madero?\n¿Quién es ese que la vida recobró?\n¿Quién es ese que nos da la Eucaristía\ny a los hombres en Iglesia congregó?\n\n¿Quién es ese\nque a nosotros ha llegado?\n¿Quién es ese Salvador y Redentor?\n¿Quién es ese que su Espíritu nos deja\ny transforma nuestra vida con su amor?",
+      "tags": ["cantos varios", "cristológico", "catequesis"],
+      "posibleDuplicado": "¿Quién Es Ese?"
+    },
+    {
+      "id": "m1-tu-eres-del-mundo-la-luz",
+      "titulo": "Tú Eres Del Mundo La Luz",
+      "seccion": "Cantos varios",
+      "paginas": "Cancionero Mónica 2009",
+      "letra": "Tú eres del mundo la luz (2)\npero aún la vela más grande\nse extingue con el tiempo\nHay que brillar siempre\ny ser del mundo la luz\n\nTú eres del mundo la sal (2)\npero si la sal está húmeda\nPierde todo su sabor\nsin esto no puedes ser del mundo la luz\n\nCoro\nTu luz (siempre ha de brillar) 2 veces\nY si dejara de hacerlo\nSería un día sin sol\n\nTú eres del mundo la luz (2)\nPero si la tienes escondida\nde qué sirve que ilumine\nhay que brillar siempre\ny ser del mundo la luz.\n\nTú eres la villa de Dios (2)\nPero aún la vela más grande\nSe extingue con el tiempo\nSin esto no puedes ser del mundo la luz\n\nTú eres del mundo la luz (2)\nPero si la tienes escondida\nDe qué sirve que ilumine\nHay que brillar siempre\nY ser del mundo la luz.",
+      "tags": ["cantos varios", "testimonio", "sal y luz", "juventud"],
+      "posibleDuplicado": ""
+    },
+    {
+      "id": "m1-alto-escuchame",
+      "titulo": "Alto, Escúchame",
+      "seccion": "Cantos varios",
+      "paginas": "Cancionero Mónica 2009",
+      "letra": "Alto, escúchame, no sigas caminando ya\nhoy quiero decirte lo que hizo Dios en mí\nTienes que saber\nque un día yo acepté al Señor\nsoy un hombre nuevo\ny ahora vivo para Él\n\nCoro\nQué alegría es ser un testigo de Dios\nes sentirle con fe en el corazón\nY aunque todos me digan\nque eso no es verdad\nyo lo siento en mi vida\nAún más, mucho más\n\nDios te quiere a ti,\neres importante para Él\ntienes que aceptarle\nahora mismo por la fe\naunque tengas dudas\nÉl después te las aclarará\ndeja el conformismo de este mundo\ny síguele",
+      "tags": ["cantos varios", "testimonio", "conversión", "juventud"],
+      "posibleDuplicado": ""
+    },
+    {
+      "id": "m1-que-alegria",
+      "titulo": "Qué Alegría",
+      "seccion": "Entrada",
+      "paginas": "Cancionero Mónica 2009",
+      "letra": "Coro\n¡Qué alegría cuando me dijeron\nvamos a la casa del Señor\nya están pisando nuestros pies\ntus umbrales, Jerusalén (bis)\n\nJerusalén está fundada\ncomo ciudad bien compacta,\nallá suben las tribus,\nlas tribus del Señor\n\nSegún la costumbre de Israel,\na celebrar el nombre del Señor\nen ella están los tribunales de justicia\nen el palacio de David.\n\nDesead la paz a Jerusalén\nvivan seguros los que te aman\nhaya paz dentro de sus muros\nen tus palacios seguridad.\n\nPor mis hermanos y compañeros,\nvoy a decir la paz contigo,\npor la casa del Señor nuestro Dios,\nte deseo todo bien.",
+      "tags": ["entrada", "salmo", "salmo 121", "jerusalén"],
+      "posibleDuplicado": "Qué Alegría (Salmo 122) (G)"
+    },
+    {
+      "id": "m1-salmo-117",
+      "titulo": "Salmo 117",
+      "seccion": "Salmos",
+      "paginas": "Cancionero Mónica 2009",
+      "letra": "Coro\nEste es el día en que actuó el Señor,\nsea nuestra alegría y nuestro gozo,\ndad gracias al Señor porque es bueno,\nporque es eterna su misericordia.\nAleluya, aleluya.\n\nQue lo diga la casa de Israel\nes eterna su misericordia.\nQue lo diga la casa de Aarón\nes eterna su misericordia.\nQue lo digan los fieles del Señor\nes eterna su misericordia.\n\nEscuchad, hay cantos de victoria\nen las tiendas de los justos.\n(La diestra del Señor es poderosa\nes excelsa la diestra del Señor) (2)\n\nLa piedra que el cantero desechó\nes ahora la piedra angular\nEs el Señor quien lo ha hecho\neste ha sido un milagro patente\nte doy gracias porque me escuchaste\nporque fuiste mi salvación",
+      "tags": ["salmo", "salmo 117", "pascua", "aleluya"],
+      "posibleDuplicado": "Salmo 117, Éste es el Día (Miguel Manzano)"
+    },
+    {
+      "id": "m1-ven-senor-jesus",
+      "titulo": "Ven Señor Jesús",
+      "seccion": "Adviento",
+      "paginas": "Cancionero Mónica 2009",
+      "letra": "Coro\nVen Señor Jesús, ven y sálvanos\nVen Señor Jesús, ven danos tu amor.\n\nVen Señor Jesús, date prisa ven\nNo puedes tardar más,\npues la humanidad\nesperando está tu venida ya",
+      "tags": ["adviento", "espera", "maranatha"],
+      "posibleDuplicado": ""
+    },
+    {
+      "id": "m1-yo-te-alabo",
+      "titulo": "Yo Te Alabo",
+      "seccion": "Alabanza",
+      "paginas": "Cancionero Mónica 2009",
+      "letra": "Coro\nYo te alabo con el corazón,\nyo te alabo con mi voz (2)\n\nY si me falta la voz,\nyo te alabo con las manos,\ny si me faltan las manos,\nyo te alabo con los pies\ny si me faltan los pies\nyo te alabo con el alma\ny si me faltara el alma\nes que me he ido con Él.",
+      "tags": ["alabanza", "animacion", "carismático"],
+      "posibleDuplicado": ""
+    },
+    {
+      "id": "m1-misericordia",
+      "titulo": "Misericordia",
+      "seccion": "Cuaresma",
+      "paginas": "Cancionero Mónica 2009",
+      "letra": "Coro\nMisericordia concédeme oh Dios\ny muéstrame tu inmensa compasión\nde todo corazón te pido el perdón\nde mi delito límpiame Señor (bis)\n\nCon el rocío del hisopo,\nmis culpas tú podrás lavar,\nsi tú me quitas el pecado,\nBlanco como nieve quedaré\n\nLos sacrificios que te ofrezco\ntú no los puedes aceptar,\npor eso yo en el futuro\nMi corazón te inmolaré\n\nMi corazón Señor renueva,\npues sólo tú das salvación,\ny cuando sea rescatado\nYo a los demás ayudaré\n\nGloria al Padre en el cielo,\ny a su Hijo el Señor\ny al Espíritu que nos une\na todos en su amor",
+      "tags": ["cuaresma", "salmo 50", "penitencial", "perdón"],
+      "posibleDuplicado": ""
+    },
+    {
+      "id": "m1-rendid-a-yahve",
+      "titulo": "Rendid A Yahvé",
+      "seccion": "Alabanza",
+      "paginas": "Cancionero Mónica 2009",
+      "letra": "Rendid a Yahvé santos del Señor\ngloria y poder al Dios de la creación\nRendid honor al glorioso nombre\ndel Señor\nY alabadle en su Santo esplendor\n\nCoro\nSobre los mares resuena la voz de Dios\nGlorioso es Dios, su voz hace temblar\nqué poderosa es la voz del Altísimo\nAleluya, su voz descuaja\nlos cedros del Líbano, Aleluya\nLa voz del Señor lanza llamas de fuego, Aleluya\nsacude los bosques la voz del Altísimo, Aleluya\nEn su santuario gritan Gloria\n\nSentado está Dios sobre la tempestad\nSentado está Yahvé, oh Dios Rey eterno\nSu gloria da\na quien pone su confianza en Él\nYahvé a su pueblo con paz",
+      "tags": ["alabanza", "salmo 28", "creación", "aleluya"],
+      "posibleDuplicado": ""
+    }
+  ]
+}
