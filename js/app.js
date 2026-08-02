@@ -329,21 +329,68 @@
     return lineas.join("\n");
   }
 
-  function copiarLista() {
-    if (!estado.lista.length) return;
-    var texto = textoDeLaLista();
+  /* Una línea es "de acordes" si todos sus fragmentos son cifrado americano
+     (C, D7, Em, G#m7, Asus4, Bb/F…) o signos de repetición. Se usa para que
+     el mensaje de WhatsApp lleve sólo la letra: en el teléfono, sin fuente
+     monoespaciada, los acordes quedarían descuadrados. */
+  var ACORDE = /^\(?[A-G](?:#|b)?(?:m|maj|min|sus|dim|aum|add|\+|°)?[0-9]{0,2}(?:sus[24]?|maj7)?(?:\/[A-G](?:#|b)?)?\)?[,.]?$/;
 
+  function esLineaDeAcordes(linea) {
+    var partes = linea.trim().split(/[\s\-|/]+/).filter(Boolean);
+    if (!partes.length) return false;
+    return partes.every(function (p) {
+      return ACORDE.test(p) || /^x[0-9]$/i.test(p) || /^[().,:%]+$/.test(p);
+    });
+  }
+
+  function letraSinAcordes(letra) {
+    return String(letra || "")
+      .split("\n")
+      .filter(function (l) { return !esLineaDeAcordes(l); })
+      .join("\n")
+      .replace(/\n{3,}/g, "\n\n")
+      .trim();
+  }
+
+  /* Mensaje completo con letras, con formato de WhatsApp (*negrita*, _cursiva_) */
+  function textoConLetras() {
+    var partes = [
+      "*Cantoral Santa Lucía*",
+      "_" + estado.celebracion.nombre + " · " + estado.lista.length + " cantos_"
+    ];
+    estado.lista.forEach(function (fila, i) {
+      partes.push("");
+      partes.push("——————————");
+      partes.push("*" + (i + 1) + ". " + fila.etiqueta + ": " + fila.cancion.titulo + "*");
+      partes.push("_" + metaDe(fila.cancion) + "_");
+      partes.push("");
+      partes.push(letraSinAcordes(fila.cancion.letra) || "(Sin letra registrada)");
+    });
+    return partes.join("\n");
+  }
+
+  function copiarTexto(texto, mensajeExito) {
     if (navigator.clipboard && window.isSecureContext) {
       navigator.clipboard.writeText(texto)
-        .then(function () { avisar("Lista copiada"); })
-        .catch(function () { copiarAlternativo(texto); });
+        .then(function () { avisar(mensajeExito); })
+        .catch(function () { copiarAlternativo(texto, mensajeExito); });
     } else {
-      copiarAlternativo(texto);
+      copiarAlternativo(texto, mensajeExito);
     }
   }
 
+  function copiarLista() {
+    if (!estado.lista.length) return;
+    copiarTexto(textoDeLaLista(), "Lista copiada");
+  }
+
+  function copiarConLetras() {
+    if (!estado.lista.length) return;
+    copiarTexto(textoConLetras(), "Mensaje con letras copiado: pégalo en WhatsApp");
+  }
+
   /* Respaldo para file:// y navegadores sin API de portapapeles */
-  function copiarAlternativo(texto) {
+  function copiarAlternativo(texto, mensajeExito) {
     var area = document.createElement("textarea");
     area.value = texto;
     area.setAttribute("readonly", "");
@@ -354,7 +401,7 @@
     var bien = false;
     try { bien = document.execCommand("copy"); } catch (e) { bien = false; }
     document.body.removeChild(area);
-    avisar(bien ? "Lista copiada" : "No se pudo copiar en este navegador");
+    avisar(bien ? (mensajeExito || "Lista copiada") : "No se pudo copiar en este navegador");
   }
 
   /* ---------- Aviso flotante ---------- */
@@ -385,6 +432,7 @@
 
     $("btnGenerar").addEventListener("click", generarLista);
     $("btnCopiar").addEventListener("click", copiarLista);
+    $("btnCopiarLetras").addEventListener("click", copiarConLetras);
     $("btnCerrarHoja").addEventListener("click", cerrarHoja);
     $("velo").addEventListener("click", cerrarHoja);
 
