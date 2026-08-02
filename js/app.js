@@ -279,11 +279,24 @@
       '<path d="M20 11.5A8 8 0 1 0 18.4 16"/><path d="M20.5 5.5V11h-5.5"/></svg>';
     recargar.addEventListener("click", function () { regenerarUno(i); });
 
-    // El botón y el de regenerar comparten una fila; el enlace va debajo,
+    // Botón de elegir el canto de este puesto buscando por título
+    var buscar = document.createElement("button");
+    buscar.type = "button";
+    buscar.className = "btn-regenerar btn-buscar";
+    buscar.setAttribute("aria-label", "Buscar por título un canto para " + fila.etiqueta);
+    buscar.setAttribute("title", "Elegir canto por título");
+    buscar.innerHTML =
+      '<svg viewBox="0 0 24 24" width="19" height="19" fill="none" stroke="currentColor" stroke-width="2" ' +
+      'stroke-linecap="round" stroke-linejoin="round" aria-hidden="true">' +
+      '<circle cx="11" cy="11" r="7"/><path d="M20.4 20.4l-4.3-4.3"/></svg>';
+    buscar.addEventListener("click", function () { abrirBuscador(i, buscar); });
+
+    // Los botones comparten una fila; el enlace va debajo,
     // FUERA del <button> (un <a> dentro de un <button> es HTML inválido).
     var linea = document.createElement("div");
     linea.className = "canto-fila";
     linea.appendChild(abrir);
+    linea.appendChild(buscar);
     linea.appendChild(recargar);
     li.appendChild(linea);
 
@@ -363,6 +376,142 @@
     }, 300);
 
     if (ultimoFoco && document.contains(ultimoFoco)) ultimoFoco.focus();
+  }
+
+  /* ---------- Buscador por título ---------- */
+
+  var buscadorIndice = null;   // puesto de la lista que se está cambiando
+  var focoBuscador = null;     // botón que abrió el buscador (para devolver el foco)
+
+  /* Minúsculas y sin acentos: "María" y "maria" deben coincidir */
+  function normalizar(texto) {
+    return String(texto).toLowerCase().normalize("NFD").replace(/[̀-ͯ]/g, "");
+  }
+
+  /* Todos los cantos elegibles para el puesto, en orden de prioridad y sin repetidos */
+  function candidatosDelPuesto(indice) {
+    var fila = estado.lista[indice];
+    var niveles = nivelesDeCandidatos(estado.celebracion, fila.puestoId);
+    var vistos = {};
+    var lista = [];
+    niveles.forEach(function (nivel) {
+      nivel.forEach(function (c) {
+        if (!vistos[c.id]) { vistos[c.id] = true; lista.push(c); }
+      });
+    });
+    return lista;
+  }
+
+  function abrirBuscador(indice, origen) {
+    buscadorIndice = indice;
+    focoBuscador = origen || null;
+
+    $("buscadorPuesto").textContent = estado.lista[indice].etiqueta;
+    $("buscadorEntrada").value = "";
+    pintarResultados("");
+
+    var caja = $("buscador");
+    var velo = $("veloBuscador");
+    caja.hidden = false;
+    velo.hidden = false;
+    document.body.style.overflow = "hidden";
+
+    requestAnimationFrame(function () {
+      caja.classList.add("visible");
+      velo.classList.add("visible");
+      $("buscadorEntrada").focus();
+    });
+  }
+
+  function cerrarBuscador() {
+    var caja = $("buscador");
+    var velo = $("veloBuscador");
+    if (caja.hidden) return;
+
+    caja.classList.remove("visible");
+    velo.classList.remove("visible");
+    document.body.style.overflow = "";
+
+    window.setTimeout(function () {
+      caja.hidden = true;
+      velo.hidden = true;
+    }, 300);
+
+    if (focoBuscador && document.contains(focoBuscador)) focoBuscador.focus();
+    buscadorIndice = null;
+  }
+
+  function pintarResultados(consulta) {
+    var ul = $("listaResultados");
+    ul.innerHTML = "";
+    if (buscadorIndice === null) return;
+
+    var texto = normalizar(consulta.trim());
+    var candidatos;
+
+    // Sin consulta se sugieren los cantos propios del puesto; al escribir se
+    // busca por título en todo el cantoral (también fuera de lo sugerido).
+    if (texto.length < 2) {
+      candidatos = candidatosDelPuesto(buscadorIndice);
+      $("buscadorPista").textContent =
+        "Sugerencias para este puesto · escribe para buscar en los " + C.canciones.length + " cantos";
+    } else {
+      candidatos = C.canciones.filter(function (c) {
+        return normalizar(c.titulo).indexOf(texto) !== -1;
+      });
+      $("buscadorPista").textContent = candidatos.length
+        ? candidatos.length + (candidatos.length === 1 ? " resultado" : " resultados") + " en todo el cantoral"
+        : "Ningún título coincide con la búsqueda.";
+    }
+
+    var usados = idsEnUso(buscadorIndice);
+    var actual = estado.lista[buscadorIndice].cancion.id;
+
+    candidatos.slice(0, 40).forEach(function (c) {
+      var li = document.createElement("li");
+      var boton = document.createElement("button");
+      boton.type = "button";
+      boton.className = "resultado-canto";
+
+      var enUso = usados.indexOf(c.id) !== -1;
+      var esActual = c.id === actual;
+      boton.disabled = enUso || esActual;
+
+      var nota = esActual ? " · es el canto actual" : (enUso ? " · ya está en la lista" : "");
+      boton.innerHTML =
+        '<span class="rc-titulo">' + escapar(c.titulo) + "</span>" +
+        '<span class="rc-meta">' + escapar(metaDe(c)) + escapar(nota) + "</span>";
+
+      if (!boton.disabled) {
+        boton.addEventListener("click", function () { elegirDelBuscador(c); });
+      }
+      li.appendChild(boton);
+      ul.appendChild(li);
+    });
+
+    if (candidatos.length > 40) {
+      var mas = document.createElement("li");
+      mas.className = "resultado-mas";
+      mas.textContent = "Y " + (candidatos.length - 40) + " más… afina la búsqueda.";
+      ul.appendChild(mas);
+    }
+  }
+
+  function elegirDelBuscador(cancion) {
+    var indice = buscadorIndice;
+    if (indice === null) return;
+
+    var fila = estado.lista[indice];
+    fila.cancion = cancion;
+
+    var ol = $("listaCantos");
+    var nuevaFila = crearFila(fila, indice, true);
+    ol.replaceChild(nuevaFila, ol.children[indice]);
+
+    cerrarBuscador();
+    var botonLupa = nuevaFila.querySelector(".btn-buscar");
+    if (botonLupa) botonLupa.focus();
+    avisar(fila.etiqueta + ": " + cancion.titulo);
   }
 
   /* ---------- Copiar la lista ---------- */
@@ -488,6 +637,12 @@
     $("btnCerrarHoja").addEventListener("click", cerrarHoja);
     $("velo").addEventListener("click", cerrarHoja);
 
+    $("btnCerrarBuscador").addEventListener("click", cerrarBuscador);
+    $("veloBuscador").addEventListener("click", cerrarBuscador);
+    $("buscadorEntrada").addEventListener("input", function () {
+      pintarResultados(this.value);
+    });
+
     $("btnAyuda").addEventListener("click", function () {
       var panel = $("panelAyuda");
       panel.hidden = !panel.hidden;
@@ -495,7 +650,7 @@
     });
 
     document.addEventListener("keydown", function (ev) {
-      if (ev.key === "Escape") cerrarHoja();
+      if (ev.key === "Escape") { cerrarHoja(); cerrarBuscador(); }
     });
 
     // Limpia la animación de giro cuando termina

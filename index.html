@@ -41,7 +41,7 @@
 
   <!-- AYUDA (plegable) -->
   <div class="ayuda" id="panelAyuda" hidden>
-    <p><strong>1.</strong> Elige la celebración. <strong>2.</strong> Pulsa <em>Generar lista de cantos</em>. <strong>3.</strong> Toca una tarjeta para ver la letra con acordes, o el botón ↻ para cambiar sólo ese canto.</p>
+    <p><strong>1.</strong> Elige la celebración. <strong>2.</strong> Pulsa <em>Generar lista de cantos</em>. <strong>3.</strong> Toca una tarjeta para ver la letra con acordes, el botón ↻ para cambiar sólo ese canto al azar, o la lupa para elegirlo por título.</p>
   </div>
 
   <main>
@@ -136,6 +136,30 @@
   </header>
   <div class="hoja-cuerpo">
     <pre class="letra" id="hojaLetra" tabindex="0"></pre>
+  </div>
+</div>
+
+<!-- BUSCADOR DE CANTOS POR TÍTULO -->
+<div class="velo" id="veloBuscador" hidden></div>
+<div class="hoja buscador" id="buscador" role="dialog" aria-modal="true" aria-labelledby="buscadorTituloDialogo" hidden>
+  <div class="hoja-asa" aria-hidden="true"></div>
+  <header class="hoja-cabeza">
+    <div class="hoja-info">
+      <span class="pastilla" id="buscadorPuesto"></span>
+      <h2 id="buscadorTituloDialogo">Elegir canto por título</h2>
+      <p id="buscadorPista"></p>
+    </div>
+    <button type="button" class="boton-icono" id="btnCerrarBuscador" aria-label="Cerrar el buscador">
+      <svg viewBox="0 0 24 24" width="20" height="20" fill="none" stroke="currentColor" stroke-width="2.1" stroke-linecap="round" aria-hidden="true">
+        <path d="M6 6l12 12M18 6L6 18"></path>
+      </svg>
+    </button>
+  </header>
+  <div class="buscador-entrada-caja">
+    <input type="search" id="buscadorEntrada" placeholder="Escribe el título del canto…" autocomplete="off" aria-label="Buscar canto por título">
+  </div>
+  <div class="hoja-cuerpo">
+    <ul class="lista-resultados" id="listaResultados"></ul>
   </div>
 </div>
 
