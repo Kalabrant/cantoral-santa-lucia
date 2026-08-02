@@ -1,0 +1,187 @@
+{
+  "lote": "lote_12",
+  "enlaces": [
+    {
+      "id": "06-poncho-andino",
+      "url": "https://www.youtube.com/watch?v=O-xC9i3VCwI",
+      "tituloVideo": "\"Poncho andino\". Aguinaldo venezolano. Autor: Otilio Galíndez.",
+      "confianza": "alta",
+      "motivo": "Es el aguinaldo venezolano \"Poncho andino\" de Otilio Galíndez, cuya letra empieza \"Con un poncho andino y un sombrero\"."
+    },
+    {
+      "id": "06-venga-un-abrazo",
+      "url": "https://www.youtube.com/watch?v=p33eOzp9tQ8",
+      "tituloVideo": "COMPAI venga un ABRAZO - maracaibo 15 - GAITAS",
+      "confianza": "alta",
+      "motivo": "Gaita zuliana \"Compai, venga un abrazo\" de Maracaibo 15, la misma de fin de año que recoge el cantoral."
+    },
+    {
+      "id": "06-el-negrito-fullero",
+      "url": "https://www.youtube.com/watch?v=JioJs1_TxZw",
+      "tituloVideo": "Gaita zuliana \"El Negrito Fullero\"",
+      "confianza": "alta",
+      "motivo": "Gaita zuliana homónima; coincide con el género y con el autor indicado (Eurípides Romero)."
+    },
+    {
+      "id": "06-esplendido-sol",
+      "url": "https://www.youtube.com/watch?v=M5zIJCKHobg",
+      "tituloVideo": "Espléndido Sol",
+      "confianza": "media",
+      "motivo": "Título exacto y aparece como aguinaldo cumanés en la búsqueda por el verso \"Tú lo sabes todo, lo ha dicho Jesús\"."
+    },
+    {
+      "id": "06-si-acaso-algun-vecino",
+      "url": "https://www.youtube.com/watch?v=6O0rLLV8dLY",
+      "tituloVideo": "SÍ ACASO ALGÚN VECINO. AGUINALDO CARAQUEÑO. Interpreta Carlos Martínez Pereira.",
+      "confianza": "alta",
+      "motivo": "Título y subtítulo \"Aguinaldo Caraqueño\" coinciden literalmente con la anotación del cantoral."
+    },
+    {
+      "id": "06-tun-tun",
+      "url": "https://www.youtube.com/watch?v=IMyR79EW_Ig",
+      "tituloVideo": "Tun Tun ¿Quien Es? ♫ Villancicos Navideños Infantiles ♫",
+      "confianza": "alta",
+      "motivo": "El título reproduce el estribillo \"Tun, tun. ¿Quién es? Gente de paz\" del aguinaldo."
+    },
+    {
+      "id": "06-calenda-iii",
+      "url": "https://www.youtube.com/watch?v=i7oeYdKYkS0",
+      "tituloVideo": "La calenda | Villancico de Navidad | Camino Neocatecumenal",
+      "confianza": "alta",
+      "motivo": "Es la calenda del Camino Neocatecumenal (Kiko Argüello), la versión que el cantoral identifica como Calenda III."
+    },
+    {
+      "id": "06-a-adorar-al-nino",
+      "url": "https://www.youtube.com/watch?v=B4cnDnspSQo",
+      "tituloVideo": "¡A Adorar Al Niño! (Luís Felipe Ramón y Rivera)",
+      "confianza": "media",
+      "motivo": "Aguinaldo venezolano tradicional \"A adorar al niño corramos pastores\"; recopilación de Ramón y Rivera en vez de la de Sojo."
+    },
+    {
+      "id": "06-adeste-fideles",
+      "url": "https://www.youtube.com/watch?v=uQwoCFLBiG8",
+      "tituloVideo": "\"Adeste Fideles\" (O Come, All Ye Faithful) - Christian Christmas Carol [LATIN LYRICS]",
+      "confianza": "alta",
+      "motivo": "Versión latina con letra en pantalla del himno de John F. Wade que reproduce el cantoral."
+    },
+    {
+      "id": "06-al-claro-y-sereno",
+      "url": "https://www.youtube.com/watch?v=PbgIoyrCiHs",
+      "tituloVideo": "Al Claro y Sereno (aguinaldo) Compositor: Rafael Izaza. Intérprete: Silvio Mencías",
+      "confianza": "alta",
+      "motivo": "El video acredita a Rafael Izaza, el mismo autor que indica el cantoral para este aguinaldo."
+    },
+    {
+      "id": "06-ay-que-lindo",
+      "url": "https://www.youtube.com/watch?v=XSt-IMHnx0k",
+      "tituloVideo": "Ay que lindo, Ay que bello",
+      "confianza": "alta",
+      "motivo": "El título reproduce literalmente el primer verso \"¡Ay, qué lindo! ¡Ay, qué bello!\", distinto del popular \"Niño Lindo\"."
+    },
+    {
+      "id": "06-cantemos-cantemos",
+      "url": "https://www.youtube.com/watch?v=HJDOhqqTsS0",
+      "tituloVideo": "Cantemos, cantemos gloria al Salvador (Aguinaldo).",
+      "confianza": "alta",
+      "motivo": "El título recoge el verso inicial completo \"Cantemos, cantemos gloria al Salvador\"."
+    },
+    {
+      "id": "06-corramos-corramos-la-musica-suena",
+      "url": "https://www.youtube.com/watch?v=ECppZflgk0E",
+      "tituloVideo": "CORRAMOS, CORRAMOS LA MÚSICA SUENA",
+      "confianza": "alta",
+      "motivo": "El título reproduce el primer verso exacto y lo distingue de la otra versión \"hogar viñador\"."
+    },
+    {
+      "id": "06-de-contento",
+      "url": "https://www.youtube.com/watch?v=MnmFJKmn5Hk",
+      "tituloVideo": "De Contento Voy Cantando ♫ Villancicos Navideños Infantiles ♫",
+      "confianza": "alta",
+      "motivo": "El título reproduce el estribillo \"De contento voy cantando, al Dios Niño celebrando\"."
+    },
+    {
+      "id": "06-dichosos-mortales",
+      "url": "https://www.youtube.com/watch?v=r32chpvm5SQ",
+      "tituloVideo": "Dichosos Mortales (feat. Alberto Grau & Rocío Asuaje)",
+      "confianza": "media",
+      "motivo": "Grabación de la Schola Cantorum de Venezuela del aguinaldo homónimo; título coincide y el repertorio es el venezolano tradicional."
+    },
+    {
+      "id": "06-en-tus-manos",
+      "url": "https://www.youtube.com/watch?v=8-pnK2NFaGM",
+      "tituloVideo": "En tus manos (Aguinaldo S.XIX), Zulay Mora, Coral del Táchira",
+      "confianza": "alta",
+      "motivo": "Aguinaldo venezolano decimonónico \"En tus manos, Niño\", el mismo que recoge el cantoral."
+    },
+    {
+      "id": "06-esplendida-noche",
+      "url": "https://www.youtube.com/watch?v=IXtw2FlbjGk",
+      "tituloVideo": "ESPLÉNDIDA NOCHE Aguinaldo Venezolano (José Luis Rodríguez)",
+      "confianza": "alta",
+      "motivo": "Aguinaldo venezolano \"Espléndida noche radiante de luz, es la Nochebuena pues nació Jesús\"."
+    },
+    {
+      "id": "06-la-gloria-cantemos",
+      "url": "https://www.youtube.com/watch?v=Gd_naDY5ffo",
+      "tituloVideo": "La Gloria cantemos - Antología de la Música Coral Venezolana",
+      "confianza": "alta",
+      "motivo": "Versión coral venezolana del aguinaldo \"La gloria cantemos al Dios de Israel\"."
+    },
+    {
+      "id": "06-madre-en-la-puerta-hay-un-nino",
+      "url": "https://www.youtube.com/watch?v=ZAsqkg8Svl4",
+      "tituloVideo": "Madre, en la puerta hay un niño | Canción de Navidad Tradicional para Niños",
+      "confianza": "alta",
+      "motivo": "Villancico tradicional homónimo cuya letra empieza \"Madre, en la puerta hay un niño más hermoso que el sol bello\"."
+    },
+    {
+      "id": "06-campana-sobre-campana",
+      "url": "https://www.youtube.com/watch?v=IhO3Y1unYGE",
+      "tituloVideo": "Campana Sobre Campana, Villancico Animado - Mundo Canticuentos",
+      "confianza": "alta",
+      "motivo": "Villancico clásico con la letra exacta \"Campana sobre campana, y sobre campana una\"."
+    },
+    {
+      "id": "06-corre-caballito",
+      "url": "https://www.youtube.com/watch?v=sBeSFDcw4R8",
+      "tituloVideo": "Corre Caballito Vamos A Belén ♫ Villancicos Navideños Infantiles ♫",
+      "confianza": "alta",
+      "motivo": "El título reproduce el primer verso \"Corre caballito, vamos a Belén\"."
+    },
+    {
+      "id": "06-el-angel-gabriel",
+      "url": "https://www.youtube.com/watch?v=4txW6E-uVQw",
+      "tituloVideo": "El Angel Gabriel - Aguinaldo venezolano - @zarandaduo",
+      "confianza": "alta",
+      "motivo": "Aguinaldo venezolano \"El ángel Gabriel anunció a María\", el mismo del cantoral."
+    },
+    {
+      "id": "06-el-omnipotente",
+      "url": "https://www.youtube.com/watch?v=DfAsB_OJvvE",
+      "tituloVideo": "El omnipotente - Un Solo Pueblo",
+      "confianza": "alta",
+      "motivo": "Versión del grupo venezolano Un Solo Pueblo del aguinaldo \"¿Dónde están los hombres para que se presenten?\"."
+    },
+    {
+      "id": "06-el-tamborilero",
+      "url": "https://www.youtube.com/watch?v=w21fsV4OWOM",
+      "tituloVideo": "EL TAMBORILERO ~ VILLANCICO // LETRA",
+      "confianza": "alta",
+      "motivo": "Villancico clásico con letra en pantalla que empieza \"El camino que lleva a Belén\"."
+    },
+    {
+      "id": "06-en-lo-alto-gloria",
+      "url": "https://www.youtube.com/watch?v=nn5XcfKjQI4",
+      "tituloVideo": "En lo alto gloria",
+      "confianza": "alta",
+      "motivo": "Título idéntico al estribillo del canto \"Ángeles cantando están\" que recoge el cantoral."
+    },
+    {
+      "id": "06-esta-bella-noche",
+      "url": "https://www.youtube.com/watch?v=Sril_U_rq7U",
+      "tituloVideo": "Esta bella noche - aguinaldo venezolano",
+      "confianza": "alta",
+      "motivo": "Aguinaldo venezolano homónimo \"Esta bella noche de gran alegría, porque ya ha nacido el Mesías\"."
+    }
+  ]
+}

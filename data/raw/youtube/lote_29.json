@@ -1,0 +1,159 @@
+{
+  "lote": "lote_29",
+  "enlaces": [
+    {
+      "id": "m7-salve",
+      "url": "https://www.youtube.com/watch?v=qxllG2osyls",
+      "tituloVideo": "Salve, María, Madre de Misericordia",
+      "confianza": "alta",
+      "motivo": "La descripción del video reproduce la letra completa: 'Salve, María, Madre de misericordia / vida, dulzura, esperanza nuestra / salve, salve, María' y 'nosotros los hijos de Eva', idéntica al canto."
+    },
+    {
+      "id": "m7-himno-nuestra-senora-de-los-angeles",
+      "url": "https://www.youtube.com/watch?v=G-uVjxG5HjY",
+      "tituloVideo": "Hoy quiero cantarte. Plegaria a Nuestra Señora de Los Ángeles",
+      "confianza": "alta",
+      "motivo": "La descripción trae la letra con acordes: 'Hoy quiero cantarte, Señora de los Ángeles / Reina, Soberana, Madre celestial / Yo soy una alondra que ha puesto en ti su nido', coincidiendo verso a verso."
+    },
+    {
+      "id": "m7-madre-del-si",
+      "url": "https://www.youtube.com/watch?v=u-azy_gkhb8",
+      "tituloVideo": "TU LUZ BRILLA COMO UNA ESTRELLA",
+      "confianza": "media",
+      "motivo": "El título del video es literalmente el primer verso del canto ('Tu luz brilla como una estrella dentro de mí'), aunque el video no muestra la letra completa para confirmarla."
+    },
+    {
+      "id": "m7-no-estoy-yo-aqui",
+      "url": "https://www.youtube.com/watch?v=HzqCNRstNQA",
+      "tituloVideo": "¿No estoy yo aquí que soy tu Madre? COMIJO",
+      "confianza": "alta",
+      "motivo": "La descripción reproduce exactamente los versos del canto: 'Ahí en el dolor / en el fragor de mis batallas / Ahí, tu manto me envuelve / a Cristo me lleva / Ahí, en las pruebas'."
+    },
+    {
+      "id": "m7-quisiera-ser-como-maria",
+      "url": "https://www.youtube.com/watch?v=nMkerFW78wQ",
+      "tituloVideo": "Quisiera ser como María- Martin Valverde",
+      "confianza": "media",
+      "motivo": "Canción católica mariana de Martín Valverde (álbum 'Bella Dama', 1999) con el título exacto del canto; no se pudo ver la letra completa para confirmar 'Si un deseo al cielo pudiera pedir'."
+    },
+    {
+      "id": "m7-la-anunciacion",
+      "url": "https://www.youtube.com/watch?v=xgo-iwqu_zQ",
+      "tituloVideo": "La Visitación ‐ (Cover) - Gonzalo Mazarrasa",
+      "confianza": "alta",
+      "motivo": "La descripción trae la letra con acordes: 'Llevo dentro la esperanza deseada / que me inunda, que me envuelve que me llama / soy pequeña, soy sencilla, soy la esclava' — es la misma canción, titulada 'La Visitación' por su autor Gonzalo Mazarrasa."
+    },
+    {
+      "id": "m7-tu-dulce-rostro",
+      "url": "https://www.youtube.com/watch?v=SGcmoYAXTD0",
+      "tituloVideo": "Tu dulce rostro me sonríe a mi María",
+      "confianza": "alta",
+      "motivo": "El título del video es exactamente el primer verso del canto, y es un canto mariano del mismo repertorio."
+    },
+    {
+      "id": "m7-rio-de-alabanza",
+      "url": "https://www.youtube.com/watch?v=k0XyJyxzM2w",
+      "tituloVideo": "Rio de alabanza -  Hay una Fuente en mi - Acordes",
+      "confianza": "alta",
+      "motivo": "La descripción (Renovación Carismática Católica, Guadalajara) reproduce la letra: 'Hay una fuente en mí, que está brotando, que está fluyendo dentro de mí' y el coro 'Es un río de alabanza'."
+    },
+    {
+      "id": "m7-quiero-alabarte",
+      "url": "https://www.youtube.com/watch?v=taCf64L8gL8",
+      "tituloVideo": "Quiero alabarte mas y mas aun Cover Maranatha Music",
+      "confianza": "alta",
+      "motivo": "La descripción trae la letra completa: 'Quiero alabarte más, y más aún / Buscar tu voluntad tu gracia conocer' y 'Las aves del cielo, cantan para ti', idéntica al canto."
+    },
+    {
+      "id": "m7-te-adoro-a-ti",
+      "url": "https://www.youtube.com/watch?v=77pgHk5PSyk",
+      "tituloVideo": "Al Estar Aquí - Danilo Montero (letra)",
+      "confianza": "alta",
+      "motivo": "La descripción trae la letra: 'Al estar en la presencia de tu divinidad / Y al contemplar la hermosura de tu santidad / Mi espíritu se alegra en tu majestad / Te adoro a ti' — el canto figura en el cantoral por su estribillo 'Te adoro a ti'."
+    },
+    {
+      "id": "m7-himno-virgen-del-valle",
+      "url": "https://www.youtube.com/watch?v=F1x1Z7s-iHM",
+      "tituloVideo": "Himno de la Virgen del Valle. Con letra e imágenes. Isla de Margarita - Venezuela",
+      "confianza": "media",
+      "motivo": "Himno oficial venezolano a la Virgen del Valle publicado por la Sociedad Favorecedora Virgen del Valle, con letra en pantalla; coincide con el himno tradicional que empieza 'Paz y gloria a la Virgen sagrada'."
+    },
+    {
+      "id": "m8-andando-de-tu-mano",
+      "url": "https://www.youtube.com/watch?v=iQXGZfrN70M",
+      "tituloVideo": "Andando de tu mano - Coro Mir",
+      "confianza": "alta",
+      "motivo": "La descripción reproduce la letra: 'Desde que voy, junto a ti, La tierra que yo piso es como espuma / Desde que voy, junto a ti, La noche más oscura tiene luz', idéntica al canto."
+    },
+    {
+      "id": "m8-saturame",
+      "url": "https://www.youtube.com/watch?v=pbVo9R8OLSo",
+      "tituloVideo": "V0003 SATÚRAME SEÑOR CON TU ESPÍRITU - CONGREGACIÓN MIAMI",
+      "confianza": "alta",
+      "motivo": "La descripción trae la letra completa: 'Satúrame Señor, con tu Espíritu' y el coro 'Y déjame sentir, el fuego de tu amor. Aquí en mi corazón Señor', coincidente con el canto."
+    },
+    {
+      "id": "m8-ven-oh-espiritu",
+      "url": "https://www.youtube.com/watch?v=LqO2CHi5IQU",
+      "tituloVideo": "Ven Oh Espíritu de amor.",
+      "confianza": "alta",
+      "motivo": "El título es el primer verso y la descripción añade el segundo, 'Ven Oh Espíritu Divino', igual que el canto."
+    },
+    {
+      "id": "m8-espiritu-de-dios-ruah",
+      "url": "https://www.youtube.com/watch?v=2wXgHJbUx8E",
+      "tituloVideo": "Paz y Bien Music - RUAH Sopla Espíritu de Dios [Video Oficial] Música Católica",
+      "confianza": "media",
+      "motivo": "Canto católico 'RUAH' cuyo título recoge los dos primeros versos del canto ('Ruah Espíritu de Dios / Sopla tu poder'); no se pudo ver la letra completa para confirmar el resto."
+    },
+    {
+      "id": "m8-muevete-en-mi",
+      "url": "https://www.youtube.com/watch?v=c93wN2Chdvo",
+      "tituloVideo": "El Espiritu de Dios esta en este lugar + letra + lyrics",
+      "confianza": "alta",
+      "motivo": "Es el canto de Maranatha cuya letra en pantalla dice 'El Espíritu de Dios está en este lugar / se mueve en este lugar / está aquí para consolar, está aquí para liberar' y termina en 'muévete en mí', título con que lo recoge el cantoral."
+    },
+    {
+      "id": "m8-ven-espiritu-de-dios",
+      "url": "https://www.youtube.com/watch?v=5aQ0FleF9-4",
+      "tituloVideo": "Ven Espíritu de Dios - Kairoi original",
+      "confianza": "media",
+      "motivo": "Versión original de Kairoi del canto 'Ven Espíritu de Dios'; coincide título y autor con el repertorio, aunque no se pudo contrastar la letra 'ven y danos fe, ven abrázanos'."
+    },
+    {
+      "id": "m8-ven-senor-de-la-justicia",
+      "url": "https://www.youtube.com/watch?v=HStGkqUlERI",
+      "tituloVideo": "Ven Señor de la Justicia - Sinai / Canto de entrada o comunión (Adviento)",
+      "confianza": "alta",
+      "motivo": "La descripción trae la letra con acordes: 'Ven, Señor de la justicia / ven, Jesús, nuestra esperanza' (autor Jesús María Sánchez), coincidente con el canto de Adviento."
+    },
+    {
+      "id": "m8-dios-de-mi-vida",
+      "url": "https://www.youtube.com/watch?v=NacOX6h897E",
+      "tituloVideo": "DIOS DE MI VIDA porJDV",
+      "confianza": "alta",
+      "motivo": "Grabación del propio grupo Jóvenes de Valor (JDV), el autor que indica el cantoral, con el título exacto y descrita como alabanza para 'alabar a Dios con nuestras vidas'."
+    },
+    {
+      "id": "m8-heroe",
+      "url": "https://www.youtube.com/watch?v=ie8SHXmoH5o",
+      "tituloVideo": "Mariah Carey - Héroe (Official Audio)",
+      "confianza": "alta",
+      "motivo": "Audio oficial de la versión en español de 'Hero' de Mariah Carey, que es la fuente que declara el cantoral."
+    },
+    {
+      "id": "m8-aqui-estoy-yo",
+      "url": "https://www.youtube.com/watch?v=EsfSuL-VFBw",
+      "tituloVideo": "Luis Fonsi - Aqui Estoy Yo ft. Aleks Syntek, Noel Schajris, David Bisbal",
+      "confianza": "alta",
+      "motivo": "Video oficial (VEVO) con exactamente los cuatro intérpretes que indica el cantoral y el verso inicial 'Aquí estoy yo, para hacerte reír una vez más'."
+    },
+    {
+      "id": "m8-mi-pastor",
+      "url": "https://www.youtube.com/watch?v=HqrIE6e3O2k",
+      "tituloVideo": "Jovenes de Valor - Mi Pastor (Música Catolica)",
+      "confianza": "alta",
+      "motivo": "Interpretación del grupo Jóvenes de Valor, el autor que declara el cantoral, con el título exacto 'Mi Pastor'."
+    }
+  ]
+}

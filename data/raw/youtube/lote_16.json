@@ -1,0 +1,243 @@
+{
+  "lote": "lote_16",
+  "enlaces": [
+    {
+      "id": "08-espiritu-santo-ven-espinosa",
+      "url": "https://www.youtube.com/watch?v=0pidzfvN2zo",
+      "tituloVideo": "Espíritu Santo, Ven",
+      "confianza": "alta",
+      "motivo": "Canal oficial (Topic) de Juan Antonio Espinosa con el título exacto del canto atribuido a ese mismo autor."
+    },
+    {
+      "id": "08-inundame-senor",
+      "url": "https://www.youtube.com/watch?v=kdWFaxJFiCI",
+      "tituloVideo": "INUNDAME SEÑOR CON TU ESPIRITU. Gladys Garcete. Música Católica",
+      "confianza": "alta",
+      "motivo": "El título reproduce literalmente el estribillo 'Inúndame, Señor, con tu Espíritu' del canto."
+    },
+    {
+      "id": "08-pentecostes",
+      "url": "https://www.youtube.com/watch?v=_0cwwJf15B4",
+      "tituloVideo": "PENTECOSTÉS DÍA DE FIESTA",
+      "confianza": "alta",
+      "motivo": "La descripción del video transcribe la letra idéntica: 'Pentecostés día de fiesta, día de gozo, día de la Iglesia... ya se derrama el Espíritu de Dios'."
+    },
+    {
+      "id": "08-pentecostes-kiko",
+      "url": "https://www.youtube.com/watch?v=dA5eYTqJbWs",
+      "tituloVideo": "Pentecostés. Si sientes un soplo del cielo - Camino Neocatecumenal",
+      "confianza": "alta",
+      "motivo": "El título incluye el primer verso exacto y lo identifica como canto del Camino Neocatecumenal (Kiko Argüello)."
+    },
+    {
+      "id": "08-pentecostes-dia-fiesta-iglesia",
+      "url": "https://www.youtube.com/watch?v=Fq3Dl9E000k",
+      "tituloVideo": "PENTECOSTÉS DIA DE FIESTA EN TU IGLESIA",
+      "confianza": "alta",
+      "motivo": "La descripción copia la letra completa coincidente: 'día de hermandad y amor... como viento impetuoso enviarás tu Santo Espíritu'."
+    },
+    {
+      "id": "08-si-miro-al-cielo",
+      "url": "https://www.youtube.com/watch?v=G3ZJIPIp95M",
+      "tituloVideo": "La fuerza escondida (Original Version)",
+      "confianza": "media",
+      "motivo": "Versión original de 'La fuerza escondida' (subtítulo del canto) en el canal oficial de Cesáreo Gabaráin; no se pudo ver la letra completa."
+    },
+    {
+      "id": "08-siempre-es-pentecostes",
+      "url": "https://www.youtube.com/watch?v=oMbA5Jr3qgc",
+      "tituloVideo": "Siempre es pentecostés (Original Version)",
+      "confianza": "alta",
+      "motivo": "Versión original en el canal oficial de Cesáreo Gabaráin, autor indicado en el cantoral."
+    },
+    {
+      "id": "08-soplo-de-dios",
+      "url": "https://www.youtube.com/watch?v=dqzy3LS4Psc",
+      "tituloVideo": "SOPLO DE DIOS VIVIENTE (versión con órgano)",
+      "confianza": "alta",
+      "motivo": "Himno litúrgico con el título y primer verso idénticos: 'Soplo de Dios viviente que en el principio cubriste el agua'."
+    },
+    {
+      "id": "08-tu-eres-el-agua-viva",
+      "url": "https://www.youtube.com/watch?v=xl_AFLDK7qE",
+      "tituloVideo": "Tú eres el agua viva",
+      "confianza": "alta",
+      "motivo": "Canal oficial de la Hermana Glenda, autora indicada en el cantoral, con el título exacto."
+    },
+    {
+      "id": "08-ven-espiritu-santo-secuencia",
+      "url": "https://www.youtube.com/watch?v=Hu_RiaVuAGs",
+      "tituloVideo": "Secuencia de Pentecostés - Ven Espíritu Santo y envía desde el cielo un rayo de tu luz",
+      "confianza": "media",
+      "motivo": "El título reproduce textualmente los versos de la secuencia traducida que recoge el cantoral, aunque no se confirmó la misma melodía."
+    },
+    {
+      "id": "08-ven-espiritu-de-dios-kairoi",
+      "url": "https://www.youtube.com/watch?v=5aQ0FleF9-4",
+      "tituloVideo": "Ven Espíritu de Dios - Kairoi original",
+      "confianza": "alta",
+      "motivo": "Versión original de Kairoi, grupo indicado en el título del canto ('Ven, espíritu de Dios, sobre mí')."
+    },
+    {
+      "id": "08-ven-espiritu-santo-joscar",
+      "url": "https://www.youtube.com/watch?v=bneE5xyHdqM",
+      "tituloVideo": "Ven Espíritu - Joscar Salazar.",
+      "confianza": "media",
+      "motivo": "Composición de Joscar Salazar, cantautor de la Diócesis de Maturín (mismo origen del cantoral), con título coincidente."
+    },
+    {
+      "id": "08-ven-santo-espiritu-roger",
+      "url": "https://www.youtube.com/watch?v=fbc78n9RViQ",
+      "tituloVideo": "Ven, Santo Espíritu",
+      "confianza": "alta",
+      "motivo": "Canal oficial (Topic) de Roger Hernández, autor indicado en el cantoral, con el título exacto."
+    },
+    {
+      "id": "08-veni-creator-spiritus",
+      "url": "https://www.youtube.com/watch?v=HEKuxUOPzk8",
+      "tituloVideo": "Veni Creator Spiritus – Gregorian chant",
+      "confianza": "alta",
+      "motivo": "Himno gregoriano en latín con el texto litúrgico idéntico al del cantoral."
+    },
+    {
+      "id": "08-yo-vengo-a-reunir",
+      "url": "https://www.youtube.com/watch?v=RpiemSJQU-w",
+      "tituloVideo": "YO VENGO A REUNIR (Kiko Arguello)",
+      "confianza": "alta",
+      "motivo": "Atribución explícita a Kiko Argüello y título idéntico al canto basado en Isaías 66."
+    },
+    {
+      "id": "08-acaso-no-estoy-yo-aqui",
+      "url": "https://www.youtube.com/watch?v=yiRuZloI6d0",
+      "tituloVideo": "Athenas - Acaso No Estoy Yo Aquí (Guadalupe) - Música Católica",
+      "confianza": "media",
+      "motivo": "Canto guadalupano con el mismo título e idéntico planteamiento ('Hijo mío... no se turbe tu corazón'); Verónica Sanfilippo pertenece al mismo círculo de producción."
+    },
+    {
+      "id": "08-acompaname-maria",
+      "url": "https://www.youtube.com/watch?v=ph3khX60e7g",
+      "tituloVideo": "Acompañame María, Inés de Viaud (con acordes)",
+      "confianza": "alta",
+      "motivo": "La descripción incluye la letra literal: estribillo y estrofa 'Tu hijo es mi vida, la razón de mi existir'."
+    },
+    {
+      "id": "08-algo-de-ti-en-dios-habia",
+      "url": "https://www.youtube.com/watch?v=GQS6Odex-MU",
+      "tituloVideo": "Algo de ti en Dios había (José Antonio Olivar - Jesús Glück)",
+      "confianza": "alta",
+      "motivo": "Título y autores coinciden exactamente con los indicados en el cantoral."
+    },
+    {
+      "id": "08-asuncion",
+      "url": "https://www.youtube.com/watch?v=utq0k2NgnHc",
+      "tituloVideo": "Asunción (José Antonio Olivar - Jesús Gluck)",
+      "confianza": "alta",
+      "motivo": "Título y autoría (Olivar / Glück) idénticos a los del canto 'Murió porque la muerte no es el final de la vida'."
+    },
+    {
+      "id": "08-ave-maria-schubert-baritono",
+      "url": "https://www.youtube.com/watch?v=Bjlow_4mbfc",
+      "tituloVideo": "AVE MARIA (Franz Schubert) en latín",
+      "confianza": "media",
+      "motivo": "Ave María de Schubert con el texto latino del cantoral; el video no es específico del tono para barítono."
+    },
+    {
+      "id": "08-ave-maria-schubert-contralto",
+      "url": "https://www.youtube.com/watch?v=Bjlow_4mbfc",
+      "tituloVideo": "AVE MARIA (Franz Schubert) en latín",
+      "confianza": "media",
+      "motivo": "Ave María de Schubert con el texto latino del cantoral; el video no es específico del tono para contralto."
+    },
+    {
+      "id": "08-ave-maria-schubert-soprano",
+      "url": "https://www.youtube.com/watch?v=Bjlow_4mbfc",
+      "tituloVideo": "AVE MARIA (Franz Schubert) en latín",
+      "confianza": "media",
+      "motivo": "Ave María de Schubert con el texto latino del cantoral; el video no es específico del tono para soprano."
+    },
+    {
+      "id": "08-ave-maria-kairoi",
+      "url": "https://www.youtube.com/watch?v=2h_uuCCLfqU",
+      "tituloVideo": "Ave María - Kairoi",
+      "confianza": "alta",
+      "motivo": "Versión de Kairoi indicada en el título del canto, con la letra 'Dios te salve María... Ave María'."
+    },
+    {
+      "id": "08-ave-regina-caelorum-gregoriano",
+      "url": "https://www.youtube.com/watch?v=AKQIQKefap8",
+      "tituloVideo": "«Ave Regina cælorum» en tono simple (oración incl.) – Antífona mariana para Cuaresma",
+      "confianza": "alta",
+      "motivo": "Antífona gregoriana con el texto latino idéntico ('Ave Domina Angelorum, salve radix, salve porta')."
+    },
+    {
+      "id": "08-bajo-tu-amparo",
+      "url": "https://www.youtube.com/watch?v=8-LmBDBEus4",
+      "tituloVideo": "Bajo tu amparo",
+      "confianza": "alta",
+      "motivo": "Canal oficial (Topic) de Lucien Deiss, autor indicado en el cantoral."
+    },
+    {
+      "id": "08-contigo-maria",
+      "url": "https://www.youtube.com/watch?v=URsXU5HdYPA",
+      "tituloVideo": "Contigo, María [CON LETRA] - Athenas - MÚSICA CATÓLICA",
+      "confianza": "alta",
+      "motivo": "Versión oficial de Athenas, autora indicada, con letra en pantalla ('Quiero caminar contigo María')."
+    },
+    {
+      "id": "08-como-no-amarte",
+      "url": "https://www.youtube.com/watch?v=N9j7hlYEMLU",
+      "tituloVideo": "Como No Amarte",
+      "confianza": "alta",
+      "motivo": "Canal oficial de Alfareros, grupo indicado en el cantoral, con el título exacto."
+    },
+    {
+      "id": "08-con-maria",
+      "url": "https://www.youtube.com/watch?v=ihUnrf9T0sw",
+      "tituloVideo": "Canción Con María es más fácil caminar, música católica de calidad.",
+      "confianza": "media",
+      "motivo": "El título reproduce el estribillo 'Con María es más fácil caminar'; no se pudo comprobar la letra completa."
+    },
+    {
+      "id": "08-del-cielo-ha-bajado",
+      "url": "https://www.youtube.com/watch?v=LlhHMGVtYKQ",
+      "tituloVideo": "Ave de Lourdes - Del Cielo ha bajado",
+      "confianza": "alta",
+      "motivo": "Coincide título y subtítulo del canto ('Del cielo ha bajado' / 'Ave de Lourdes') con el estribillo 'Ave, ave, ave María'."
+    },
+    {
+      "id": "08-dulce-madre",
+      "url": "https://www.youtube.com/watch?v=fmo33IUDUPw",
+      "tituloVideo": "Pieta (Dulce Madre) feat. Athenas & Nico Cabrera by The Vigil Project",
+      "confianza": "alta",
+      "motivo": "Versión en español 'Pieta (Dulce Madre)', cuya letra es 'Cómo sería estar en los brazos de María que sostuvo a Cristo en su muerte'."
+    },
+    {
+      "id": "08-en-torno-a-maria",
+      "url": "https://www.youtube.com/watch?v=7mEE10PHN1w",
+      "tituloVideo": "En Torno a María - Jésed (María Madre de la Iglesia)",
+      "confianza": "media",
+      "motivo": "Título exacto y descripción que narra la espera de los apóstoles en el Cenáculo, tema de la letra ('En torno a María la Iglesia se formó')."
+    },
+    {
+      "id": "08-en-tu-vientre",
+      "url": "https://www.youtube.com/watch?v=vkuQHXZhH_A",
+      "tituloVideo": "en tu vientre (estrella de la mañana)",
+      "confianza": "media",
+      "motivo": "El título coincide con el título y el subtítulo del canto ('En tu vientre' / 'María, estrella de la mañana'), aunque es una versión libre."
+    },
+    {
+      "id": "08-eres-virgen-maria-un-poema",
+      "url": "https://www.youtube.com/watch?v=5JkG5TV7KdQ",
+      "tituloVideo": "Eres Virgen Maria un poema - Fray Carlo Parraga",
+      "confianza": "alta",
+      "motivo": "Título idéntico al primer verso e intérprete venezolano, coherente con el origen del cantoral."
+    },
+    {
+      "id": "08-es-mas-pura-que-el-sol",
+      "url": "https://www.youtube.com/watch?v=1w4JTUKLvGI",
+      "tituloVideo": "Eres mas pura que el sol (con letra)",
+      "confianza": "media",
+      "motivo": "Himno mariano tradicional con la misma letra ('más hermosa que las perlas que ocultan los mares'), titulado con la variante 'Eres'."
+    }
+  ]
+}

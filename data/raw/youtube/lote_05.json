@@ -1,0 +1,61 @@
+{
+  "lote": "lote_05",
+  "enlaces": [
+    {
+      "id": "02-santo-8-tomas-aragues",
+      "url": "https://www.youtube.com/watch?v=xOFgs4Uo6eo",
+      "tituloVideo": "Santo (Música: Tomás Aragüés) - Cantos para la misa (Repertorio básico)",
+      "confianza": "alta",
+      "motivo": "Es el Santo de la Misa en castellano de Tomás Aragüés, con la letra 'Santo, Santo, Santo es el Señor, Dios del universo... Hosanna en el cielo' que coincide con el canto."
+    },
+    {
+      "id": "02-santo-11-roma-1977",
+      "url": "https://www.youtube.com/watch?v=aDVmiLsdCeg",
+      "tituloVideo": "Santo Roma 77",
+      "confianza": "alta",
+      "motivo": "Es exactamente el 'Santo Roma 77' de Kiko Argüello (Camino Neocatecumenal), cuya letra dice 'El cielo y la tierra están llenos, están llenos de Ti / Hosanna en lo alto del cielo'."
+    },
+    {
+      "id": "02-santo-15b-neocatecumeno-1988",
+      "url": "https://www.youtube.com/watch?v=UWoZwxJThPY",
+      "tituloVideo": "Santo 1988",
+      "confianza": "alta",
+      "motivo": "Es el 'Santo 1988' del Camino Neocatecumenal, versión distinta al Roma 77, con la letra 'Es el Señor Dios del universo... Hosanna en lo alto del cielo' del canto."
+    },
+    {
+      "id": "02-pater-noster-latin",
+      "url": "https://www.youtube.com/watch?v=i9gmya425TY",
+      "tituloVideo": "✝️ Pater noster (Padre nuestro) / Canto gregoriano - Catedral de Cali",
+      "confianza": "alta",
+      "motivo": "Canto gregoriano del Pater Noster en latín con el texto litúrgico íntegro 'Pater noster, qui es in caelis...' que es la letra del canto."
+    },
+    {
+      "id": "02-padre-nuestro-espinosa",
+      "url": "https://www.youtube.com/watch?v=a_9djLTSXug",
+      "tituloVideo": "Padre Nuestro Juan Antonio Espinosa",
+      "confianza": "alta",
+      "motivo": "Versión del Padre Nuestro de Juan Antonio Espinosa, autor indicado en el cantoral, con la letra 'Padre nuestro que estás en el cielo, santificado sea tu nombre, venga a nosotros, venga tu reino'."
+    },
+    {
+      "id": "02-cordero-7-tomas-aragues",
+      "url": "https://www.youtube.com/watch?v=MYUICsugyB8",
+      "tituloVideo": "Cordero de Dios, Tomás Aragüés Bernard",
+      "confianza": "alta",
+      "motivo": "Cordero de Dios de la Misa en castellano de Tomás Aragüés, autor que consta en el título del canto, con la estructura 'ten piedad de nosotros' (1 y 2) y 'danos la paz' (3)."
+    },
+    {
+      "id": "02-cordero-13-francisco-palazon",
+      "url": "https://www.youtube.com/watch?v=yymfGwRpBN0",
+      "tituloVideo": "Cordero de Dios - Francisco Palazón (Misa Alrededor de tu Mesa)",
+      "confianza": "alta",
+      "motivo": "Es el Cordero de Dios de la misa 'Alrededor de tu Mesa' de Francisco Palazón, misa y autor exactos indicados en el cantoral."
+    },
+    {
+      "id": "02-cordero-18b-cristobal-fones",
+      "url": "https://www.youtube.com/watch?v=0EuwEFpiohw",
+      "tituloVideo": "Cordero de Dios - Cristobal Fones",
+      "confianza": "alta",
+      "motivo": "Cordero de Dios compuesto por Cristóbal Fones S.J., autor indicado en el canto, con el texto 'Cordero de Dios, tú que quitas el pecado del mundo, ten piedad de nosotros'."
+    }
+  ]
+}

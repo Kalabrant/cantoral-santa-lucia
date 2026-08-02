@@ -1,0 +1,75 @@
+{
+  "lote": "lote_02",
+  "enlaces": [
+    {
+      "id": "01-senor-ten-piedad-iv",
+      "url": "https://www.youtube.com/watch?v=TZXzbzu30qo",
+      "tituloVideo": "Señor ten piedad (Palazón) Misa Alrededor de tu Mesa",
+      "confianza": "alta",
+      "motivo": "Los primeros versos del canto citan literalmente 'Francisco Palazón, Alrededor de tu mesa', y el video es exactamente el Kyrie de esa misa."
+    },
+    {
+      "id": "01-gloria-de-angelis",
+      "url": "https://www.youtube.com/watch?v=QhOSLHQID1k",
+      "tituloVideo": "Glória in excelsis Deo (Canto Gregoriano) | Missa VIII (De Angelis)",
+      "confianza": "alta",
+      "motivo": "Es el Gloria gregoriano de la Missa VIII De Angelis con el texto latino 'et in terra pax hominibus bonae voluntatis' que recoge el cantoral."
+    },
+    {
+      "id": "01-gloria-i",
+      "url": "https://www.youtube.com/watch?v=9S60l2Kabsk",
+      "tituloVideo": "\"Gloria a Dios en el cielo\" (Alejandro Mejía | Misa Rítmica) - Cantos para la Misa",
+      "confianza": "alta",
+      "motivo": "Coincide el autor indicado (Alejandro Mejía) y el estribillo 'Gloria a Dios en el cielo y en la tierra a los hombres paz' de su Misa Rítmica."
+    },
+    {
+      "id": "01-gloria-ii",
+      "url": "https://www.youtube.com/watch?v=K2DiwBmSeoA",
+      "tituloVideo": "Gloria a Dios en el cielo y en la tierra paz a los hombres - Francisco Palazón | Canto de Misa",
+      "confianza": "alta",
+      "motivo": "El título del video reproduce el estribillo exacto del canto y coincide con el autor probable, Francisco Palazón."
+    },
+    {
+      "id": "01-gloria-iv-jesed",
+      "url": "https://www.youtube.com/watch?v=XX7JZnB639o",
+      "tituloVideo": "\"Gloria a Dios en el cielo\" (Jésed) - Cantos para la Misa",
+      "confianza": "alta",
+      "motivo": "El canto se titula 'Gloria IV, Jesed' y el video es la versión de Jésed con el estribillo respondido 'Gloria a Dios en el Cielo / y en la Tierra a los hombres paz'."
+    },
+    {
+      "id": "01-gloria-v-giombini",
+      "url": "https://www.youtube.com/watch?v=lwGpP209X4c",
+      "tituloVideo": "Gloria - Marcello Giombini",
+      "confianza": "alta",
+      "motivo": "Es el Gloria de Marcello Giombini (el enlace figura en el cancionero salesiano oficial), con el estribillo 'Gloria a Dios en el cielo... paz a los hombres que ama el Señor'."
+    },
+    {
+      "id": "01-gloria-viii-misa-juan-diego",
+      "url": "https://www.youtube.com/watch?v=I2Htm7yI6J4",
+      "tituloVideo": "Gloria a Dios en el cielo, Rufino Zaragoza, ofm",
+      "confianza": "alta",
+      "motivo": "Coincide el autor (Rufino Zaragoza OFM) y es el Gloria de su Misa Juan Diego, cuyo estribillo repite 'y en la tierra paz a los hombres'."
+    },
+    {
+      "id": "01-gloria-xiii-jmj-madrid",
+      "url": "https://www.youtube.com/watch?v=3q7Y32_cnpM",
+      "tituloVideo": "Gloria in Excelsis Deo (JMJ) - Coro y Orquesta MusicAlma",
+      "confianza": "media",
+      "motivo": "Video identificado como el Gloria de la JMJ, con el estribillo latino 'Gloria, Gloria, in excelsis Deo' y estrofas en español como el canto; no se verificó la letra completa."
+    },
+    {
+      "id": "01-gloria-xiv-frisina",
+      "url": "https://www.youtube.com/watch?v=SP_IH_sLMXo",
+      "tituloVideo": "Gloria a Dios (Gloria no.2), Pbro. Marco Frisina (con acordes) Latin/adaptación al Español",
+      "confianza": "alta",
+      "motivo": "Es el 'Gloria 2' de Marco Frisina, con estribillo latino 'Gloria in excelsis Deo et in terra pax hominibus bonae voluntatis' y estrofas en español, tal como el canto."
+    },
+    {
+      "id": "01-gloria-xv-misa-criolla",
+      "url": "https://www.youtube.com/watch?v=RudKrFwq15s",
+      "tituloVideo": "Misa Criolla, Gloria a Dios en las alturas",
+      "confianza": "alta",
+      "motivo": "Es el Gloria de la Misa Criolla argentina de Ariel Ramírez, que comienza literalmente 'Gloria a Dios en las alturas y en la tierra paz a los hombres'."
+    }
+  ]
+}

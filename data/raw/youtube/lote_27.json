@@ -1,0 +1,229 @@
+{
+  "lote": "lote_27",
+  "enlaces": [
+    {
+      "id": "m5-yo-no-soy-nada",
+      "url": "https://www.youtube.com/watch?v=Ps1rGWClV1c",
+      "tituloVideo": "Canto de Adoración - Yo no soy nada (Luis Alfredo) | Shajaj",
+      "confianza": "alta",
+      "motivo": "La descripción reproduce literalmente 'Yo no soy nada y del polvo nací / pero Tú me amas y moriste por mí' y acredita a Luis Alfredo Díaz Britos."
+    },
+    {
+      "id": "m5-yo-estoy-aqui",
+      "url": "https://www.youtube.com/watch?v=D0PPiPld8hU",
+      "tituloVideo": "Tú Sólo Tú",
+      "confianza": "media",
+      "motivo": "La descripción del video incluye exactamente 'Yo estoy aquí para que obres en mí / Solo quiero imitarte, solo quiero amarte / Tómame Señor, que a tu servicio estoy', aunque el título publicado difiere."
+    },
+    {
+      "id": "m5-quiero-vivir-por-la-fe",
+      "url": "https://www.youtube.com/watch?v=VtYMRQSewBk",
+      "tituloVideo": "Quiero vivir por la fe - Cancion Año de la Fe",
+      "confianza": "alta",
+      "motivo": "La descripción cita la letra completa 'Quiero vivir por la Fe, no quiero desesperar, el tesoro que hay en mí, en vaso de barro está'."
+    },
+    {
+      "id": "m5-padre-santo",
+      "url": "https://www.youtube.com/watch?v=l0nIte7tjBU",
+      "tituloVideo": "PADRE SANTO TE APRECIO ~ CÁNTICOS DEL AYER. (DESCONOCIDO)",
+      "confianza": "alta",
+      "motivo": "El título recoge el verso inicial exacto 'Padre santo te aprecio', versión clásica del canto de Maranatha."
+    },
+    {
+      "id": "m5-hora-de-la-resurreccion",
+      "url": "https://www.youtube.com/watch?v=DRvt-JwRVWw",
+      "tituloVideo": "LA HORA DE LA RESURECCIÓN",
+      "confianza": "alta",
+      "motivo": "Publicado en el canal del propio autor indicado en el cantoral, Pbro. José Gregorio Villalobos, con el mismo título."
+    },
+    {
+      "id": "m5-comunion-oracion-unida",
+      "url": "https://www.youtube.com/watch?v=d994lbpZPa8",
+      "tituloVideo": "Oración de Unidad",
+      "confianza": "alta",
+      "motivo": "La descripción transcribe 'Tu gracia recibí, dulzura y luz, yo nunca merecí tanto amor. Mi vida renació, se iluminó' (Andrea Tessa)."
+    },
+    {
+      "id": "m5-eres-tu",
+      "url": "https://www.youtube.com/watch?v=A5vaIjBQnmk",
+      "tituloVideo": "Mocedades - Eres tú (video oficial Remasterizado)",
+      "confianza": "alta",
+      "motivo": "Es el clásico de Mocedades cuyo primer verso es 'Como una promesa eres tú, eres tú', idéntico al del cantoral."
+    },
+    {
+      "id": "m5-te-seguire",
+      "url": "https://www.youtube.com/watch?v=uoDz3t6YTzw",
+      "tituloVideo": "Te Seguire",
+      "confianza": "alta",
+      "motivo": "Grabación oficial del Padre José Gregorio (Villalobos), el autor que indica el cantoral, con el mismo título."
+    },
+    {
+      "id": "m5-tan-solo-he-venido",
+      "url": "https://www.youtube.com/watch?v=Jq0JuM6xquk",
+      "tituloVideo": "Tan Solo He Venido",
+      "confianza": "alta",
+      "motivo": "Audio oficial de Juan Luis Guerra 4.40 (álbum 'Para Ti'), autor indicado en el cantoral."
+    },
+    {
+      "id": "m5-cambiar-el-mundo",
+      "url": "https://www.youtube.com/watch?v=oDVJO9rE9EU",
+      "tituloVideo": "Alejandro Lerner - Cambiar El Mundo (Audio)",
+      "confianza": "alta",
+      "motivo": "Audio oficial de Alejandro Lerner, autor que consta en el cantoral, con el mismo título."
+    },
+    {
+      "id": "m5-eres-mi-protector",
+      "url": "https://www.youtube.com/watch?v=azqgZB1ZSOA",
+      "tituloVideo": "Eres Mi Protector",
+      "confianza": "alta",
+      "motivo": "Audio oficial de Maranatha! Latin, versión estándar cuya letra es 'llenas mi corazón con cánticos de liberación, de angustias me salvarás'."
+    },
+    {
+      "id": "m5-si-conocieras-el-amor",
+      "url": "https://www.youtube.com/watch?v=L86zw1zNGE8",
+      "tituloVideo": "SI CONOCIERAS EL AMOR QUE DIOS TE TIENE - HERMANA GLENDA",
+      "confianza": "alta",
+      "motivo": "El título reproduce el primer verso exacto y otras versiones del mismo canto citan 'si descubrieras lo que Él te quiere regalar'."
+    },
+    {
+      "id": "m5-extiende-tu-mano",
+      "url": "https://www.youtube.com/watch?v=oFKccH16w_g",
+      "tituloVideo": "Extiende Tu Mano",
+      "confianza": "alta",
+      "motivo": "Audio oficial de Juan Luis Guerra 4.40 (álbum 'Para Ti'), autor indicado en el cantoral."
+    },
+    {
+      "id": "m5-levanto-mis-manos",
+      "url": "https://www.youtube.com/watch?v=jrKP-xa8Agk",
+      "tituloVideo": "Samuel Hernández - Levanto mis manos Video Oficial",
+      "confianza": "alta",
+      "motivo": "Video oficial del canto cuyo texto es 'Aunque no tenga fuerzas, aunque tenga mil problemas... cuando levanto mis manos'."
+    },
+    {
+      "id": "m5-por-el-poder-de-tu-amor",
+      "url": "https://www.youtube.com/watch?v=TKE4tEOH7JU",
+      "tituloVideo": "El Poder De Tu Amor (The Power of Love Spanish new Version)",
+      "confianza": "alta",
+      "motivo": "Versión de Ingrid Rosario cuya letra comienza 'Vengo a ti Señor, cámbiame, renuévame, por la gracia que encontré en ti'."
+    },
+    {
+      "id": "m5-el-taller-del-maestro",
+      "url": "https://www.youtube.com/watch?v=xepY2ULKwYQ",
+      "tituloVideo": "Al Taller Del Maestro - Alex Campos | Audio Oficial",
+      "confianza": "alta",
+      "motivo": "Audio oficial de Alex Campos, autor indicado en el cantoral; el canto empieza 'Ay cómo me duele estar despierto y no poder cantar'."
+    },
+    {
+      "id": "m5-mira-a-los-cielos",
+      "url": "https://www.youtube.com/watch?v=EqZXlav9_MA",
+      "tituloVideo": "Mira Ahora Los Cielos",
+      "confianza": "alta",
+      "motivo": "Audio oficial de José Luis Reyes (álbum 'Alza Tus Ojos'); el canto es 'Mira ahora los cielos', que empieza 'No, no es igual guiarse por las emociones'."
+    },
+    {
+      "id": "m5-alza-tus-ojos",
+      "url": "https://www.youtube.com/watch?v=zyOpCubam48",
+      "tituloVideo": "ALZA TUS OJOS- JOSE LUIS REYES",
+      "confianza": "alta",
+      "motivo": "Publicado en el canal oficial de José Luis Reyes, autor indicado en el cantoral, con el mismo título."
+    },
+    {
+      "id": "m5-prosigo-al-blanco",
+      "url": "https://www.youtube.com/watch?v=G-YQayhTqKk",
+      "tituloVideo": "Prosigo Al Blanco",
+      "confianza": "alta",
+      "motivo": "Audio oficial de José Luis Reyes; otras subidas del mismo tema citan 'Es más fácil creer que es imposible, mirar atrás y devolverse'."
+    },
+    {
+      "id": "m6-mi-fuerza",
+      "url": "https://www.youtube.com/watch?v=Ltxtc2iG2QI",
+      "tituloVideo": "Eres mi todo - Cuarteto Sabbath Ft. @FielesVoces",
+      "confianza": "alta",
+      "motivo": "La descripción transcribe 'Eres mi fuerza y mi poder, el gran tesoro que busqué, eres mi todo oh Dios, perla de precio sin igual'."
+    },
+    {
+      "id": "m6-mi-cristo-roto",
+      "url": "https://www.youtube.com/watch?v=NVdYSMifhr4",
+      "tituloVideo": "mi Cristo roto (cover) Acapella",
+      "confianza": "alta",
+      "motivo": "La descripción incluye la letra exacta 'Tú querías conocer mi rostro, nunca quisiste mirarme donde estaba'."
+    },
+    {
+      "id": "m6-hay-paz-en-tu-corazon",
+      "url": "https://www.youtube.com/watch?v=cuPYQyaCGNA",
+      "tituloVideo": "Gloria Estefan - Mas Alla",
+      "confianza": "alta",
+      "motivo": "El canto corresponde a 'Más Allá' de Gloria Estefan: 'cuando das sin esperar, cuando quieres de verdad, cuando brindas perdón en lugar de rencor, hay paz en tu corazón'."
+    },
+    {
+      "id": "m6-tu-estas-aqui",
+      "url": "https://www.youtube.com/watch?v=-ALOwx-RHm4",
+      "tituloVideo": "Jesús Adrián Romero, Marcela Gándara - Tú Estás Aquí (Video Oficial)",
+      "confianza": "alta",
+      "motivo": "Video oficial cuya letra comienza 'Aunque mis ojos no te puedan ver, te puedo sentir, sé que estás aquí'."
+    },
+    {
+      "id": "m6-a-tu-nombre-sea-dada-la-gloria",
+      "url": "https://www.youtube.com/watch?v=tn-6iOAMIEQ",
+      "tituloVideo": "No A Nosotros",
+      "confianza": "alta",
+      "motivo": "Audio oficial de Jesús Adrián Romero; su letra dice 'A una voz venimos hoy delante de Ti... no a nosotros oh Dios, sino a tu Nombre sea dada la gloria'."
+    },
+    {
+      "id": "m6-bartimeo",
+      "url": "https://www.youtube.com/watch?v=44sOFt-N4rM",
+      "tituloVideo": "César Otaiza \"Bartimeo\" (El Ciego de Jericó)",
+      "confianza": "media",
+      "motivo": "Canto venezolano de César Otaiza (Grupo Somos Iguales) sobre Bartimeo, subido por el propio autor; coincide con el contexto y origen del cantoral."
+    },
+    {
+      "id": "m6-al-estar-ante-ti",
+      "url": "https://www.youtube.com/watch?v=TdpfjHeZLCk",
+      "tituloVideo": "Al Estar Ante Ti - Jesús Adrián Romero (Lyric Video)",
+      "confianza": "alta",
+      "motivo": "Lyric video oficial con la letra 'Al estar ante ti, adorando frente al mar de cristal, entre la multitud'."
+    },
+    {
+      "id": "m6-ven-a-jesus",
+      "url": "https://www.youtube.com/watch?v=kS-WJQFyWM8",
+      "tituloVideo": "Si has probado todas las cosas y en ninguna has hallado paz ...",
+      "confianza": "alta",
+      "motivo": "El título y la descripción reproducen la letra del canto 'Ven a Jesús': 'Si has probado todas las cosas y en ninguna has hallado paz'."
+    },
+    {
+      "id": "m6-a-dios-sea-la-gloria",
+      "url": "https://www.youtube.com/watch?v=1bwkY0KwRuY",
+      "tituloVideo": "Yamilka - A Dios Sea La Gloria",
+      "confianza": "alta",
+      "motivo": "La descripción transcribe 'Cómo agradecer todas las cosas que has hecho por mí, cosas inmerecidas', igual que el cantoral."
+    },
+    {
+      "id": "m6-con-brazo-fuerte",
+      "url": "https://www.youtube.com/watch?v=mdea8j8dVoQ",
+      "tituloVideo": "Con Brazo Fuerte (En Vivo)",
+      "confianza": "alta",
+      "motivo": "Grabación oficial de Jesús Adrián Romero con la letra 'Con brazo fuerte y poderoso oh Dios, nos liberaste del pecado'."
+    },
+    {
+      "id": "m6-un-viaje-largo",
+      "url": "https://www.youtube.com/watch?v=vfMnjKSxZJ4",
+      "tituloVideo": "Un Viaje Largo - Marcela Gandara (Audio Oficical)",
+      "confianza": "alta",
+      "motivo": "Audio oficial cuya letra es 'Ha sido largo el viaje, pero al fin llegué; la luz llegó a mis ojos aunque lo dudé'."
+    },
+    {
+      "id": "m6-iglesia",
+      "url": "https://www.youtube.com/watch?v=zxMM4pZZbjc",
+      "tituloVideo": "Iglesia",
+      "confianza": "alta",
+      "motivo": "Audio oficial de Lilly Goodman cuya letra empieza 'Mi pueblo escúchame lo que voy a decirte, solo será un minuto si tienes que irte'."
+    },
+    {
+      "id": "m6-hombre-verdadero",
+      "url": "https://www.youtube.com/watch?v=u9YtbgJRkRc",
+      "tituloVideo": "JESUS EL CARPINTERO   HOMBRE VERDADERO",
+      "confianza": "media",
+      "motivo": "El canto es 'Jesús el carpintero (Hombre verdadero)', cuyos acordes y letra publicados coinciden con 'Yo no sé qué está pasando, parece que quieren cambiarme'."
+    }
+  ]
+}

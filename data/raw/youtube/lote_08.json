@@ -1,0 +1,250 @@
+{
+  "lote": "lote_08",
+  "enlaces": [
+    {
+      "id": "04-el-rey-de-la-gloria",
+      "url": "https://www.youtube.com/watch?v=hUgWGcIb2Ls",
+      "tituloVideo": "El Rey de la Gloria  - Aldo Blanco Dávalos",
+      "confianza": "alta",
+      "motivo": "Coincide autor (Aldo Blanco Dávalos) y la búsqueda por los versos '¿Quién es el Rey de la gloria? … héroe valeroso' devuelve esta versión."
+    },
+    {
+      "id": "04-guarda-mi-alma-en-la-paz",
+      "url": "https://www.youtube.com/watch?v=Fer7oyw61GQ",
+      "tituloVideo": "Coro Convento de Santa Ana canta \"Guarda mi alma en la paz junto a ti, Señor\"",
+      "confianza": "alta",
+      "motivo": "El título reproduce literalmente el estribillo del canto de Lucien Deiss 'Guarda mi alma en la paz, junto a ti, Señor'."
+    },
+    {
+      "id": "04-jesus-el-buen-pastor",
+      "url": "https://www.youtube.com/watch?v=ikD5vDrGp0Y",
+      "tituloVideo": "El Señor es mi pastor/ Jesús, el buen pastor (Comunión) - Alejandro Mejía / IV DOMINGO DE PASCUA",
+      "confianza": "alta",
+      "motivo": "Título y autor (Alejandro Mejía) coinciden con el canto, cuyo estribillo es 'El Señor es mi pastor, la vida ha dado por mí'."
+    },
+    {
+      "id": "04-hermano-confia-en-dios",
+      "url": "https://www.youtube.com/watch?v=r8cBqQbMpTc",
+      "tituloVideo": "Hermano, confía en Dios - Kairoi",
+      "confianza": "alta",
+      "motivo": "Versión de Kairoi del canto que empieza 'Hermano que conoces el mundo de hoy… acoge humildemente este don'."
+    },
+    {
+      "id": "04-liberacion",
+      "url": "https://www.youtube.com/watch?v=zvPjHEXLNUc",
+      "tituloVideo": "Liberación - P. Zezinho",
+      "confianza": "alta",
+      "motivo": "Es la canción 'Liberación' del P. Zezinho, cuya primera estrofa es 'En sus ojos, la libertad tiene más luz'."
+    },
+    {
+      "id": "04-la-mano-de-dios",
+      "url": "https://www.youtube.com/watch?v=9eOFPsr3TB8",
+      "tituloVideo": "Jon Carlo - La Mano de Dios - Musica Catolica",
+      "confianza": "alta",
+      "motivo": "Canal oficial de Jon Carlo; el canto es el que dice 'Hay una mano que conmigo está cuando no tengo fuerzas'."
+    },
+    {
+      "id": "04-manos-abiertas",
+      "url": "https://www.youtube.com/watch?v=VxrYwEmEk3U",
+      "tituloVideo": "QUÉ SUERTE ES TENER UN CORAZÓN SIN PUERTAS",
+      "confianza": "alta",
+      "motivo": "El título es literalmente el primer verso del estribillo 'Qué suerte es tener un corazón sin puertas… las manos siempre abiertas'."
+    },
+    {
+      "id": "04-nadie-te-ama-como-yo",
+      "url": "https://www.youtube.com/watch?v=PuF-dRhQpYE",
+      "tituloVideo": "Martín Valverde - Nadie Te Ama Como Yo",
+      "confianza": "alta",
+      "motivo": "Versión de Martín Valverde (autor indicado en el cantoral) del canto que inicia 'Cuánto he esperado este momento'."
+    },
+    {
+      "id": "04-no-confies-en-nadie-mas",
+      "url": "https://www.youtube.com/watch?v=7s10dM3r7b8",
+      "tituloVideo": "\"NO CONFIES EN NADIE, NADIE MÁS QUE EN EL\" - Chiquito Villalba",
+      "confianza": "media",
+      "motivo": "El título coincide con el canto y su esquema de estrofas variables ('No pondré mi ___ en nadie, en nadie, más que en él'), aunque es una interpretación distinta a la del P. Chávez."
+    },
+    {
+      "id": "04-para-ser-santo",
+      "url": "https://www.youtube.com/watch?v=e0illtaK5do",
+      "tituloVideo": "Para ser Santo (Lyric Video) - Jésed",
+      "confianza": "alta",
+      "motivo": "Video oficial de Jésed con la letra 'Para ser santo hay que ser feliz, no hay santidad sin felicidad'."
+    },
+    {
+      "id": "04-pescador-de-hombres",
+      "url": "https://www.youtube.com/watch?v=Km_Q4jI5gbw",
+      "tituloVideo": "Pescador de Hombres – Cesáreo Gabaráin [video letra oficial]",
+      "confianza": "alta",
+      "motivo": "Video-letra oficial de OCP del clásico de Gabaráin 'Tú has venido a la orilla'."
+    },
+    {
+      "id": "04-pescador",
+      "url": "https://www.youtube.com/watch?v=G2QJPNiV-0E",
+      "tituloVideo": "EL PESCADOR DEL PAPA, VOY NAVEGANDO SIN TIMÓN",
+      "confianza": "alta",
+      "motivo": "El título recoge el primer verso 'Voy navegando sin timón' del 'Pescador' de A. Berumen y C. Lara dedicado a Juan Pablo II."
+    },
+    {
+      "id": "04-que-detalle",
+      "url": "https://www.youtube.com/watch?v=bUSn29mv8yc",
+      "tituloVideo": "Qué detalle Señor has tenido conmigo",
+      "confianza": "alta",
+      "motivo": "El título es el primer verso literal del canto 'Qué detalle, Señor, has tenido conmigo'."
+    },
+    {
+      "id": "04-quiero-ser-pan",
+      "url": "https://www.youtube.com/watch?v=vUw6CtGwfq8",
+      "tituloVideo": "Quiero Ser Pan",
+      "confianza": "media",
+      "motivo": "Coincide el título del canto latinoamericano cuyo estribillo es 'Quiero ser pan para el hambre, ser pan de mi pueblo', con estrofa 'Es joven el que espera'."
+    },
+    {
+      "id": "04-samaritana",
+      "url": "https://www.youtube.com/watch?v=RALnKo1OwUY",
+      "tituloVideo": "Samaritana (Cesáreo Gabaráin)",
+      "confianza": "alta",
+      "motivo": "Versión original de Gabaráin de '¿Dónde vas, samaritana, con tu cántaro de amor?'."
+    },
+    {
+      "id": "04-saulo",
+      "url": "https://www.youtube.com/watch?v=Si40kpl8BYY",
+      "tituloVideo": "Saulo",
+      "confianza": "alta",
+      "motivo": "Publicado en el canal del propio autor, Pbro. Raúl Urbina, fundador de J.E. Kairoi, que consta en el cantoral."
+    },
+    {
+      "id": "04-si-me-falta-el-amor",
+      "url": "https://www.youtube.com/watch?v=UNMLcgfCe0M",
+      "tituloVideo": "Aunque yo dominara las lenguas arcanas",
+      "confianza": "alta",
+      "motivo": "El título es el primer verso literal del canto 'Aunque yo dominara las lenguas arcanas… si me falta el amor'."
+    },
+    {
+      "id": "04-si-yo-no-tengo-amor",
+      "url": "https://www.youtube.com/watch?v=Ql7v6mLV5UU",
+      "tituloVideo": "SI YO NO TENGO AMOR yo nada soy Señor | Canto de comunión",
+      "confianza": "alta",
+      "motivo": "El título reproduce el estribillo 'Si yo no tengo amor, yo nada soy, Señor' con la estrofa 'El amor es comprensivo'."
+    },
+    {
+      "id": "04-solo-a-ti-pertenezco",
+      "url": "https://www.youtube.com/watch?v=4b6A_IUrQ9E",
+      "tituloVideo": "Sólo a ti pertenezco (cover jésed)",
+      "confianza": "media",
+      "motivo": "Cover del tema de Jésed (Ana M. de Carranza / Sta. Margarita María de Alacoque) con el estribillo 'Solo a Ti, solo a Ti mi amor, yo te pertenezco'."
+    },
+    {
+      "id": "04-tan-cerca-de-mi",
+      "url": "https://www.youtube.com/watch?v=-XjRHwBx0cI",
+      "tituloVideo": "Tan cerca de mí que hasta lo puedo tocar Jesús está aquí",
+      "confianza": "alta",
+      "motivo": "El título reproduce literalmente el estribillo completo del canto."
+    },
+    {
+      "id": "04-tu-eres-el-mesias",
+      "url": "https://www.youtube.com/watch?v=FMIe6k3q-oQ",
+      "tituloVideo": "TÚ ERES EL MESÍAS | CANTO DE COMUNIÓN | STOS. PEDRO Y PABLO Y DOMINGOS",
+      "confianza": "alta",
+      "motivo": "Canal 'Evangelizar Cantando MSP' (Misioneros Servidores de la Palabra), autoría que consta en el cantoral."
+    },
+    {
+      "id": "04-te-amo",
+      "url": "https://www.youtube.com/watch?v=soy4MXGYYb8",
+      "tituloVideo": "Te Amo - Hermanas Clarisas",
+      "confianza": "alta",
+      "motivo": "Versión de las Hermanas Clarisas (autoría indicada) del canto 'Te amo, yo te amo, porque tú eres mi Señor'."
+    },
+    {
+      "id": "04-tu-inmenso-mar",
+      "url": "https://www.youtube.com/watch?v=NVimekeIlWg",
+      "tituloVideo": "en tu inmenso mar",
+      "confianza": "media",
+      "motivo": "Corresponde al canto 'En tu inmenso mar' que comienza 'Cuando oigo las aves cantar por las mañanas'."
+    },
+    {
+      "id": "04-tu-puedes-ser-pescador",
+      "url": "https://www.youtube.com/watch?v=StGefhFdOYo",
+      "tituloVideo": "Si tu quieres puedes ser pescador (Rema rema) - Jesey",
+      "confianza": "media",
+      "motivo": "Título y subtítulo coinciden con el canto 'Tú puedes ser pescador (Rema, rema)' y su verso 'Rema, rema en mar adentro'."
+    },
+    {
+      "id": "04-tu-reinaras",
+      "url": "https://www.youtube.com/watch?v=fl0fpvJnTPs",
+      "tituloVideo": "TÚ REINARÁS este es el grito | Reine Jesús por siempre reine su Corazón",
+      "confianza": "alta",
+      "motivo": "El título recoge la estrofa '¡Tú reinarás! Éste es el grito' y el estribillo 'Reine Jesús por siempre, reine su corazón'."
+    },
+    {
+      "id": "04-tuve-hambre-y-me-diste-de-comer",
+      "url": "https://www.youtube.com/watch?v=Mbuu-e49PnY",
+      "tituloVideo": "TUVE HAMBRE Y ME DISTE DE COMER. (CESÁREO GABARÁIN)",
+      "confianza": "alta",
+      "motivo": "Título y autor coinciden exactamente con el canto de Gabaráin 'Tú me dijiste, Señor, que en mi camino'."
+    },
+    {
+      "id": "04-una-familia",
+      "url": "https://www.youtube.com/watch?v=rTYrJ_hadwY",
+      "tituloVideo": "Una Familia - Cesáreo Gabaráin",
+      "confianza": "alta",
+      "motivo": "Título y autor coinciden con el canto 'Una familia que se quiere como se quería en Nazaret'."
+    },
+    {
+      "id": "04-una-lluvia-de-rosas",
+      "url": "https://www.youtube.com/watch?v=gNAOF1J8n7Y",
+      "tituloVideo": "Una lluvia de rosas",
+      "confianza": "media",
+      "motivo": "Único resultado al buscar el verso distintivo 'Me tendiste tus brazos y yo quise arrojarme' junto al título del canto."
+    },
+    {
+      "id": "04-una-nueva-civilizacion",
+      "url": "https://www.youtube.com/watch?v=0w_JgCfBEnU",
+      "tituloVideo": "Una nueva civilización ( Un nuevo sol)",
+      "confianza": "alta",
+      "motivo": "Título doble idéntico al del cantoral; es el himno de la JMJ Buenos Aires 1987."
+    },
+    {
+      "id": "04-un-cierto-galileo",
+      "url": "https://www.youtube.com/watch?v=ZKofvCCCX-c",
+      "tituloVideo": "Padre Zezinho, scj - Un Cierto Galileo",
+      "confianza": "alta",
+      "motivo": "Canal oficial del Padre Zezinho, autor indicado, con el canto 'Una mañana, cerca del mar, apareció un joven galileo'."
+    },
+    {
+      "id": "04-vaso-nuevo",
+      "url": "https://www.youtube.com/watch?v=FMQFAuNZeoo",
+      "tituloVideo": "VASO NUEVO - GRACIAS QUIERO DARTE POR AMARME",
+      "confianza": "alta",
+      "motivo": "El título une el título del canto con su primer verso literal 'Gracias quiero darte por amarme'."
+    },
+    {
+      "id": "04-yo-creo-senor",
+      "url": "https://www.youtube.com/watch?v=XPWte-7vVNg",
+      "tituloVideo": "Yo Creo Señor",
+      "confianza": "alta",
+      "motivo": "Canal oficial (Topic) de Son By Four, autoría indicada en el cantoral."
+    },
+    {
+      "id": "04-yo-pensaba-que-el-hombre",
+      "url": "https://www.youtube.com/watch?v=TZTj1C12H44",
+      "tituloVideo": "Yo pensaba que el hombre era grande",
+      "confianza": "alta",
+      "motivo": "El título es el primer verso literal del canto 'Yo pensaba que el hombre era grande por su poder'."
+    },
+    {
+      "id": "04-la-paz-este-con-nosotros",
+      "url": "https://www.youtube.com/watch?v=50aZ8YD8UNs",
+      "tituloVideo": "C. Gabaraín: La paz esté con nosotros (Canto de Paz)",
+      "confianza": "alta",
+      "motivo": "Título, autor (Gabaráin) y función litúrgica (canto de paz) coinciden con el canto del cantoral."
+    },
+    {
+      "id": "04-hazme-un-instrumento-de-tu-paz",
+      "url": "https://www.youtube.com/watch?v=8WM46CK2fDU",
+      "tituloVideo": "CANTOS PARA MISA - HAZME UN INSTRUMENTO DE TU PAZ - Oración de San Francisco - letra y acordes",
+      "confianza": "media",
+      "motivo": "Es la Oración de San Francisco cantada con la letra 'Hazme un instrumento de tu paz; donde haya odio, lleve yo tu amor', aunque no es la grabación de Kairoi."
+    }
+  ]
+}

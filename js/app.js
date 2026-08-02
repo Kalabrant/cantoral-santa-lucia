@@ -221,6 +221,32 @@
 
   /* ---------- Pintado de la lista ---------- */
 
+  /* Icono de reproducción (mismo trazo que el resto de iconos de la app) */
+  var ICONO_PLAY =
+    '<svg viewBox="0 0 24 24" width="15" height="15" fill="none" stroke="currentColor" stroke-width="1.8" ' +
+    'stroke-linecap="round" stroke-linejoin="round" aria-hidden="true">' +
+    '<rect x="2.6" y="5" width="18.8" height="14" rx="4.4"/><path d="M10.3 9.3l5 2.7-5 2.7z"/></svg>';
+
+  /* Sólo se aceptan urls http(s): nunca un javascript: colado en los datos */
+  function urlDeVideo(cancion) {
+    var url = cancion && cancion.youtube;
+    return (typeof url === "string" && /^https?:\/\//i.test(url)) ? url : null;
+  }
+
+  /* Enlace al vídeo. Se construye con la API del DOM (nada de innerHTML con la url)
+     y se detiene la propagación para que no dispare la tarjeta que lo contiene. */
+  function crearEnlaceYoutube(cancion, clase) {
+    var a = document.createElement("a");
+    a.className = "enlace-youtube" + (clase ? " " + clase : "");
+    a.href = urlDeVideo(cancion);
+    a.target = "_blank";
+    a.rel = "noopener noreferrer";
+    a.setAttribute("aria-label", "Ver en YouTube: " + cancion.titulo + " (se abre en otra pestaña)");
+    a.innerHTML = ICONO_PLAY + '<span>Ver en YouTube</span>';
+    a.addEventListener("click", function (ev) { ev.stopPropagation(); });
+    return a;
+  }
+
   /* Construye el <li> de un puesto. 'destacado' marca la fila recién cambiada. */
   function crearFila(fila, i, destacado) {
     var li = document.createElement("li");
@@ -253,8 +279,16 @@
       '<path d="M20 11.5A8 8 0 1 0 18.4 16"/><path d="M20.5 5.5V11h-5.5"/></svg>';
     recargar.addEventListener("click", function () { regenerarUno(i); });
 
-    li.appendChild(abrir);
-    li.appendChild(recargar);
+    // El botón y el de regenerar comparten una fila; el enlace va debajo,
+    // FUERA del <button> (un <a> dentro de un <button> es HTML inválido).
+    var linea = document.createElement("div");
+    linea.className = "canto-fila";
+    linea.appendChild(abrir);
+    linea.appendChild(recargar);
+    li.appendChild(linea);
+
+    if (urlDeVideo(fila.cancion)) li.appendChild(crearEnlaceYoutube(fila.cancion, "canto-youtube"));
+
     return li;
   }
 
@@ -288,6 +322,18 @@
     $("hojaTitulo").textContent = fila.cancion.titulo;
     $("hojaMeta").textContent = metaDe(fila.cancion);
     $("hojaLetra").textContent = fila.cancion.letra || "(Sin letra registrada)";
+
+    // Enlace al vídeo en la cabecera de la hoja (sólo si el canto lo tiene)
+    var enlace = $("hojaYoutube");
+    var video = urlDeVideo(fila.cancion);
+    if (video) {
+      enlace.href = video;
+      enlace.setAttribute("aria-label", "Ver en YouTube: " + fila.cancion.titulo + " (se abre en otra pestaña)");
+      enlace.hidden = false;
+    } else {
+      enlace.removeAttribute("href");
+      enlace.hidden = true;
+    }
 
     var hoja = $("hoja");
     var velo = $("velo");
@@ -365,6 +411,12 @@
       partes.push("_" + metaDe(fila.cancion) + "_");
       partes.push("");
       partes.push(letraSinAcordes(fila.cancion.letra) || "(Sin letra registrada)");
+      // La url va sola en su línea: así WhatsApp la previsualiza
+      var video = urlDeVideo(fila.cancion);
+      if (video) {
+        partes.push("");
+        partes.push(video);
+      }
     });
     return partes.join("\n");
   }

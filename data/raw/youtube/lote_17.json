@@ -1,0 +1,215 @@
+{
+  "lote": "lote_17",
+  "enlaces": [
+    {
+      "id": "08-feliz-porque-has-creido",
+      "url": "https://www.youtube.com/watch?v=ZuJcd-xyT00",
+      "tituloVideo": "Feliz porque has creído (Francisco Aragüés) - Coro Ntra. Sra. de las Nieves (Falces, Navarra) (1968)",
+      "confianza": "alta",
+      "motivo": "Título y autoría coinciden con la atribución del cantoral (Tomás y F. Aragüés) para el canto cuyo estribillo es '¡Feliz porque has creído, oh Madre del Señor!'."
+    },
+    {
+      "id": "08-guadalupana-camino-de-la-ciudad",
+      "url": "https://www.youtube.com/watch?v=WAuoeBONGzg",
+      "tituloVideo": "CAMINO DE LA CIUDAD - Nuestra Virgen Mexicana",
+      "confianza": "media",
+      "motivo": "Aparece como resultado principal al buscar el verso 'un buen indio una mañana' y es el canto guadalupano 'Camino de la ciudad' con letra y acordes."
+    },
+    {
+      "id": "08-hija-del-pueblo-maria",
+      "url": "https://www.youtube.com/watch?v=h4kJZvZBCmk",
+      "tituloVideo": "HIJA DEL PUEBLO | CANTO A LA VIRGEN MARÍA | COROS CATÓLICOS",
+      "confianza": "alta",
+      "motivo": "El video contiene el verso distintivo 'de un pueblo de vino y pan', propio del canto de Alberto Taulé."
+    },
+    {
+      "id": "08-hija-de-sion",
+      "url": "https://www.youtube.com/watch?v=rG5z3s-IGaE",
+      "tituloVideo": "Hija de Sión - Lucien Deiss",
+      "confianza": "alta",
+      "motivo": "La descripción reproduce el estribillo exacto '¡Hija de Sión, alégrate, porque el Señor está en ti, Salvador y Rey!' y coincide el autor Lucien Deiss."
+    },
+    {
+      "id": "08-hoy-he-vuelto",
+      "url": "https://www.youtube.com/watch?v=GvucYrd-6Ds",
+      "tituloVideo": "Hoy he vuelto (Cuántas veces, siendo niño, te recé) de Cesáreo Gabaráin",
+      "confianza": "alta",
+      "motivo": "El título incluye literalmente el primer verso 'Cuántas veces, siendo niño, te recé' y atribuye la obra a Cesáreo Gabaráin."
+    },
+    {
+      "id": "08-junto-a-ti-maria",
+      "url": "https://www.youtube.com/watch?v=IwTkXYOyVho",
+      "tituloVideo": "Madre (Junto a ti, María) - Kairoi",
+      "confianza": "alta",
+      "motivo": "Es el tema original de Kairoi del álbum 'María, música de Dios' (1980) que comienza 'Junto a ti, María, como un niño quiero estar'."
+    },
+    {
+      "id": "08-la-fe-de-maria",
+      "url": "https://www.youtube.com/watch?v=RBQJeG84nbo",
+      "tituloVideo": "La Fe De María - Son By Four (Ítala Rodriguez / #Dones)",
+      "confianza": "alta",
+      "motivo": "Versión oficial de Son By Four, autor indicado en el cantoral, del tema que empieza '¿Qué hubiese pasado si ella hubiese dicho que no?'."
+    },
+    {
+      "id": "08-la-guadalupana",
+      "url": "https://www.youtube.com/watch?v=vxlDrKiMOBU",
+      "tituloVideo": "🌹 LA GUADALUPANA - DESDE EL CIELO, UNA HERMOSA MAÑANA | CANTO TRADICIONAL A LA VIRGEN DE GUADALUPE",
+      "confianza": "alta",
+      "motivo": "El título reproduce el primer verso 'Desde el cielo una hermosa mañana' del canto tradicional guadalupano."
+    },
+    {
+      "id": "08-las-rosas-del-tepeyac",
+      "url": "https://www.youtube.com/watch?v=La2b080uDiM",
+      "tituloVideo": "LAS ROSAS DEL TEPEYAC - Elyza Hernández",
+      "confianza": "media",
+      "motivo": "Resultado principal al buscar los versos 'bañadas de sol' y 'secretos de amor'; es el canto tradicional 'Las rosas del Tepeyac' con acordes."
+    },
+    {
+      "id": "08-madre-oyeme",
+      "url": "https://www.youtube.com/watch?v=1zTic5CjNAw",
+      "tituloVideo": "madre Óyeme Mi plegaria es un grito en la noche letra y acordes",
+      "confianza": "alta",
+      "motivo": "El título contiene literalmente el primer verso 'mi plegaria es un grito en la noche'."
+    },
+    {
+      "id": "08-magnificat-kairoi",
+      "url": "https://www.youtube.com/watch?v=9gC3pFHuhZY",
+      "tituloVideo": "Magníficat ~ Kairoi ~ Letra y acordes 🎶~ Canto de comunión para fiestas de la virgen",
+      "confianza": "alta",
+      "motivo": "Versión de Kairoi con letra visible que comienza 'Proclama mi alma la grandeza de Dios', tal como figura en el cantoral."
+    },
+    {
+      "id": "08-magnificat-marcela",
+      "url": "https://www.youtube.com/watch?v=JUdREh_X4SU",
+      "tituloVideo": "Magníficat",
+      "confianza": "alta",
+      "motivo": "Publicado por el canal de la propia autora, Marcela de María y Campos, con música y arreglo suyos, coincidiendo con la atribución del cantoral."
+    },
+    {
+      "id": "08-magnificat-rubalcaba",
+      "url": "https://www.youtube.com/watch?v=6YgV8lV_wWA",
+      "tituloVideo": "Magnificat",
+      "confianza": "media",
+      "motivo": "Grabación oficial del Magnificat bilingüe de Pedro Rubalcava, con estribillo latino 'Magnificat anima mea Dominum' y estrofas en español."
+    },
+    {
+      "id": "08-maria-de-mi-ninez",
+      "url": "https://www.youtube.com/watch?v=uXJmRKARmpI",
+      "tituloVideo": "María de mi niñez / Cuando era pequeño - Padre Zezinho",
+      "confianza": "alta",
+      "motivo": "El título recoge el primer verso 'Cuando era pequeño' y el autor Padre Zezinho, ambos indicados en el cantoral."
+    },
+    {
+      "id": "08-maria-de-nazaret",
+      "url": "https://www.youtube.com/watch?v=yjQIlaTpguY",
+      "tituloVideo": "María de Nazaret, María me cautivó",
+      "confianza": "alta",
+      "motivo": "El título reproduce el estribillo completo 'María de Nazaret, María me cautivó'."
+    },
+    {
+      "id": "08-maria-de-nuestra-alegria",
+      "url": "https://www.youtube.com/watch?v=pBBJacl6f-Q",
+      "tituloVideo": "MADRE DE NUESTRA ALEGRÍA | MARIA TU QUE VELAS | CANTO A LA VIRGEN MARÍA | MÚSICA CATÓLICA",
+      "confianza": "alta",
+      "motivo": "El título une el nombre del canto de Gabaráin y su primer verso 'María, tú que velas junto a mí'."
+    },
+    {
+      "id": "08-maria-la-madre-buena",
+      "url": "https://www.youtube.com/watch?v=7olNSdNNI00",
+      "tituloVideo": "María, la Madre Buena (Tantas cosas en la vida) - Kairoi",
+      "confianza": "alta",
+      "motivo": "El título incluye el primer verso 'Tantas cosas en la vida' y el grupo Kairoi, coincidiendo con el cantoral."
+    },
+    {
+      "id": "08-maria-madre-nuestra",
+      "url": "https://www.youtube.com/watch?v=HtAYMduFiYk",
+      "tituloVideo": "Maria Madre Nuestra",
+      "confianza": "alta",
+      "motivo": "La grabación abre con el verso exacto 'María, madre nuestra, flor de juventud'."
+    },
+    {
+      "id": "08-maria-mirame",
+      "url": "https://www.youtube.com/watch?v=SjeGBpeXWYw",
+      "tituloVideo": "MARÍA MÍRAME - MARÍA - GRUPO BETSAIDA - Letra, acordes y rasgueo.",
+      "confianza": "alta",
+      "motivo": "Es la versión del grupo Betsaida, autor indicado en el cantoral, con letra y acordes del canto 'María, mírame'."
+    },
+    {
+      "id": "08-maria-musica-de-dios",
+      "url": "https://www.youtube.com/watch?v=_YcCTfJ2qeQ",
+      "tituloVideo": "María, Música de Dios - Kairoi",
+      "confianza": "alta",
+      "motivo": "Tema original de Kairoi del álbum homónimo (1980) que comienza 'Me quedé sin voz con que cantar'."
+    },
+    {
+      "id": "08-maria-ven",
+      "url": "https://www.youtube.com/watch?v=C3VYm_G3rEw",
+      "tituloVideo": "María ven. Llévame de la mano a Jesús, enséñame a amarle cómo le amaste Tú. (Canto de salida)",
+      "confianza": "alta",
+      "motivo": "El título reproduce íntegro el estribillo del canto tal como aparece en el cantoral."
+    },
+    {
+      "id": "08-nuevo-pentecostes",
+      "url": "https://www.youtube.com/watch?v=GHGjWqkFv_4",
+      "tituloVideo": "Nuevo Pentecostés - Madre de Jesús la iglesia espera un nuevo Pentecostés /canto de salida",
+      "confianza": "alta",
+      "motivo": "El video contiene la estrofa inicial 'Caminando ibas con tu silencio bajo el sol de Palestina', exclusiva de este canto."
+    },
+    {
+      "id": "08-oh-maria-madre-nuestra",
+      "url": "https://www.youtube.com/watch?v=X8O0aD1z2ZI",
+      "tituloVideo": "Oh María, Madre Mía (Canto Mariano)",
+      "confianza": "alta",
+      "motivo": "Mismo canto popular italiano con el estribillo 'oh consuelo del mortal, amparadnos y guiadnos a la patria celestial'; el video usa la variante 'Madre mía'."
+    },
+    {
+      "id": "08-quien-sera-la-mujer",
+      "url": "https://www.youtube.com/watch?v=SA1TdSU8t6k",
+      "tituloVideo": "¿Quién será la mujer?/ María es es Mujer - Autor: Cesáreo Gabaráin (Canto Mariano)",
+      "confianza": "alta",
+      "motivo": "El título recoge los dos nombres del canto ('¿Quién será la mujer?' / 'María es esa mujer') y atribuye la obra a Gabaráin."
+    },
+    {
+      "id": "08-regina-caeli-gregoriano",
+      "url": "https://www.youtube.com/watch?v=NsG0ECr4fIw",
+      "tituloVideo": "«Regina cæli» en tono simple (oración incl.) – Antífona mariana para Pascua – Canto Gregoriano",
+      "confianza": "alta",
+      "motivo": "Antífona gregoriana 'Regina caeli, laetare, alleluia' con los versículos y la oración que figuran en el cantoral."
+    },
+    {
+      "id": "08-reina-del-cielo-alegrate",
+      "url": "https://www.youtube.com/watch?v=4pEhuv3q6JA",
+      "tituloVideo": "REINA DEL CIELO, ALÉGRATE, ¡ALELUYA! (FRANCISCO PALAZÓN / EMILIO PASCUAL) - CANTO A MARIA EN PASCUA",
+      "confianza": "alta",
+      "motivo": "Coinciden el título y los autores exactos indicados en el cantoral (Francisco Palazón / T. Pascual)."
+    },
+    {
+      "id": "08-salve-regina-gregoriano",
+      "url": "https://www.youtube.com/watch?v=0ddLO5VT2jg",
+      "tituloVideo": "Salve Regina - Gregorian Chant, solemn melody",
+      "confianza": "alta",
+      "motivo": "Versión gregoriana en tono solemne de la antífona latina 'Salve, Regina, mater misericordiae' recogida en el cantoral."
+    },
+    {
+      "id": "08-santa-maria-de-la-esperanza",
+      "url": "https://www.youtube.com/watch?v=0j1qVq1jwFw",
+      "tituloVideo": "Santa María de la esperanza, Juan Antonio Espinoza, letra y acordes",
+      "confianza": "alta",
+      "motivo": "Versión con letra del canto de Juan A. Espinosa cuyo estribillo es 'Mantén el ritmo de nuestra espera', coincidiendo autor y texto."
+    },
+    {
+      "id": "08-santa-maria-del-camino",
+      "url": "https://www.youtube.com/watch?v=EFoz618ln3A",
+      "tituloVideo": "Santa María del Camino (Mientras recorres la vida) - Juan Antonio Espinosa",
+      "confianza": "alta",
+      "motivo": "El título incluye el primer verso 'Mientras recorres la vida' y el autor Juan Antonio Espinosa."
+    },
+    {
+      "id": "08-tengo-en-casa-a-mi-mama",
+      "url": "https://www.youtube.com/watch?v=LD-o5r7vPRs",
+      "tituloVideo": "CANTO 609 MIS DOS MAMÁS Autor: + Mons. Cesáreo Gabaráin",
+      "confianza": "alta",
+      "motivo": "Canto 'Mis dos mamás' de Gabaráin que comienza 'Tengo en casa a mi mamá, pero mis mamás son dos'."
+    }
+  ]
+}

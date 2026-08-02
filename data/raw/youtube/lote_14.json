@@ -1,0 +1,257 @@
+{
+  "lote": "lote_14",
+  "enlaces": [
+    {
+      "id": "07-las-aguas-de-siloe",
+      "url": "https://www.youtube.com/watch?v=VT25KRe3imI",
+      "tituloVideo": "Las Aguas de Siloé - Alfredo A. Morales & Rogelio Zelada",
+      "confianza": "alta",
+      "motivo": "El video acredita exactamente a los dos autores que figuran en el cantoral (Rogelio Zelada y Alfredo A. Morales) para el canto del IV Domingo de Cuaresma."
+    },
+    {
+      "id": "07-la-transfiguracion",
+      "url": "https://www.youtube.com/watch?v=Uy2z-JwZhow",
+      "tituloVideo": "La Transfiguración del Señor, Pbro. Edgar Larrea (con acordes)",
+      "confianza": "alta",
+      "motivo": "Coincide el título y el autor exacto indicado en el cantoral (Pbro. Edgar Larrea) para el II Domingo de Cuaresma."
+    },
+    {
+      "id": "07-nos-has-llamado-al-desierto",
+      "url": "https://www.youtube.com/watch?v=QOoULjmeZ_0",
+      "tituloVideo": "Cuaresma, Entrada: Nos Has Llamado al Desierto, Pbro. Antonio Alcalde.",
+      "confianza": "alta",
+      "motivo": "Título literal del canto y autoría de Antonio Alcalde, coincidente con el autor probable del cantoral."
+    },
+    {
+      "id": "07-nosotros-hemos-de-gloriarnos",
+      "url": "https://www.youtube.com/watch?v=UhCw1xVfAyA",
+      "tituloVideo": "Nosotros hemos de gloriarnos (Francisco Palazon)",
+      "confianza": "alta",
+      "motivo": "Antífona de entrada con la música de Francisco Palazón que el cantoral especifica."
+    },
+    {
+      "id": "07-oracion-del-pobre",
+      "url": "https://www.youtube.com/watch?v=fAC6wB0yC-A",
+      "tituloVideo": "Oración del pobre - Kairoi",
+      "confianza": "alta",
+      "motivo": "Versión del grupo Kairoi indicado en el cantoral, cuyo primer verso es \"Vengo ante ti, mi Señor, reconociendo mi culpa\"."
+    },
+    {
+      "id": "07-padre-recibe",
+      "url": "https://www.youtube.com/watch?v=E8l8nr0w-aQ",
+      "tituloVideo": "Padre recibe | Ofertorio Cuaresma | Moisés Alejandro Sáenz con letra y acordes",
+      "confianza": "alta",
+      "motivo": "Canto de presentación de dones para Cuaresma acreditado a Moisés Alejandro Sáenz, el autor exacto del cantoral."
+    },
+    {
+      "id": "07-padre-vuelvo-a-ti",
+      "url": "https://www.youtube.com/watch?v=AqpDFRMcTKo",
+      "tituloVideo": "Padre vuelvo a Ti. KAIROI (Querido Padre Cansado vuelvo a Ti)",
+      "confianza": "alta",
+      "motivo": "El propio título del video reproduce el primer verso \"Querido Padre, cansado vuelvo a Ti\" y atribuye a Kairoi."
+    },
+    {
+      "id": "07-peque-peque",
+      "url": "https://www.youtube.com/watch?v=3cz3mZ-GbUY",
+      "tituloVideo": "PEQUÉ, PEQUÉ DIOS MÍO - miércoles de ceniza - Vía Crucis",
+      "confianza": "alta",
+      "motivo": "Coincide el estribillo \"Pequé, pequé, Dios mío\" y el uso litúrgico de viacrucis que anota el cantoral."
+    },
+    {
+      "id": "07-perdona-a-tu-pueblo",
+      "url": "https://www.youtube.com/watch?v=R-Mehn4YfYc",
+      "tituloVideo": "CANTOS PARA MISA - PERDONA A TU PUEBLO SEÑOR - ACORDES - LETRA - CUARESMA",
+      "confianza": "alta",
+      "motivo": "Canto tradicional cuaresmal con el estribillo \"Perdona a tu pueblo, perdónale Señor\" y la estrofa \"No estés eternamente enojado\"."
+    },
+    {
+      "id": "07-postrado-ante-la-cruz",
+      "url": "https://www.youtube.com/watch?v=T5-y6huhFgM",
+      "tituloVideo": "LOS DEL SUR - Postrados ante la Cruz - José Antonio Olivar / Joaquín Madurga",
+      "confianza": "alta",
+      "motivo": "El video acredita a José A. Olivar y Joaquín Madurga, exactamente los autores que indica el cantoral."
+    },
+    {
+      "id": "07-si-me-levantare",
+      "url": "https://www.youtube.com/watch?v=GVKEihNEg-k",
+      "tituloVideo": "Cuaresma: Si, me Levantaré, Lucien Deiss (con acordes)",
+      "confianza": "alta",
+      "motivo": "Título y autoría de Lucien Deiss coincidentes con el cantoral, canto cuaresmal del hijo pródigo."
+    },
+    {
+      "id": "07-siervo-doliente",
+      "url": "https://www.youtube.com/watch?v=p7xxz4rZSWc",
+      "tituloVideo": "Siervo doliente - Hna. Inés de Jesús (Letra y Acordes PDF)",
+      "confianza": "alta",
+      "motivo": "Autoría de la Hermana Inés de Jesús indicada en el cantoral, con letra publicada que empieza \"Varón de dolor\"."
+    },
+    {
+      "id": "07-soneto-al-crucificado",
+      "url": "https://www.youtube.com/watch?v=-bS8xZwkxWs",
+      "tituloVideo": "Soneto Al Crucificado-Francesca Ancarola y Los Gregorianos",
+      "confianza": "alta",
+      "motivo": "Versión de Francesca y Los Gregorianos que el cantoral cita, sobre el soneto \"No me mueve, Señor, para quererte\"."
+    },
+    {
+      "id": "07-una-vez-mas-rezare",
+      "url": "https://www.youtube.com/watch?v=adQ3VskVPac",
+      "tituloVideo": "Canto de Adoración - Una vez más rezaré (Pbro. Miguel Matos) | Shajaj",
+      "confianza": "alta",
+      "motivo": "Título del canto y autoría del Pbro. Miguel Matos, coincidente con la anotación del cantoral."
+    },
+    {
+      "id": "07-un-hombre-clavado",
+      "url": "https://www.youtube.com/watch?v=uknxsW4sIRQ",
+      "tituloVideo": "Un hombre clavado en una cruz - Hector Ochoa",
+      "confianza": "media",
+      "motivo": "La búsqueda por el verso distintivo \"una noche estando yo dormido\" devuelve consistentemente este canto, aunque el cantoral lo atribuye al P. Eric Pérez CSsR y no se pudo cotejar la letra completa."
+    },
+    {
+      "id": "07-vente-a-la-montana",
+      "url": "https://www.youtube.com/watch?v=jhXRrF9UHiE",
+      "tituloVideo": "BROTES DE OLIVO   VENTE A LA MONTAÑA",
+      "confianza": "alta",
+      "motivo": "Versión original de Brotes de Olivo, el grupo que indica el cantoral como autor probable."
+    },
+    {
+      "id": "07-zamba-del-perdon",
+      "url": "https://www.youtube.com/watch?v=vfgwzQWd9qg",
+      "tituloVideo": "Perdón por aquel mendigo (Zamba del perdón) - Julián Gallego",
+      "confianza": "alta",
+      "motivo": "El título reproduce el primer verso \"Perdón, por aquel mendigo\" e identifica la Zamba del perdón."
+    },
+    {
+      "id": "07-hosanna-d",
+      "url": "https://www.youtube.com/watch?v=TOob39k2iks",
+      "tituloVideo": "Hosanna, Hosanna, Bendito el que viene en nombre del Señor (DOMINGO DE RAMOS)",
+      "confianza": "media",
+      "motivo": "Coincide el estribillo repetido de Hosanna con \"bendito el que viene en el nombre del Señor\" para Domingo de Ramos, aunque el canto no lleva autor en el cantoral y existen varias versiones similares."
+    },
+    {
+      "id": "07-jerusalen",
+      "url": "https://www.youtube.com/watch?v=YDFUoTHt-bg",
+      "tituloVideo": "Jerusalen, sube Cristo con la Cruz-Viernes Santo (Canto de Comunión)",
+      "confianza": "alta",
+      "motivo": "El título recoge literalmente el estribillo \"Por las calles de Jerusalén sube Cristo con la cruz\"."
+    },
+    {
+      "id": "07-hosanna-hey-hosanna-ha",
+      "url": "https://www.youtube.com/watch?v=arK6vtd0Ggg",
+      "tituloVideo": "Hosanna Hey, Hosanna Ha. Canto de entrada.",
+      "confianza": "alta",
+      "motivo": "Título literal del estribillo \"Hosanna hey, Hosanna ha\" como canto de entrada de Ramos."
+    },
+    {
+      "id": "07-los-ninos-hebreos",
+      "url": "https://www.youtube.com/watch?v=bdJxjxjjJVw",
+      "tituloVideo": "Domingo de Ramos: Los Niños Hebreos, Francisco Palazón (con acordes)",
+      "confianza": "alta",
+      "motivo": "Título y autoría de Francisco Palazón coincidentes con el cantoral, para Domingo de Ramos."
+    },
+    {
+      "id": "07-shalom-hosanna",
+      "url": "https://www.youtube.com/watch?v=mvak2RPb5Gc",
+      "tituloVideo": "Domingo de Ramos: Shalom, Hosanna, Pbro. Joaquín Madurga (con acordes)",
+      "confianza": "media",
+      "motivo": "Mismo canto de Ramos con el estribillo \"Shalom, Hosanna\" y la estrofa de los niños hebreos, aunque la autoría difiere de la que anota el cantoral (Erdozáin frente a Madurga)."
+    },
+    {
+      "id": "07-nueva-generacion",
+      "url": "https://www.youtube.com/watch?v=bCa4CxxHE2I",
+      "tituloVideo": "Nueva Generación (yo vengo del sur y del norte)",
+      "confianza": "alta",
+      "motivo": "El título incluye el primer verso exacto \"Yo vengo del sur y del norte\"."
+    },
+    {
+      "id": "07-hoy-quisiera-llorar-igual-que-pedro",
+      "url": "https://www.youtube.com/watch?v=FQ5Fb7tubgA",
+      "tituloVideo": "378. Hoy Quisiera llorar (Pedro Te Nego 3 Veces)",
+      "confianza": "alta",
+      "motivo": "El título combina el estribillo \"Pedro te negó tres veces\" y el primer verso \"Hoy quisiera llorar\", igual que el cantoral."
+    },
+    {
+      "id": "07-pueblo-mio-improperios-am",
+      "url": "https://www.youtube.com/watch?v=F58J-rTbTok",
+      "tituloVideo": "PUEBLO MIO QUÉ TE HE HECHO   IMPROPERIOS",
+      "confianza": "media",
+      "motivo": "Corresponde a los Improperios con el texto \"Pueblo mío, ¿qué te he hecho? ¿En qué te he ofendido? Respóndeme\", aunque el video no identifica la versión de Ricardo Cantalapiedra."
+    },
+    {
+      "id": "07-cristo-kairoi",
+      "url": "https://www.youtube.com/watch?v=g7g-UCpOAtg",
+      "tituloVideo": "Cristo - Kairoi",
+      "confianza": "alta",
+      "motivo": "Versión de Kairoi localizada buscando el verso distintivo \"Ahí estás colgado de un madero\"."
+    },
+    {
+      "id": "07-sube-el-nazareno",
+      "url": "https://www.youtube.com/watch?v=iY8z6ihXh0k",
+      "tituloVideo": "Sube el Nazareno. Letra Joaquín Madurga",
+      "confianza": "alta",
+      "motivo": "Título y autoría de Joaquín Madurga coincidentes con el cantoral."
+    },
+    {
+      "id": "07-un-mandamiento-nuevo",
+      "url": "https://www.youtube.com/watch?v=QqaVnpETBLs",
+      "tituloVideo": "UN MANDAMIENTO NUEVO NOS DIO EL SEÑOR",
+      "confianza": "alta",
+      "motivo": "El título reproduce el estribillo exacto \"Un mandamiento nuevo nos dio el Señor\" del canto de Jueves Santo."
+    },
+    {
+      "id": "07-donde-hay-caridad",
+      "url": "https://www.youtube.com/watch?v=w5AMvAr5B4M",
+      "tituloVideo": "Donde Hay Caridad y Amor, Pbro. Joaquín Madurga (con acordes)",
+      "confianza": "alta",
+      "motivo": "Título y autoría de Joaquín Madurga para Jueves Santo, tal como consta en el cantoral."
+    },
+    {
+      "id": "07-yo-soy-el-que-sirve",
+      "url": "https://www.youtube.com/watch?v=xHwaTgd5DZY",
+      "tituloVideo": "YO SOY EL QUE SIRVE. AUTOR: BROTES DE OLIVO.  JUEVES SANTO",
+      "confianza": "alta",
+      "motivo": "Autoría de Brotes de Olivo y uso en Jueves Santo, coincidentes con el cantoral."
+    },
+    {
+      "id": "07-ubi-caritas",
+      "url": "https://www.youtube.com/watch?v=rMSz1Jq7z-E",
+      "tituloVideo": "UBI CARITAS. (Canto Gregoriano). Coro Cámara Abadía.",
+      "confianza": "alta",
+      "motivo": "Versión en canto gregoriano, como indica el cantoral, con las estrofas \"Congregavit nos in unum Christi amor\"."
+    },
+    {
+      "id": "07-abraza-la-cruz",
+      "url": "https://www.youtube.com/watch?v=WIz2Uh1EkWE",
+      "tituloVideo": "Abraza la Cruz y en ella abraza a Jesús.",
+      "confianza": "alta",
+      "motivo": "El título reproduce literalmente el estribillo \"Abraza la cruz, y en ella, abraza a Jesús\"."
+    },
+    {
+      "id": "07-el-diario-de-maria",
+      "url": "https://www.youtube.com/watch?v=Wjz2yjLRGGk",
+      "tituloVideo": "El Diario De María - Martín Valverde (Ft. Mónica Arroyo)",
+      "confianza": "alta",
+      "motivo": "Versión del autor Martín Valverde que indica el cantoral para Viernes Santo."
+    },
+    {
+      "id": "07-oh-cruz-te-adoramos",
+      "url": "https://www.youtube.com/watch?v=ruA1MI2-jIs",
+      "tituloVideo": "Oh Cruz, te adoramos (Joaquin Madurga)",
+      "confianza": "alta",
+      "motivo": "Título y autoría de Joaquín Madurga coincidentes con el cantoral, para la adoración de la cruz."
+    },
+    {
+      "id": "07-victoria-tu-reinaras",
+      "url": "https://www.youtube.com/watch?v=t8hpWV0W7OA",
+      "tituloVideo": "Victoria tu reinaras (Letra:  E.  Malvido /  Música: D.  Julien)",
+      "confianza": "alta",
+      "motivo": "El video acredita a E. Malvido y D. Julien, exactamente los autores anotados en el cantoral."
+    },
+    {
+      "id": "07-per-crucem",
+      "url": "https://www.youtube.com/watch?v=xGNKsPNrVJk",
+      "tituloVideo": "Per crucem - Canone di Taizé",
+      "confianza": "alta",
+      "motivo": "Canon con el texto \"Per crucem et passionem tuam, libera nos Domine\", coincidente con la indicación de canon del cantoral."
+    }
+  ]
+}

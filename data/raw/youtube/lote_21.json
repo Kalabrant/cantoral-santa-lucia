@@ -1,0 +1,117 @@
+{
+  "lote": "lote_21",
+  "enlaces": [
+    {
+      "id": "10-isaias-12-gritad-jubilosos",
+      "url": "https://www.youtube.com/watch?v=4URIfsjsG5o",
+      "tituloVideo": "GRITAD JUBILOSOS / Camino Neocatecumenal (LETRA)",
+      "confianza": "alta",
+      "motivo": "Versión del Camino Neocatecumenal (Kiko Argüello) del cántico de Isaías 12 con la letra 'Gritad jubilosos, qué grande es en medio de ti el Santo de Israel'."
+    },
+    {
+      "id": "10-salmo-117-este-es-el-dia",
+      "url": "https://www.youtube.com/watch?v=uo36OCqAqhs",
+      "tituloVideo": "SALMO 117   ESTE ES DÍA EN QUE ACTUÓ EL SEÑOR (Miguel Manzano)",
+      "confianza": "alta",
+      "motivo": "Coincide salmo (117), antífona ('Éste es el día en que actuó el Señor') y compositor (Miguel Manzano)."
+    },
+    {
+      "id": "10-salmo-62-mi-alma-sedienta",
+      "url": "https://www.youtube.com/watch?v=gurVp7vldRo",
+      "tituloVideo": "Salmo 62: Mi Alma Está Sedienta de Ti/Psalm 63: My Soul Is Thirsting For You",
+      "confianza": "alta",
+      "motivo": "Canal oficial de Donna Peña, la compositora indicada, con el Salmo 62 y la antífona 'Mi alma está sedienta de ti, Señor'."
+    },
+    {
+      "id": "10-canto-de-la-noche-hebrea",
+      "url": "https://www.youtube.com/watch?v=whgUBsjHR34",
+      "tituloVideo": "¿POR QUÉ ESTA NOCHE ES DIFERENTE?-CANTO DE LOS NIÑOS CAMINO NEOCATECUMENAL.",
+      "confianza": "alta",
+      "motivo": "Es el canto pascual hebreo de los niños ('¿Por qué esta noche es diferente de todas las otras noches?') que reproduce literalmente los primeros versos."
+    },
+    {
+      "id": "10-victimae-paschali-gregoriano",
+      "url": "https://www.youtube.com/watch?v=kbB6A08rc94",
+      "tituloVideo": "Victimae Paschali Laudes (Gregorian chant)",
+      "confianza": "alta",
+      "motivo": "Secuencia pascual 'Victimae paschali laudes' en canto gregoriano (modo I), el mismo texto latino del cantoral."
+    },
+    {
+      "id": "10-victimae-paschali-salazar",
+      "url": "https://www.youtube.com/watch?v=AXvvMQYXtfc",
+      "tituloVideo": "Ofrezcan los cristianos - Secuencia de Pascua - A. B. Celada Alonso",
+      "confianza": "media",
+      "motivo": "Misma letra (traducción mexicana 'Ofrezcan los cristianos ofrendas de alabanza'), aunque la melodía es de Celada Alonso y no la de Joscar Salazar."
+    },
+    {
+      "id": "10-veni-sancte-spiritus-espanola",
+      "url": "https://www.youtube.com/watch?v=mU20kiIC2bc",
+      "tituloVideo": "Ven Espíritu Divino, Secuencia de Pentecostés, scj.cp letra y acordes",
+      "confianza": "alta",
+      "motivo": "Secuencia de Pentecostés en la traducción española 'Ven, Espíritu divino, manda tu luz desde el cielo', con letra visible."
+    },
+    {
+      "id": "10-veni-sancte-spiritus-mexicana",
+      "url": "https://www.youtube.com/watch?v=r7L33lJKxQk",
+      "tituloVideo": "Secuencia Pentecostes - Ven Dios Espíritu Santo",
+      "confianza": "alta",
+      "motivo": "Versión mexicana de la secuencia que comienza exactamente 'Ven, Dios Espíritu Santo, y envíanos desde el cielo tu luz'."
+    },
+    {
+      "id": "10-veni-sancte-spiritus-gregoriano",
+      "url": "https://www.youtube.com/watch?v=91OXZDkbEt0",
+      "tituloVideo": "Veni Sancte Spiritus (Secuencia Pentecostés) / Canto Gregoriano - Catedral de Cali",
+      "confianza": "alta",
+      "motivo": "Secuencia de Pentecostés 'Veni Sancte Spiritus' cantada en gregoriano, mismo texto latino del cantoral."
+    },
+    {
+      "id": "10-lauda-sion-gregoriana",
+      "url": "https://www.youtube.com/watch?v=OuLMeZKN9UU",
+      "tituloVideo": "Lauda Sion Salvatorem | Corpus Christi Sequence | Gregorian Chant by St. Thomas Aquinas",
+      "confianza": "alta",
+      "motivo": "Secuencia gregoriana de Corpus Christi de Santo Tomás de Aquino que comienza 'Lauda, Sion, Salvatorem', igual que el cantoral."
+    },
+    {
+      "id": "10-corpus-christi-frisina",
+      "url": "https://www.youtube.com/watch?v=Cw6k1n8H3Yg",
+      "tituloVideo": "SECUENCIA de CORPUS CHRISTI | Sión, alaba a tu Salvador | Mons. Marco Frisina",
+      "confianza": "alta",
+      "motivo": "Coincide el primer verso 'Sión, alaba a tu salvador' y el compositor Marco Frisina indicado en el cantoral."
+    },
+    {
+      "id": "10-stabat-mater-gregoriano",
+      "url": "https://www.youtube.com/watch?v=u6Rhl-n-3ys",
+      "tituloVideo": "Stabat Mater dolorosa (Canto Gregoriano)",
+      "confianza": "alta",
+      "motivo": "Secuencia gregoriana de Ntra. Sra. de los Dolores con el texto latino 'Stabat Mater dolorosa iuxta crucem lacrimosa'."
+    },
+    {
+      "id": "10-salmo-109-montgomery",
+      "url": "https://www.youtube.com/watch?v=yP70DXxVTf0",
+      "tituloVideo": "Salmo 109 Tu eres Sacerdote para siempre (Lourdes Montgomery)",
+      "confianza": "alta",
+      "motivo": "Coincide salmo (109), antífona 'Tú eres sacerdote para siempre' y la compositora Lourdes Montgomery."
+    },
+    {
+      "id": "10-te-deum",
+      "url": "https://www.youtube.com/watch?v=VZaBrgoM_nc",
+      "tituloVideo": "Himno - Señor Dios eterno (Te Deum)",
+      "confianza": "alta",
+      "motivo": "Es el Te Deum en la versión española cantada que empieza 'Señor, Dios eterno, alegres te cantamos'."
+    },
+    {
+      "id": "10-cantico-tres-jovenes",
+      "url": "https://www.youtube.com/watch?v=MR9FhQDjv40",
+      "tituloVideo": "Cántico de los tres jóvenes, Lucien Deiss",
+      "confianza": "alta",
+      "motivo": "Cántico de Daniel 3 ('Bendecid al Señor, todas sus obras') en la versión de Lucien Deiss, el autor indicado."
+    },
+    {
+      "id": "10-cuando-la-luz-del-sol",
+      "url": "https://www.youtube.com/watch?v=bTDj5W2c5jI",
+      "tituloVideo": "Himno de Completas 1 (Cuando la luz del sol es ya poniente...)",
+      "confianza": "alta",
+      "motivo": "Himno I de Completas de la Liturgia de las Horas con el mismo primer verso 'Cuando la luz del sol es ya poniente'."
+    }
+  ]
+}

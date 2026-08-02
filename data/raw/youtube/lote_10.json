@@ -1,0 +1,117 @@
+{
+  "lote": "lote_10",
+  "enlaces": [
+    {
+      "id": "05-caminamos-hacia-el-sol",
+      "url": "https://www.youtube.com/watch?v=f7BRpsPWmaU",
+      "tituloVideo": "CAMINAMOS HACIA EL SOL (LLEGARÁ LA LIBERTAD) JUAN ANTONIO ESPINOSA, Canto de adviento para entrada",
+      "confianza": "alta",
+      "motivo": "El título incluye ambos nombres del canto y el autor J. A. Espinosa, y la letra localizada coincide con 'Caminamos hacia el sol esperando la verdad / llegará con la luz la esperada libertad'."
+    },
+    {
+      "id": "05-canta-jerusalen",
+      "url": "https://www.youtube.com/watch?v=Wfxtv7pQREc",
+      "tituloVideo": "Canta, Jerusalén - Kairoi",
+      "confianza": "alta",
+      "motivo": "Es la versión de Kairoi (álbum 'Jesús es el Señor', 1979) cuya estrofa 1 es exactamente 'Eres pueblo santo escogido por la gracia del Señor'."
+    },
+    {
+      "id": "05-como-el-ciervo",
+      "url": "https://www.youtube.com/watch?v=dall6vCxhRI",
+      "tituloVideo": "Como el ciervo al agua va, vamos hacia Ti, Señor",
+      "confianza": "alta",
+      "motivo": "El título del video reproduce literalmente el primer verso del canto (Salmo 42)."
+    },
+    {
+      "id": "05-cerca-esta-el-senor",
+      "url": "https://www.youtube.com/watch?v=lUffmFqy-Ww",
+      "tituloVideo": "Cerca está el Señor - Carmelo Erdozain - Cerca está el Señor",
+      "confianza": "alta",
+      "motivo": "Es el tema homónimo del álbum de Carmelo Erdozáin (1978), con el estribillo 'Cerca de mi pueblo, cerca del que lucha por amor'."
+    },
+    {
+      "id": "05-la-corona-de-adviento",
+      "url": "https://www.youtube.com/watch?v=ukIbp9Wqj_Q",
+      "tituloVideo": "Canción de Adviento: Hoy se enciende una llama",
+      "confianza": "alta",
+      "motivo": "Es el canto para encender las velas de la corona cuyo primer verso es 'Hoy se enciende una llama en la corona de adviento'."
+    },
+    {
+      "id": "05-levantate-que-esta-llegando",
+      "url": "https://www.youtube.com/watch?v=aya3QjhI3T0",
+      "tituloVideo": "Levántate que está llegando (Adviento: Canto de Comunión) - Cesáreo Gabaráin | Letras y acordes",
+      "confianza": "alta",
+      "motivo": "Coincide título, autor (Gabaráin) y uso litúrgico (comunión de Adviento) indicados en el cantoral, con el estribillo 'El Señor viene ya'."
+    },
+    {
+      "id": "05-la-virgen-suena-caminos",
+      "url": "https://www.youtube.com/watch?v=ZoVxyrBHLpo",
+      "tituloVideo": "La Virgen sueña caminos (Carmelo Erdozáin) - LP ''Preparad los caminos'' (1979)",
+      "confianza": "alta",
+      "motivo": "Grabación original de Carmelo Erdozáin, con la letra 'La Virgen sueña caminos, está a la espera... De Nazaret a Belén hay una senda'."
+    },
+    {
+      "id": "05-libertador-de-nazaret",
+      "url": "https://www.youtube.com/watch?v=7YkE2unmRVk",
+      "tituloVideo": "Libertador de Nazaret - Carmelo Erdozain - Cerca está el Señor",
+      "confianza": "alta",
+      "motivo": "Versión del propio Erdozáin del álbum 'Cerca está el Señor', con el estribillo 'Libertador de Nazaret, ven junto a mí'."
+    },
+    {
+      "id": "05-maranatha-lucien-deiss",
+      "url": "https://www.youtube.com/watch?v=9JMZx9MPxtQ",
+      "tituloVideo": "MARANATHA VEN SEÑOR JESUS",
+      "confianza": "media",
+      "motivo": "El título reproduce el estribillo de la antífona de Lucien Deiss ('¡Maran-athá!, ¡Ven, Señor Jesús!'), aunque no se pudo comprobar la letra completa de las estrofas."
+    },
+    {
+      "id": "05-que-se-abran-los-cielos",
+      "url": "https://www.youtube.com/watch?v=bOTBNaU4gh8",
+      "tituloVideo": "Que Se Abran los Cielos",
+      "confianza": "alta",
+      "motivo": "Canal oficial (Topic) de Eleazar Cortés, autor del canto, cuyo estribillo es 'Que se abran los cielos y que llueva el redentor. ¡Maranatha!'."
+    },
+    {
+      "id": "05-rorate-caeli",
+      "url": "https://www.youtube.com/watch?v=Md1dw7cBKjI",
+      "tituloVideo": "Rorâte, caeli ('Enviad, oh cielos') - canto gregoriano - canto del tiempo de Adviento.",
+      "confianza": "alta",
+      "motivo": "Es el canto gregoriano 'Rorate caeli desuper et nubes pluant justum' con las estrofas 'Ne irascaris Domine...' propias del Adviento."
+    },
+    {
+      "id": "05-vamos-a-preparar-el-camino",
+      "url": "https://www.youtube.com/watch?v=_Z3wC4iqRZE",
+      "tituloVideo": "Vamos a preparar el camino (Carmelo Erdozáin) - LP ''Preparad los caminos'' (1979)",
+      "confianza": "alta",
+      "motivo": "Grabación original de Erdozáin con la letra 'Vamos a preparar el camino del Señor / Vamos a construir la ciudad de nuestro Dios'."
+    },
+    {
+      "id": "05-ven-a-nuestro-mundo",
+      "url": "https://www.youtube.com/watch?v=yLkyHXYKr4E",
+      "tituloVideo": "Ven, a nuestro mundo (Bernardo Velado y Antonio Alcalde)",
+      "confianza": "alta",
+      "motivo": "Coinciden exactamente los autores indicados en el cantoral (letra: Bernardo Velado; música: Antonio Alcalde) y el texto 'Ven a nuestro mundo, que tu amor nos salve'."
+    },
+    {
+      "id": "05-ven-jesus-con-tu-luz",
+      "url": "https://www.youtube.com/watch?v=o0wUPJ0ogBU",
+      "tituloVideo": "Ven Jesús con tu luz",
+      "confianza": "alta",
+      "motivo": "Video del canal oficial de Jésed (ministerio de Hugo Oviedo), con la letra 'Ven Jesús con tu luz, ven a iluminar nuestra oscuridad'."
+    },
+    {
+      "id": "05-oh-ven-oh-ven-emmanuel",
+      "url": "https://www.youtube.com/watch?v=RvNmwLfP3Ug",
+      "tituloVideo": "Oh ven Oh ven Emmanuel - Canto de Adviento Comunión (tutorial guitarra)",
+      "confianza": "alta",
+      "motivo": "Es el himno de las antífonas 'Oh' (Veni Veni Emmanuel) en su versión castellana 'Oh ven, oh ven, Emmanuel', usada como canto de Adviento."
+    },
+    {
+      "id": "06-la-jornada",
+      "url": "https://www.youtube.com/watch?v=wfsL5H3shQg",
+      "tituloVideo": "Din Din Din (La Jornada) ♫ Villancicos Navideños Infantiles ♫",
+      "confianza": "alta",
+      "motivo": "Es el villancico 'La Jornada' que comienza '¡Din, din, din! Es hora de partir, camino de Belén', tal como aparece en el cantoral."
+    }
+  ]
+}

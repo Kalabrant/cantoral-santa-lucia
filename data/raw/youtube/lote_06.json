@@ -1,0 +1,278 @@
+{
+  "lote": "lote_06",
+  "enlaces": [
+    {
+      "id": "02-cordero-3-marco-lopez",
+      "url": "https://www.youtube.com/watch?v=SL-qcbe_gas",
+      "tituloVideo": "Cordero de Dios 3",
+      "confianza": "alta",
+      "motivo": "Canal oficial 'Marco Lopez - Topic' y numeración III idéntica a la del cantoral (Cordero de Dios III de Marco López)."
+    },
+    {
+      "id": "03-oh-buen-jesus",
+      "url": "https://www.youtube.com/watch?v=c0IrhfB3CBU",
+      "tituloVideo": "OH BUEN JESUS YO CREO FIRMEMENTE",
+      "confianza": "alta",
+      "motivo": "El título reproduce literalmente el primer verso del canto ('¡Oh, buen Jesús! yo creo firmemente'), himno eucarístico tradicional."
+    },
+    {
+      "id": "03-oh-jesus-divino-tesoro",
+      "url": "https://www.youtube.com/watch?v=lj1LJpjBfoY",
+      "tituloVideo": "OH JESÚS DIVINO TESORO",
+      "confianza": "media",
+      "motivo": "Himno eucarístico venezolano cuyo primer verso documentado es 'Has pensado alguna vez lo grande y hermoso que es recibir a Jesucristo en un pedazo de pan'; no se vio la letra completa en el vídeo."
+    },
+    {
+      "id": "03-acerquemonos-todos-al-altar",
+      "url": "https://www.youtube.com/watch?v=1RVRgiNudBU",
+      "tituloVideo": "Acerquémonos todos al altar (Texto: E. Pascual - Música: Fco. Palazón) - canto de comunión.",
+      "confianza": "alta",
+      "motivo": "Coincide el autor (Francisco Palazón) y la letra verificada 'que es la mesa fraterna del amor... recordamos la Pascua del Señor'."
+    },
+    {
+      "id": "03-ahi-en-la-eucaristia",
+      "url": "https://www.youtube.com/watch?v=yq6kYb1rdCk",
+      "tituloVideo": "AHI EN LA EUCARISTÍA (con Letra)",
+      "confianza": "alta",
+      "motivo": "Vídeo con letra en el que se verificó el verso 'Ahí en la eucaristía está la prueba de que tú vives, Cristo'."
+    },
+    {
+      "id": "03-a-tu-mesa",
+      "url": "https://www.youtube.com/watch?v=jdXuMcwBRAA",
+      "tituloVideo": "A Tu Mesa",
+      "confianza": "alta",
+      "motivo": "Subida oficial de 'Jésed - Topic' (álbum Revístete de Amor, 2009), el autor que indica el cantoral."
+    },
+    {
+      "id": "03-al-recibirte-en-comunion",
+      "url": "https://www.youtube.com/watch?v=HvYcxb6CugM",
+      "tituloVideo": "Al Recibirte en Comunión",
+      "confianza": "alta",
+      "motivo": "Canal oficial 'Jésed - Topic'; canto de Federico Carranza cuyo estribillo es 'Señor Jesús, dulce bien de mi alma, al recibirte en comunión'."
+    },
+    {
+      "id": "03-amando-hasta-el-extremo",
+      "url": "https://www.youtube.com/watch?v=bW_BEW9fBQ8",
+      "tituloVideo": "Amando hasta el extremo -Maite López",
+      "confianza": "alta",
+      "motivo": "Autora Maite López y letra verificada 'Déjame, Señor, mirarte bien por dentro, entrar en tu corazón'."
+    },
+    {
+      "id": "03-alegres-tomamos-el-vino-y-el-pan",
+      "url": "https://www.youtube.com/watch?v=A4aZ5OplBYI",
+      "tituloVideo": "Alegres tomamos el vino y el pan (Misa Universitaria) Flor Y Canto 2",
+      "confianza": "alta",
+      "motivo": "Misa Universitaria como indica el cantoral; estribillo 'son nuestra esperanza, son vida y libertad' y estrofa 'En torno de la mesa te encontramos, oh Señor'."
+    },
+    {
+      "id": "03-alma-de-cristo",
+      "url": "https://www.youtube.com/watch?v=6yQuQN6jSnE",
+      "tituloVideo": "Alma de Cristo - CANTO PARA CORPUS CHRISTI CON ACORDES Y LETRA",
+      "confianza": "media",
+      "motivo": "Vídeo con letra que contiene el texto castellano del Anima Christi ('santifícame... sálvame... embriágame'); el cantoral no indica autor, por lo que la melodía concreta no es verificable."
+    },
+    {
+      "id": "03-anima-christi",
+      "url": "https://www.youtube.com/watch?v=U3YeRPljuyM",
+      "tituloVideo": "Marco Frisina - Anima Christi",
+      "confianza": "alta",
+      "motivo": "Versión de Marco Frisina, el autor indicado, con el texto latino 'Anima Christi, sanctifica me'."
+    },
+    {
+      "id": "03-bendigamos-al-senor",
+      "url": "https://www.youtube.com/watch?v=JDWoHmtYGPY",
+      "tituloVideo": "Bendigamos al Señor (Pierre de Corbell)",
+      "confianza": "alta",
+      "motivo": "Atribución a Pierre de Corbeil coincidente con el cantoral; letra 'Bendigamos al Señor, que nos une en caridad... en el pan de la unidad'."
+    },
+    {
+      "id": "03-bendita-eucaristia",
+      "url": "https://www.youtube.com/watch?v=jjPb45p995M",
+      "tituloVideo": "Bendita Eucaristía, Sandy Caldera, con letras.",
+      "confianza": "alta",
+      "motivo": "Autora Sandy Caldera (coincide con el cantoral) y versión con letra que arranca 'A ti el más inocente, a ti el omnipotente'."
+    },
+    {
+      "id": "03-cada-vez-que-te-recibo",
+      "url": "https://www.youtube.com/watch?v=6LNoVRNq5xg",
+      "tituloVideo": "\"Cada vez que te recibo, Señor, algo grande pasa en mi\"",
+      "confianza": "alta",
+      "motivo": "El título cita literalmente el primer verso del canto de María Teresa Larraín popularizado por Grupo Betsaida."
+    },
+    {
+      "id": "03-corpus-christi",
+      "url": "https://www.youtube.com/watch?v=Qx0nclf4ZoQ",
+      "tituloVideo": "Corpus Christi | Comunión | Jésed con letra y acordes",
+      "confianza": "alta",
+      "motivo": "Canto de Jésed cuya letra verificada comienza 'Oh Jesús Sacramentado, tú mi más profundo centro'."
+    },
+    {
+      "id": "03-comiendo-del-mismo-pan",
+      "url": "https://www.youtube.com/watch?v=l3yO4LDRQjE",
+      "tituloVideo": "Comiendo del mismo pan- canto de comunión JUEVES SANTO / Joaquin Madurga",
+      "confianza": "alta",
+      "motivo": "Autor Joaquín Madurga y letra 'Comiendo del mismo pan, bebiendo del mismo vino... sellamos tu alianza, Cristo'."
+    },
+    {
+      "id": "03-como-brotes-de-olivo",
+      "url": "https://www.youtube.com/watch?v=lljTF7LPBnk",
+      "tituloVideo": "Como brotes de olivo, Lucien Deiss",
+      "confianza": "alta",
+      "motivo": "Salmo 127 de Lucien Deiss con el estribillo 'Como brotes de olivo en torno a tu mesa, Señor'."
+    },
+    {
+      "id": "03-dime-como-ser-pan",
+      "url": "https://www.youtube.com/watch?v=LiV4f0X8aX8",
+      "tituloVideo": "Dime cómo ser pan (960a) Texto y música de Salomé Arricibita",
+      "confianza": "alta",
+      "motivo": "Texto y música de Salomé Arricibita, la autora indicada en el cantoral."
+    },
+    {
+      "id": "03-divino-manjar",
+      "url": "https://www.youtube.com/watch?v=DUWI7weMjes",
+      "tituloVideo": "Divino Manjar, José Egúsquiza, Himno del Congreso Eucarístico Mariano de Lima 2010 (con acordes)",
+      "confianza": "alta",
+      "motivo": "Autor José Egúsquiza (coincide con 'J. Egúsquiza' del cantoral); estribillo 'Alimento del alma, riqueza sin par, divino manjar'."
+    },
+    {
+      "id": "03-en-su-mesa-hay-amor",
+      "url": "https://www.youtube.com/watch?v=5lbSGMQtDwQ",
+      "tituloVideo": "En Su Mesa Hay Amor, Kairoi, producción: ¡Vive!, año 1986 (con acordes)",
+      "confianza": "alta",
+      "motivo": "Versión de Kairoi (autor indicado) con la letra 'El Señor nos ha reunido junto a Él... En su mesa hay amor, la promesa del perdón'."
+    },
+    {
+      "id": "03-en-torno-a-la-mesa",
+      "url": "https://www.youtube.com/watch?v=PhaO8hHpXC8",
+      "tituloVideo": "En Torno a la Mesa - Sinai / Canto de Comunion",
+      "confianza": "alta",
+      "motivo": "Se verificó en el vídeo el verso distintivo 'Sus miradas se posan en él', propio de esta letra y no de los otros cantos homónimos."
+    },
+    {
+      "id": "03-este-es-jesus",
+      "url": "https://www.youtube.com/watch?v=ZeIuR2d2WDw",
+      "tituloVideo": "Es Jesus Emmanuel - Jesed",
+      "confianza": "alta",
+      "motivo": "Versión castellana de 'This is Jesus' de Jim Cowan grabada por Jésed: 'Es Jesús Emmanuel, Dios con nosotros... Estrella de David, esplendor de Dios'."
+    },
+    {
+      "id": "03-eucaristia",
+      "url": "https://www.youtube.com/watch?v=AglVlukd5CI",
+      "tituloVideo": "Eucaristía Milagro de Amor (Pan Transformado) • Coro Muñoz • Letra y Acordes",
+      "confianza": "alta",
+      "motivo": "Se verificó en el vídeo el verso 'Pan transformado en el cuerpo de Cristo', primer verso del canto en el cantoral."
+    },
+    {
+      "id": "03-gracias-senor",
+      "url": "https://www.youtube.com/watch?v=egDRIlmkSAw",
+      "tituloVideo": "Gracias señor (Comunión) - Pbro. Ernesto Estrella V.",
+      "confianza": "alta",
+      "motivo": "Coincide exactamente el autor indicado en el cantoral (Ernesto Estrella V.) y la función litúrgica de comunión."
+    },
+    {
+      "id": "03-in-persona-christi",
+      "url": "https://www.youtube.com/watch?v=0WHgtP6XmYs",
+      "tituloVideo": "In Persona Christi - Ya no soy yo quien vive tú eres quien vive en mí",
+      "confianza": "alta",
+      "motivo": "El título incluye el primer verso del canto de Federico Carranza (Jésed)."
+    },
+    {
+      "id": "03-jesucristo-eucaristia",
+      "url": "https://www.youtube.com/watch?v=AWgWmRCPPAo",
+      "tituloVideo": "Jesucristo Eucaristía / Canta autor - Francisco Cedillo /  Cover - Diana Dumes",
+      "confianza": "media",
+      "motivo": "Título idéntico y canto de comunión eucarístico interpretado por su propio autor; no se pudo cotejar la estrofa 'En la mesa la comida, en el rostro la alegría'."
+    },
+    {
+      "id": "03-jesus-amigo",
+      "url": "https://www.youtube.com/watch?v=sQ15GsVSMoI",
+      "tituloVideo": "Jesús amigo - Jaire",
+      "confianza": "alta",
+      "motivo": "Versión del Grupo Ja'ire (autor indicado) con la letra 'Hoy te quiero contar, Jesús amigo, que contigo soy feliz'."
+    },
+    {
+      "id": "03-jesus-ven-tu",
+      "url": "https://www.youtube.com/watch?v=__UQ86GGErg",
+      "tituloVideo": "Jesús, ven tú - Sinai / Canto de Comunion para Adviento",
+      "confianza": "alta",
+      "motivo": "Se verificó en el vídeo el verso 'Pan y vino son tu rostro', primera línea del canto en el cantoral."
+    },
+    {
+      "id": "03-milagro-de-amor",
+      "url": "https://www.youtube.com/watch?v=bu-IhAXV72E",
+      "tituloVideo": "Milagro de Amor | Athenas - Música Católica",
+      "confianza": "alta",
+      "motivo": "Se verificó en el vídeo el verso 'Jesús, aquí presente en forma real', distintivo frente a otros cantos llamados igual."
+    },
+    {
+      "id": "03-no-me-habeis-vosotros-elegido",
+      "url": "https://www.youtube.com/watch?v=eHr67AhaTns",
+      "tituloVideo": "No me habéis vosotros elegido, fui yo mismo quien os elegí",
+      "confianza": "alta",
+      "motivo": "El título reproduce los dos primeros versos del canto."
+    },
+    {
+      "id": "03-hambre-de-dios",
+      "url": "https://www.youtube.com/watch?v=448QM3zbzHI",
+      "tituloVideo": "Hambre de Dios (No podemos caminar) - Juan Antonio Espinosa | Comunión Cuaresma",
+      "confianza": "alta",
+      "motivo": "Mismo título doble del cantoral y autor Juan A. Espinosa; letra 'No podemos caminar con hambre bajo el sol'."
+    },
+    {
+      "id": "03-pacto-de-esperanza",
+      "url": "https://www.youtube.com/watch?v=YrMewX6OUR0",
+      "tituloVideo": "Pacto De Esperanza - Martín Valverde",
+      "confianza": "alta",
+      "motivo": "Canal oficial de Martín Valverde, uno de los tres autores que consigna el cantoral (Portillo, Quintana, Valverde)."
+    },
+    {
+      "id": "03-panis-angelicus",
+      "url": "https://www.youtube.com/watch?v=xXdDi5IfddM",
+      "tituloVideo": "Panis Angelicus with lyrics in Latin and English. César Franck.",
+      "confianza": "alta",
+      "motivo": "Obra de César Franck, el autor indicado, con el texto latino 'Panis angelicus fit panis hominum'."
+    },
+    {
+      "id": "03-pan-de-vida",
+      "url": "https://www.youtube.com/watch?v=uMyd3u9K_0Q",
+      "tituloVideo": "MÚSICA CATÓLICA - PAN DE VIDA - MARGARITA ARAUX Y MARCO LÓPEZ",
+      "confianza": "alta",
+      "motivo": "Canal oficial de Marco López y dúo con Margarita Araux, exactamente la autoría que indica el cantoral."
+    },
+    {
+      "id": "03-por-un-pedazo-de-pan",
+      "url": "https://www.youtube.com/watch?v=eGfdhxfn5OE",
+      "tituloVideo": "POR UN PEDAZO DE PAN -  Pe. ZEZINHO (CON LETRA)",
+      "confianza": "alta",
+      "motivo": "Versión con letra del Padre Zezinho: 'Por un pedazo de pan y por un poco de vino, yo he visto a más de un hermano abandonar su camino'."
+    },
+    {
+      "id": "03-que-bello-es",
+      "url": "https://www.youtube.com/watch?v=i-MxjSnrWPQ",
+      "tituloVideo": "Que bello es - Sinai / Canto Eucaristico",
+      "confianza": "media",
+      "motivo": "Canto eucarístico católico homónimo del repertorio latinoamericano (no la canción evangélica homónima); no se pudo cotejar el verso 'poder hallarte' en la descripción."
+    },
+    {
+      "id": "03-reune-senor-a-tu-iglesia",
+      "url": "https://www.youtube.com/watch?v=Cu-H7F1Ega4",
+      "tituloVideo": "Reúne Señor a tu Iglesia, Bernardo Velado y Graña/Antonio Alcalde Fernández",
+      "confianza": "alta",
+      "motivo": "Coinciden ambos autores del cantoral y la estrofa 'Como este pan que partimos, antes disperso por los campos'."
+    },
+    {
+      "id": "03-senor-a-quien-iremos",
+      "url": "https://www.youtube.com/watch?v=lLrO6pIXJm8",
+      "tituloVideo": "Señor, a quién iremos | Cristóbal Fones, SJ",
+      "confianza": "alta",
+      "motivo": "Canal oficial del compositor Cristóbal Fones SJ; letra 'Señor, ¿a quién iremos si tú eres nuestra vida?'."
+    },
+    {
+      "id": "03-symbolum-77",
+      "url": "https://www.youtube.com/watch?v=bc5jd_QGokA",
+      "tituloVideo": "SYMBOLUM 77 | Pierangelo Sequeri | CANTO DE COMUNIÓN | (Eres Tú mi vida, solo Tú, Señor...)",
+      "confianza": "alta",
+      "motivo": "Autor Pierangelo Sequeri y primer verso 'Eres Tú mi vida, sólo Tú Señor' explícitos en el título."
+    }
+  ]
+}

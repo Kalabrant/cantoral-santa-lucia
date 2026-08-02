@@ -1,0 +1,166 @@
+{
+  "lote": "lote_24",
+  "enlaces": [
+    {
+      "id": "m1-ven-senor-jesus",
+      "url": "https://www.youtube.com/watch?v=YOPL1CSZE6A",
+      "tituloVideo": "ven señor jesus, ven y salvanos. hr. Carmen    (karoi)",
+      "confianza": "media",
+      "motivo": "El título reproduce literalmente el primer verso 'Ven Señor Jesús, ven y sálvanos' y remite a la versión de Kairoi, el estilo de adviento del canto."
+    },
+    {
+      "id": "m1-yo-te-alabo",
+      "url": "https://www.youtube.com/watch?v=kFCmIZ-0NHs",
+      "tituloVideo": "Coral Católica Juvenil - Yo Te Alabo Con El Corazón (Lyric Video)",
+      "confianza": "alta",
+      "motivo": "La descripción muestra la letra 'Yo te alabo con el corazón / Yo te alabo con mi voz', idéntica a los primeros versos del canto."
+    },
+    {
+      "id": "m1-misericordia",
+      "url": "https://www.youtube.com/watch?v=vfXhbTWCWYQ",
+      "tituloVideo": "Misericordia",
+      "confianza": "alta",
+      "motivo": "El vídeo se presenta con el verso 'MISERICORDIA CONCÉDEME OH DIOS', el incipit exacto del canto cuaresmal."
+    },
+    {
+      "id": "m1-rendid-a-yahve",
+      "url": "https://www.youtube.com/watch?v=HYNVgPgKGE0",
+      "tituloVideo": "RENDID A YAHVÉ - CORO SINAÍ DE GUADALAJARA - EVANGELIZAR CANTANDO",
+      "confianza": "alta",
+      "motivo": "La descripción cita 'Rendid a Yahvé santos del Señor / Gloria y poder al Dios de la creación', los dos primeros versos del canto."
+    },
+    {
+      "id": "m2-salmo-99",
+      "url": "https://www.youtube.com/watch?v=KZ4wbDCX180",
+      "tituloVideo": "Aclamad al Señor tierra entera, Joaquín Madurga Oteiza",
+      "confianza": "media",
+      "motivo": "Versión del Salmo 99 de Joaquín Madurga con las mismas formas verbales en plural ('Aclamad', 'servid', 'llegad') que usa el cantoral."
+    },
+    {
+      "id": "m2-tu-eres-sacerdote",
+      "url": "https://www.youtube.com/watch?v=OSQTNAyUhdU",
+      "tituloVideo": "Salmo 109 Tu eres sacerdote eterno, segun el rito de Melquisedec ( Dolores F. Martinez )",
+      "confianza": "media",
+      "motivo": "Setting hispano difundido del Salmo 109 con la antífona y el verso 'El Señor lo ha jurado' que recoge el cantoral."
+    },
+    {
+      "id": "m2-mi-buen-jesus",
+      "url": "https://www.youtube.com/watch?v=nG3PSaBISHo",
+      "tituloVideo": "Eres Tú la Única Razón de mi Adoración",
+      "confianza": "alta",
+      "motivo": "El título es literalmente el primer verso del canto, cuyo estribillo es 'Mi buen Jesús'."
+    },
+    {
+      "id": "m2-yo-tengo-fe",
+      "url": "https://www.youtube.com/watch?v=8GFWs2IDUd4",
+      "tituloVideo": "Palito Ortega - Yo Tengo Fe (Que Todo Cambiará) (Official Audio)",
+      "confianza": "alta",
+      "motivo": "Original de Palito Ortega adoptado en el repertorio católico; la letra 'que triunfará por siempre el amor / la luz de la esperanza' coincide."
+    },
+    {
+      "id": "m2-canta-hermano",
+      "url": "https://www.youtube.com/watch?v=JixiIWflwy8",
+      "tituloVideo": "Canta hermano eleva tu voz",
+      "confianza": "alta",
+      "motivo": "El título es exactamente el primer verso del canto misionero y la interpretación es litúrgica (Hnas. Franciscanas de la Purísima)."
+    },
+    {
+      "id": "m2-himno-a-la-juventud",
+      "url": "https://www.youtube.com/watch?v=fM2EL9T9IRM",
+      "tituloVideo": "CANTOS PARA MISA - HIMNO A LA JUVENTUD - DONDE ESTÁ LA JUVENTUD - LETRA Y ACORDES - COMUNIÓN",
+      "confianza": "alta",
+      "motivo": "Coincide el título del himno y su primer verso '¿Dónde está la juventud?', con letra en pantalla."
+    },
+    {
+      "id": "m2-aqui-estamos",
+      "url": "https://www.youtube.com/watch?v=HRBdQ7objFo",
+      "tituloVideo": "AQUI ESTAMOS PARA VIVIR UNIDOS",
+      "confianza": "alta",
+      "motivo": "La descripción transcribe 'Aquí estamos para vivir unidos, buscando todos los criterios aunar, y lo importante es lo que daré, amor y vida', igual que el cantoral."
+    },
+    {
+      "id": "m2-alzad-las-manos",
+      "url": "https://www.youtube.com/watch?v=f0j5ooHBjGM",
+      "tituloVideo": "ALZAR LAS MANOS Y DAR LA GLORIA A DIOS",
+      "confianza": "alta",
+      "motivo": "La descripción incluye 'Alzad las manos, y dadle la gloria a Dios (bis) / Alzad las manos y alabadle como niños del Señor', los versos exactos del canto."
+    },
+    {
+      "id": "m2-senor-ten-piedad-i",
+      "url": "https://www.youtube.com/watch?v=oJeGqZj3NGs",
+      "tituloVideo": "Señor ten piedad para misas",
+      "confianza": "alta",
+      "motivo": "La descripción cita 'Señor ten piedad de nosotros pecadores, perdona nuestros errores, ten piedad', letra idéntica a la del Kyrie I."
+    },
+    {
+      "id": "m2-stp-iii",
+      "url": "https://www.youtube.com/watch?v=R5MCXeZudd0",
+      "tituloVideo": "Ten piedad Soy Pecador Coro SMA24Abr2016",
+      "confianza": "alta",
+      "motivo": "La descripción reproduce 'Ten piedad, Señor, ten piedad; soy pecador ten piedad / Cristo apiádate, contra Ti yo pequé', igual que el STP III."
+    },
+    {
+      "id": "m2-aleluya-marcos-whitte",
+      "url": "https://www.youtube.com/watch?v=xwMxhfGTT80",
+      "tituloVideo": "[4-5 de 9] Marcos Witt - Aleluya / Amo a CRISTO",
+      "confianza": "alta",
+      "motivo": "Aleluya de Marcos Witt con la letra 'Mi Dios es bueno, Aleluya / Me ha salvado, Aleluya / Me ha perdonado, Aleluya' que recoge el cantoral."
+    },
+    {
+      "id": "m2-aleluya-alfredo",
+      "url": "https://www.youtube.com/watch?v=sFpclePZBTs",
+      "tituloVideo": "Aleluya (Habla Señor Que Tu Pueblo)",
+      "confianza": "media",
+      "motivo": "Aclamación antes del Evangelio cuyo incipit 'Habla Señor que tu pueblo te escucha' coincide con el del canto."
+    },
+    {
+      "id": "m2-por-eso-guiame",
+      "url": "https://www.youtube.com/watch?v=_R_xDsJEiHI",
+      "tituloVideo": "TU PALABRA  (Cuando las Fuerzas se acaban)",
+      "confianza": "alta",
+      "motivo": "Es 'Tu Palabra' de Martín Valverde: 'Cuando las fuerzas se acaban y el andar se vuelve lento, tu palabra es alimento', versos exactos del canto."
+    },
+    {
+      "id": "m2-busca-primero",
+      "url": "https://www.youtube.com/watch?v=AeNAKeoXqxQ",
+      "tituloVideo": "BUSCA PRIMERO EL REINO DE DIOS",
+      "confianza": "alta",
+      "motivo": "La descripción transcribe 'Busca primero el Reino de Dios y su justicia, Él te dará las demás cosas, aleluya, aleluya', idéntico al cantoral."
+    },
+    {
+      "id": "m2-aleluya-el-cordero-de-dios-viene-ya",
+      "url": "https://www.youtube.com/watch?v=FJdm6Z8CJr8",
+      "tituloVideo": "ALELUYA EL CORDERO DE DIOS VIENE YA -  CANTOS SANTA MISA",
+      "confianza": "alta",
+      "motivo": "Aclamación con el mismo título y estribillo 'El Cordero de Dios viene ya', publicada con letra y acordes para la misa."
+    },
+    {
+      "id": "m2-aleluya-juan-luis-guerra",
+      "url": "https://www.youtube.com/watch?v=tTSnrv5OLGM",
+      "tituloVideo": "Aleluya",
+      "confianza": "alta",
+      "motivo": "Grabación oficial de 'Aleluya' de Juan Luis Guerra (álbum 'Para Ti'), cuyo estribillo es 'Aleluya, gloria a Dios en las alturas'."
+    },
+    {
+      "id": "m2-senor-yo-quiero-ser",
+      "url": "https://www.youtube.com/watch?v=DW4kYSNpNuQ",
+      "tituloVideo": "Adorador - Luis Enrique Ascoy",
+      "confianza": "alta",
+      "motivo": "La descripción cita 'Señor, yo quiero ser un verdadero adorador, en espíritu y en verdad yo te quiero adorar', letra exacta del canto."
+    },
+    {
+      "id": "m2-cuanto-te-amo",
+      "url": "https://www.youtube.com/watch?v=A9DbYIUkRT4",
+      "tituloVideo": "MCMD - En Momentos Así",
+      "confianza": "alta",
+      "motivo": "La descripción reproduce 'En momentos así, levanto mi voz, levanto mi canto a Cristo... levanto mis manos a Él. Cuánto te...', que da nombre al canto."
+    },
+    {
+      "id": "m2-no-hay-dios",
+      "url": "https://www.youtube.com/watch?v=i3qiFP_Y6zk",
+      "tituloVideo": "NO HAY DIOS TAN GRANDE COMO TU - MARCOS WITT",
+      "confianza": "media",
+      "motivo": "Canción de Marcos Witt cuyo estribillo 'No hay Dios tan grande como tú' es el verso central del canto del cantoral."
+    }
+  ]
+}

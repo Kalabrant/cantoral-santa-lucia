@@ -1,0 +1,250 @@
+{
+  "lote": "lote_15",
+  "enlaces": [
+    {
+      "id": "07-stabat-mater",
+      "url": "https://www.youtube.com/watch?v=AHOGnpz3WVU",
+      "tituloVideo": "«Stabat Mater» – Himno en honor de los Siete Dolores de la Santísima Virgen María – Canto Gregoriano",
+      "confianza": "alta",
+      "motivo": "Es el himno Stabat Mater en canto gregoriano, exactamente la versión que indica el cantoral (autor probable: Gregoriano)."
+    },
+    {
+      "id": "07-pueblo-mio-palazon",
+      "url": "https://www.youtube.com/watch?v=DoEsSQiiGFA",
+      "tituloVideo": "Canto de Adoración - Pueblo mío (Francisco Palazón) | Shajaj",
+      "confianza": "alta",
+      "motivo": "Es el improperio 'Pueblo mío, ¿qué te he hecho?' atribuido explícitamente a Francisco Palazón, el autor del cantoral."
+    },
+    {
+      "id": "07-oh-cruz-fiel",
+      "url": "https://www.youtube.com/watch?v=8qYbK4OrUZg",
+      "tituloVideo": "Oh cruz fiel, árbol único en nobleza // Himno - Viernes Santo. (Francisco, Tomás Aragüés) (1968)",
+      "confianza": "alta",
+      "motivo": "El título reproduce el verso inicial y acredita a Francisco y Tomás Aragüés, los autores anotados en el cantoral."
+    },
+    {
+      "id": "07-quiero-tu-cruz",
+      "url": "https://www.youtube.com/watch?v=wyYmPPNtL9I",
+      "tituloVideo": "Quiero Tu Cruz. Jose Angel Montero, (Solista: Alejandro Charmell)",
+      "confianza": "alta",
+      "motivo": "Es la pieza venezolana de Semana Santa 'Quiero tu cruz' de José Ángel Montero, el autor indicado."
+    },
+    {
+      "id": "07-las-puertas-de-la-nueva-ciudad",
+      "url": "https://www.youtube.com/watch?v=VNyqTeNginE",
+      "tituloVideo": "Exequias/Difuntos/Entrada: Las Puertas de la Nueva Ciudad, Pbro. Carmelo Erdozaín (con acordes)",
+      "confianza": "alta",
+      "motivo": "La letra mostrada en el vídeo comienza 'Las puertas de la Nueva Ciudad se abren para ti' y es la versión de Carmelo Erdozáin."
+    },
+    {
+      "id": "07-dolorosa",
+      "url": "https://www.youtube.com/watch?v=7xxcn5WmsdE",
+      "tituloVideo": "Canto Mariano - Dolorosa de pie junto a la cruz (Juan Antonio Espinoza) | Shajaj",
+      "confianza": "alta",
+      "motivo": "Título con el verso inicial completo y autoría de Juan A. Espinosa, coincidiendo con el cantoral."
+    },
+    {
+      "id": "07-ely-ely-lemac-sabactani",
+      "url": "https://www.youtube.com/watch?v=cnSc6EHFEVw",
+      "tituloVideo": "Eli Eli Lama Sabactani - Camino neocatecumenal SRMM",
+      "confianza": "media",
+      "motivo": "Canto neocatecumenal 'Eli, Eli, lama sabactani' (Sal 22) para Viernes Santo; el cantoral no aporta versos, pero el título y el repertorio del Camino coinciden."
+    },
+    {
+      "id": "07-el-agua-viva",
+      "url": "https://www.youtube.com/watch?v=m0hdPJavKis",
+      "tituloVideo": "El Agua Viva, Brotes de Olivo (con acordes)",
+      "confianza": "alta",
+      "motivo": "Versión de Brotes de Olivo cuya letra comienza 'Al pozo de Jacob llegó un día el Señor', igual que el cantoral."
+    },
+    {
+      "id": "07-pregon-pascual",
+      "url": "https://www.youtube.com/watch?v=n8y1doqQ34I",
+      "tituloVideo": "PREGÓN PASCUAL - KIKO ARGUELLO - CAMINO NEOCATECUMENAL / LETRA Y ACORDES",
+      "confianza": "alta",
+      "motivo": "Pregón pascual ('Exulten los coros de los ángeles') en la versión de Kiko Argüello para el Camino Neocatecumenal."
+    },
+    {
+      "id": "07-bendicion-del-agua",
+      "url": "https://www.youtube.com/watch?v=JUpW86jNV4E",
+      "tituloVideo": "Bendicion del Agua (Liturgia | Amarillo) Camino Neocatecumenal",
+      "confianza": "media",
+      "motivo": "Bendición del agua de la Vigilia Pascual en la melodía del Camino Neocatecumenal (Kiko), del mismo libro litúrgico 'Amarillo' que usa el cantoral."
+    },
+    {
+      "id": "07-que-ves-en-la-noche",
+      "url": "https://www.youtube.com/watch?v=5GkJf4EFYrg",
+      "tituloVideo": "¿Qué ves en la noche? Dinos centinela",
+      "confianza": "alta",
+      "motivo": "La descripción del vídeo explica la imagen del almendro que florece, correspondiente a la estrofa 'Dios como un almendro con la flor despierta'."
+    },
+    {
+      "id": "07-alegrate-maria",
+      "url": "https://www.youtube.com/watch?v=RXB_x18nBSk",
+      "tituloVideo": "Alégrate, María",
+      "confianza": "alta",
+      "motivo": "Audio oficial del canal Topic de Juan A. Espinosa, autor del 'Alégrate María' pascual del cantoral (no la versión de Misión País)."
+    },
+    {
+      "id": "07-quien-eres-tu-peregrino",
+      "url": "https://www.youtube.com/watch?v=Bvo60k3nLVQ",
+      "tituloVideo": "¿Quién eres Tu, peregrino? (M: P. Luis Larrea, L: Mauricio Centeno )",
+      "confianza": "alta",
+      "motivo": "Coincide con la autoría anotada en el cantoral (P. L. Larrea y M. Centeno) para este canto de Emaús."
+    },
+    {
+      "id": "07-acuerdate-de-jesucristo",
+      "url": "https://www.youtube.com/watch?v=dfdUF3exsd0",
+      "tituloVideo": "Acuérdate de Jesucristo (Texto: M. P. de la Figuera - Música: Lucien Deiss) - Canto para la misa.",
+      "confianza": "alta",
+      "motivo": "Versión con música de Lucien Deiss, el autor indicado, y estribillo 'Acuérdate de Jesucristo resucitado de entre los muertos'."
+    },
+    {
+      "id": "07-alegre-la-manana",
+      "url": "https://www.youtube.com/watch?v=Pe23Pkpko6I",
+      "tituloVideo": "Alegre la mañana - J. A. Espinoza (Letra y Acordes PDF)",
+      "confianza": "alta",
+      "motivo": "Título y autor (J. A. Espinosa) coinciden con el canto 'Alegre la mañana que nos habla de Ti'."
+    },
+    {
+      "id": "07-aleluya-el-senor-resucito-rosa",
+      "url": "https://www.youtube.com/watch?v=z5BWdOqrQ6s",
+      "tituloVideo": "Aleluya, el Señor Resucitó - Carlos Rosas",
+      "confianza": "alta",
+      "motivo": "Es la versión de Carlos Rosas, cuyo estribillo es '¡Aleluya! ¡Cantemos alegres hoy! ¡El Señor resucitó!'."
+    },
+    {
+      "id": "07-aleluya-el-senor-resucito-morales",
+      "url": "https://www.youtube.com/watch?v=8p6mqP5K2eg",
+      "tituloVideo": "Aleluya el Señor Resucitó, Vicente Morales",
+      "confianza": "alta",
+      "motivo": "Versión atribuida expresamente a Vicente Morales, distinta de la de Carlos Rosas, con la estrofa 'El Señor resucitó, cantad con alegría'."
+    },
+    {
+      "id": "07-cristo-es-la-luz",
+      "url": "https://www.youtube.com/watch?v=p7M4lmn6YbU",
+      "tituloVideo": "Cristo es la luz (Joaquín Madurga) • Canto para el tiempo de Pascua",
+      "confianza": "alta",
+      "motivo": "Búsqueda por el verso 'De la sombra de la muerte surge Cristo nueva vida' devuelve esta versión de Joaquín Madurga, el autor del cantoral."
+    },
+    {
+      "id": "07-el-peregrino-de-emaus",
+      "url": "https://www.youtube.com/watch?v=waPWtX0_39k",
+      "tituloVideo": "El peregrino de Emaús - PASCUA (Letra y Acordes PDF)",
+      "confianza": "alta",
+      "motivo": "Canto pascual 'El peregrino de Emaús' que empieza '¿Qué llevabas conversando?', con letra y acordes visibles."
+    },
+    {
+      "id": "07-en-la-manana-de-resurreccion",
+      "url": "https://www.youtube.com/watch?v=i_nwyCXmUu4",
+      "tituloVideo": "EN LA MAÑANA DE RESURRECCIÓN - CARMELO ERDOZAIN - CANTO DE COMUNION PARA PASCUA",
+      "confianza": "alta",
+      "motivo": "Título y autoría (Carmelo Erdozáin) coinciden con el canto que comienza 'En la mañana de Resurrección'."
+    },
+    {
+      "id": "07-hoy-el-senor-resucito",
+      "url": "https://www.youtube.com/watch?v=4xy7GrBxZEY",
+      "tituloVideo": "Hoy el Señor Resucitó",
+      "confianza": "media",
+      "motivo": "Canto pascual popular 'Hoy el Señor resucitó y de la muerte nos libró' interpretado por coro parroquial; coincide el texto, no verificada la melodía de 'When the Saints'."
+    },
+    {
+      "id": "07-jesus-nuestra-pascua",
+      "url": "https://www.youtube.com/watch?v=V2BEDlHr-vc",
+      "tituloVideo": "Jesús, Nuestra Pascua - J. Pedro Martins / José A. Olivar",
+      "confianza": "alta",
+      "motivo": "Acredita a J. A. Olivar y J. P. Martins, exactamente los autores anotados en el cantoral."
+    },
+    {
+      "id": "07-la-fiesta-del-senor",
+      "url": "https://www.youtube.com/watch?v=gwOmWnbd3_o",
+      "tituloVideo": "La Fiesta del Señor (Carmelo Erdozáin)",
+      "confianza": "alta",
+      "motivo": "Versión de Erdozáin con estribillo 'Aleluya, es la fiesta del Señor' y estrofa 'Ya no hay miedo, ya no hay muerte'."
+    },
+    {
+      "id": "07-no-es-la-cruz-el-final",
+      "url": "https://www.youtube.com/watch?v=yHt8NHCMUwo",
+      "tituloVideo": "10 - JOAQUÍN MADURGA - No Es La Cruz Un Final",
+      "confianza": "alta",
+      "motivo": "Grabación de álbum de Joaquín Madurga del canto 'No es la cruz un final, es el principio', autor citado en el cantoral."
+    },
+    {
+      "id": "07-no-os-quedeis-tristes",
+      "url": "https://www.youtube.com/watch?v=qwLj-mgdp78",
+      "tituloVideo": "Solemnidad de la Asención del Señor, No Os Quedeís Tristes, Pbro. J. Pedro Martins (con acordes)",
+      "confianza": "alta",
+      "motivo": "Canto de la Ascensión de J. Pedro Martins, coincidiendo con la nota '(G) J. Pedro Martins (Ascensión)' del cantoral."
+    },
+    {
+      "id": "07-nuestra-pascua",
+      "url": "https://www.youtube.com/watch?v=cqNV7JnLPuk",
+      "tituloVideo": "Nuestra pascua",
+      "confianza": "alta",
+      "motivo": "Audio oficial del canal Topic de Lucien Deiss: 'Nuestra pascua inmolada, aleluya, es Cristo el Señor'."
+    },
+    {
+      "id": "07-nuestro-canto-hoy",
+      "url": "https://www.youtube.com/watch?v=A1_mPeYZ1CY",
+      "tituloVideo": "Vuestro canto hoy",
+      "confianza": "alta",
+      "motivo": "Es el canto de Lucien Deiss 'Vuestro/Nuestro canto hoy será como la noche de fiesta' (Is 30), en su audio oficial."
+    },
+    {
+      "id": "07-nueva-creacion",
+      "url": "https://www.youtube.com/watch?v=RcmVwG8UNus",
+      "tituloVideo": "Camina Pueblo de Dios Cesáreo Gabarain Coro Sinaí",
+      "confianza": "alta",
+      "motivo": "Es 'Camina pueblo de Dios / Nueva creación' de Cesáreo Gabaráin, autor y letra coincidentes con el cantoral."
+    },
+    {
+      "id": "07-resucito-el-senor",
+      "url": "https://www.youtube.com/watch?v=ac92QIiBNOU",
+      "tituloVideo": "RESUCITÓ EL SEÑOR autor P. ORLANDO TORRES. CANTO DE PASCUA",
+      "confianza": "alta",
+      "motivo": "Atribuido al Pbro. Orlando Torres, tal como indica el cantoral, y localizado por el verso 'Llorando en silencio de soledad'."
+    },
+    {
+      "id": "07-resucito-kiko",
+      "url": "https://www.youtube.com/watch?v=YoIgNsfC1qc",
+      "tituloVideo": "Resucitó",
+      "confianza": "alta",
+      "motivo": "Audio oficial del canal Topic de Kiko Argüello del célebre 'Resucitó, resucitó, aleluya'."
+    },
+    {
+      "id": "07-si-habeis-resucitado-con-cristo",
+      "url": "https://www.youtube.com/watch?v=rNhic1xcZpk",
+      "tituloVideo": "Si habeis resucitado con Cristo",
+      "confianza": "alta",
+      "motivo": "La descripción del vídeo cita 'Si habéis resucitado con Cristo, vivir como hombres libres', el estribillo exacto del cantoral (distinto del canto homónimo de Kiko)."
+    },
+    {
+      "id": "08-algo-esta-descendiendo",
+      "url": "https://www.youtube.com/watch?v=tg_DZ4obEvM",
+      "tituloVideo": "Algo va descendiendo - canto para Pentecostés - Coro canto a Dios - letra y acordes.",
+      "confianza": "alta",
+      "motivo": "La letra publicada en la descripción coincide: 'algo va/está descendiendo... eso es el Espíritu Santo... gloria aleluya'."
+    },
+    {
+      "id": "08-el-legado",
+      "url": "https://www.youtube.com/watch?v=cl-j729tDM4",
+      "tituloVideo": "El legado. Ven promesa divina. Canto al Espíritu Santo",
+      "confianza": "alta",
+      "motivo": "Título y primer verso coinciden literalmente: 'El legado' / 'Ven promesa divina... Jesús nos legó'."
+    },
+    {
+      "id": "08-espiritu-de-dios-em",
+      "url": "https://www.youtube.com/watch?v=gdOlbzpd0F8",
+      "tituloVideo": "Espíritu de Dios, llena mi vida",
+      "confianza": "media",
+      "motivo": "Canto conocido cuyo texto es 'Espíritu de Dios, llena mi vida, llena mi alma, llena mi ser'; coincide la letra aunque no se verificó la tonalidad (Em)."
+    },
+    {
+      "id": "08-espiritu-santo-athenas",
+      "url": "https://www.youtube.com/watch?v=a4MdqP2FfQo",
+      "tituloVideo": "Espíritu Santo, Athenas Venica (con acordes)",
+      "confianza": "alta",
+      "motivo": "Es el 'Espíritu Santo' de Athenas Venica ('Espíritu de Dios, Espíritu Santo, mi alma tiene sed de Ti'), con acordes."
+    }
+  ]
+}

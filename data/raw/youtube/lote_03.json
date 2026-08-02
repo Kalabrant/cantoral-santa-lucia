@@ -1,0 +1,40 @@
+{
+  "lote": "lote_03",
+  "enlaces": [
+    {
+      "id": "02-aleluya-8-junto-a-ti-jesus",
+      "url": "https://www.youtube.com/watch?v=c-54dt3Jz8U",
+      "tituloVideo": "JUNTO a Ti JESUS Rezare - Canto de Aclamación antes el Evangelio - Aleluya",
+      "confianza": "alta",
+      "motivo": "Es el Aleluya de Kairoi cuya estrofa dice literalmente \"Junto a ti Jesús rezaré, tu palabra quiero vivir\", igual que los primeros versos del canto."
+    },
+    {
+      "id": "02-aleluya-12-pop-ii",
+      "url": "https://www.youtube.com/watch?v=kaW0-XuePAo",
+      "tituloVideo": "ALELUYA: Escucha Pueblo de Dios - Música Católica",
+      "confianza": "alta",
+      "motivo": "El título del video reproduce el verso distintivo del canto, \"Escucha, pueblo de Dios, la palabra del Señor\", y es una aclamación antes del Evangelio."
+    },
+    {
+      "id": "02-aleluya-14-alabad-al-senor",
+      "url": "https://www.youtube.com/watch?v=_3V8qOJAfWY",
+      "tituloVideo": "12 Aleluya alabad al Señor - Alberto Taulé",
+      "confianza": "alta",
+      "motivo": "Coincide autor (Alberto Taulé) y la estrofa del Salmo 150 \"Alabad al Señor en su templo, alabadlo en su fuerte firmamento\"."
+    },
+    {
+      "id": "02-gloria-y-honor-marco-frisina",
+      "url": "https://www.youtube.com/watch?v=nOlZztLWFWw",
+      "tituloVideo": "Gloria y honor a ti",
+      "confianza": "alta",
+      "motivo": "Pista oficial del canal Topic de Marco Frisina con el estribillo exacto \"Gloria y honor a ti, Señor Jesús\" (aclamación cuaresmal de estrofas variables)."
+    },
+    {
+      "id": "02-honor-y-gloria-a-ti-senor-jesus-e",
+      "url": "https://www.youtube.com/watch?v=wXLCz3cqaRs",
+      "tituloVideo": "\"Honor y Gloria a ti Señor Jesús\" (Tradicional) para CUARESMA - Cantos para la Misa",
+      "confianza": "media",
+      "motivo": "Versión tradicional más difundida de la aclamación cuaresmal, con el estribillo del canto; no pude confirmar en video la estrofa \"Hagámosle caso al Señor\"."
+    }
+  ]
+}

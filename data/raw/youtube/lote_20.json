@@ -1,0 +1,110 @@
+{
+  "lote": "lote_20",
+  "enlaces": [
+    {
+      "id": "09-tu-me-has-seducido",
+      "url": "https://www.youtube.com/watch?v=kcWa4JzCmGg",
+      "tituloVideo": "cantos del camino neocatecumenal: Me has seducido, Señor",
+      "confianza": "alta",
+      "motivo": "La descripción reproduce el texto de Jeremías 20,7 del canto de Kiko Argüello ('me has seducido... has sido más fuerte que yo'), igual que los versos del cantoral."
+    },
+    {
+      "id": "09-mi-getsemani",
+      "url": "https://www.youtube.com/watch?v=q0GzmmT2ook",
+      "tituloVideo": "En mi Getsemaní - Letra",
+      "confianza": "alta",
+      "motivo": "La letra en la descripción coincide literalmente: 'Para que mi amor no sea un sentimiento, tan solo un deslumbramiento pasajero...' (P. Eduardo Meana)."
+    },
+    {
+      "id": "09-noticia-para-todos-los-pueblos",
+      "url": "https://www.youtube.com/watch?v=jxnC6FVFudM",
+      "tituloVideo": "Noticia para todos los pueblos; Miguel Matos Sj.- Cover",
+      "confianza": "media",
+      "motivo": "Título exacto del canto y autoría de Miguel Matos SJ, aunque el vídeo es un cover y no muestra la letra completa."
+    },
+    {
+      "id": "09-que-te-puedo-dar-senor",
+      "url": "https://www.youtube.com/watch?v=qN7XnV3ohQc",
+      "tituloVideo": "QUE TE PUEDO DAR - Cover - VIDEO Lyric",
+      "confianza": "alta",
+      "motivo": "La descripción trae la letra completa: '¿Qué te puedo dar Señor que no me hayas dado tú... más que buena voluntad', del Pbro. Rafael Chávez."
+    },
+    {
+      "id": "09-sacerdote-para-siempre",
+      "url": "https://www.youtube.com/watch?v=XJTH289pT8c",
+      "tituloVideo": "Sacerdote Para Siempre (letra)",
+      "confianza": "alta",
+      "motivo": "La descripción reproduce la letra idéntica: 'Porque eres la razón de mi vida, mi fuerza consuelo y alegría...'."
+    },
+    {
+      "id": "09-sal-y-luz",
+      "url": "https://www.youtube.com/watch?v=Ud2yvzZ_MSM",
+      "tituloVideo": "SAL Y LUZ. Vicente Morales.",
+      "confianza": "alta",
+      "motivo": "La descripción incluye la letra con acordes: 'El que me sigue en la vida sal de la tierra será... sal que sala, luz que brilla'."
+    },
+    {
+      "id": "09-somos-incienso",
+      "url": "https://www.youtube.com/watch?v=EbLWg52as0M",
+      "tituloVideo": "Somos Incienso pista letra y acordes en Sol",
+      "confianza": "alta",
+      "motivo": "La descripción trae la letra con acordes: 'Hemos entrado al servicio de una vida, de rectitud, pureza y santidad...'."
+    },
+    {
+      "id": "09-te-entrego",
+      "url": "https://www.youtube.com/watch?v=Br0UkUpDlVE",
+      "tituloVideo": "TE ENTREGO | CANTO DE ADORACIÓN | HAZ LO QUE QUIERAS CONMIGO | LETRA MÚSICA CATÓLICA",
+      "confianza": "alta",
+      "motivo": "La descripción cita el estribillo del cantoral: 'Haz lo que quieras conmigo, hoy yo me rindo ante ti. Te entrego...'."
+    },
+    {
+      "id": "09-tomame-senor",
+      "url": "https://www.youtube.com/watch?v=LiGrt83uYms",
+      "tituloVideo": "Tómame Señor",
+      "confianza": "alta",
+      "motivo": "La descripción reproduce la letra: 'Oh Señor muéstrame el camino que debo seguir, ilumíname el sendero... Señor estoy cansado de buscar y no encontrar'."
+    },
+    {
+      "id": "09-ven-y-sigueme",
+      "url": "https://www.youtube.com/watch?v=a4l-gVC3w10",
+      "tituloVideo": "VEN Y SÍGUEME NO MIRES ATRÁS (CANTO DE SALIDA PARA LA MISA) VOCACIONAL LETRA EN LA DESCRIPCIÓN",
+      "confianza": "alta",
+      "motivo": "La letra en la descripción coincide: 'Desde antes de formarte aún en mi mente te tenía ya...' con el estribillo 'Ven y sígueme, no mires atrás'."
+    },
+    {
+      "id": "10-melodia-6-salmo-15",
+      "url": "https://www.youtube.com/watch?v=RPG6jaydiO8",
+      "tituloVideo": "Salmo 15 Protegeme Dios mio, que me refugio en Ti - Bob Hurd",
+      "confianza": "alta",
+      "motivo": "Es la versión de Bob Hurd indicada en el cantoral, con la antífona repetida 'Protégeme Dios mío, protégeme Dios mío, que me refugio en ti'."
+    },
+    {
+      "id": "10-salmo-26-lunes-santo",
+      "url": "https://www.youtube.com/watch?v=psYp3UC-vhw",
+      "tituloVideo": "Salmo 27 [26]: 'Yo te amo, Señor' (Comunión) – Misa de Cuaresma (Tomás y Francisco Aragüés) (1969)",
+      "confianza": "alta",
+      "motivo": "Coincide el autor (Tomás Aragüés), el título 'Yo te amo Señor' y los versos 'El Señor es mi luz y mi salvación, ¿a quién temeré?'."
+    },
+    {
+      "id": "10-salmo-115-jueves-santo-palazon",
+      "url": "https://www.youtube.com/watch?v=5z70rKCzVn4",
+      "tituloVideo": "El Cáliz que bendecimos - Francisco Palazón",
+      "confianza": "alta",
+      "motivo": "Título y autor coinciden exactamente con la antífona del cantoral: 'El cáliz que bendecimos es la comunión con la sangre de Cristo' (Francisco Palazón)."
+    },
+    {
+      "id": "10-salmo-103-vigilia-pascual",
+      "url": "https://www.youtube.com/watch?v=drIdQ_-CQXg",
+      "tituloVideo": "Oh Señor envía tu Espíritu, Lucien Deiss",
+      "confianza": "alta",
+      "motivo": "Es la versión de Lucien Deiss del Salmo 103 con la antífona '¡Oh Señor! envía tu Espíritu que renueve la faz de la tierra'."
+    },
+    {
+      "id": "10-exodo-15-canto-de-moises",
+      "url": "https://www.youtube.com/watch?v=QSHQIeTOMyY",
+      "tituloVideo": "PRECIPITÓ EN EL MAR / Camino Neocatecumenal (LETRA)",
+      "confianza": "alta",
+      "motivo": "La descripción reproduce el Canto de Moisés (Ex 15,1-18) neocatecumenal: 'Cantemos al Señor... que se cubrió de gloria, precipitó en el mar caballo y caballero'."
+    }
+  ]
+}

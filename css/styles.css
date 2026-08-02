@@ -290,7 +290,7 @@ main { display: flex; flex-direction: column; gap: 18px; }
 .lista-cantos { list-style: none; margin: 0; padding: 0; display: flex; flex-direction: column; gap: 11px; }
 
 .canto {
-  display: flex; align-items: center; gap: 13px;
+  display: flex; flex-direction: column;
   width: 100%;
   text-align: left;
   padding: 15px 14px 15px 15px;
@@ -302,6 +302,10 @@ main { display: flex; flex-direction: column; gap: 18px; }
   animation: entrar 380ms cubic-bezier(.22, .61, .36, 1) backwards;
 }
 .canto:hover { transform: translateY(-2px); box-shadow: var(--sombra-media); }
+
+/* Fila superior: botón de abrir la letra + botón de regenerar.
+   El enlace de YouTube queda debajo, fuera del <button>. */
+.canto-fila { display: flex; align-items: center; gap: 13px; width: 100%; }
 
 @keyframes entrar {
   from { opacity: 0; transform: translateY(12px); }
@@ -377,6 +381,42 @@ main { display: flex; flex-direction: column; gap: 18px; }
 .btn-regenerar:active { transform: rotate(-90deg) scale(0.94); }
 .btn-regenerar.girando svg { animation: girar 520ms cubic-bezier(.4, 0, .2, 1); }
 @keyframes girar { from { transform: rotate(0); } to { transform: rotate(360deg); } }
+
+/* ---------- Enlace a YouTube ---------- */
+.enlace-youtube {
+  display: inline-flex;
+  align-items: center;
+  gap: 6px;
+  align-self: flex-start;
+  max-width: 100%;
+  min-height: 40px;           /* área táctil cómoda en el móvil */
+  padding: 8px 10px;
+  border-radius: 12px;
+  font-size: 0.79rem;
+  font-weight: 620;
+  line-height: 1.2;
+  text-decoration: none;
+  color: var(--primario);
+  color: color-mix(in srgb, var(--primario) 88%, #241a10);
+  transition: transform var(--t-ui), background var(--t-ui), color var(--t-tema);
+}
+.enlace-youtube svg { flex: 0 0 auto; opacity: 0.9; }
+.enlace-youtube span {
+  text-decoration: underline;
+  text-decoration-color: transparent;
+  text-underline-offset: 3px;
+  transition: text-decoration-color var(--t-ui);
+}
+.enlace-youtube:hover { background: color-mix(in srgb, var(--primario) 9%, transparent); }
+.enlace-youtube:hover span { text-decoration-color: currentColor; }
+.enlace-youtube:active { transform: scale(0.97); }
+
+/* En la tarjeta: sangrado para que quede alineado bajo el título (38px del
+   número + 13px de hueco − 10px del propio padding) y sin engordar la fila. */
+.canto-youtube { margin: 1px 0 -7px 41px; }
+
+/* En la hoja de letra: bajo el meta, alineado con el título */
+.enlace-youtube-hoja { margin: 5px 0 -6px -10px; }
 
 .canto.cambiado { animation: destello 700ms ease; }
 @keyframes destello {
@@ -491,7 +531,7 @@ main { display: flex; flex-direction: column; gap: 18px; }
 
 /* ---------- Impresión ---------- */
 @media print {
-  .fondo, .cabecera, .seccion-selector, .boton-principal, .resultado-acciones, .pie, .brindis, .btn-regenerar, .ayuda { display: none !important; }
+  .fondo, .cabecera, .seccion-selector, .boton-principal, .resultado-acciones, .pie, .brindis, .btn-regenerar, .ayuda, .enlace-youtube { display: none !important; }
   body { background: #fff; }
   .canto { break-inside: avoid; box-shadow: none; }
 }

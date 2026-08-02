@@ -1,0 +1,180 @@
+{
+  "lote": "lote_22",
+  "enlaces": [
+    {
+      "id": "10-aguinaldo-17-diciembre",
+      "url": "https://www.youtube.com/watch?v=P684pp0lbOI",
+      "tituloVideo": "Ven, Señor, rey de justicia y de paz. (Salmo 71) - Juan P Vazquez",
+      "confianza": "media",
+      "motivo": "La antífona del video reproduce literalmente el estribillo del canto (\"Ven, Señor, rey de justicia y de paz\") sobre el mismo Salmo 71 del leccionario latinoamericano."
+    },
+    {
+      "id": "10-aguinaldo-18-diciembre",
+      "url": "https://www.youtube.com/watch?v=P684pp0lbOI",
+      "tituloVideo": "Ven, Señor, rey de justicia y de paz. (Salmo 71) - Juan P Vazquez",
+      "confianza": "media",
+      "motivo": "Mismo Salmo 71 con idéntica antífona y las mismas estrofas (\"Comunica, Señor, al Rey tu juicio…\") que el texto del cantoral para el 18 de diciembre."
+    },
+    {
+      "id": "10-aguinaldo-19-diciembre",
+      "url": "https://www.youtube.com/watch?v=umhf4NavK5Y",
+      "tituloVideo": "SALMO RESPONSORIAL (70): \"Que mi boca, Señor, no deje de alabarte\" - Viernes 19 de Diciembre",
+      "confianza": "alta",
+      "motivo": "La descripción del video transcribe exactamente la antífona y las estrofas del cantoral (\"Señor, sé para mí un refugio, ciudad fortificada en que me salves…\") para el mismo 19 de diciembre."
+    },
+    {
+      "id": "10-aguinaldo-20-diciembre",
+      "url": "https://www.youtube.com/watch?v=RoEPhtpRWaQ",
+      "tituloVideo": "Salmo 23 Ya llega el Señor el rey de la gloria - Fe y Canto",
+      "confianza": "media",
+      "motivo": "Antífona idéntica (\"Ya llega el Señor, el rey de la gloria\") y el canal indica expresamente que es la versión del leccionario usado en Latinoamérica, con las estrofas \"Del Señor es la tierra y lo que ella tiene\"."
+    },
+    {
+      "id": "10-aguinaldo-21-diciembre",
+      "url": "https://www.youtube.com/watch?v=jd8LdP2hUaU",
+      "tituloVideo": "Salmo 32 - Demos gracias a Dios al son del arpa - @vozmarthatrinidad",
+      "confianza": "alta",
+      "motivo": "La descripción reproduce palabra por palabra la antífona y la primera estrofa del cantoral (\"que la lira acompañe nuestros cantos; cantemos en su honor nuevos cantares\")."
+    },
+    {
+      "id": "10-aguinaldo-22-diciembre",
+      "url": "https://www.youtube.com/watch?v=4ejkazIG_gU",
+      "tituloVideo": "Salmo Responsorial (1 Samuel 2) R. Mi Corazón Se Alegra En Dios, Mi Salvador",
+      "confianza": "media",
+      "motivo": "Cántico de Ana (1 Samuel 2) con la misma antífona exacta \"Mi corazón se alegra en Dios, mi Salvador\" que el canto del 22 de diciembre."
+    },
+    {
+      "id": "10-aguinaldo-23-diciembre",
+      "url": "https://www.youtube.com/watch?v=ACwHqHTlxaU",
+      "tituloVideo": "SALMO RESPONSORIAL (24): \"Descúbrenos, Señor, al Salvador\" - 23 de Diciembre (CANTADO)",
+      "confianza": "alta",
+      "motivo": "La descripción transcribe la antífona y las estrofas idénticas al cantoral (\"Descúbrenos, Señor, tus caminos, guíanos con la verdad de tu doctrina…\") para el mismo 23 de diciembre."
+    },
+    {
+      "id": "10-aguinaldo-24-diciembre",
+      "url": "https://www.youtube.com/watch?v=5Zwb-i38zAc",
+      "tituloVideo": "del salmo 88 proclamaré sin cesar la misericordia del Señor para el 24 de diciembre misa del día",
+      "confianza": "alta",
+      "motivo": "La descripción incluye letra y acordes con el mismo texto del cantoral (\"y daré a conocer que su fidelidad es eterna, pues el Señor ha dicho: mi amor es para siempre\") para la misa del 24 de diciembre."
+    },
+    {
+      "id": "10-natividad-salmo-95",
+      "url": "https://www.youtube.com/watch?v=z5wOF2CVpIY",
+      "tituloVideo": "Salmo 95 - Hoy nos ha nacido el Mesías, el Señor (Pbro Orlando Torres) Misa de Nochebuena y Navidad",
+      "confianza": "alta",
+      "motivo": "Única versión con la antífona ampliada exacta del cantoral \"Hoy nos ha nacido el Mesías, el Señor: ¡Aleluya, aleluya, aleluya!\", para la misa de medianoche."
+    },
+    {
+      "id": "10-salmo-116-vayan-por-todo-el-mundo",
+      "url": "https://www.youtube.com/watch?v=J3VVGgO0tts",
+      "tituloVideo": "Salmo 116 - Vayan por todo el mundo y prediquen el Evangelio - SHAJAJ Ministerio Católico",
+      "confianza": "alta",
+      "motivo": "La descripción trae letra y acordes con la antífona y las estrofas literales del cantoral (\"Que alaben al Señor todas las naciones, que lo aclamen todos los pueblos / Porque grande es su amor hacia nosotros\")."
+    },
+    {
+      "id": "10-adios-amigos",
+      "url": "https://www.youtube.com/watch?v=vVDOIP9UzYg",
+      "tituloVideo": "Adios amigos adios Señor",
+      "confianza": "alta",
+      "motivo": "El título reproduce el estribillo exacto del canto y el canal es de material católico para catequesis, coincidiendo con el uso como canto de despedida."
+    },
+    {
+      "id": "10-agachate-parate",
+      "url": "https://www.youtube.com/watch?v=_jHEmANQC5U",
+      "tituloVideo": "Agáchate, párate, baila y brinca - Canto Dinámica - Alexander Castillo",
+      "confianza": "media",
+      "motivo": "Título literalmente idéntico al del canto y catalogado como \"canto dinámica\", que es exactamente la sección de cantos de animación del cantoral."
+    },
+    {
+      "id": "10-agua-lavame",
+      "url": "https://www.youtube.com/watch?v=BvRe5YpoFHA",
+      "tituloVideo": "BROTES DE OLIVO - AGUA LAVAME",
+      "confianza": "alta",
+      "motivo": "Es la grabación del propio grupo Brotes de Olivo, el intérprete/fuente que el cantoral cita expresamente junto con Is 1,16 y Vicente Morales."
+    },
+    {
+      "id": "10-aleluya-gracias-senor",
+      "url": "https://www.youtube.com/watch?v=i1271VBAl5M",
+      "tituloVideo": "Aleluya, gracias Señor - Cantos para Misa",
+      "confianza": "media",
+      "motivo": "Versión católica del corito \"Alelu, alelu, alelu, aleluya\" con la variante del estribillo \"Gracias Señor\" (no la más difundida \"Gloria a Dios\"), que es la que recoge el cantoral."
+    },
+    {
+      "id": "10-alegre-quiero-cantar",
+      "url": "https://www.youtube.com/watch?v=QT7h3hW7TIk",
+      "tituloVideo": "CANTOS PARA MISA - ALEGRE QUIERO CANTAR - LETRA Y ACORDES - SALIDA",
+      "confianza": "alta",
+      "motivo": "La descripción contiene la letra completa que coincide con los primeros versos del cantoral (\"Alegre quiero cantar, pues nunca voy a morir / cantando paso la vida sin llorar\")."
+    },
+    {
+      "id": "10-como-corren-rios",
+      "url": "https://www.youtube.com/watch?v=5tVT28huufQ",
+      "tituloVideo": "Alabanza Como corren ríos dentro de mi ser (con Nenita Ferrer)",
+      "confianza": "alta",
+      "motivo": "Título y descripción reproducen los versos del cantoral, incluido el distintivo \"como ríos de agua viva que salta pa'arriba que llevo dentro\"."
+    },
+    {
+      "id": "10-cuando-el-pueblo-alaba",
+      "url": "https://www.youtube.com/watch?v=VoP_jgHqyKg",
+      "tituloVideo": "Cuando el Pueblo del Señor Alaba a Dios | Suceden Cosas Maravillosas",
+      "confianza": "alta",
+      "motivo": "La descripción transcribe la letra del corito tradicional con los mismos versos del cantoral (\"suceden cosas maravillosas / hay sanidad, liberación\")."
+    },
+    {
+      "id": "10-dame-del-agua-que-brota",
+      "url": "https://www.youtube.com/watch?v=QYU3mn9XJQg",
+      "tituloVideo": "Dame del agua que brota - @anabolivar @isabellaarizai",
+      "confianza": "media",
+      "motivo": "Título exacto del canto y contexto de alabanza hispana, coincidiendo con el estribillo \"dame del agua que brota para la vida eterna\" referido a la samaritana."
+    },
+    {
+      "id": "10-dios-es-amor",
+      "url": "https://www.youtube.com/watch?v=zFXFaoI_zQw",
+      "tituloVideo": "DIOS ES AMOR, LA BIBLIA LO DICE. Cesáreo Gabaráin",
+      "confianza": "alta",
+      "motivo": "La descripción da letra y acordes idénticos al cantoral y atribuye la obra a Cesáreo Gabaráin (libro Iglesia peregrina), el autor indicado en el título del canto."
+    },
+    {
+      "id": "10-dios-esta-aqui",
+      "url": "https://www.youtube.com/watch?v=2r2IH78-5aM",
+      "tituloVideo": "Dios está aquí que hermoso es, él lo prometió donde hay dos o tres | canto con letra",
+      "confianza": "alta",
+      "motivo": "El propio título del video reproduce los dos primeros versos del canto y el video muestra la letra completa incluido \"Quédate Señor en cada corazón\"."
+    },
+    {
+      "id": "10-donde-hay-mas-de-dos",
+      "url": "https://www.youtube.com/watch?v=s3xI1Eq7acg",
+      "tituloVideo": "Donde hay mas de dos",
+      "confianza": "media",
+      "motivo": "Título literal y poco frecuente del corito carismático \"Donde hay más de dos reunidos en su nombre\", distinto del canto de entrada \"Reunidos en el nombre del Señor\"."
+    },
+    {
+      "id": "10-el-amor-del-senor-es-maravilloso",
+      "url": "https://www.youtube.com/watch?v=4Qy2iv57RMs",
+      "tituloVideo": "El amor del Señor es maravilloso",
+      "confianza": "media",
+      "motivo": "Título con la variante exacta \"del Señor\" que usa el cantoral (frente a la más difundida \"El amor de Dios es maravilloso\"), mismo corito de \"tan alto que no puedo estar…\"."
+    },
+    {
+      "id": "10-el-diablo-esta-enojado",
+      "url": "https://www.youtube.com/watch?v=rwTId37ZMQ4",
+      "tituloVideo": "El diablo está enojado / Canto Animación",
+      "confianza": "media",
+      "motivo": "Título idéntico y clasificado explícitamente como canto de animación, igual que en el cantoral; corresponde al corito \"hay una razón: Cristo vive en mi corazón\"."
+    },
+    {
+      "id": "10-esta-es-la-luz-de-cristo",
+      "url": "https://www.youtube.com/watch?v=VGXONKly-fQ",
+      "tituloVideo": "Esta es la luz de Cristo - Music Catolica Cristiana",
+      "confianza": "alta",
+      "motivo": "La descripción trae la letra con el mismo estribillo del cantoral \"BRILLARÁ, BRILLARÁ, SIN CESAR\" sobre \"Esta es la luz de Cristo\"."
+    },
+    {
+      "id": "10-estamos-de-fiesta-con-jesus",
+      "url": "https://www.youtube.com/watch?v=5_y-e2MN8lk",
+      "tituloVideo": "estamos de fiesta con Jesús al cielo queremos ir",
+      "confianza": "alta",
+      "motivo": "La descripción reproduce literalmente la primera estrofa del cantoral: \"estamos reunidos en la mesa y es Cristo quien va a servir\"."
+    }
+  ]
+}

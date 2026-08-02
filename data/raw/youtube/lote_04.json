@@ -1,0 +1,138 @@
+{
+  "lote": "lote_04",
+  "enlaces": [
+    {
+      "id": "02-gloria-a-ti-por-siempre",
+      "url": "https://www.youtube.com/watch?v=ez4lGJzfKMw",
+      "tituloVideo": "Gloria a Ti por siempre (guitarra)",
+      "confianza": "alta",
+      "motivo": "La ficha de Misioneros Oblatos que publica este vídeo reproduce la letra exacta del canto (estribillo 'Gloria a ti por siempre' y estrofa 'Cielo y tierra cantad himnos al Creador')."
+    },
+    {
+      "id": "02-queremos-escuchar-tu-voz",
+      "url": "https://www.youtube.com/watch?v=8pLdfpeFhYc",
+      "tituloVideo": "QUEREMOS ESCUCHAR TÚ VOZ ❤️💛💚 【Cantos para Cuaresma】 Música para la misa ✅ MÚSICA Litúrgica",
+      "confianza": "alta",
+      "motivo": "La búsqueda por los versos 'Queremos escuchar tu voz, oh Jesús / Vivir tu amor en plenitud' devuelve esta versión litúrgica de cuaresma con la misma letra."
+    },
+    {
+      "id": "02-tu-palabra-me-da-vida-espinosa",
+      "url": "https://www.youtube.com/watch?v=mWLLJ24Q1Is",
+      "tituloVideo": "Tu palabra me da vida (Salmo 118) - Juan Antonio Espinosa",
+      "confianza": "alta",
+      "motivo": "Es la versión del Salmo 118 de Juan Antonio Espinosa, con el estribillo 'Tu Palabra me da vida, confío en ti, Señor; tu Palabra es eterna, en ella esperaré'."
+    },
+    {
+      "id": "02-tu-palabra-senor-da-la-vida",
+      "url": "https://www.youtube.com/watch?v=1ucpjGllgkc",
+      "tituloVideo": "Cantos para la misa (Interlectura) Tu palabra Señor da la vida",
+      "confianza": "media",
+      "motivo": "Canto de interlectura con el estribillo 'Tu palabra, Señor, da la vida'; coincide el texto y la función litúrgica, aunque el vídeo no acredita explícitamente a Joaquín Madurga."
+    },
+    {
+      "id": "02-ante-tu-altar",
+      "url": "https://www.youtube.com/watch?v=dAt9cuz520w",
+      "tituloVideo": "CANTO DE OFERTORIO: \"ANTE TU ALTAR\"",
+      "confianza": "media",
+      "motivo": "Ofertorio cuyo estribillo es 'Ante tu altar, hoy como hermanos, el pan y el vino te presentamos'; hay varios cantos homónimos, por eso no se marca alta."
+    },
+    {
+      "id": "02-bendito-seas-senor-palazon",
+      "url": "https://www.youtube.com/watch?v=2D1muF5Kf-I",
+      "tituloVideo": "Bendito Seas Señor, Francisco Palazón (con acordes)",
+      "confianza": "alta",
+      "motivo": "Atribución explícita a Francisco Palazón y estribillo idéntico: 'Bendito seas, Señor, por este pan y este vino que generoso nos diste, para caminar contigo'."
+    },
+    {
+      "id": "02-este-pan-y-vino-erdozain",
+      "url": "https://www.youtube.com/watch?v=pnZEopv_Z9o",
+      "tituloVideo": "ESTE PAN Y VINO. Carmelo Erdozáin. Letra y acordes",
+      "confianza": "alta",
+      "motivo": "Acredita a Carmelo Erdozáin y muestra la letra 'Este pan y vino, Señor, se transformarán en tu cuerpo y sangre, Señor, en nuestro manjar'."
+    },
+    {
+      "id": "02-esto-que-te-doy",
+      "url": "https://www.youtube.com/watch?v=Xz5AbgImEiw",
+      "tituloVideo": "Ofrendas: Esto que te Doy, Eduardo Ortiz Tirado (con acordes)",
+      "confianza": "alta",
+      "motivo": "Coincide autor (E. Ortiz Tirado) y letra: 'Esto que te doy es vino y pan, Señor; esto que te doy es mi trabajo'."
+    },
+    {
+      "id": "02-haz-que-ocurra-el-milagro",
+      "url": "https://www.youtube.com/watch?v=8qstkW_0tMc",
+      "tituloVideo": "Haz que Ocurra el Milagro - Ofertorio (Mariano).",
+      "confianza": "alta",
+      "motivo": "Ofertorio mariano que comienza 'Junto a María venimos a ofrecer el pan y el vino de amor', igual que los primeros versos del canto."
+    },
+    {
+      "id": "02-hemos-entregado-nuestras-vidas",
+      "url": "https://www.youtube.com/watch?v=7zfPL8914_o",
+      "tituloVideo": "Hemos Entregado (Ofertorio Ordinario), Jesed ( con acordes)",
+      "confianza": "alta",
+      "motivo": "Versión acreditada a Jesed con la letra 'Hemos entregado nuestras vidas al Señor, no hay mayor bendición que ser de Él'."
+    },
+    {
+      "id": "02-no-solo-el-vino-y-el-pan",
+      "url": "https://www.youtube.com/watch?v=KB4gnc58iBw",
+      "tituloVideo": "CANTOS PARA MISA - NO SOLO EL VINO Y EL PAN - Como lo hizo María - letra y acordes . ofertorio",
+      "confianza": "alta",
+      "motivo": "Mismo título doble del cantoral y misma letra: 'No solo el vino y el pan te venimos a ofrecer... Como lo hizo María, que tu mensaje escuchó'."
+    },
+    {
+      "id": "02-pan-y-vino-de-amor-brotes-de-olivo",
+      "url": "https://www.youtube.com/watch?v=r8-tTaTHgr0",
+      "tituloVideo": "Pan y Vino de Amor, Brotes de Olivo (con acordes)",
+      "confianza": "alta",
+      "motivo": "Versión de Brotes de Olivo que arranca con 'En la tierra la sembró el sembrador, la semilla de tu pan, Señor'."
+    },
+    {
+      "id": "02-pan-y-vino-sobre-el-altar",
+      "url": "https://www.youtube.com/watch?v=p6veiqA3wis",
+      "tituloVideo": "CANTOS PARA MISA - PAN Y VINO SOBRE EL ALTAR - OFRENDA DE AMOR - LETRA Y ACORDES - OFERTORIO",
+      "confianza": "alta",
+      "motivo": "Es el ofertorio 'Pan y vino sobre el altar / Ofrenda de amor' cuya primera estrofa es 'Por los niños que empiezan la vida, por los hombres sin techo ni hogar'."
+    },
+    {
+      "id": "02-recibe-oh-dios-guenyveau",
+      "url": "https://www.youtube.com/watch?v=5Fy7wxo5Xi8",
+      "tituloVideo": "CANTO 161 RECIBE OH DIOS EL PAN Autor: Guenyveau",
+      "confianza": "alta",
+      "motivo": "Acredita al autor Guenyveau y reproduce 'Recibe, oh Dios, el pan que presentamos: luego será el cuerpo de Jesús'."
+    },
+    {
+      "id": "02-reunidos-senor-marco-lopez",
+      "url": "https://www.youtube.com/watch?v=yiRSVE4nCuI",
+      "tituloVideo": "Coro San Francisco de Asis en Honduras Reunidos Señor (D) Marco López",
+      "confianza": "alta",
+      "motivo": "Atribuido a Marco López y con el estribillo 'Reunidos, Señor, ante tu altar te ofrecemos el vino y el pan'."
+    },
+    {
+      "id": "02-te-presentamos-el-vino-y-el-pan-espinoza",
+      "url": "https://www.youtube.com/watch?v=0J1s2DHxb60",
+      "tituloVideo": "Te presentamos el vino y el pan (Juan Antonio Espinosa)",
+      "confianza": "alta",
+      "motivo": "Versión acreditada a Juan Antonio Espinosa con el estribillo 'Te presentamos el vino y el pan, bendito seas por siempre, Señor'."
+    },
+    {
+      "id": "02-tu-pones-lo-demas-gabarain",
+      "url": "https://www.youtube.com/watch?v=KojqnaYxlQM",
+      "tituloVideo": "Tú pones lo demás",
+      "confianza": "alta",
+      "motivo": "Único resultado para el verso literal 'Un día de bodas el vino faltó, imposible poderlo comprar', del canto de Gabaráin sobre las bodas de Caná."
+    },
+    {
+      "id": "02-tuya-es-mi-vida-martin-valverde",
+      "url": "https://www.youtube.com/watch?v=h2NOWKCtSHk",
+      "tituloVideo": "Tuya es mi vida señor/ Ofertorio para misa/ Letra y acordes",
+      "confianza": "media",
+      "motivo": "Ofertorio 'Tuya es mi vida' que responde al verso 'Quiero vivir una vez más el momento prodigioso'; no se pudo confirmar en el vídeo la autoría de Martín Valverde."
+    },
+    {
+      "id": "02-un-nino-se-te-acerco-gabarain",
+      "url": "https://www.youtube.com/watch?v=uTNNgorwyq8",
+      "tituloVideo": "UN NIÑO SE TE ACERCÓ AQUELLA TARDE (CESÁREO GABARAIN)",
+      "confianza": "alta",
+      "motivo": "Título y autor coinciden con el canto: 'Un niño se te acercó aquella tarde, sus cinco panes te dio para ayudarte' de Cesáreo Gabaráin."
+    }
+  ]
+}

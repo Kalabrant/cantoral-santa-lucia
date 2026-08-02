@@ -1,0 +1,138 @@
+{
+  "lote": "lote_01",
+  "enlaces": [
+    {
+      "id": "01-a-edificar-la-iglesia",
+      "url": "https://www.youtube.com/watch?v=OhI6mI9nuu0",
+      "tituloVideo": "A edificar la Iglesia del Señor",
+      "confianza": "alta",
+      "motivo": "El video reproduce el estribillo 'Hermano, ven, ayúdame a edificar la Iglesia del Señor' y la estrofa 'Tú eres Iglesia, yo soy Iglesia', idénticos al canto."
+    },
+    {
+      "id": "01-alegrate-pueblo-de-dios",
+      "url": "https://www.youtube.com/watch?v=E3GfD3Dkj20",
+      "tituloVideo": "Alégrate Pueblo de Dios porque el señor en medio de ti está",
+      "confianza": "alta",
+      "motivo": "El título del video cita literalmente el estribillo del canto y la letra continúa con 'Alza tus manos, cierra los ojos'."
+    },
+    {
+      "id": "01-alegria-de-vivir",
+      "url": "https://www.youtube.com/watch?v=yBrw6f9xSAU",
+      "tituloVideo": "Alegría de Vivir",
+      "confianza": "alta",
+      "motivo": "Grabación oficial de Manuel de Terry (canal Topic) cuya letra es 'Cantando la alegría de vivir, llegamos a la Casa del Señor', el mismo autor y texto del cantoral."
+    },
+    {
+      "id": "01-alrededor-de-tu-mesa",
+      "url": "https://www.youtube.com/watch?v=10kBpqqLesA",
+      "tituloVideo": "Alrededor de Tu mesa (texto: E. Pascual - Música: Francisco Palazón) - Canto de entrada",
+      "confianza": "alta",
+      "motivo": "El video acredita exactamente a E. Pascual y Francisco Palazón, los autores anotados en el cantoral, y canta 'venimos a recordar que tu palabra es camino'."
+    },
+    {
+      "id": "01-bienvenidos-a-esta-mesa",
+      "url": "https://www.youtube.com/watch?v=czTPzSCep8U",
+      "tituloVideo": "180. Bienvenidos a esta mesa",
+      "confianza": "media",
+      "motivo": "Versión de cancionero litúrgico con el mismo título y estructura de estribillo 'Bienvenidos a esta mesa, bienvenidos otra vez', aunque no se pudo cotejar la letra completa."
+    },
+    {
+      "id": "01-cantando-la-alegria",
+      "url": "https://www.youtube.com/watch?v=Zz-eBsqd1tU",
+      "tituloVideo": "Juntos cantando la alegría",
+      "confianza": "alta",
+      "motivo": "Corresponde al canto de Cesáreo Gabaráin 'Juntos cantando la alegría de vernos unidos en la fe y el amor', primer verso del cantoral."
+    },
+    {
+      "id": "01-ciudadanos-del-cielo",
+      "url": "https://www.youtube.com/watch?v=4a65GqfJW9I",
+      "tituloVideo": "Ciudadanos del cielo, Lucien Deiss",
+      "confianza": "alta",
+      "motivo": "Versión atribuida a Lucien Deiss con la antífona 'Ciudadanos del cielo, moradores de la casa de Dios', igual al cantoral."
+    },
+    {
+      "id": "01-iglesia-peregrina-de-dios",
+      "url": "https://www.youtube.com/watch?v=DRg8ghOwJrQ",
+      "tituloVideo": "CANTOS PARA MISA - IGLESIA PEREGRINA DE DIOS - LETRA Y ACORDES - ENTRADA",
+      "confianza": "alta",
+      "motivo": "Video con letra y acordes del himno de Gabaráin que comienza 'Todos unidos formando un solo cuerpo, un pueblo que en la Pascua nació'."
+    },
+    {
+      "id": "01-iglesia-soy",
+      "url": "https://www.youtube.com/watch?v=Bd76B2b5V18",
+      "tituloVideo": "IGLESIA SOY - Canto de entrada para el tiempo ordinario - letra y acordes",
+      "confianza": "alta",
+      "motivo": "Video con letra del canto de entrada 'Iglesia soy y tú también; en el Bautismo renacimos a una vida singular', idéntico al cantoral."
+    },
+    {
+      "id": "01-juntos-como-hermanos",
+      "url": "https://www.youtube.com/watch?v=Vouyw7ZtXdc",
+      "tituloVideo": "01 JUNTOS COMO HERMANOS - Grupo Pueblo de Dios",
+      "confianza": "alta",
+      "motivo": "Versión del clásico 'Juntos como hermanos, miembros de una Iglesia... un largo caminar por el desierto bajo el sol', con las mismas estrofas."
+    },
+    {
+      "id": "01-juntos-para-sonar",
+      "url": "https://www.youtube.com/watch?v=-lirvqzPzzQ",
+      "tituloVideo": "Juntos para soñar",
+      "confianza": "alta",
+      "motivo": "Interpretación coral del canto de R. Artacho y T. Aragüés con el estribillo 'Juntos para soñar nuevas inmensidades, juntos para marcar ritmos de un nuevo amor'."
+    },
+    {
+      "id": "01-la-misa-es-una-fiesta",
+      "url": "https://www.youtube.com/watch?v=TUfqj5c1Qzg",
+      "tituloVideo": "La Misa es una Fiesta / La Misa No Termina (Cesareo Gabarain)",
+      "confianza": "alta",
+      "motivo": "El video reúne las dos partes exactamente como las titula el cantoral ('La Misa Es Una Fiesta / La Misa No Termina') y acredita a Cesáreo Gabaráin."
+    },
+    {
+      "id": "01-pueblo-de-reyes",
+      "url": "https://www.youtube.com/watch?v=ZJkqqyU8DaU",
+      "tituloVideo": "Pueblo de reyes (texto: M. P. de la Figuera - Música: Lucien Deiss) - Canto de entrada",
+      "confianza": "alta",
+      "motivo": "Versión de Lucien Deiss con la antífona 'Pueblo de reyes, asamblea santa, pueblo sacerdotal, pueblo de Dios, bendice a tu Señor'."
+    },
+    {
+      "id": "01-que-alegria-salmo-122",
+      "url": "https://www.youtube.com/watch?v=bW_scriToHc",
+      "tituloVideo": "Entrada T.O.: Salmo 121, Que Alegría Cuando me Dijeron, Miguel Manzano (con acordes)",
+      "confianza": "alta",
+      "motivo": "Versión de Miguel Manzano (autor indicado en el cantoral) con el estribillo 'Qué alegría cuando me dijeron: vamos a la casa del Señor... ya están pisando nuestros pies tus umbrales, Jerusalén'."
+    },
+    {
+      "id": "01-reunidos-en-el-nombre-del-senor",
+      "url": "https://www.youtube.com/watch?v=LX83TbYobEs",
+      "tituloVideo": "Reunidos en el nombre del Señor (Texto y música: Francisco Palazón) - canto de entrada.",
+      "confianza": "alta",
+      "motivo": "Acredita a Francisco Palazón y canta 'Reunidos en el nombre del Señor, que nos ha congregado ante su altar', igual al cantoral."
+    },
+    {
+      "id": "01-somos-un-pueblo-que-camina",
+      "url": "https://www.youtube.com/watch?v=QBc-flg_Eso",
+      "tituloVideo": "Somos Un Pueblo Que Camina",
+      "confianza": "alta",
+      "motivo": "Grabación cuya letra es 'Somos un pueblo que camina... otra ciudad que no se acaba, sin penas ni tristezas, ciudad de eternidad', idéntica al canto de Emilio V. Mateu."
+    },
+    {
+      "id": "01-todos-cantamos-a-ti-senor",
+      "url": "https://www.youtube.com/watch?v=9zFPdcueeZc",
+      "tituloVideo": "Todos cantamos a ti Señor (Salmo 116) - Juan Antonio Espinosa (Partitura Organo, Coro y Solista)",
+      "confianza": "alta",
+      "motivo": "Obra de Juan A. Espinosa (autor del cantoral) con el estribillo 'Todos cantamos a ti, Señor: Aleluya' y la estrofa 'Todos los pueblos alaben tu nombre'."
+    },
+    {
+      "id": "01-un-solo-senor",
+      "url": "https://www.youtube.com/watch?v=s0F18LZV_o4",
+      "tituloVideo": "Un solo Señor",
+      "confianza": "alta",
+      "motivo": "Versión del himno de Lucien Deiss con el estribillo 'Un solo Señor, una sola fe, un solo bautismo, un solo Dios y Padre' y la estrofa 'Llamados a guardar la unidad del Espíritu por el vínculo de la paz'."
+    },
+    {
+      "id": "01-vienen-con-alegria",
+      "url": "https://www.youtube.com/watch?v=NdVsofpVtF0",
+      "tituloVideo": "Vienen con Alegría – Cesáreo Gabaráin [video letra oficial]",
+      "confianza": "alta",
+      "motivo": "Video-letra oficial de OCP del canto de Gabaráin 'Vienen con alegría, Señor, cantando vienen con alegría, Señor', igual al cantoral."
+    }
+  ]
+}

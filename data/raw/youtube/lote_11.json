@@ -1,0 +1,159 @@
+{
+  "lote": "lote_11",
+  "enlaces": [
+    {
+      "id": "06-aclamaciones-evangelio",
+      "url": "https://www.youtube.com/watch?v=cUF0luh_xUg",
+      "tituloVideo": "“Oh Sabiduría” - Antífona de la “O” - Vísperas Adviento - 17 de Diciembre",
+      "confianza": "media",
+      "motivo": "Reproduce exactamente el texto de la antífona mayor del 17 de diciembre (“Oh Sabiduría del Altísimo… muéstranos el camino de la prudencia”) que abre esta sección del cantoral, aunque con melodía de vísperas."
+    },
+    {
+      "id": "06-el-cardenalito",
+      "url": "https://www.youtube.com/watch?v=VREeBZaoSHU",
+      "tituloVideo": "(cover) El Cardenalito - Misa Aguinaldo en Puerto Rico - Música de Navidad",
+      "confianza": "alta",
+      "motivo": "La búsqueda por la frase literal “estando en la cruz nuestro Redentor” devuelve este único vídeo, titulado El Cardenalito y cantado en misa de aguinaldo."
+    },
+    {
+      "id": "06-el-nino-es-el-mismo",
+      "url": "https://www.youtube.com/watch?v=ak0e6vIE9co",
+      "tituloVideo": "El Niño es el mismo - Morella Muñoz / Orfeón Universitario",
+      "confianza": "alta",
+      "motivo": "Versión clásica del aguinaldo de Otilio Galíndez y Miguel Delgado Estévez que el cantoral acredita en el encabezado del canto."
+    },
+    {
+      "id": "06-gozos",
+      "url": "https://www.youtube.com/watch?v=FedA9fdjwy4",
+      "tituloVideo": "Dulce Jesús Mío - Los Niños Cantores de Navidad | Villancico (Fuentes Kids) [Video Oficial]",
+      "confianza": "alta",
+      "motivo": "Es el villancico “Dulce Jesús mío, mi niño adorado, ven a nuestras almas, ven no tardes tanto”, letra idéntica a los Gozos del cantoral."
+    },
+    {
+      "id": "06-nino-jesus-llanero",
+      "url": "https://www.youtube.com/watch?v=C-QkWwnq7P4",
+      "tituloVideo": "EL NIÑO JESÚS LLANERO | L y M: Simón Díaz , dedicado a la tía María Muñoz. De Caracas para Oriente",
+      "confianza": "alta",
+      "motivo": "Aguinaldo de Simón Díaz con los versos “en mi conuquito las flores de los campos” y “niñito llanero, indio soberano” del cantoral."
+    },
+    {
+      "id": "06-burrito-sabanero",
+      "url": "https://www.youtube.com/watch?v=qJm79U8T_e0",
+      "tituloVideo": "El Burrito Sabanero. La Rondallita",
+      "confianza": "alta",
+      "motivo": "Grabación clásica de La Rondallita del aguinaldo de Hugo Blanco, con el estribillo “con mi burrito sabanero voy camino de Belén”."
+    },
+    {
+      "id": "06-a-ti-te-cantamos",
+      "url": "https://www.youtube.com/watch?v=S7jTXSvVQow",
+      "tituloVideo": "A TI TE CANTAMOS PRECIOSA MARÍA",
+      "confianza": "alta",
+      "motivo": "Título y letra coinciden literalmente con el estribillo “A ti te cantamos preciosa María, y de ti esperamos paz y alegría”."
+    },
+    {
+      "id": "06-como-el-rocio",
+      "url": "https://www.youtube.com/watch?v=0KSKFSYBF1s",
+      "tituloVideo": "Como el rocío/ Canto de adviento",
+      "confianza": "alta",
+      "motivo": "La búsqueda por el verso literal “como el rocío del cielo baja constante” devuelve exclusivamente este canto de adviento."
+    },
+    {
+      "id": "06-como-busca-el-tierno-infante",
+      "url": "https://www.youtube.com/watch?v=KqJ-QxGUBm8",
+      "tituloVideo": "Tierno Infante - Coro Lanzilotti de Farmacia París",
+      "confianza": "media",
+      "motivo": "Único resultado para la frase literal “como busca el tierno infante”; canto mariano coral con la misma estrofa inicial, aunque no se ve la letra completa."
+    },
+    {
+      "id": "06-el-nino-criollo",
+      "url": "https://www.youtube.com/watch?v=J8inqxpzggg",
+      "tituloVideo": "Maritza Mészáros – El niño criollo (Si la virgen fuera andina) ft. Iván Pérez Rossi",
+      "confianza": "alta",
+      "motivo": "El título cita el estribillo del cantoral “Si la Virgen fuera andina y San José de los llanos”, el aguinaldo conocido como El Niño Criollo."
+    },
+    {
+      "id": "06-purisima",
+      "url": "https://www.youtube.com/watch?v=YrxXCuT0oyM",
+      "tituloVideo": "Purísima María (aguinaldo venezolano)",
+      "confianza": "alta",
+      "motivo": "Coincide con la frase literal “Purísima María, lirio de Nazaret” que abre el canto en el cantoral."
+    },
+    {
+      "id": "06-sois-la-prometida",
+      "url": "https://www.youtube.com/watch?v=Cj6bfGjR9TU",
+      "tituloVideo": "6. Sois La Prometida (Audio) - Comunidad Horeb",
+      "confianza": "alta",
+      "motivo": "Título y verso literal “Sois la prometida del Omnipotente” coinciden; versión cantada del aguinaldo mariano del cantoral."
+    },
+    {
+      "id": "06-aguinaldo-al-nino",
+      "url": "https://www.youtube.com/watch?v=TajI2jN0rUU",
+      "tituloVideo": "Aguinaldo Al Niño (Preparen la mesa...) - Nancy Ramos - 1982",
+      "confianza": "alta",
+      "motivo": "El propio título une el nombre del canto y su primer verso “Preparen la mesa… para que reciban al Niño Jesús”."
+    },
+    {
+      "id": "06-aguinaldo-del-tocuyo",
+      "url": "https://www.youtube.com/watch?v=0T4nY4X8PKg",
+      "tituloVideo": "Aguinaldo Tocuyano (Del Tocuyo vengo)",
+      "confianza": "alta",
+      "motivo": "Coincide con el verso literal “Del Tocuyo vengo, siguiendo una estrella” del aguinaldo larense del cantoral."
+    },
+    {
+      "id": "06-aguinaldo-carupanero",
+      "url": "https://www.youtube.com/watch?v=3hnhMp1zT4I",
+      "tituloVideo": "Aguinaldo Carupanero (feat. Gualberto Ibarreto)",
+      "confianza": "alta",
+      "motivo": "Versión de Venezuela Un Solo Pueblo del Aguinaldo Carupanero, que comienza “Atención muchachos…” como en el cantoral."
+    },
+    {
+      "id": "06-al-llegar-aqui",
+      "url": "https://www.youtube.com/watch?v=sXYUn5ICXqY",
+      "tituloVideo": "AL LLEGAR AQUÍ- AGUINALDO VENEZOLANO - CORO INFANTIL SINFÓNICA EL CALLAO - BOLÍVAR",
+      "confianza": "alta",
+      "motivo": "Aguinaldo homónimo localizado por los versos “me saco el pañuelo” y “palomita blanca” que figuran en el cantoral."
+    },
+    {
+      "id": "06-cantemos-con-alegria",
+      "url": "https://www.youtube.com/watch?v=-0p7FbZC2KI",
+      "tituloVideo": "Cantemos con Alegría - Billo's Caracas Boys (Video Letra) Aguinaldo Venezolano Navideño Clásico",
+      "confianza": "alta",
+      "motivo": "Único resultado para la frase literal “cantemos con alegría, pero con felicidad”, y el vídeo muestra la letra."
+    },
+    {
+      "id": "06-fuego-al-canon",
+      "url": "https://www.youtube.com/watch?v=PcxEJkQWUws",
+      "tituloVideo": "Fuego al Cañón",
+      "confianza": "alta",
+      "motivo": "Grabación de La Rondallita de la parranda “Fuego al cañón… para que respeten nuestro parrandón” del cantoral."
+    },
+    {
+      "id": "06-gente-de-todos-los-caminos",
+      "url": "https://www.youtube.com/watch?v=K8m68oCVN68",
+      "tituloVideo": "Gente de todos los caminos--- Aguinaldo Venezolano",
+      "confianza": "alta",
+      "motivo": "Título idéntico al primer verso “Gentes de todos los caminos vienen a ver a Jesús” de la parranda del cantoral."
+    },
+    {
+      "id": "06-la-capilla-esta-abierta",
+      "url": "https://www.youtube.com/watch?v=LV76XcEx4ZM",
+      "tituloVideo": "Aguinaldo La Capilla está Abierta - Coro las Voces de Jesús",
+      "confianza": "alta",
+      "motivo": "Aguinaldo homónimo con los versos “La capilla está abierta de noche y de día, rezaremos todos el Ave María”."
+    },
+    {
+      "id": "06-la-matica",
+      "url": "https://www.youtube.com/watch?v=LmuVG_3Vko0",
+      "tituloVideo": "La Matica",
+      "confianza": "alta",
+      "motivo": "Versión de Un Solo Pueblo de la parranda “Nosotros vivimos bajo’e la matica… verano con ella y ella verdecita”."
+    },
+    {
+      "id": "06-oh-luna",
+      "url": "https://www.youtube.com/watch?v=W5kma2bfZfw",
+      "tituloVideo": "Oh luna. Aguinaldo",
+      "confianza": "media",
+      "motivo": "Aguinaldo “Oh luna que brilla en diciembre” localizado por ese verso literal; interpretación aficionada sin letra visible completa."
+    }
+  ]
+}

@@ -1,0 +1,166 @@
+{
+  "lote": "lote_26",
+  "enlaces": [
+    {
+      "id": "m4-dame-un-nuevo-corazon",
+      "url": "https://www.youtube.com/watch?v=ceWExT-5Dq4",
+      "tituloVideo": "Dame Un Nuevo Corazón | JHEIDY | cover | Música Católica",
+      "confianza": "alta",
+      "motivo": "El título reproduce el primer verso y el video aparece al buscar la frase distintiva 'un corazón para alabarte'."
+    },
+    {
+      "id": "m4-cara-a-cara",
+      "url": "https://www.youtube.com/watch?v=YFiuHTnwJw4",
+      "tituloVideo": "Marcos Vidal - Cara a Cara",
+      "confianza": "alta",
+      "motivo": "Versión original de Marcos Vidal; la letra visible incluye 'Solamente una palabra, solamente una oración, cuando llegue a tu presencia mi Señor'."
+    },
+    {
+      "id": "m4-el-jardin-del-amado",
+      "url": "https://www.youtube.com/watch?v=SOvyi_gw-aM",
+      "tituloVideo": "Ven, amada mia ( \"Cantar de los Cantares 2, 8-1 ...)",
+      "confianza": "alta",
+      "motivo": "La descripción contiene los versos del canto: 'En la noche busqué al amor de mi alma, en mi árido jardín él hizo su morada, con perlas de rocío cubrió mi cabeza'."
+    },
+    {
+      "id": "m4-la-via-dolorosa",
+      "url": "https://www.youtube.com/watch?v=RyQf7PstEgk",
+      "tituloVideo": "Vía dolorosa -Triste día en Jerusalén",
+      "confianza": "alta",
+      "motivo": "El título del video reproduce literalmente los dos primeros versos del canto."
+    },
+    {
+      "id": "m4-huellas-en-la-arena",
+      "url": "https://www.youtube.com/watch?v=dC5xUyJJ4d4",
+      "tituloVideo": "Huellas (Jaire)",
+      "confianza": "alta",
+      "motivo": "La descripción cita la letra exacta: 'A lo largo de un camino donde desemboca un río, caminando al lado mío yo te pude percibir'."
+    },
+    {
+      "id": "m4-dejame-llegar",
+      "url": "https://www.youtube.com/watch?v=39e2QDrn4kA",
+      "tituloVideo": "El objeto de mi amor - Martha Reyes",
+      "confianza": "alta",
+      "motivo": "La descripción reproduce la letra: 'Déjame llegar ahí donde se encuentra tu alma herida, ahí donde descifras tú la vida, ahí donde se esconde tu dolor'."
+    },
+    {
+      "id": "m4-robame-este-corazon",
+      "url": "https://www.youtube.com/watch?v=tYDZE9ywJfE",
+      "tituloVideo": "RÓBAME ESTE CORAZÓN (Lyric Video) MOVIMIENTO JUVENIL HUELLAS VENEZUELA.",
+      "confianza": "alta",
+      "motivo": "Lyric video del tema homónimo del Movimiento Juvenil Huellas (Venezuela), repertorio del que procede el cantoral."
+    },
+    {
+      "id": "m4-vaya-esta-cancion",
+      "url": "https://www.youtube.com/watch?v=g911jnTIEo8",
+      "tituloVideo": "Vaya Esta Canción y Pertenezca (Miguel Matos S.J.) | Cover Yoselis & Leandro Limpio Cantando al Amor",
+      "confianza": "alta",
+      "motivo": "Título y autor coinciden con el canto de Miguel Matos S.J. y con la temática de denuncia del 'mundo de opresión'."
+    },
+    {
+      "id": "m4-supremo-amor",
+      "url": "https://www.youtube.com/watch?v=-GQIEzQHxt8",
+      "tituloVideo": "SUPREMO AMOR - Martha Reyes",
+      "confianza": "alta",
+      "motivo": "La descripción cita la letra exacta: 'Hoy me toca definir lo que hiciste al cambiar mi corazón. Tú usaste algo en mí que es muy distinto...'."
+    },
+    {
+      "id": "m4-tu-amor-es-tan-puro",
+      "url": "https://www.youtube.com/watch?v=jUpSnGl2f8U",
+      "tituloVideo": "Tu Amor Es Tan Puro",
+      "confianza": "media",
+      "motivo": "Grabación oficial (canal Topic) de Peregrinos y Extranjeros con el título exacto del canto; no pude ver la letra completa."
+    },
+    {
+      "id": "m4-jesus-esta-entre-nosotros",
+      "url": "https://www.youtube.com/watch?v=r39PVZuTKZg",
+      "tituloVideo": "Jesús está entre nosotros - Kairoi",
+      "confianza": "alta",
+      "motivo": "Versión original de Kairoi (álbum 'Jesús es el Señor', 1979); la letra publicada dice 'Jesús está entre nosotros, Él vive hoy y su Espíritu a todos da'."
+    },
+    {
+      "id": "m4-ante-ti-senor",
+      "url": "https://www.youtube.com/watch?v=UXju82jUmsE",
+      "tituloVideo": "Ante ti Señor mi alma levantaré",
+      "confianza": "media",
+      "motivo": "El título reproduce los dos primeros versos del canto, distinguiéndolo del 'Ante Ti Señor' de Martín Verde Barajas."
+    },
+    {
+      "id": "m4-quiero-cantar-una-linda-cancion",
+      "url": "https://www.youtube.com/watch?v=a8ZKh8dEE2A",
+      "tituloVideo": "Quiero cantar una linda cancion - Padre Lucas Casaert",
+      "confianza": "alta",
+      "motivo": "La descripción cita la letra: 'Quiero cantar una linda canción... a aquel que mi vida cambió'."
+    },
+    {
+      "id": "m4-que-nada-te-turbe",
+      "url": "https://www.youtube.com/watch?v=mKRLw2zkc8s",
+      "tituloVideo": "Nada te turbe (solo Dios Basta) T A I Z E",
+      "confianza": "alta",
+      "motivo": "Versión con el texto de Santa Teresa que coincide con el cantoral: 'todo se pasa, Dios no se muda, la paciencia todo lo alcanza'."
+    },
+    {
+      "id": "m5-se-tu",
+      "url": "https://www.youtube.com/watch?v=zOWQthC-qeQ",
+      "tituloVideo": "Se tu cual la mujer - Padre Lucas Casaert",
+      "confianza": "alta",
+      "motivo": "La descripción reproduce la estrofa completa: 'Sé tú cual la mujer que fue y tocó el borde del vestido de Jesús, virtud salió de Él y ella sanó...'."
+    },
+    {
+      "id": "m5-por-todo-tu-amor",
+      "url": "https://www.youtube.com/watch?v=5swrILTF1Iw",
+      "tituloVideo": "Por todo tu amor te doy Gracias - Alabanza Cristiana de Agradecimiento",
+      "confianza": "alta",
+      "motivo": "La descripción cita la letra exacta: 'Por todo tu amor te doy gracias, por todo aquello que harás, por tantas promesas, por ser mi Señor'."
+    },
+    {
+      "id": "m5-tu-fidelidad",
+      "url": "https://www.youtube.com/watch?v=53BatKbRO2A",
+      "tituloVideo": "Marcos Witt | Gracias / Tu Fidelidad feat. @uncorazonorg (Video Oficial)",
+      "confianza": "alta",
+      "motivo": "Video oficial de 'Tu Fidelidad' de Marcos Witt, cuya letra es 'Tu fidelidad es grande, tu fidelidad incomparable es, nadie como tú bendito Dios'."
+    },
+    {
+      "id": "m5-te-necesito",
+      "url": "https://www.youtube.com/watch?v=e2WGr62cmC8",
+      "tituloVideo": "Te necesito",
+      "confianza": "alta",
+      "motivo": "La descripción incluye el coro: 'Te necesito dentro de mi corazón, siento en mi ser...'."
+    },
+    {
+      "id": "m5-el-reina",
+      "url": "https://www.youtube.com/watch?v=hvivYJRKIa8",
+      "tituloVideo": "Él Reina-Peregrinos y Extranjeros / Coro Voces de Cristo",
+      "confianza": "alta",
+      "motivo": "La descripción cita la letra: '¿Por qué buscáis entre los muertos al que vive? Resucitó, se levantó, Él vive...'."
+    },
+    {
+      "id": "m5-amemonos",
+      "url": "https://www.youtube.com/watch?v=b3J2clwp4eA",
+      "tituloVideo": "HERMANOS AMEMONOS UNOS A OTROS - TIENES QUE SER UN NIÑO - LETRA Y ACORDES - COMUNIÓN - NIÑOS",
+      "confianza": "media",
+      "motivo": "Video de cantos de comunión con letra y acordes cuyo primer tema coincide con el título y primer verso del canto."
+    },
+    {
+      "id": "m5-por-tus-llagas",
+      "url": "https://www.youtube.com/watch?v=xXm2S4GzG9E",
+      "tituloVideo": "Por Tu Llaga - Jaime Murrell (Video Lyric) #Adoracion #PorTuLlaga #JaimeMurrell",
+      "confianza": "alta",
+      "motivo": "La descripción reproduce la letra: 'Toda enfermedad tú llevaste al morir y por mí sufriste en silencio mi dolor'."
+    },
+    {
+      "id": "m5-solo-en-el-puerto",
+      "url": "https://www.youtube.com/watch?v=LlgNROjk9rM",
+      "tituloVideo": "Solo en el Puerto de la Verdad",
+      "confianza": "media",
+      "motivo": "Título idéntico al primer verso del canto y única coincidencia relevante en la búsqueda por esa frase."
+    },
+    {
+      "id": "m5-me-amo-y-se-entrego",
+      "url": "https://www.youtube.com/watch?v=gXjP5yeAqzU",
+      "tituloVideo": "Me Amo y Se Entregó Por Mi",
+      "confianza": "media",
+      "motivo": "Título exacto del canto y aparece al buscar junto al verso 'no hay amor más grande'; no pude ver la letra completa."
+    }
+  ]
+}
